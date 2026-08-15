@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: spankadin.github.io/Saros-Wiki-Quartz
+  baseUrl: delvesaros.com
   ignorePatterns:
     - private
     - templates

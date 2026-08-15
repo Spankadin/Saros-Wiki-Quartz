@@ -25,6 +25,10 @@ tags:
 
 Saros is a realm of old roads and older mysteries: proud cities, hard-won alliances, forgotten delves, and communities built atop the remains of earlier worlds. This wiki is your player-facing gateway to its people, powers, places, and history.
 
+> [!success] Enter the game
+>
+> **[Launch Foundry VTT](https://play.delvesaros.com)** — Open the secure Saros game server in your browser.
+
 > [!tip] Begin your journey
 > New to the setting? Start with [[A Brief Saros History]], continue through the [[Ages of Saros]], and then follow the [[Sarosian Timeline]]. Use search for a particular name, hover over links for previews, or follow the graph to discover unexpected connections.
 
@@ -52,8 +56,3 @@ Saros is a realm of old roads and older mysteries: proud cities, hard-won allian
 ## The map is only the beginning
 
 Every road has a story, every faction has an agenda, and every ruin remembers more than it reveals. Choose a thread above and see where it leads.
-
-> [!info] Join the table
-> A secure Foundry VTT entrance will appear here when `play.delvesaros.com` is ready. Until then, your Game Master will continue to provide the session link directly.
-
-Only notes deliberately marked for players are published here. Secrets meant for the Game Master remain in the private Saros vault.

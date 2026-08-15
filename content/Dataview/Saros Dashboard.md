@@ -91,20 +91,20 @@ modified: 2026-08-08T11:56:12.742Z
 
 ## Recent File Updates
 
-- [[Rules & Tables & Tools/Video Ideas.md|Video Ideas]]
 - [[Rules & Tables & Tools/Saros Vault Changelog.md|Saros Vault Changelog]]
+- [[index.md|index]]
+- [[Rules & Tables & Tools/Video Ideas.md|Video Ideas]]
 - [[Factions & Clans/Dwarven Clans/Dwarven Clans.md|Dwarven Clans]]
 - [[Adventures/Saros Adventure Module Index.md|Saros Adventure Module Index]]
 - [[Factions & Clans/The Prism/NPCs/Silas Voss.md|Silas Voss]]
 - [[Locations & NPCs/Landmarks/Caelum's End.md|Caelum's End]]
 - [[History & Lore/-Secret Saros Spoilers-/The First Facet.md|The First Facet]]
-- [[History & Lore/Trade & Economy/Saros - Distances, Travel, Trade, and Population.md|Saros - Distances, Travel, Trade, and Population]]
 
 ## Saros at a Glance
 
 |Category4|Count|
 |---|---|
-|Total Files|320|
+|Total Files|321|
 |NPCs|65|
 |Settlements|18|
 |Landmarks|31|

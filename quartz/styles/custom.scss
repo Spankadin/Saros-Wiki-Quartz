@@ -79,6 +79,74 @@
   text-shadow: 0 0.1rem 0.6rem rgb(0 0 0 / 75%);
 }
 
+// Give the homepage a compact, magazine-like landing layout while keeping all
+// navigation as ordinary Obsidian links that remain easy to maintain.
+body[data-slug="index"] article > .markdown-preview-view {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  align-items: stretch;
+
+  > * {
+    grid-column: 1 / -1;
+  }
+
+  > h1 + p {
+    max-width: 58rem;
+    margin-top: -0.35rem;
+    color: var(--darkgray);
+    font-size: clamp(1.05rem, 2vw, 1.22rem);
+    line-height: 1.65;
+  }
+
+  > .callout[data-callout^="saros-"] {
+    grid-column: auto;
+    height: 100%;
+    margin: 0;
+    border: 1px solid color-mix(in srgb, var(--secondary) 48%, var(--lightgray));
+    border-radius: 0.75rem;
+    box-shadow: 0 0.45rem 1.25rem rgb(0 0 0 / 12%);
+    background: color-mix(in srgb, var(--light) 90%, var(--secondary) 10%);
+
+    .callout-title {
+      font-family: var(--headerFont);
+      font-size: 1.05rem;
+    }
+
+    .callout-content > ul {
+      margin: 0.6rem 0 0;
+      padding-left: 1.15rem;
+    }
+
+    li {
+      margin: 0.42rem 0;
+    }
+  }
+
+  > .callout[data-callout="saros-realm"] {
+    --callout-color: 53, 187, 149;
+    --callout-icon: lucide-map;
+  }
+
+  > .callout[data-callout="saros-powers"] {
+    --callout-color: 224, 144, 58;
+    --callout-icon: lucide-crown;
+  }
+
+  > .callout[data-callout="saros-people"] {
+    --callout-color: 207, 83, 76;
+    --callout-icon: lucide-users;
+  }
+
+  > p:last-child {
+    margin-top: 0.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--lightgray);
+    color: var(--gray);
+    font-size: 0.9rem;
+  }
+}
+
 // The hero already acts as the homepage title, so avoid repeating it above.
 body[data-slug="index"] .article-title,
 body[data-slug="index"] .content-meta {
@@ -125,6 +193,26 @@ body[data-slug$="/index"] li.section-li {
 
     figcaption {
       right: 1.4rem;
+    }
+  }
+}
+
+@media (max-width: 900px) {
+  body[data-slug="index"] article > .markdown-preview-view {
+    grid-template-columns: 1fr;
+
+    > .callout[data-callout^="saros-"] {
+      grid-column: 1 / -1;
+    }
+  }
+}
+
+@media (min-width: 901px) and (max-width: 1450px) {
+  body[data-slug="index"] article > .markdown-preview-view {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    > .callout[data-callout="saros-people"] {
+      grid-column: 1 / -1;
     }
   }
 }

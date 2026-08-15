@@ -2,7 +2,20 @@
 
 Player-facing lore for the Saros campaign setting, published with [Quartz 5](https://quartz.jzhao.xyz/).
 
-The live site is deployed from the `v5` branch by GitHub Pages. The `content` directory is a public publishing target, not a backup of the private Obsidian vault.
+## Live destinations
+
+- [Saros Wiki](https://delvesaros.com)
+- [Enter Saros in Foundry VTT](https://play.delvesaros.com)
+- [Map of Saros](https://delvesaros.com/locations--and--npcs/map-of-saros)
+- [About Saros](https://delvesaros.com/about-saros)
+
+The live site is deployed from the `v5` branch by GitHub Pages. It includes a vault-sourced landing page, folder-note navigation, graph views, a full-resolution realm map, and creator attribution on every page. The `content` directory is a public publishing target, not a backup of the private Obsidian vault.
+
+## Authorship and site curation
+
+Saros is an original fantasy campaign setting created and owned by James McBroom. Its original ideas, characters, locations, settings, factions, stories, maps, artwork, adventures, and quests are James's works.
+
+Quartz provides the open-source publishing framework. AI-assisted tools help curate, organize, edit, cross-link, and technically maintain the vault and public site under James's direction; they are not the source of Saros's creative authorship. See the public [About Saros](https://delvesaros.com/about-saros) page and [SAROS_CONTENT_NOTICE.md](SAROS_CONTENT_NOTICE.md).
 
 ## Publishing boundary
 
@@ -22,6 +35,4 @@ npx quartz plugin install
 npx quartz build --serve
 ```
 
-Pushes to `v5` rebuild and deploy the site automatically. The Foundry server is intentionally hosted separately and can later be linked at `play.delvesaros.com`.
-
-See [SAROS_CONTENT_NOTICE.md](SAROS_CONTENT_NOTICE.md) for licensing and content ownership.
+Pushes to `v5` rebuild and deploy the site automatically. The Foundry server remains hosted separately behind Cloudflare Tunnel and is linked from the homepage at `play.delvesaros.com`.

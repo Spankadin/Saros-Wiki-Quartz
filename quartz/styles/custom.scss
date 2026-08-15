@@ -10,6 +10,24 @@
   --lightgray: #d2dcda;
 }
 
+// The Explorer plugin gives its collapsed desktop state a 1.2rem flex basis,
+// which is shorter than the title button and clips the bottom of "Explorer".
+@media all and (min-width: 801px) {
+  .page > #quartz-body .sidebar.left .explorer.collapsed {
+    flex: 0 0 auto;
+    min-height: 2.25rem;
+    overflow: visible;
+
+    > .explorer-content {
+      display: none;
+    }
+  }
+
+  .explorer button.desktop-explorer {
+    min-height: 2.25rem;
+  }
+}
+
 .saros-hero {
   position: relative;
   min-height: clamp(19rem, 43vw, 30rem);
@@ -79,6 +97,21 @@
   text-shadow: 0 0.1rem 0.6rem rgb(0 0 0 / 75%);
 }
 
+body[data-slug="index"] article > .markdown-preview-view > .saros-hero + p {
+  margin: -1.25rem 0 1.5rem;
+  text-align: center;
+
+  > a {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.4rem 0.8rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 55%, transparent);
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--light) 88%, var(--secondary) 12%);
+    box-shadow: 0 0.3rem 0.9rem rgb(0 0 0 / 10%);
+  }
+}
+
 // Give the homepage a compact, magazine-like landing layout while keeping all
 // navigation as ordinary Obsidian links that remain easy to maintain.
 body[data-slug="index"] article > .markdown-preview-view {
@@ -125,26 +158,117 @@ body[data-slug="index"] article > .markdown-preview-view {
 
   > .callout[data-callout="saros-realm"] {
     --callout-color: 53, 187, 149;
-    --callout-icon: lucide-map;
+    --callout-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21 3 6"/><line x1="9" y1="3" x2="9" y2="18"/><line x1="15" y1="6" x2="15" y2="21"/></svg>');
   }
 
   > .callout[data-callout="saros-powers"] {
     --callout-color: 224, 144, 58;
-    --callout-icon: lucide-crown;
+    --callout-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7l4 4 5-7 5 7 4-4-2 12H5L3 7z"/><path d="M5 19h14"/></svg>');
   }
 
   > .callout[data-callout="saros-people"] {
     --callout-color: 207, 83, 76;
-    --callout-icon: lucide-users;
+    --callout-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3"/><path d="M3 20c0-3.3 2.7-6 6-6s6 2.7 6 6"/><circle cx="17" cy="9" r="2"/><path d="M16 15c2.8-.4 5 1.8 5 5"/></svg>');
+  }
+}
+
+.saros-enter-cta {
+  position: relative;
+  display: flex;
+  grid-column: 1 / -1;
+  justify-content: center;
+  margin: 1.15rem 0 0.25rem;
+  padding-top: 1.4rem;
+}
+
+.saros-enter-button,
+.saros-map-open {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.8rem;
+  box-sizing: border-box;
+  padding: 0.65rem 1.25rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 75%, white 25%);
+  border-radius: 999px;
+  background: linear-gradient(
+    135deg,
+    color-mix(in srgb, var(--secondary) 82%, #10251f 18%),
+    color-mix(in srgb, var(--tertiary) 72%, #10251f 28%)
+  );
+  box-shadow: 0 0.55rem 1.25rem rgb(0 0 0 / 20%);
+  color: #fffaf0;
+  font-family: var(--headerFont);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  transition:
+    transform 160ms ease,
+    box-shadow 160ms ease,
+    filter 160ms ease;
+
+  &:hover,
+  &:focus-visible {
+    color: #fff;
+    filter: brightness(1.08);
+    transform: translateY(-2px);
+    box-shadow: 0 0.75rem 1.5rem rgb(0 0 0 / 26%);
   }
 
-  > p:last-child {
-    margin-top: 0.5rem;
-    padding-top: 1rem;
-    border-top: 1px solid var(--lightgray);
-    color: var(--gray);
-    font-size: 0.9rem;
+  .external-icon {
+    display: none;
   }
+}
+
+.saros-enter-tooltip {
+  position: absolute;
+  z-index: 10;
+  bottom: calc(100% - 0.9rem);
+  left: 50%;
+  width: max-content;
+  max-width: min(34rem, calc(100vw - 2rem));
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.45rem;
+  background: var(--dark);
+  box-shadow: 0 0.45rem 1rem rgb(0 0 0 / 24%);
+  color: var(--light);
+  font-size: 0.9rem;
+  line-height: 1.35;
+  opacity: 0;
+  pointer-events: none;
+  transform: translate(-50%, 0.35rem);
+  transition:
+    opacity 150ms ease,
+    transform 150ms ease;
+  visibility: hidden;
+}
+
+.saros-enter-cta:has(.saros-enter-button:hover) .saros-enter-tooltip,
+.saros-enter-cta:focus-within .saros-enter-tooltip {
+  opacity: 1;
+  transform: translate(-50%, 0);
+  visibility: visible;
+}
+
+body[data-slug="index"] .center > hr,
+body[data-slug="index"] .page-footer {
+  display: none;
+}
+
+.saros-map-actions {
+  margin: 1.25rem 0;
+  text-align: center;
+}
+
+body[data-slug="locations--and--npcs/map-of-saros"] article img[src*="saros-image-2"] {
+  width: 100%;
+  border: 1px solid color-mix(in srgb, var(--secondary) 55%, transparent);
+  border-radius: 0.65rem;
+  box-shadow: 0 0.8rem 2rem rgb(0 0 0 / 22%);
+}
+
+footer a[href*="about-saros"] {
+  font-weight: 700;
 }
 
 // The hero already acts as the homepage title, so avoid repeating it above.

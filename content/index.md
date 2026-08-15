@@ -21,19 +21,18 @@ tags:
   </figcaption>
 </figure>
 
+[[Map of Saros|Open the full map of Saros →]]
+
 # Delve into Saros
 
 Saros is a realm of old roads and older mysteries: proud cities, hard-won alliances, forgotten delves, and communities built atop the remains of earlier worlds. This wiki is your player-facing gateway to its people, powers, places, and history.
-
-> [!success] Enter the game
->
-> **[Launch Foundry VTT](https://play.delvesaros.com)** — Open the secure Saros game server in your browser.
 
 > [!tip] Begin your journey
 > New to the setting? Start with [[A Brief Saros History]], continue through the [[Ages of Saros]], and then follow the [[Sarosian Timeline]]. Use search for a particular name, hover over links for previews, or follow the graph to discover unexpected connections.
 
 > [!saros-realm] Explore the Realm
 >
+> - [[Map of Saros|Map of Saros]]
 > - [[Major Cities, Towns, and Ports|Cities, towns, and ports]]
 > - [[Dataview/Landmarks|Landmarks and wonders]]
 > - [[Saros - Distances, Travel, Trade, and Population|Travel, trade, and population]]
@@ -52,6 +51,11 @@ Saros is a realm of old roads and older mysteries: proud cities, hard-won allian
 > - [[Queen Amara]]
 > - [[Gerdga]]
 > - [[Malgrim Darkshade]]
+
+<div class="saros-enter-cta">
+  <a class="saros-enter-button" href="https://play.delvesaros.com" target="_blank" rel="noopener noreferrer" aria-describedby="saros-enter-tooltip">Enter Saros</a>
+  <span class="saros-enter-tooltip" id="saros-enter-tooltip" role="tooltip">— Open the secure Saros game server in your browser.</span>
+</div>
 
 ## The map is only the beginning
 

@@ -8,7 +8,8 @@ tags:
   - Published
 ---
 
-![[Rules & Tables & Tools/Z-Attachments/Saros Image 2.webp]]
+> [!info] Map of Saros
+> [[Map of Saros|Open the full realm map]] for a closer look at its cities, roads, waters, mountains, and frontiers.
 
 ## Settlements and Their People
 

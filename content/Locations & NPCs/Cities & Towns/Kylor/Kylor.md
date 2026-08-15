@@ -1,24 +1,12 @@
 ---
+publish: true
 title: Kylor
-ccType: region
-ccId: region-kylor
-aliases: []
+created: 2025-02-06T06:54:02.774Z
+modified: 2026-08-14T09:49:08.345Z
 tags:
-- Town
-- Port
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Government: "[[Kylor Moot]]"
-Leader: "[[Derran Pike]]"
-Population: 2400
-ccTags:
-- Town
-- Port
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Town
+  - Port
+  - Published
 ---
 
 [[Kylor]] is a lonely logging and fishing town on the northwestern edge of the settled coast. Dense forest presses close behind the town while cold water and broken shoreline hem it in from the west.
@@ -74,11 +62,13 @@ The most common serious threat is not an army. It is whatever emerges from the f
 - [[Saltwood Market]] — fish, timber contracts, rope, pitch, and forest goods
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+
+| NPC                                                                        | Race     | Building                                                                                          | Factions                                       |
+| -------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Derran Pike.md\|Derran Pike]] | Human    | [[Locations & NPCs/Cities & Towns/Kylor/Locations/Saltwood Market.md\|Saltwood Market]]           | [[Factions & Clans/Kylor Moot.md\|Kylor Moot]] |
+| [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Mara Venn.md\|Mara Venn]]     | Human    | [[Locations & NPCs/Cities & Towns/Kylor/Locations/The Drowning Mermaid.md\|The Drowning Mermaid]] |                                                |
+| [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Osk Fen.md\|Osk Fen]]         | Half-Orc | [[Locations & NPCs/Cities & Towns/Kylor/Locations/Blackpine Yard.md\|Blackpine Yard]]             |                                                |
+
 <!-- foundry-ignore-end -->

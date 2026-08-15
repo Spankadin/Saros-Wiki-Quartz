@@ -1,21 +1,13 @@
 ---
-title: Gambler's Guild
-ccType: group
-ccId: group-gamblers-guild
+publish: true
 aliases:
-- Gamblers Guild
+  - Gamblers Guild
+title: Gambler's Guild
+created: 2025-02-06T06:45:03.106Z
+modified: 2026-08-14T09:44:51.856Z
 tags:
-- Faction
-- Published
-ccTags:
-- Guild
-- Gambling
-ccAssociates: []
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Faction
+  - Published
 ---
 
 The [[Gambler's Guild]] regulates and profits from organized gaming across much of civilized [[A Brief Saros History|Saros]].
@@ -61,11 +53,13 @@ It is wealthy, politically connected, and useful enough that even people who dis
 | [[Port Quartz]] | [[The Quartz Cobra]] | [[Lind Bergy]] | Bank of Saros |
 
 <!-- foundry-ignore-start -->
+
 #### Known NPCs
-```dataview
-TABLE WITHOUT ID file.link AS "Name", Race, Location, Building
-FROM #NPC
-WHERE contains(Faction, link(this.file.name))
-SORT file.name ASC
-```
+
+| Name                                                                                | Race     | Location                                                                    | Building                                                                                        |
+| ----------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Lind Bergy.md\|Lind Bergy]]      | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]] | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Quartz Cobra.md\|The Quartz Cobra]] |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Lone-Wolf Louie.md\|Lone-Wolf Louie]] | Human    | [[Locations & NPCs/Cities & Towns/Goslow/Goslow.md\|Goslow]]                | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Silver Drake.md\|The Silver Drake]]      |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Varo Quill.md\|Varo Quill]]             | Half-Elf | [[Locations & NPCs/Cities & Towns/Rore/Rore.md\|Rore]]                      | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Golden Goose.md\|The Golden Goose]]        |
+
 <!-- foundry-ignore-end -->

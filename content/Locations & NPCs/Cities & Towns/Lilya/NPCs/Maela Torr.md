@@ -1,19 +1,11 @@
 ---
+publish: true
 title: Maela Torr
-ccType: npc
-ccId: npc-maela-torr
-Race: Human
-aliases: []
+created: 2026-08-07T06:36:23.860Z
+modified: 2026-08-08T11:56:15.874Z
 tags:
-- NPC
-- Published
-Location: "[[Lilya]]"
-Building: "[[Stonewake Hall]]"
-Faction:
-- "[[Stone Council]]"
-ccTags: []
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Maela Torr]] is the current Stone Reeve of [[Lilya]] and chairs the [[Stone Council]].

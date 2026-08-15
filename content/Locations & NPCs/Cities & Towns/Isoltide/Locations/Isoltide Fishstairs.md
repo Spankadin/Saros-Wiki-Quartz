@@ -1,20 +1,13 @@
 ---
+publish: true
 title: Isoltide Fishstairs
-ccType: entry
-ccId: entry-isoltide-fishstairs
-aliases: []
+created: 2026-08-08T11:56:33.381Z
+modified: 2026-08-08T11:56:16.007Z
 tags:
-- Landmark
-- Waterfront
-- Market
-- Published
-Region: "[[Isoltide]]"
-LandmarkType: Waterfront
-ccTags:
-- Landmark
-- Waterfront
-- Market
-share: true
+  - Landmark
+  - Waterfront
+  - Market
+  - Published
 ---
 
 The [[Isoltide Fishstairs]] are steep stone market terraces where catches are sorted, salted, and sold within sight of the lake. The stairs are washed repeatedly each day and still smell unmistakably of fish.

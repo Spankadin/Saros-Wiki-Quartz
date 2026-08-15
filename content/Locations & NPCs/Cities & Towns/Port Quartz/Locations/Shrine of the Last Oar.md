@@ -1,17 +1,12 @@
 ---
+publish: true
 title: Shrine of the Last Oar
-ccType: entry
-ccId: entry-shrine-of-the-last-oar
-aliases: []
+created: 2026-08-07T03:53:05.589Z
+modified: 2026-08-08T11:56:15.129Z
 tags:
-- Building
-- Shrine
-- Published
-Region: "[[Port Quartz]]"
-ccTags:
-- Building
-- Shrine
-share: true
+  - Building
+  - Shrine
+  - Published
 ---
 
 The [[Shrine of the Last Oar]] is a small riverside sanctuary in [[Port Quartz]] dedicated to people lost upon the water.

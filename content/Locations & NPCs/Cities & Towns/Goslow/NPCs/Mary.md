@@ -1,21 +1,11 @@
 ---
+publish: true
 title: Mary
-ccType: npc
-ccId: npc-mary
-Race: Human
-aliases: []
+created: 2025-02-11T05:01:12.093Z
+modified: 2026-08-08T11:56:15.240Z
 tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[Bedford's Forge]]"
-Faction: []
-Role: Co-owner's Wife and Host
-ccTags:
-- Local
-- Craft Household
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Mary]] is the wife of [[Bedford]] and a familiar presence around [[Bedford's Forge]] in [[Goslow]].

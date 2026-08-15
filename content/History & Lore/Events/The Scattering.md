@@ -1,16 +1,14 @@
 ---
-title: The Scattering
-ccType: entry
-ccId: entry-the-scattering
+publish: true
 aliases:
-- Khaz'armok Scattering
+  - Khaz'armok Scattering
+title: The Scattering
+created: 2026-08-14T09:43:33.993Z
+modified: 2026-08-14T09:43:33.993Z
 tags:
-- History
-- Dwarves
-- Published
-ccTags:
-- Dwarven History
-share: true
+  - History
+  - Dwarves
+  - Published
 ---
 
 [[The Scattering]] is the name given to the flight and dispersal of the surviving [[Khaz'armok]] houses after [[The Great Betrayal]].

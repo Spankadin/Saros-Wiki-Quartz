@@ -1,18 +1,12 @@
 ---
+publish: true
 title: Saltwood Market
-ccType: entry
-ccId: entry-saltwood-market
-aliases: []
+created: 2026-08-07T06:36:23.826Z
+modified: 2026-08-08T11:56:14.344Z
 tags:
-- Landmark
-- Market
-- Published
-Region: "[[Kylor]]"
-LandmarkType: Market
-ccTags:
-- Landmark
-- Market
-share: true
+  - Landmark
+  - Market
+  - Published
 ---
 
 [[Saltwood Market]] is the commercial center of [[Kylor]] and the usual meeting place of [[Derran Pike]] and the [[Kylor Moot]] when business spills beyond formal sessions.

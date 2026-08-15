@@ -1,17 +1,15 @@
 ---
-title: The Wandering
-ccType: entry
-ccId: entry-the-wandering
+publish: true
 aliases:
-- Wandering
-- The Great Wandering
+  - Wandering
+  - The Great Wandering
+title: The Wandering
+created: 2025-02-15T10:12:06.633Z
+modified: 2026-08-14T09:44:01.407Z
 tags:
-- History
-- Dwarves
-- Published
-ccTags:
-- Dwarven History
-share: true
+  - History
+  - Dwarves
+  - Published
 ---
 
 [[The Wandering]] is the traditional name for the era when the earliest remembered dwarves, the [[Khaz'um]], spread outward to chart and settle the deeper places of [[A Brief Saros History|Saros]].

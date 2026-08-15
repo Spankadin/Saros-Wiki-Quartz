@@ -1,22 +1,11 @@
 ---
+publish: true
 title: General Ironclad
-ccType: npc
-ccId: npc-general-ironclad
-Race: Human
-aliases: []
+created: 2024-12-24T09:00:48.364Z
+modified: 2026-08-08T11:56:14.882Z
 tags:
-- NPC
-- Published
-Location: "[[Pyrris]]"
-Building: "[[Stonepeak]]"
-Faction:
-- "[[The Queen's Council]]"
-- "[[The Aegis Legion]]"
-Role: Supreme Commander of the Military
-ccTags:
-- Supreme Commander of the Military
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[General Ironclad|General Roland Ironclad]] is the supreme military commander of [[The Aegis Legion]] and the military voice on [[The Queen's Council]].

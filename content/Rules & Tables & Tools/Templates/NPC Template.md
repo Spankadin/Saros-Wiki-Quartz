@@ -1,19 +1,11 @@
 ---
+publish: true
 title: NPC Template
-ccType: npc
-ccId: npc-name
-ccImage: null
-Race: null
-aliases: []
+created: 2025-02-05T07:07:13.755Z
+modified: 2026-08-08T11:56:16.212Z
 tags:
-- NPC
-- Published
-Location: "[[Settlement or Region]]"
-Building: null
-Faction: []
-ccTags: []
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 A short public-facing description of who this person is and why someone in [[Saros]] might know them.

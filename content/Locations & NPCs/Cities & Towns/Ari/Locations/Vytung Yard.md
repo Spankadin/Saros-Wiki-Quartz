@@ -1,18 +1,12 @@
 ---
+publish: true
 title: Vytung Yard
-ccType: entry
-ccId: entry-vytung-yard
-aliases: []
+created: 2026-08-08T11:56:33.097Z
+modified: 2026-08-08T11:56:14.207Z
 tags:
-- Landmark
-- Market
-- Published
-Region: "[[Ari]]"
-LandmarkType: Market
-ccTags:
-- Landmark
-- Market
-share: true
+  - Landmark
+  - Market
+  - Published
 ---
 
 [[Vytung Yard]] is the inland supply market of [[Ari]], where pack animals, rope, tools, lamps, food, and hirelings are gathered for mining trips toward [[Vy'Tungavor]].

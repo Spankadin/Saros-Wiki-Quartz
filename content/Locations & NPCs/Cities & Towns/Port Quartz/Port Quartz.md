@@ -1,24 +1,12 @@
 ---
+publish: true
 title: Port Quartz
-ccType: region
-ccId: region-port-quartz
-aliases: []
+created: 2025-02-04T04:37:15.062Z
+modified: 2026-08-14T09:49:09.549Z
 tags:
-- Town
-- Port
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Government: "[[Mooring Council]]"
-Leader: "[[Hesta Vane]]"
-Population: 5250
-ccTags:
-- Town
-- Port
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Town
+  - Port
+  - Published
 ---
 
 [[Port Quartz]] is one of the great transfer points of northern [[A Brief Saros History|Saros]], built around an immense river crossing that cannot be bridged by present-day Sarosian engineering. Ferries, cargo craft, warehouses, customs offices, and river crews shape nearly every part of daily life.
@@ -44,7 +32,7 @@ Explorers may cross west at [[Westwater Ferry]] and turn toward the Masys countr
 | [[Goslow]] | River and coastal shipping | **70-90 water miles**; ordinarily 2-3 days toward Port Quartz and 1-2 days returning |
 | [[Trystn]] | Maintained road | **45-50 miles**; 2-3 days walking or 3-4 by heavy wagon |
 | [[Lilya]] | Via [[Trystn]] | **110-120 road miles**; about 6 days walking or 7-9 by heavy commercial wagon |
-| [[The Masys Mountains|Masys country]] | [[Westwater Ferry]] and unmaintained routes | Expedition travel; no dependable commercial time |
+| [[The Masys Mountains\|Masys country]] | [[Westwater Ferry]] and unmaintained routes | Expedition travel; no dependable commercial time |
 
 See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
 
@@ -108,11 +96,18 @@ Port Quartz is crowded, loud, practical, and accustomed to strangers. Its people
 The river decides working hours, prices, law, and funerals. No government has ever persuaded it otherwise.
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+
+| NPC                                                                                            | Race     | Building                                                                                            | Factions                                                                    |
+| ---------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Caldus Renn.md\|Caldus Renn]]               | Human    | -                                                                                                  |                                                                             |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Captain Serin Holt.md\|Captain Serin Holt]] | Human    | -                                                                                                  | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |
+| [[History & Lore/People/Edric Vane.md\|Edric Vane]]                                            | Human    | -                                                                                                  |                                                                             |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Hesta Vane.md\|Hesta Vane]]                 | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Hall of Moorings.md\|Hall of Moorings]]     | [[Factions & Clans/Mooring Council.md\|Mooring Council]]                    |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Lind Bergy.md\|Lind Bergy]]                 | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Quartz Cobra.md\|The Quartz Cobra]]     | [[Factions & Clans/Gambler's Guild/Gambler's Guild.md\|Gambler's Guild]]    |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Nelra Vossin.md\|Nelra Vossin]]             | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Vane Archive.md\|Vane Archive]]             | [[Factions & Clans/Mooring Council.md\|Mooring Council]]                    |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Oren Bale.md\|Oren Bale]]                   | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Westwater Ferry.md\|Westwater Ferry]]       | [[Factions & Clans/Mooring Council.md\|Mooring Council]]                    |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Prance Mondrel.md\|Prance Mondrel]]         | Half-Elf | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Fourty Knights.md\|The Fourty Knights]] | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
+
 <!-- foundry-ignore-end -->

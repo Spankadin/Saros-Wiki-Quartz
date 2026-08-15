@@ -1,22 +1,15 @@
 ---
-title: Dun Karag
-ccType: region
-ccId: region-dun-karag
+publish: true
 aliases:
-- The Northern Gate
-- Karag Gate
+  - The Northern Gate
+  - Karag Gate
+title: Dun Karag
+created: 2026-08-10T09:39:43.106Z
+modified: 2026-08-14T09:50:10.390Z
 tags:
-- Stronghold
-- Dwarves
-- Published
-Region: "[[The Masys Mountains]]"
-Government: "[[Thar'um]] Hold Council"
-Leader: ''
-Population: 900
-ccTags:
-- Stronghold
-- Dwarven
-share: true
+  - Stronghold
+  - Dwarves
+  - Published
 ---
 
 [[Dun Karag]] is a [[Thar'um]] stronghold at Hex 53.85, where the road north from [[Skaggerty]] reaches [[The Masys Mountains]]. Its gates control the maintained passage under and through the range toward [[Caelum's End]].

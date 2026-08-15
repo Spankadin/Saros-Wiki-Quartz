@@ -1,17 +1,12 @@
 ---
+publish: true
 title: Runa House
-ccType: entry
-ccId: entry-runa-house
-aliases: []
+created: 2026-08-08T11:56:33.551Z
+modified: 2026-08-08T11:56:14.536Z
 tags:
-- Building
-- Civic
-- Published
-Region: "[[Mysha]]"
-ccTags:
-- Building
-- Civic
-share: true
+  - Building
+  - Civic
+  - Published
 ---
 
 [[Runa House]] is a communal hall in [[Mysha]] associated with local halfling families and their traditions concerning [[Lake Runa]]. [[Pellin Root]] often conducts council business here.

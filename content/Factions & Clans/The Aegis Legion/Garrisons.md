@@ -1,15 +1,11 @@
 ---
+publish: true
 title: Garrisons
-ccType: entry
-ccId: entry-aegis-garrisons
-aliases: []
+created: 2025-02-09T22:28:23.032Z
+modified: 2026-08-08T11:56:13.292Z
 tags:
-- Index
-- Published
-ccTags:
-- Aegis Legion
-- Garrisons
-share: true
+  - Index
+  - Published
 ---
 
 Major known [[The Aegis Legion|Aegis Legion]] garrisons include:

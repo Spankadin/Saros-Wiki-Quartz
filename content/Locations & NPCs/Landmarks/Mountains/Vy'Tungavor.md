@@ -1,19 +1,14 @@
 ---
-title: Vy'Tungavor
-ccType: entry
-ccId: entry-vytungavor
+publish: true
 aliases:
-- Vytungavor
+  - Vytungavor
+title: Vy'Tungavor
+created: 2025-01-28T08:52:02.071Z
+modified: 2026-08-14T09:44:53.083Z
 tags:
-- Landmark
-- Mountain
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-LandmarkType: Mountain Region
-ccTags:
-- Landmark
-- Mountains
-share: true
+  - Landmark
+  - Mountain
+  - Published
 ---
 
 [[Vy'Tungavor]] is a rugged eastern mountain region feeding rivers toward the southern interior.

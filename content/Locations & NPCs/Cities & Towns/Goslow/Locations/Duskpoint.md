@@ -1,17 +1,12 @@
 ---
+publish: true
 title: Duskpoint
-ccType: entry
-ccId: entry-duskpoint
-aliases: []
+created: 2024-08-22T01:08:46.235Z
+modified: 2026-08-14T09:44:53.680Z
 tags:
-- Building
-- Garrison
-- Published
-Region: "[[Goslow]]"
-ccTags:
-- Building
-- Garrison
-share: true
+  - Building
+  - Garrison
+  - Published
 ---
 
 [[Duskpoint]] is the main [[The Aegis Legion|Aegis Legion]] garrison serving [[Goslow]] and the surrounding roads.

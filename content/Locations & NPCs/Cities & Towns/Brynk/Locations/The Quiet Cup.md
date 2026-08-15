@@ -1,17 +1,12 @@
 ---
+publish: true
 title: The Quiet Cup
-ccType: entry
-ccId: entry-the-quiet-cup
-aliases: []
+created: 2026-08-08T11:56:33.133Z
+modified: 2026-08-08T11:56:14.770Z
 tags:
-- Building
-- Inn
-- Published
-Region: "[[Brynk]]"
-ccTags:
-- Building
-- Inn
-share: true
+  - Building
+  - Inn
+  - Published
 ---
 
 [[The Quiet Cup]] is the only inn in [[Brynk]] routinely permitted to host outsiders. Its rules are posted prominently, and the proprietor expects them to be read rather than debated.

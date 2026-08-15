@@ -1,19 +1,12 @@
 ---
+publish: true
 title: Westwater Ferry
-ccType: entry
-ccId: entry-westwater-ferry
-aliases: []
+created: 2026-08-07T03:53:05.594Z
+modified: 2026-08-10T09:38:56.242Z
 tags:
-- Landmark
-- Ferry
-- Published
-Region: "[[Port Quartz]]"
-LandmarkType: Ferry
-ccTags:
-- Landmark
-- Ferry
-- River
-share: true
+  - Landmark
+  - Ferry
+  - Published
 ---
 
 [[Westwater Ferry]] is the principal western river crossing at [[Port Quartz]].

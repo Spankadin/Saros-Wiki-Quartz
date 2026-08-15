@@ -1,19 +1,14 @@
 ---
-title: Lake of Lament
-ccType: entry
-ccId: entry-lake-of-lament
+publish: true
 aliases:
-- The Lake of Lament
+  - The Lake of Lament
+title: Lake of Lament
+created: 2025-01-28T08:07:10.036Z
+modified: 2026-08-10T09:39:41.414Z
 tags:
-- Landmark
-- Water
-- Published
-Region: "[[The Silvervein Summits]]"
-LandmarkType: Lake
-ccTags:
-- Landmark
-- Lake
-share: true
+  - Landmark
+  - Water
+  - Published
 ---
 
 [[Lake of Lament]] occupies the high basin around [[The Silvervein Summits]].

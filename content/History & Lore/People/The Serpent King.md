@@ -1,22 +1,14 @@
 ---
-title: The Serpent King
-ccType: npc
-ccId: npc-the-serpent-king
-Race: Snake-Man
+publish: true
 aliases:
-- Serpent King
+  - Serpent King
+title: The Serpent King
+created: 2025-02-11T08:39:58.532Z
+modified: 2026-08-08T11:56:13.050Z
 tags:
-- NPC
-- Legend
-- Published
-Location: Deceased
-Faction: []
-ccTags:
-- Historical Ruler
-- Legend
-ccAssociates:
-- "[[Xiximanter]]"
-share: true
+  - NPC
+  - Legend
+  - Published
 ---
 
 [[The Serpent King]] was an ancient snake-man ruler whose underground domain once occupied part of the region south of modern [[Goslow]].

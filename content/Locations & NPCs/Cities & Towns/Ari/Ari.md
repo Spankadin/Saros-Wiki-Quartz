@@ -1,24 +1,12 @@
 ---
+publish: true
 title: Ari
-ccType: region
-ccId: region-ari
-aliases: []
+created: 2026-08-08T11:56:33.078Z
+modified: 2026-08-14T09:49:33.131Z
 tags:
-- Town
-- Port
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Government: Coastal Charter Council
-Leader: "[[Harlan Vey]]"
-Population: 4000
-ccTags:
-- Town
-- Port
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Town
+  - Port
+  - Published
 ---
 
 [[Ari]] is an eastern coastal town supported by fishing, nearby grain production, and small mining outposts working the lower country around [[Vy'Tungavor]].
@@ -61,11 +49,11 @@ Ari is fortified enough to resist raiders but cannot protect every mining camp i
 - [[The Copper Gull]] — inn used by fishers and prospectors
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+
+| NPC                                                                    | Race  | Building                                                                            | Factions |
+| ---------------------------------------------------------------------- | ----- | ----------------------------------------------------------------------------------- | -------- |
+| [[Locations & NPCs/Cities & Towns/Ari/NPCs/Harlan Vey.md\|Harlan Vey]] | Human | [[Locations & NPCs/Cities & Towns/Ari/Locations/Ari Grain Quay.md\|Ari Grain Quay]] |          |
+
 <!-- foundry-ignore-end -->

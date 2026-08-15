@@ -1,20 +1,11 @@
 ---
+publish: true
 title: Vessa Keln
-ccType: npc
-ccId: npc-vessa-keln
-Race: Human
-aliases: []
+created: 2026-08-08T11:56:33.141Z
+modified: 2026-08-08T11:56:14.724Z
 tags:
-- NPC
-- Published
-Location: "[[Brynk]]"
-Building: "[[House of Measures]]"
-Faction: []
-Role: Voice of Brynk
-ccTags:
-- Voice of Brynk
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Vessa Keln]] serves as the Voice of [[Brynk]], speaking publicly for the closed council of established households.

@@ -1,19 +1,13 @@
 ---
+publish: true
 title: The Bulkhead
-ccType: entry
-ccId: entry-the-bulkhead
-aliases: []
+created: 2024-08-22T01:08:20.587Z
+modified: 2026-08-08T11:56:15.364Z
 tags:
-- Building
-- Shipwright
-- Shop
-- Published
-Region: "[[Goslow]]"
-ccTags:
-- Building
-- Shipwright
-- Shop
-share: true
+  - Building
+  - Shipwright
+  - Shop
+  - Published
 ---
 
 [[The Bulkhead]] is the Aucien family's long-running rope and shipbuilding business in [[Goslow]].

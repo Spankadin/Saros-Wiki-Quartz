@@ -1,23 +1,17 @@
 ---
-title: The Urmong Barrows
-ccType: entry
-ccId: entry-the-urmong-barrows
+publish: true
 aliases:
-- Urmong Barrows
-- Urmong
-- The Barrows
-- Barrows
+  - Urmong Barrows
+  - Urmong
+  - The Barrows
+  - Barrows
+title: The Urmong Barrows
+created: 2025-01-28T08:25:10.727Z
+modified: 2026-08-08T11:56:13.619Z
 tags:
-- Landmark
-- Ruins
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-LandmarkType: Burial Mounds
-ccTags:
-- Landmark
-- Burial
-- Haunted
-share: true
+  - Landmark
+  - Ruins
+  - Published
 ---
 
 [[The Urmong Barrows]] are a vast field of ancient burial mounds in southern Saros, raised during the wars of the [[Ages of Saros|Second Age]].

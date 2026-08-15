@@ -1,19 +1,14 @@
 ---
-title: Caelum's End
-ccType: entry
-ccId: entry-caelums-end
+publish: true
 aliases:
-- Caelums End
+  - Caelums End
+title: Caelum's End
+created: 2026-08-08T11:56:34.078Z
+modified: 2026-08-14T09:55:39.330Z
 tags:
-- Landmark
-- Historical
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-LandmarkType: Frozen Peak
-ccTags:
-- Landmark
-- Historical
-share: true
+  - Landmark
+  - Historical
+  - Published
 ---
 
 [[Caelum's End]] is the northernmost point of Saros that can be reached on foot. The frozen peak ends at a sheer drop into the northern sea.

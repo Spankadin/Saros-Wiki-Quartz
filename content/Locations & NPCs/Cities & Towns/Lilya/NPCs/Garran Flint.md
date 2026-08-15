@@ -1,18 +1,11 @@
 ---
+publish: true
 title: Garran Flint
-ccType: npc
-ccId: npc-garran-flint
-Race: Dwarf
-aliases: []
+created: 2026-08-07T06:36:23.858Z
+modified: 2026-08-08T11:56:15.852Z
 tags:
-- NPC
-- Published
-Location: "[[Lilya]]"
-Building: "[[The Silver Gate]]"
-Faction: []
-ccTags: []
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Garran Flint]] is the master of [[The Silver Gate]], the most heavily controlled mine entrance in [[Lilya]].

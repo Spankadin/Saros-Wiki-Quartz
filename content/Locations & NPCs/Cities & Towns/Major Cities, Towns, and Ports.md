@@ -1,14 +1,11 @@
 ---
+publish: true
 title: Major Cities, Towns, and Ports
-ccType: entry
-ccId: entry-major-cities-towns-and-ports
-aliases: []
+created: 2024-08-22T00:49:19.881Z
+modified: 2026-08-14T09:50:30.356Z
 tags:
-- Lore
-- Published
-ccTags:
-- Settlements
-share: true
+  - Lore
+  - Published
 ---
 
 The named settlements below are the largest or most strategically important concentrations of people currently established in known [[A Brief Saros History|Saros]].

@@ -1,18 +1,12 @@
 ---
+publish: true
 title: The Great Crossmarket
-ccType: entry
-ccId: entry-the-great-crossmarket
-aliases: []
+created: 2026-08-08T11:56:33.899Z
+modified: 2026-08-08T11:56:15.808Z
 tags:
-- Landmark
-- Market
-- Published
-Region: "[[Soryn's Crossing]]"
-LandmarkType: Market
-ccTags:
-- Landmark
-- Market
-share: true
+  - Landmark
+  - Market
+  - Published
 ---
 
 [[The Great Crossmarket]] is the wholesale heart of [[Soryn's Crossing]], where bulk goods change wagons, owners, and destinations.

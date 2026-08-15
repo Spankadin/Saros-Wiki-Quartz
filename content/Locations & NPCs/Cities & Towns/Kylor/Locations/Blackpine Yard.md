@@ -1,15 +1,11 @@
 ---
+publish: true
 title: Blackpine Yard
-ccType: entry
-ccId: entry-blackpine-yard
-aliases: []
+created: 2026-08-07T06:36:23.821Z
+modified: 2026-08-08T11:56:14.355Z
 tags:
-- Industrial
-- Published
-Region: "[[Kylor]]"
-ccTags:
-- Industrial
-share: true
+  - Industrial
+  - Published
 ---
 
 [[Blackpine Yard]] is the largest saw yard and log boom in [[Kylor]].

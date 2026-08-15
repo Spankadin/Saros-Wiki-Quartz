@@ -1,17 +1,12 @@
 ---
+publish: true
 title: Soryn Hall
-ccType: entry
-ccId: entry-soryn-hall
-aliases: []
+created: 2026-08-08T11:56:33.894Z
+modified: 2026-08-08T11:56:15.783Z
 tags:
-- Building
-- Civic
-- Published
-Region: "[[Soryn's Crossing]]"
-ccTags:
-- Building
-- Civic
-share: true
+  - Building
+  - Civic
+  - Published
 ---
 
 [[Soryn Hall]] contains the toll offices and council rooms of [[Soryn's Crossing]]. [[Dalen Soryn]] conducts most public business here.

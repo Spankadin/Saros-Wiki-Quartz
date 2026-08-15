@@ -1,18 +1,16 @@
 ---
-title: The Great Betrayal
-ccType: entry
-ccId: entry-the-great-betrayal
+publish: true
 aliases:
-- The Betrayal
-- Great Betrayal
-- Blood Feud
+  - The Betrayal
+  - Great Betrayal
+  - Blood Feud
+title: The Great Betrayal
+created: 2025-02-15T09:58:00.580Z
+modified: 2026-08-14T09:44:00.788Z
 tags:
-- History
-- Dwarves
-- Published
-ccTags:
-- Dwarven History
-share: true
+  - History
+  - Dwarves
+  - Published
 ---
 
 [[The Great Betrayal]] was the civil war that shattered the [[Khaz'armok]] and drove its surviving houses toward [[The Glimmering Expanse]].

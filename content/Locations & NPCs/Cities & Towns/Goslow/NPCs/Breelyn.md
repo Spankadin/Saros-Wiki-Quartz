@@ -1,21 +1,11 @@
 ---
+publish: true
 title: Breelyn
-ccType: npc
-ccId: npc-breelyn
-Race: Human
-aliases: []
+created: 2026-08-07T06:36:23.812Z
+modified: 2026-08-08T11:56:15.217Z
 tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[The Storm Runner]]"
-Faction: []
-Role: Navigator
-ccTags:
-- Navigator
-- Sailor
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Breelyn]] is the navigator of [[The Storm Runner]] and has been [[Mirken Stanton]]'s closest friend since childhood.

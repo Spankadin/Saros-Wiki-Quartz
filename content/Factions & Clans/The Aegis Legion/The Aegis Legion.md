@@ -1,24 +1,16 @@
 ---
-title: The Aegis Legion
-ccType: group
-ccId: group-the-aegis-legion
+publish: true
 aliases:
-- The Legion
-- Legion
-- Aegis
-- Aegis Legion
+  - The Legion
+  - Legion
+  - Aegis
+  - Aegis Legion
+title: The Aegis Legion
+created: 2024-12-24T01:28:56.679Z
+modified: 2026-08-14T09:44:50.017Z
 tags:
-- Faction
-- Published
-ccTags:
-- Faction
-- Military
-ccAssociates: []
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Faction
+  - Published
 ---
 
 [[The Aegis Legion]] is the principal military institution of the Crown and the most visible symbol of royal authority outside [[Pyrris]].
@@ -76,11 +68,16 @@ The largest concentration of Legion forces is associated with [[Grymswatch]] and
 Smaller garrisons and posts protect major roads, ports, and politically important settlements throughout the realm.
 
 <!-- foundry-ignore-start -->
+
 #### Known NPCs
-```dataview
-TABLE WITHOUT ID file.link AS "Name", Race, Location, Building
-FROM #NPC
-WHERE contains(Faction, link(this.file.name))
-SORT file.name ASC
-```
+
+| Name                                                                                           | Race  | Location                                                                    | Building                                                                             |
+| ---------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Admiral Thainan.md\|Admiral Thainan]]        | Human | [[Locations & NPCs/Cities & Towns/Grymswatch/Grymswatch.md\|Grymswatch]]    | [[Locations & NPCs/Cities & Towns/Grymswatch/Locations/Mira's Wall.md\|Mira's Wall]] |
+| [[Locations & NPCs/Cities & Towns/Ani/NPCs/Captain Lysa Dorn.md\|Captain Lysa Dorn]]           | Human | [[Locations & NPCs/Cities & Towns/Ani/Ani.md\|Ani]]                         | [[Locations & NPCs/Cities & Towns/Ani/Locations/Ani Watchhouse.md\|Ani Watchhouse]]  |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Captain Serin Holt.md\|Captain Serin Holt]] | Human | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]] | -                                                                                   |
+| [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Festin Dontel.md\|Festin Dontel]]            | Human | [[Locations & NPCs/Cities & Towns/Grymswatch/Grymswatch.md\|Grymswatch]]    | [[Locations & NPCs/Cities & Towns/Grymswatch/Locations/Mira's Wall.md\|Mira's Wall]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/General Ironclad.md\|General Ironclad]]          | Human | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]]                | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/Stonepeak.md\|Stonepeak]]         |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Vostin The Mighty.md\|Vostin The Mighty]]        | Human | [[Locations & NPCs/Cities & Towns/Goslow/Goslow.md\|Goslow]]                | [[Locations & NPCs/Cities & Towns/Goslow/Locations/Duskpoint.md\|Duskpoint]]         |
+
 <!-- foundry-ignore-end -->

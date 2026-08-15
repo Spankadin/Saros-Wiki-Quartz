@@ -1,20 +1,15 @@
 ---
-title: Fall Casks
-ccType: entry
-ccId: entry-fall-casks
+publish: true
 aliases:
-- Fall Cask
-- Cataract Casks
+  - Fall Cask
+  - Cataract Casks
+title: Fall Casks
+created: 2026-08-08T11:56:32.941Z
+modified: 2026-08-08T11:56:12.971Z
 tags:
-- Lore
-- Trade
-- Published
-Region: "[[Port Quartz]]"
-ccTags:
-- Trade
-- River
-- Port Quartz
-share: true
+  - Lore
+  - Trade
+  - Published
 ---
 
 **Fall casks** are heavily reinforced cargo barrels used to send durable goods from the high basin around [[Lake of Lament]] down the otherwise unnavigable waterfall feeding the river toward [[Port Quartz]].

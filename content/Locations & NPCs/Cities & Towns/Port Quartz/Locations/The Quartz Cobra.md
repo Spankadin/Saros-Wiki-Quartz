@@ -1,20 +1,15 @@
 ---
-title: The Quartz Cobra
-ccType: entry
-ccId: entry-the-quartz-cobra
+publish: true
 aliases:
-- Quartz Cobra
+  - Quartz Cobra
+title: The Quartz Cobra
+created: 2026-08-10T09:42:01.472Z
+modified: 2026-08-10T09:42:01.472Z
 tags:
-- Casino
-- Bank
-- Gambling Hall
-- Published
-Region: "[[Port Quartz]]"
-ccTags:
-- Casino
-- Bank
-- Gambling Hall
-share: true
+  - Casino
+  - Bank
+  - Gambling Hall
+  - Published
 ---
 
 [[The Quartz Cobra]] is [[Port Quartz]]'s sole [[Gambler's Guild|Guild-chartered]] gambling hall and its Bank of Saros.

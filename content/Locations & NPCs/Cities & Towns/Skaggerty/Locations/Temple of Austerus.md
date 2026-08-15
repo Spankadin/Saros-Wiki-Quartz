@@ -1,18 +1,14 @@
 ---
-title: Temple of Austerus
-ccType: entry
-ccId: entry-temple-of-austerus
+publish: true
 aliases:
-- Austerus
+  - Austerus
+title: Temple of Austerus
+created: 2024-12-24T01:29:49.119Z
+modified: 2026-08-08T11:56:15.703Z
 tags:
-- Building
-- Temple
-- Published
-Region: "[[Skaggerty]]"
-ccTags:
-- Building
-- Temple
-share: true
+  - Building
+  - Temple
+  - Published
 ---
 
 A Temple dedicated to Austerus "The Shining One" located in [[Skaggerty]]. Deity of redemption and holy light, formerly the fiendish deity of searing radiance, now turned to Order. Seeks to bring all of humanity under one rule.

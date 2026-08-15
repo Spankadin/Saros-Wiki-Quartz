@@ -1,15 +1,11 @@
 ---
+publish: true
 title: Mooring Council
-ccType: group
-ccId: group-mooring-council
-aliases: []
+created: 2026-08-07T06:36:23.768Z
+modified: 2026-08-08T11:56:13.205Z
 tags:
-- Faction
-- Published
-ccTags:
-- Faction
-ccAssociates: []
-share: true
+  - Faction
+  - Published
 ---
 
 The [[Mooring Council]] is the chartered civic government of [[Port Quartz]].

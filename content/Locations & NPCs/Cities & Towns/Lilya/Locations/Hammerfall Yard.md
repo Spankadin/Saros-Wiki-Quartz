@@ -1,15 +1,11 @@
 ---
+publish: true
 title: Hammerfall Yard
-ccType: entry
-ccId: entry-hammerfall-yard
-aliases: []
+created: 2026-08-07T06:36:23.847Z
+modified: 2026-08-08T11:56:15.908Z
 tags:
-- Industrial
-- Published
-Region: "[[Lilya]]"
-ccTags:
-- Industrial
-share: true
+  - Industrial
+  - Published
 ---
 
 [[Hammerfall Yard]] is the loud industrial center of [[Lilya]].

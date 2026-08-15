@@ -1,17 +1,12 @@
 ---
+publish: true
 title: Aucien Shipyard
-ccType: entry
-ccId: entry-aucien-shipyard
-aliases: []
+created: 2025-02-14T08:09:33.083Z
+modified: 2026-08-08T11:56:15.375Z
 tags:
-- Building
-- Shipyard
-- Published
-Region: "[[Goslow]]"
-ccTags:
-- Building
-- Shipyard
-share: true
+  - Building
+  - Shipyard
+  - Published
 ---
 
 [[Aucien Shipyard]] is the principal Aucien family marina and shipyard on [[Bishop's Bay]], just north of the main walls of [[Goslow]].

@@ -1,24 +1,12 @@
 ---
+publish: true
 title: Albyrt
-ccType: region
-ccId: region-albyrt
-aliases: []
+created: 2026-08-08T11:56:33.006Z
+modified: 2026-08-14T09:50:05.382Z
 tags:
-- Town
-- Port
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Government: Twin-Lake Charter Council
-Leader: "[[Mara Avelin]]"
-Population: 6400
-ccTags:
-- Town
-- Port
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Town
+  - Port
+  - Published
 ---
 
 [[Albyrt]] is the larger western half of the twin cities on the great southern lake, facing [[Isoltide]] across the water. The two settlements grew around opposite ends of the lake's trade and ferry routes and are culturally intertwined even when their councils disagree.
@@ -54,11 +42,11 @@ A lakeside wall, gatehouses, watch boats, and local militia protect the town. Pa
 - [[The Reed Crown]] — large lakeside inn serving merchants and ferry crews
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+
+| NPC                                                                         | Race  | Building                                                                                         | Factions |
+| --------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------ | -------- |
+| [[Locations & NPCs/Cities & Towns/Albyrt/NPCs/Mara Avelin.md\|Mara Avelin]] | Human | [[Locations & NPCs/Cities & Towns/Albyrt/Locations/Westlake Ferry Hall.md\|Westlake Ferry Hall]] |          |
+
 <!-- foundry-ignore-end -->

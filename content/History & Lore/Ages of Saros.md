@@ -1,24 +1,21 @@
 ---
-title: Ages of Saros
-ccType: entry
-ccId: entry-ages-of-saros
+publish: true
 aliases:
-- Age
-- Age of Saros
-- First Age
-- Second Age
-- Third Age
-- 1st Age
-- 2nd Age
-- 3rd Age
+  - Age
+  - Age of Saros
+  - First Age
+  - Second Age
+  - Third Age
+  - 1st Age
+  - 2nd Age
+  - 3rd Age
+title: Ages of Saros
+created: 2025-03-02T18:09:21.097Z
+modified: 2026-08-14T09:53:18.889Z
 tags:
-- Lore
-- History
-- Published
-ccTags:
-- Lore
-- History
-share: true
+  - Lore
+  - History
+  - Published
 ---
 
 Sarosian historians divide the world's past into three broad Ages. The boundaries are partly historical and partly cultural; the farther back an Age lies, the less confidently anyone can separate record from legend.

@@ -1,16 +1,11 @@
 ---
+publish: true
 title: The Storm Runner
-ccType: entry
-ccId: entry-the-storm-runner
-aliases: []
+created: 2026-08-07T06:36:23.806Z
+modified: 2026-08-08T11:56:15.437Z
 tags:
-- Ship
-- Published
-Region: "[[Goslow]]"
-ccTags:
-- Ship
-- Transport
-share: true
+  - Ship
+  - Published
 ---
 
 [[The Storm Runner]] is a small troop transport captained by [[Mirken Stanton]] and navigated by [[Breelyn]].

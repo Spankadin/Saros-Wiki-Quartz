@@ -1,17 +1,12 @@
 ---
+publish: true
 title: The Green Lantern
-ccType: entry
-ccId: entry-the-green-lantern
-aliases: []
+created: 2026-08-08T11:56:33.385Z
+modified: 2026-08-08T11:56:15.997Z
 tags:
-- Building
-- Inn
-- Published
-Region: "[[Isoltide]]"
-ccTags:
-- Building
-- Inn
-share: true
+  - Building
+  - Inn
+  - Published
 ---
 
 [[The Green Lantern]] sits near the forest road into [[Isoltide]]. Foresters, ferrymen, and travelers use it as a meeting point before deciding whether to continue by road or cross the lake.

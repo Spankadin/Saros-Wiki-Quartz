@@ -1,15 +1,12 @@
 ---
+publish: true
 title: Crossroads Council
-ccType: group
-ccId: group-crossroads-council
+created: 2026-08-07T06:36:23.765Z
+modified: 2026-08-08T11:56:13.226Z
 tags:
-- Faction
-- Government
-- Published
-ccTags:
-- Civic Government
-- Trystn
-share: true
+  - Faction
+  - Government
+  - Published
 ---
 
 The [[Crossroads Council]] is the civic government of [[Trystn]].

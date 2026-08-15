@@ -1,15 +1,11 @@
 ---
+publish: true
 title: Tomb of The Serpent King
-ccType: location
-ccId: location-tomb-of-the-serpent-king
+created: 2025-02-06T07:07:06.865Z
+modified: 2026-08-08T11:56:13.912Z
 tags:
-- Dungeon
-- Published
-Region: "[[Goslow]]"
-ccTags:
-- Dungeon
-- Tomb
-share: true
+  - Dungeon
+  - Published
 ---
 
 [[Tomb of The Serpent King]] is the ruined underground city and burial complex of [[The Serpent King]], located several miles south of [[Goslow]].

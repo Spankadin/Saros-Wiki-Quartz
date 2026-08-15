@@ -1,20 +1,13 @@
 ---
+publish: true
 title: Barrowgate
-ccType: entry
-ccId: entry-barrowgate
-aliases: []
+created: 2026-08-08T11:56:33.056Z
+modified: 2026-08-08T11:56:14.469Z
 tags:
-- Landmark
-- Fortification
-- Gate
-- Published
-Region: "[[Ani]]"
-LandmarkType: Fortification
-ccTags:
-- Landmark
-- Fortification
-- Gate
-share: true
+  - Landmark
+  - Fortification
+  - Gate
+  - Published
 ---
 
 [[Barrowgate]] is the heavily fortified inland gate of [[Ani]], facing the roads and wild country toward [[The Urmong Barrows]]. Returning travelers are questioned here before being allowed into the town.

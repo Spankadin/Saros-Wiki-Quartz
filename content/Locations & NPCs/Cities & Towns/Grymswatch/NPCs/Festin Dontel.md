@@ -1,21 +1,11 @@
 ---
+publish: true
 title: Festin Dontel
-ccType: npc
-ccId: npc-festin-dontel
-Race: Human
-aliases: []
+created: 2025-02-24T05:43:41.991Z
+modified: 2026-08-08T11:56:15.515Z
 tags:
-- NPC
-- Published
-Location: "[[Grymswatch]]"
-Building: "[[Mira's Wall]]"
-Faction:
-- "[[The Aegis Legion]]"
-Role: Lieutenant to Admiral Thainan
-ccTags:
-- Lieutenant to Admiral Thainan
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Festin Dontel]] is the principal lieutenant of [[Admiral Thainan]] at [[Mira's Wall]] in [[Grymswatch]].

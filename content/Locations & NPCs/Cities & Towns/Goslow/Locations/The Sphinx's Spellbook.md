@@ -1,19 +1,13 @@
 ---
+publish: true
 title: The Sphinx's Spellbook
-ccType: entry
-ccId: entry-the-sphinx-s-spellbook
-aliases: []
+created: 2024-08-22T01:06:34.531Z
+modified: 2026-08-08T11:56:15.403Z
 tags:
-- Building
-- Apothecary
-- Shop
-- Published
-Region: "[[Goslow]]"
-ccTags:
-- Building
-- Apothecary
-- Shop
-share: true
+  - Building
+  - Apothecary
+  - Shop
+  - Published
 ---
 
 [[The Sphinx's Spellbook]] is an old, narrow two-story apothecary and arcane shop only a short walk from the [[Goslow]] docks.

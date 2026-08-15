@@ -1,24 +1,12 @@
 ---
+publish: true
 title: Isoltide
-ccType: region
-ccId: region-isoltide
-aliases: []
+created: 2026-08-08T11:56:33.368Z
+modified: 2026-08-14T09:50:05.988Z
 tags:
-- Town
-- Port
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Government: Twin-Lake Charter Council
-Leader: "[[Teren Moss]]"
-Population: 5800
-ccTags:
-- Town
-- Port
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Town
+  - Port
+  - Published
 ---
 
 [[Isoltide]] stands opposite [[Albyrt]] on the great southern lake, where the eastern forest, river traffic, and lake fisheries meet.
@@ -63,11 +51,11 @@ Isoltide is modestly fortified and maintains armed watch boats. The forest edge 
 - [[The Green Lantern]] — travelers' inn near the forest road
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+
+| NPC                                                                         | Race     | Building                                                                                 | Factions |
+| --------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------- | -------- |
+| [[Locations & NPCs/Cities & Towns/Isoltide/NPCs/Teren Moss.md\|Teren Moss]] | Half-Elf | [[Locations & NPCs/Cities & Towns/Isoltide/Locations/Eastwater Hall.md\|Eastwater Hall]] |          |
+
 <!-- foundry-ignore-end -->

@@ -1,24 +1,12 @@
 ---
+publish: true
 title: Karastos
-ccType: region
-ccId: region-karastos
-aliases: []
+created: 2025-02-08T07:57:41.855Z
+modified: 2026-08-14T09:50:08.432Z
 tags:
-- Town
-- Port
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Government: Pirate Captains and Local Powers
-Leader: ''
-Population: 5000
-ccTags:
-- Town
-- Port
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Town
+  - Port
+  - Published
 ---
 
 [[Karastos]] is a notorious pirate-held port on the southeastern coast and one of the few major settlements that does not pretend to answer to the Crown.
@@ -56,11 +44,10 @@ The city's greatest external threat is [[Grymswatch]] and the [[The Aegis Legion
 [[Bloodmarked]] crews are among the most feared pirate factions associated with the southern waters.
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+
+| NPC | Race | Building | Factions |
+| --- | ---- | -------- | -------- |
+
 <!-- foundry-ignore-end -->

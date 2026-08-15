@@ -1,19 +1,16 @@
 ---
-title: Khaz'um
-ccType: group
-ccId: group-khaz-um
+publish: true
 aliases:
-- First-Dwarves
-- Khaz
+  - First-Dwarves
+  - Khaz
+title: Khaz'um
+created: 2025-02-15T10:31:02.460Z
+modified: 2026-08-14T09:44:02.024Z
 tags:
-- Race
-- Dwarves
-- Faction
-- Published
-ccTags:
-- Dwarven Clan
-- Historical
-share: true
+  - Race
+  - Dwarves
+  - Faction
+  - Published
 ---
 
 The [[Khaz'um]] are remembered as the earliest dwarves of [[A Brief Saros History|Saros]].

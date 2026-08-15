@@ -1,13 +1,8 @@
 ---
+publish: true
 title: Saros Dashboard
-ccType: entry
-ccId: entry-dataview-saros-dashboard
-tags: []
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+created: 2026-04-02T22:30:31.792Z
+modified: 2026-08-08T11:56:12.742Z
 ---
 
 > [!info]
@@ -17,86 +12,93 @@ links:
 
 | Settlement                                                                                 | Population | Government                                                     | Leader                                                                                  |
 | ------------------------------------------------------------------------------------------ | ---------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [[Goslow]]                               | 14000      | Royal Charter Council                                          |                                                                                         |
-| [[Rore]]                                     | 7200       | [[The House Table]]       | [[Cassia Rook]]               |
-| [[Albyrt]]                               | 6400       | Twin-Lake Charter Council                                      | [[Mara Avelin]]             |
-| [[Isoltide]]                         | 5800       | Twin-Lake Charter Council                                      | [[Teren Moss]]             |
-| [[Port Quartz]]                | 5250       | [[Mooring Council]]       | [[Hesta Vane]]          |
-| [[Karastos]]                         | 5000       | Pirate Captains and Local Powers                               |                                                                                         |
-| [[Soryn's Crossing]] | 4800       | Crossing Charter Council                                       | [[Dalen Soryn]]   |
-| [[Trystn]]                               | 4600       | [[Crossroads Council]] | [[Elian Thorne]]           |
-| [[Ari]]                                        | 4000       | Coastal Charter Council                                        | [[Harlan Vey]]                  |
-| [[Lilya]]                                  | 3800       | [[Stone Council]]           | [[Maela Torr]]                |
-| [[Ani]]                                        | 3000       | March Charter                                                  | [[Captain Lysa Dorn]]    |
-| [[Mysha]]                                  | 2500       | Woodward Council                                               | [[Pellin Root]]              |
-| [[Kylor]]                                  | 2400       | [[Kylor Moot]]                 | [[Derran Pike]]              |
-| [[Skaggerty]]                      | 1200       | Village Council                                                | [[Mara Sedge]]            |
-| [[Pyrris]]                               | 1100       | The Crown of Saros                                             | [[Queen Amara]]             |
-| [[Grymswatch]]                   | 1000       | Military Charter                                               | [[Admiral Thainan]] |
-| [[Brynk]]                                  | 650        | Closed Customary Council                                       | [[Vessa Keln]]                |
-
+| [[Locations & NPCs/Cities & Towns/Goslow/Goslow.md\|Goslow]]                               | 14000      | Royal Charter Council                                          |                                                                                         |
+| [[Locations & NPCs/Cities & Towns/Rore/Rore.md\|Rore]]                                     | 7200       | [[Factions & Clans/The House Table.md\|The House Table]]       | [[Locations & NPCs/Cities & Towns/Rore/NPCs/Cassia Rook.md\|Cassia Rook]]               |
+| [[Locations & NPCs/Cities & Towns/Albyrt/Albyrt.md\|Albyrt]]                               | 6400       | Twin-Lake Charter Council                                      | [[Locations & NPCs/Cities & Towns/Albyrt/NPCs/Mara Avelin.md\|Mara Avelin]]             |
+| [[Locations & NPCs/Cities & Towns/Isoltide/Isoltide.md\|Isoltide]]                         | 5800       | Twin-Lake Charter Council                                      | [[Locations & NPCs/Cities & Towns/Isoltide/NPCs/Teren Moss.md\|Teren Moss]]             |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]]                | 5250       | [[Factions & Clans/Mooring Council.md\|Mooring Council]]       | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Hesta Vane.md\|Hesta Vane]]          |
+| [[Locations & NPCs/Cities & Towns/Karastos/Karastos.md\|Karastos]]                         | 5000       | Pirate Captains and Local Powers                               |                                                                                         |
+| [[Locations & NPCs/Cities & Towns/Soryn's Crossing/Soryn's Crossing.md\|Soryn's Crossing]] | 4800       | Crossing Charter Council                                       | [[Locations & NPCs/Cities & Towns/Soryn's Crossing/NPCs/Dalen Soryn.md\|Dalen Soryn]]   |
+| [[Locations & NPCs/Cities & Towns/Trystn/Trystn.md\|Trystn]]                               | 4600       | [[Factions & Clans/Crossroads Council.md\|Crossroads Council]] | [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Elian Thorne.md\|Elian Thorne]]           |
+| [[Locations & NPCs/Cities & Towns/Ari/Ari.md\|Ari]]                                        | 4000       | Coastal Charter Council                                        | [[Locations & NPCs/Cities & Towns/Ari/NPCs/Harlan Vey.md\|Harlan Vey]]                  |
+| [[Locations & NPCs/Cities & Towns/Lilya/Lilya.md\|Lilya]]                                  | 3800       | [[Factions & Clans/Stone Council.md\|Stone Council]]           | [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Maela Torr.md\|Maela Torr]]                |
+| [[Locations & NPCs/Cities & Towns/Ani/Ani.md\|Ani]]                                        | 3000       | March Charter                                                  | [[Locations & NPCs/Cities & Towns/Ani/NPCs/Captain Lysa Dorn.md\|Captain Lysa Dorn]]    |
+| [[Locations & NPCs/Cities & Towns/Mysha/Mysha.md\|Mysha]]                                  | 2500       | Woodward Council                                               | [[Locations & NPCs/Cities & Towns/Mysha/NPCs/Pellin Root.md\|Pellin Root]]              |
+| [[Locations & NPCs/Cities & Towns/Kylor/Kylor.md\|Kylor]]                                  | 2400       | [[Factions & Clans/Kylor Moot.md\|Kylor Moot]]                 | [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Derran Pike.md\|Derran Pike]]              |
+| [[Locations & NPCs/Cities & Towns/Skaggerty/Skaggerty.md\|Skaggerty]]                      | 1200       | Village Council                                                | [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Mara Sedge.md\|Mara Sedge]]            |
+| [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]]                               | 1100       | The Crown of Saros                                             | [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Queen Amara.md\|Queen Amara]]             |
+| [[Locations & NPCs/Cities & Towns/Grymswatch/Grymswatch.md\|Grymswatch]]                   | 1000       | Military Charter                                               | [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Admiral Thainan.md\|Admiral Thainan]] |
+| [[Locations & NPCs/Cities & Towns/Brynk/Brynk.md\|Brynk]]                                  | 650        | Closed Customary Council                                       | [[Locations & NPCs/Cities & Towns/Brynk/NPCs/Vessa Keln.md\|Vessa Keln]]                |
 
 ## Major Factions
 
 | Faction                                                                              | Known NPCs |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [[Merchant's Guild]]          | 7          |
-| [[The Aegis Legion]]          | 6          |
-| [[The Queen's Council]] | 5          |
-| [[Gambler's Guild]]             | 3          |
-| [[Mooring Council]]                             | 3          |
-| [[The Prism]]                               | 2          |
-| [[Crossroads Council]]                       | 1          |
-| [[Kylor Moot]]                                       | 1          |
-| [[Stone Council]]                                 | 1          |
-| [[The Black Circle]]          | 1          |
-| [[The Crown of Saros]]                       | 1          |
-| [[The House Table]]                             | 1          |
-
+| [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]]          | 7          |
+| [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]]          | 6          |
+| [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]] | 5          |
+| [[Factions & Clans/Gambler's Guild/Gambler's Guild.md\|Gambler's Guild]]             | 3          |
+| [[Factions & Clans/Mooring Council.md\|Mooring Council]]                             | 3          |
+| [[Factions & Clans/The Prism/The Prism.md\|The Prism]]                               | 2          |
+| [[Factions & Clans/Crossroads Council.md\|Crossroads Council]]                       | 1          |
+| [[Factions & Clans/Kylor Moot.md\|Kylor Moot]]                                       | 1          |
+| [[Factions & Clans/Stone Council.md\|Stone Council]]                                 | 1          |
+| [[Factions & Clans/The Black Circle/The Black Circle.md\|The Black Circle]]          | 1          |
+| [[Factions & Clans/The Crown of Saros.md\|The Crown of Saros]]                       | 1          |
+| [[Factions & Clans/The House Table.md\|The House Table]]                             | 1          |
 
 ## Major NPCs
 
 | File                                                                                           | Race    | Faction                                                                              | Location                                                                                   | Building                                                                                               |
 | ---------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| [[Admiral Thainan]]        | Human   | [[The Aegis Legion]]          | [[Grymswatch]]                   | [[Mira's Wall]]                   |
-| [[Ambassador Skylark]]      | Elf     | [[The Queen's Council]] | [[Pyrris]]                               | [[The Radiant Citadel]]       |
-| [[Archmage Starweaver]]    | Elf     | [[The Queen's Council]] | [[Pyrris]]                               | [[The Radiant Citadel]]       |
-| [[Bedford]]                            | Human   | [[Merchant's Guild]]          | [[Goslow]]                               | [[Bedford's Forge]]               |
-| [[Breelyn]]                            | Human   |                                                                                      | [[Goslow]]                               | [[The Storm Runner]]             |
-| [[Caelum]]                                                    | Human   |                                                                                      | Deceased                                                                                   | \-                                                                                                     |
-| [[Caldus Renn]]               | Human   |                                                                                      | [[Port Quartz]]                | \-                                                                                                     |
-| [[Captain Lysa Dorn]]           | Human   | [[The Aegis Legion]]          | [[Ani]]                                        | [[Ani Watchhouse]]                    |
-| [[Captain Serin Holt]] | Human   | [[The Aegis Legion]]          | [[Port Quartz]]                | \-                                                                                                     |
-| [[Cassia Rook]]                      | Human   | [[The House Table]]                             | [[Rore]]                                     | [[The Dealhouse]]                     |
-| [[Chibs]]                                | Penguin |                                                                                      | [[Goslow]]                               | [[The Sphinx's Spellbook]] |
-| [[Clarissa]]                               | Human   | [[The Black Circle]]          | [Skaggerty](Skaggerty.md) (Region)                                                                     | \-                                                                                                     |
-| [[Dalen Soryn]]          | Human   | [[Merchant's Guild]]          | [[Soryn's Crossing]] | [[Soryn Hall]]               |
-| [[Derran Pike]]                     | Human   | [[Kylor Moot]]                                       | [[Kylor]]                                  | [[Saltwood Market]]                |
-| [[Edric Vane]]                                            | Human   |                                                                                      | [[Port Quartz]]                | \-                                                                                                     |
-| [[Elian Thorne]]                  | Human   | [[Crossroads Council]]                       | [[Trystn]]                               | [[Tollhouse Commons]]           |
-
+| [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Admiral Thainan.md\|Admiral Thainan]]        | Human   | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]]          | [[Locations & NPCs/Cities & Towns/Grymswatch/Grymswatch.md\|Grymswatch]]                   | [[Locations & NPCs/Cities & Towns/Grymswatch/Locations/Mira's Wall.md\|Mira's Wall]]                   |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Ambassador Skylark.md\|Ambassador Skylark]]      | Elf     | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]] | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]]                               | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]]       |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Archmage Starweaver.md\|Archmage Starweaver]]    | Elf     | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]] | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]]                               | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]]       |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Bedford.md\|Bedford]]                            | Human   | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]]          | [[Locations & NPCs/Cities & Towns/Goslow/Goslow.md\|Goslow]]                               | [[Locations & NPCs/Cities & Towns/Goslow/Locations/Bedford's Forge.md\|Bedford's Forge]]               |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Breelyn.md\|Breelyn]]                            | Human   |                                                                                      | [[Locations & NPCs/Cities & Towns/Goslow/Goslow.md\|Goslow]]                               | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Storm Runner.md\|The Storm Runner]]             |
+| [[History & Lore/People/Caelum.md\|Caelum]]                                                    | Human   |                                                                                      | Deceased                                                                                   | -                                                                                                     |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Caldus Renn.md\|Caldus Renn]]               | Human   |                                                                                      | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]]                | -                                                                                                     |
+| [[Locations & NPCs/Cities & Towns/Ani/NPCs/Captain Lysa Dorn.md\|Captain Lysa Dorn]]           | Human   | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]]          | [[Locations & NPCs/Cities & Towns/Ani/Ani.md\|Ani]]                                        | [[Locations & NPCs/Cities & Towns/Ani/Locations/Ani Watchhouse.md\|Ani Watchhouse]]                    |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Captain Serin Holt.md\|Captain Serin Holt]] | Human   | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]]          | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]]                | -                                                                                                     |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Cassia Rook.md\|Cassia Rook]]                      | Human   | [[Factions & Clans/The House Table.md\|The House Table]]                             | [[Locations & NPCs/Cities & Towns/Rore/Rore.md\|Rore]]                                     | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Dealhouse.md\|The Dealhouse]]                     |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Chibs.md\|Chibs]]                                | Penguin |                                                                                      | [[Locations & NPCs/Cities & Towns/Goslow/Goslow.md\|Goslow]]                               | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Sphinx's Spellbook.md\|The Sphinx's Spellbook]] |
+| [[Factions & Clans/The Black Circle/NPCs/Clarissa.md\|Clarissa]]                               | Human   | [[Factions & Clans/The Black Circle/The Black Circle.md\|The Black Circle]]          | [[Skaggerty]] (Region)                                                                     | -                                                                                                     |
+| [[Locations & NPCs/Cities & Towns/Soryn's Crossing/NPCs/Dalen Soryn.md\|Dalen Soryn]]          | Human   | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]]          | [[Locations & NPCs/Cities & Towns/Soryn's Crossing/Soryn's Crossing.md\|Soryn's Crossing]] | [[Locations & NPCs/Cities & Towns/Soryn's Crossing/Locations/Soryn Hall.md\|Soryn Hall]]               |
+| [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Derran Pike.md\|Derran Pike]]                     | Human   | [[Factions & Clans/Kylor Moot.md\|Kylor Moot]]                                       | [[Locations & NPCs/Cities & Towns/Kylor/Kylor.md\|Kylor]]                                  | [[Locations & NPCs/Cities & Towns/Kylor/Locations/Saltwood Market.md\|Saltwood Market]]                |
+| [[History & Lore/People/Edric Vane.md\|Edric Vane]]                                            | Human   |                                                                                      | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]]                | -                                                                                                     |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Elian Thorne.md\|Elian Thorne]]                  | Human   | [[Factions & Clans/Crossroads Council.md\|Crossroads Council]]                       | [[Locations & NPCs/Cities & Towns/Trystn/Trystn.md\|Trystn]]                               | [[Locations & NPCs/Cities & Towns/Trystn/Locations/Tollhouse Commons.md\|Tollhouse Commons]]           |
 
 ## Landmarks
 
 | Landmark                                                                                           | Type          | Region                                                                                     |
 | -------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------ |
-| [[Albyrt Grain Steps]]     | Waterfront    | [[Albyrt]]                               |
-| [[Ari Grain Quay]]                | Waterfront    | [[Ari]]                                        |
-| [[Barrowgate]]                        | Fortification | [[Ani]]                                        |
-| [[Bishop's Bay]]                                | Bay           | [[index|Saros]]                                   |
-| [[Blackwater Bog]]                                   | Bog           | [[index|Saros]]                                   |
-| [[Caelum's End]]                                       | Frozen Peak   | [[index|Saros]]                                   |
-| [[Cataract Yard]]          | Industrial    | [[Port Quartz]]                |
-| [[Four Roads Market]]       | Market        | [[Trystn]]                               |
-| [[Isoltide Fishstairs]] | Waterfront    | [[Isoltide]]                         |
-| [[Lake of Lament]]                            | Lake          | [[The Silvervein Summits]] |
-| [[Lake Runa]]                                      | Lake          | [[index|Saros]]                                   |
-| [[Lantern Head]]                  | Fortification | [[Kylor]]                                  |
-| [[Queen's Gate]]                 | \-            | [[Pyrris]]                               |
-| [[Saltwood Market]]            | Market        | [[Kylor]]                                  |
-| [[Surveyors' Step]]                           | Road          | [[Port Quartz]]                |
-| [[The Closed Gate]]            | Gate          | [[Brynk]]                                  |
+| [[Locations & NPCs/Cities & Towns/Albyrt/Locations/Albyrt Grain Steps.md\|Albyrt Grain Steps]]     | Waterfront    | [[Locations & NPCs/Cities & Towns/Albyrt/Albyrt.md\|Albyrt]]                               |
+| [[Locations & NPCs/Cities & Towns/Ari/Locations/Ari Grain Quay.md\|Ari Grain Quay]]                | Waterfront    | [[Locations & NPCs/Cities & Towns/Ari/Ari.md\|Ari]]                                        |
+| [[Locations & NPCs/Cities & Towns/Ani/Locations/Barrowgate.md\|Barrowgate]]                        | Fortification | [[Locations & NPCs/Cities & Towns/Ani/Ani.md\|Ani]]                                        |
+| [[Locations & NPCs/Landmarks/Waters/Bishop's Bay.md\|Bishop's Bay]]                                | Bay           | [[History & Lore/A Brief Saros History.md\|Saros]]                                         |
+| [[Locations & NPCs/Landmarks/Blackwater Bog.md\|Blackwater Bog]]                                   | Bog           | [[History & Lore/A Brief Saros History.md\|Saros]]                                         |
+| [[Locations & NPCs/Landmarks/Caelum's End.md\|Caelum's End]]                                       | Frozen Peak   | [[History & Lore/A Brief Saros History.md\|Saros]]                                         |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Cataract Yard.md\|Cataract Yard]]          | Industrial    | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]]                |
+| [[Locations & NPCs/Cities & Towns/Trystn/Locations/Four Roads Market.md\|Four Roads Market]]       | Market        | [[Locations & NPCs/Cities & Towns/Trystn/Trystn.md\|Trystn]]                               |
+| [[Locations & NPCs/Cities & Towns/Isoltide/Locations/Isoltide Fishstairs.md\|Isoltide Fishstairs]] | Waterfront    | [[Locations & NPCs/Cities & Towns/Isoltide/Isoltide.md\|Isoltide]]                         |
+| [[Locations & NPCs/Landmarks/Waters/Lake of Lament.md\|Lake of Lament]]                            | Lake          | [[Locations & NPCs/Landmarks/Mountains/The Silvervein Summits.md\|The Silvervein Summits]] |
+| [[Locations & NPCs/Landmarks/Waters/Lake Runa.md\|Lake Runa]]                                      | Lake          | [[History & Lore/A Brief Saros History.md\|Saros]]                                         |
+| [[Locations & NPCs/Cities & Towns/Kylor/Locations/Lantern Head.md\|Lantern Head]]                  | Fortification | [[Locations & NPCs/Cities & Towns/Kylor/Kylor.md\|Kylor]]                                  |
+| [[Locations & NPCs/Cities & Towns/Pyrris/Locations/Queen's Gate.md\|Queen's Gate]]                 | -            | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]]                               |
+| [[Locations & NPCs/Cities & Towns/Kylor/Locations/Saltwood Market.md\|Saltwood Market]]            | Market        | [[Locations & NPCs/Cities & Towns/Kylor/Kylor.md\|Kylor]]                                  |
+| [[Locations & NPCs/Landmarks/Roads/Surveyors' Step.md\|Surveyors' Step]]                           | Road          | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]]                |
+| [[Locations & NPCs/Cities & Towns/Brynk/Locations/The Closed Gate.md\|The Closed Gate]]            | Gate          | [[Locations & NPCs/Cities & Towns/Brynk/Brynk.md\|Brynk]]                                  |
 
+## Recent File Updates
+
+- [[Rules & Tables & Tools/Video Ideas.md|Video Ideas]]
+- [[Rules & Tables & Tools/Saros Vault Changelog.md|Saros Vault Changelog]]
+- [[Factions & Clans/Dwarven Clans/Dwarven Clans.md|Dwarven Clans]]
+- [[Adventures/Saros Adventure Module Index.md|Saros Adventure Module Index]]
+- [[Factions & Clans/The Prism/NPCs/Silas Voss.md|Silas Voss]]
+- [[Locations & NPCs/Landmarks/Caelum's End.md|Caelum's End]]
+- [[History & Lore/-Secret Saros Spoilers-/The First Facet.md|The First Facet]]
+- [[History & Lore/Trade & Economy/Saros - Distances, Travel, Trade, and Population.md|Saros - Distances, Travel, Trade, and Population]]
 
 ## Saros at a Glance
 

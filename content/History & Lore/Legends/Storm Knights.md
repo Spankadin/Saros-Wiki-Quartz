@@ -1,17 +1,14 @@
 ---
-title: Storm Knights
-ccType: group
-ccId: group-storm-knights
+publish: true
 aliases:
-- Storm Knight
+  - Storm Knight
+title: Storm Knights
+created: 2025-01-27T08:31:55.615Z
+modified: 2026-08-08T11:56:12.850Z
 tags:
-- Legend
-- Faction
-- Published
-ccTags:
-- Historical Faction
-- Second Age
-share: true
+  - Legend
+  - Faction
+  - Published
 ---
 
 The [[Storm Knights]] were one of the great human powers of the [[Ages of Saros|Second Age]].
@@ -43,7 +40,7 @@ Some have become:
 - Roadside ruins
 - Refuges used by later peoples
 
-The Veiled Archive is one surviving complex associated with them.
+[[Veiled Archive]] is one surviving complex associated with them.
 
 ## Fall
 

@@ -1,19 +1,11 @@
 ---
+publish: true
 title: Torv Hallick
-ccType: npc
-ccId: npc-torv-hallick
-Race: Human
-aliases: []
+created: 2026-08-07T06:36:23.950Z
+modified: 2026-08-08T11:56:14.084Z
 tags:
-- NPC
-- Published
-Location: "[[Trystn]]"
-Building: "[[East Gate Caravan Yard]]"
-Faction:
-- "[[Merchant's Guild]]"
-ccTags: []
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Torv Hallick]] is a caravan master based at [[East Gate Caravan Yard]] in [[Trystn]].

@@ -1,18 +1,12 @@
 ---
+publish: true
 title: Lantern Head
-ccType: entry
-ccId: entry-lantern-head
-aliases: []
+created: 2026-08-07T06:36:23.824Z
+modified: 2026-08-08T11:56:14.321Z
 tags:
-- Landmark
-- Fortification
-- Published
-Region: "[[Kylor]]"
-LandmarkType: Fortification
-ccTags:
-- Landmark
-- Fortification
-share: true
+  - Landmark
+  - Fortification
+  - Published
 ---
 
 [[Lantern Head]] is the coastal watch post above [[Kylor]].

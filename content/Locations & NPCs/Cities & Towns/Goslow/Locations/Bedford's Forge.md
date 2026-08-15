@@ -1,17 +1,12 @@
 ---
+publish: true
 title: Bedford's Forge
-ccType: entry
-ccId: entry-bedford-s-forge
-aliases: []
+created: 2024-08-22T01:05:35.766Z
+modified: 2026-08-08T11:56:15.426Z
 tags:
-- Building
-- Blacksmith
-- Published
-Region: "[[Goslow]]"
-ccTags:
-- Building
-- Blacksmith
-share: true
+  - Building
+  - Blacksmith
+  - Published
 ---
 
 Known for the finest craftsmanship this side of [[Vy'Tungavor]], Bedford's Forge is the local [[Goslow]] smithy where you can get anything you desire made if you are willing to both pay the high price, and wait patiently on the list behind high-priority clientele. Heat bellows out of the doorway and permeates the entire colossal structure of The Forge. Many humans tend to the forges that fill the interior, and the sounds of metal being worked drowns out all but the loudest voices.
@@ -21,6 +16,7 @@ Overseeing the forge is a massive man simply known as [[Bedford|Bedford]], one o
 ### Forged Leystone Items:
 
 ###### **Swords = 5000gp** + 1 Month
- - +1 Sword of Might
- - +1 Sword of Accuracy
- - +1 Sword of Flame
+
+- +1 Sword of Might
+- +1 Sword of Accuracy
+- +1 Sword of Flame

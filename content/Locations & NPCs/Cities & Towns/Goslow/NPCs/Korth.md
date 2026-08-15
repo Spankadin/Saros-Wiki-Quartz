@@ -1,21 +1,11 @@
 ---
+publish: true
 title: Korth
-ccType: npc
-ccId: npc-korth
-Race: Human
-aliases: []
+created: 2025-02-04T02:44:25.043Z
+modified: 2026-08-08T11:56:15.307Z
 tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[Temple of Torm]]"
-Faction: []
-Role: Head Priest of Torm
-ccTags:
-- Priest
-- Paladin
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Korth]] is the head priest at [[Temple of Torm]] in [[Goslow]].

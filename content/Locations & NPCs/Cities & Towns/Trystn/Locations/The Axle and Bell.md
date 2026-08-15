@@ -1,15 +1,11 @@
 ---
+publish: true
 title: The Axle and Bell
-ccType: entry
-ccId: entry-the-axle-and-bell
-aliases: []
+created: 2026-08-07T06:36:23.938Z
+modified: 2026-08-08T11:56:14.106Z
 tags:
-- Inn
-- Published
-Region: "[[Trystn]]"
-ccTags:
-- Inn
-share: true
+  - Inn
+  - Published
 ---
 
 [[The Axle and Bell]] is a famous caravan inn in [[Trystn]] operated by [[Jessa Marr]].

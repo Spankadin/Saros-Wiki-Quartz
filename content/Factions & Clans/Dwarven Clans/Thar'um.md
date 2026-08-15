@@ -1,23 +1,19 @@
 ---
-title: Thar'um
-ccType: group
-ccId: group-thar-um
+publish: true
 aliases:
-- Tha'run
-- Vak'dar
-- Gemseeker
-- Gemseekers
-- Mountain Keepers
+  - Tha'run
+  - Vak'dar
+  - Gemseeker
+  - Gemseekers
+  - Mountain Keepers
+title: Thar'um
+created: 2026-08-10T09:37:06.545Z
+modified: 2026-08-10T09:37:06.546Z
 tags:
-- Race
-- Dwarves
-- Faction
-- Published
-ccTags:
-- Dwarven Clan
-- Gem-Seekers
-- Mountain Keepers
-share: true
+  - Race
+  - Dwarves
+  - Faction
+  - Published
 ---
 
 The [[Thar'um]] are the **Mountain Keepers** and **Gem-Seekers**, a [[Dwarven Clans|dwarven clan]] formed from traditions once recorded separately as the Tha'run and Vak'dar.

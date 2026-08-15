@@ -1,23 +1,14 @@
 ---
-title: Perla Mudridge
-ccType: npc
-ccId: npc-perla-mudridge
-Race: Halfling
+publish: true
 aliases:
-- Mudridge
-- Perla
+  - Mudridge
+  - Perla
+title: Perla Mudridge
+created: 2024-08-22T01:25:25.161Z
+modified: 2026-08-08T11:56:15.295Z
 tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[The Toad]]"
-Faction: []
-Role: Owner and Innkeeper
-ccTags:
-- Innkeeper
-- Former Adventurer
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Perla Mudridge]] owns [[The Toad]], the largest and busiest inn in [[Goslow]].

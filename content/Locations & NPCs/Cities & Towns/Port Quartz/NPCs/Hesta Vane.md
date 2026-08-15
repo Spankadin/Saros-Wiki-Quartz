@@ -1,23 +1,11 @@
 ---
+publish: true
 title: Hesta Vane
-ccType: npc
-ccId: npc-hesta-vane
-Race: Human
-aliases: []
+created: 2026-08-07T03:53:05.608Z
+modified: 2026-08-08T11:56:14.972Z
 tags:
-- NPC
-- Published
-Location: "[[Port Quartz]]"
-Building: "[[Hall of Moorings]]"
-Faction:
-- "[[Mooring Council]]"
-Role: First Mooring
-ccTags:
-- Civic Leader
-- Riverfolk
-- First Mooring
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Hesta Vane]] is the **First Mooring** of [[Port Quartz]] and the presiding official of the [[Mooring Council]].

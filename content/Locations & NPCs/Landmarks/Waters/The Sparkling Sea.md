@@ -1,18 +1,12 @@
 ---
+publish: true
 title: The Sparkling Sea
-ccType: entry
-ccId: entry-the-sparkling-sea
-aliases: []
+created: 2025-01-28T08:08:02.560Z
+modified: 2026-08-08T11:56:13.745Z
 tags:
-- Landmark
-- Water
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-LandmarkType: Sea
-ccTags:
-- Landmark
-- Sea
-share: true
+  - Landmark
+  - Water
+  - Published
 ---
 
 [[The Sparkling Sea]] borders the eastern side of [[A Brief Saros History|Saros]].

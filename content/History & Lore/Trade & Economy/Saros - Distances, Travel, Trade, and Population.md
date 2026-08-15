@@ -1,25 +1,20 @@
 ---
-title: Saros - Distances, Travel, Trade, and Population
-ccType: entry
-ccId: entry-saros-distances-travel-trade-and-population
+publish: true
 aliases:
-- Saros Travel Times
-- Saros Distances
-- Saros Population
-- Travel in Saros
-- Trade in Saros
+  - Saros Travel Times
+  - Saros Distances
+  - Saros Population
+  - Travel in Saros
+  - Trade in Saros
+title: Saros - Distances, Travel, Trade, and Population
+created: 2026-08-14T09:47:38.638Z
+modified: 2026-08-14T09:55:04.807Z
 tags:
-- Lore
-- Geography
-- Travel
-- Trade
-- Published
-ccTags:
-- Geography
-- Travel
-- Trade
-- Settlements
-share: true
+  - Lore
+  - Geography
+  - Travel
+  - Trade
+  - Published
 ---
 
 This note is the canonical working source for travel, trade routes, settlement spacing, and population in [[A Brief Saros History|Saros]]. Route estimates should be revised here first and then reflected in the relevant settlement notes.
@@ -134,7 +129,7 @@ Long caravan routes therefore depend upon settlements selling feed, pasture, sta
 | River barge | **5–30+ tons** | Grain, ore, timber, barrels | Rapids and waterfalls |
 | Small coastal trader | **20–80 tons** | Intercity bulk trade | Shallow upper rivers |
 | Large merchant vessel | **80–200+ tons** | Grain, timber, military supply | Small docks |
-| [[Fall Casks|Fall cask]] | Small individual loads | Durable high-value goods | People and fragile cargo |
+| [[Fall Casks\|Fall cask]] | Small individual loads | Durable high-value goods | People and fragile cargo |
 
 A single thirty-ton waterborne cargo carries roughly as much freight as twenty to forty heavy wagons without requiring scores of draft animals to eat along the road.
 

@@ -1,20 +1,13 @@
 ---
+publish: true
 title: White Quays
-ccType: entry
-ccId: entry-white-quays
-aliases: []
+created: 2026-08-07T03:53:05.597Z
+modified: 2026-08-08T11:56:15.106Z
 tags:
-- Landmark
-- Waterfront
-- Quay
-- Published
-Region: "[[Port Quartz]]"
-LandmarkType: Waterfront
-ccTags:
-- Landmark
-- Waterfront
-- Quay
-share: true
+  - Landmark
+  - Waterfront
+  - Quay
+  - Published
 ---
 
 The [[White Quays]] are the principal commercial waterfront of [[Port Quartz]], carved into broad shelves of pale quartz.

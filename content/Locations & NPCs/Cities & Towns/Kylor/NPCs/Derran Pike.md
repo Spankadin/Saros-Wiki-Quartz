@@ -1,19 +1,11 @@
 ---
+publish: true
 title: Derran Pike
-ccType: npc
-ccId: npc-derran-pike
-Race: Human
-aliases: []
+created: 2026-08-07T06:36:23.834Z
+modified: 2026-08-08T11:56:14.298Z
 tags:
-- NPC
-- Published
-Location: "[[Kylor]]"
-Building: "[[Saltwood Market]]"
-Faction:
-- "[[Kylor Moot]]"
-ccTags: []
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Derran Pike]] is the Harbor Reeve of [[Kylor]] and chairs the [[Kylor Moot]].

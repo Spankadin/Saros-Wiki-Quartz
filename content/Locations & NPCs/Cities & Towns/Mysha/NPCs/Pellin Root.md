@@ -1,20 +1,11 @@
 ---
+publish: true
 title: Pellin Root
-ccType: npc
-ccId: npc-pellin-root
-Race: Halfling
-aliases: []
+created: 2026-08-08T11:56:33.563Z
+modified: 2026-08-08T11:56:14.513Z
 tags:
-- NPC
-- Published
-Location: "[[Mysha]]"
-Building: "[[Runa House]]"
-Faction: []
-Role: Woodward Speaker
-ccTags:
-- Woodward Speaker
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Pellin Root]] is the current Speaker of [[Mysha]]'s Woodward Council.

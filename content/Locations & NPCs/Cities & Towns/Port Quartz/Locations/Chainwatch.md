@@ -1,19 +1,13 @@
 ---
+publish: true
 title: Chainwatch
-ccType: entry
-ccId: entry-chainwatch
-aliases: []
+created: 2026-08-06T22:24:02.762Z
+modified: 2026-08-08T11:56:15.073Z
 tags:
-- Building
-- Fortification
-- Watch
-- Published
-Region: "[[Port Quartz]]"
-ccTags:
-- Building
-- Fortification
-- Watch
-share: true
+  - Building
+  - Fortification
+  - Watch
+  - Published
 ---
 
 [[Chainwatch]] is a squat civic watch tower overlooking the busiest ferry landings of [[Port Quartz]].

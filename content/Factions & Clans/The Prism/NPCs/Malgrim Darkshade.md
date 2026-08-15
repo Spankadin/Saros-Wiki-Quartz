@@ -1,22 +1,13 @@
 ---
-title: Malgrim Darkshade
-ccType: npc
-ccId: npc-malgrim-darkshade
-Race: Elf
+publish: true
 aliases:
-- Malgrim
+  - Malgrim
+title: Malgrim Darkshade
+created: 2025-02-06T09:00:36.537Z
+modified: 2026-08-14T09:43:30.347Z
 tags:
-- NPC
-- Published
-Location: Unknown
-Faction:
-- "[[The Prism]]"
-ccTags:
-- Prism
-- Spellcaster
-ccAssociates:
-- "[[Silas Voss]]"
-share: true
+  - NPC
+  - Published
 ---
 
 [[Malgrim Darkshade]] is the most frequently named lieutenant of [[Silas Voss]] and is commonly described as second only to him within [[The Prism]]. She is the highest-ranking operative whose continued activity is known beyond the cult.

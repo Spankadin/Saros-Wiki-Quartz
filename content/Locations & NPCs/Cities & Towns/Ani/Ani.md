@@ -1,24 +1,12 @@
 ---
+publish: true
 title: Ani
-ccType: region
-ccId: region-ani
-aliases: []
+created: 2026-08-08T11:56:33.043Z
+modified: 2026-08-14T09:50:09.715Z
 tags:
-- Town
-- Port
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Government: March Charter
-Leader: "[[Captain Lysa Dorn]]"
-Population: 3000
-ccTags:
-- Town
-- Port
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Town
+  - Port
+  - Published
 ---
 
 [[Ani]] is a fortified coastal town whose primary purpose is to protect settled southern Saros from dangers associated with [[The Urmong Barrows]].
@@ -63,11 +51,11 @@ Ani has strong walls for its size, layered gates, coastal patrols, and watch tow
 - [[Ani Watchhouse]] — militia headquarters and warning tower
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+
+| NPC                                                                                  | Race  | Building                                                                            | Factions                                                                    |
+| ------------------------------------------------------------------------------------ | ----- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Ani/NPCs/Captain Lysa Dorn.md\|Captain Lysa Dorn]] | Human | [[Locations & NPCs/Cities & Towns/Ani/Locations/Ani Watchhouse.md\|Ani Watchhouse]] | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |
+
 <!-- foundry-ignore-end -->

@@ -1,19 +1,13 @@
 ---
+publish: true
 title: The Silver Gate
-ccType: entry
-ccId: entry-the-silver-gate
-aliases: []
+created: 2026-08-07T06:36:23.853Z
+modified: 2026-08-08T11:56:15.920Z
 tags:
-- Building
-- Mine
-- Fortification
-- Published
-Region: "[[Lilya]]"
-ccTags:
-- Building
-- Mine
-- Fortification
-share: true
+  - Building
+  - Mine
+  - Fortification
+  - Published
 ---
 
 [[The Silver Gate]] is the most heavily controlled entrance into the primary mine works of [[Lilya]].

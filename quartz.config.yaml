@@ -6,10 +6,11 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: spankadin.github.io/Saros-Wiki-Quartz
+  baseUrl: delvesaros.com
   ignorePatterns:
     - private
     - templates
+    - "**/Templates"
     - .obsidian
   theme:
     fontOrigin: googleFonts
@@ -86,6 +87,7 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
+      lazyLoad: true
     order: 60
   - source: "@quartz-community/description"
     enabled: true
@@ -159,6 +161,11 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      title: Explorer
+      folderClickBehavior: link
+      folderDefaultState: collapsed
+      useSavedState: true
     layout:
       position: left
       priority: 50
@@ -257,7 +264,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5

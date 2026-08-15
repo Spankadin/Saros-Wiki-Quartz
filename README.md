@@ -10,6 +10,10 @@ Only notes deliberately marked `share: true` should be copied into `content`. GM
 
 Quartz Syncer can keep using `share` as its publish property; the vault does not need to be renamed to `publish`.
 
+Keep the vault's normal, human-readable folder and note names. Spaces, hyphens, apostrophes, and ampersands are supported. Quartz creates web-safe addresses at build time, so renaming the vault just to improve URLs is unnecessary and risks breaking Obsidian links.
+
+Same-name folder notes are intentional. For example, `Dwarven Clans/Dwarven Clans.md` becomes the page for the `Dwarven Clans` folder in Quartz, while remaining a normal folder note in Obsidian. The small post-install compatibility patch in `scripts/patch-crawl-links.mjs` keeps short Obsidian links working after that conversion.
+
 ## Local preview
 
 ```shell

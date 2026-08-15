@@ -9,6 +9,15 @@ tags:
 share: true
 ---
 
+<figure class="saros-hero">
+  <img src="./static/saros-hero.webp" alt="An illustrated map of Saros" width="1600" height="760">
+  <figcaption>
+    <p class="saros-hero__eyebrow">A player’s guide to the realm</p>
+    <strong class="saros-hero__title">Saros</strong>
+    <p class="saros-hero__subtitle">Ancient ruins, dangerous roads, powerful factions—and stories waiting beyond the map’s edge.</p>
+  </figcaption>
+</figure>
+
 # Delve into Saros
 
 Saros is a realm of ancient ruins, dangerous roads, powerful factions, and communities built atop the remains of older worlds. This wiki gathers the player-facing lore of the setting into one place.
@@ -19,7 +28,7 @@ Saros is a realm of ancient ruins, dangerous roads, powerful factions, and commu
 ## Explore the Realm
 
 - [[Major Cities, Towns, and Ports|Cities, towns, and ports]]
-- [[Landmarks]]
+- [[Dataview/Landmarks|Landmarks]]
 - [[Saros - Distances, Travel, Trade, and Population|Travel, trade, and population]]
 - [[Griffin Riders]]
 

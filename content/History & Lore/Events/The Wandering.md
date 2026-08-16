@@ -34,4 +34,4 @@ That unity weakened as individual clans grew wealthy and protective of their dis
 
 The period of broad cooperation ended most dramatically with [[The Great Betrayal]].
 
-The later flight of the surviving Khaz'armok is called [[The Scattering]]. It should not be confused with the Wandering: one was an age of expansion and settlement, while the other was a forced diaspora after civil war.
+The later flight of the surviving [[Khaz'armok]] is called [[The Scattering]]. It should not be confused with the Wandering: one was an age of expansion and settlement, while the other was a forced diaspora after civil war.

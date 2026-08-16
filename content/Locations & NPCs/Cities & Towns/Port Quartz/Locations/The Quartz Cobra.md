@@ -12,7 +12,7 @@ tags:
   - Published
 ---
 
-[[The Quartz Cobra]] is [[Port Quartz]]'s sole [[Gambler's Guild|Guild-chartered]] gambling hall and its Bank of Saros.
+[[The Quartz Cobra]] is [[Port Quartz]]'s sole [[Gambler's Guild|Guild-chartered]] gambling hall and its [[Bank of Saros]].
 
 Pale stone scales curve around the doorway, while a long quartz cobra coils above the counting cage inside. [[Lind Bergy]] owns and operates the hall.
 

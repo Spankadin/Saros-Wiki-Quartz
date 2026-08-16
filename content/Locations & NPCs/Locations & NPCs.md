@@ -13,37 +13,28 @@ tags:
 
 ## Settlements and Their People
 
-```dataviewjs
-const towns = dv.pages('#Town or #City')
-  .where(p => !p.file.path.includes("Templates"))
-  .sort(p => Number(p.Population ?? 0), 'desc');
+These figures follow [[Saros - Distances, Travel, Trade, and Population|the canonical settlement estimates]]. Each settlement page contains its fuller description and additional local figures.
 
-const npcs = dv.pages('#NPC')
-  .where(p => !p.file.path.includes("Templates"));
-
-let lines = [];
-
-for (const town of towns) {
-  const pop = town.Population ?? "Unknown";
-  lines.push(`- ${town.file.link} — Population: ${pop}`);
-
-  const townNPCs = npcs
-    .where(npc => String(npc.Location ?? "").includes(town.file.name))
-    .sort(npc => npc.file.name, 'asc');
-
-  if (townNPCs.length === 0) {
-    lines.push(`  - No linked NPCs yet.`);
-    continue;
-  }
-
-  for (const npc of townNPCs) {
-    const building = npc.Building ?? "No fixed building";
-    lines.push(`  - ${npc.file.link} — ${building}`);
-  }
-}
-
-dv.paragraph(lines.join("\n"));
-```
+| Settlement           | Approx. population | A few notable people                                             |
+| -------------------- | -----------------: | ---------------------------------------------------------------- |
+| [[Goslow]]           |             14,000 | [[Perla Mudridge]], [[Gerdga]], [[Vostin The Mighty]]            |
+| [[Rore]]             |              7,200 | [[Cassia Rook]], [[Varo Quill]], [[Nessa Crowe]]                 |
+| [[Albyrt]]           |              6,400 | [[Mara Avelin]]                                                  |
+| [[Isoltide]]         |              5,800 | [[Teren Moss]]                                                   |
+| [[Port Quartz]]      |              5,250 | [[Hesta Vane]], [[Oren Bale]], [[Lind Bergy]]                    |
+| [[Karastos]]         |             ~5,000 | Pirate captains and crews; no stable census                      |
+| [[Soryn's Crossing]] |              4,800 | [[Dalen Soryn]]                                                  |
+| [[Trystn]]           |              4,600 | [[Jessa Marr]], [[Torv Hallick]], [[Elian Thorne]]               |
+| [[Ari]]              |              4,000 | [[Harlan Vey]]                                                   |
+| [[Lilya]]            |              3,800 | [[Ysra Pell]], [[Maela Torr]], [[Garran Flint]]                  |
+| [[Ani]]              |              3,000 | [[Captain Lysa Dorn]]                                            |
+| [[Mysha]]            |              2,500 | [[Pellin Root]]                                                  |
+| [[Kylor]]            |              2,400 | [[Mara Venn]], [[Osk Fen]], [[Derran Pike]]                      |
+| [[Skaggerty]]        |              1,200 | [[Heldoren The Wise]], [[Mara Sedge]], [[Simoon]]                |
+| [[Pyrris]]           |              1,100 | [[Queen Amara]], [[General Ironclad]], [[Spymaster Shadowcloak]] |
+| [[Grymswatch]]       |              1,000 | [[Admiral Thainan]], [[Festin Dontel]]                           |
+| [[Dun Karag]]        |                900 | The wardens of [[Thar'um]]                                       |
+| [[Brynk]]            |                650 | [[Vessa Keln]]                                                   |
 
 ## Landmarks
 
@@ -61,7 +52,7 @@ dv.paragraph(lines.join("\n"));
 | [[Locations & NPCs/Landmarks/Waters/Lake of Lament.md\|Lake of Lament]]                                        | Lake            | [[Locations & NPCs/Landmarks/Mountains/The Silvervein Summits.md\|The Silvervein Summits]] |
 | [[Locations & NPCs/Landmarks/Waters/Lake Runa.md\|Lake Runa]]                                                  | Lake            | [[History & Lore/A Brief Saros History.md\|Saros]]                                         |
 | [[Locations & NPCs/Cities & Towns/Kylor/Locations/Lantern Head.md\|Lantern Head]]                              | Fortification   | [[Locations & NPCs/Cities & Towns/Kylor/Kylor.md\|Kylor]]                                  |
-| [[Locations & NPCs/Cities & Towns/Pyrris/Locations/Queen's Gate.md\|Queen's Gate]]                             | -              | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]]                               |
+| [[Locations & NPCs/Cities & Towns/Pyrris/Locations/Queen's Gate.md\|Queen's Gate]]                             | -               | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]]                               |
 | [[Locations & NPCs/Cities & Towns/Kylor/Locations/Saltwood Market.md\|Saltwood Market]]                        | Market          | [[Locations & NPCs/Cities & Towns/Kylor/Kylor.md\|Kylor]]                                  |
 | [[Locations & NPCs/Landmarks/Roads/Surveyors' Step.md\|Surveyors' Step]]                                       | Road            | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]]                |
 | [[Locations & NPCs/Cities & Towns/Brynk/Locations/The Closed Gate.md\|The Closed Gate]]                        | Gate            | [[Locations & NPCs/Cities & Towns/Brynk/Brynk.md\|Brynk]]                                  |

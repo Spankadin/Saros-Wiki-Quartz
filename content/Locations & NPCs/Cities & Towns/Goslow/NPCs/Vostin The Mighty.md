@@ -27,7 +27,7 @@ Vostin oversees:
 - Duskpoint's garrison
 - Legion policing around Goslow
 - Patrols on the roads near the city
-- Griffin patrols throughout the Goslow–Pyrris region
+- Griffin patrols throughout the Goslow–[[Pyrris]] region
 - Military coordination with the approaches to [[The High Road]]
 
 He is often seen in the air with a small griffin-mounted guard.

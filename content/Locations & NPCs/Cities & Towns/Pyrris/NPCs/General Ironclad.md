@@ -30,7 +30,7 @@ As supreme commander, Ironclad oversees:
 
 - Realm defense
 - Legion doctrine
-- Garrisons
+- [[Garrisons]]
 - Strategic patrols
 - Senior officer appointments
 - Responses to major military threats

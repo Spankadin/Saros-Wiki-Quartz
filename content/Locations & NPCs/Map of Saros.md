@@ -13,6 +13,8 @@ tags:
 
 The realm stretches from [[Caelum's End]] in the frozen north to [[Grymswatch]] on the southern coast, with the roads, waters, cities, and wild frontiers of Saros between them.
 
+This is the map [[Perla Mudridge|Perla]] commissioned for display in [[The Toad]]. The artist did not possess precise measurements of the entire land, so coastlines, waterways, and relative distances are a useful traveler's overview rather than an exact representation of Saros's true scale. For play, treat each small hex as approximately **5 miles** across and each large hex, composed of smaller hexes, as approximately **30 miles** across. See [[Saros - Distances, Travel, Trade, and Population|distances, travel, trade, and population]] for route estimates and the map's allowance for cartographic error.
+
 Use the full-resolution view to inspect the map closely. On a phone or tablet, pinch to zoom; on a computer, use the browser's zoom controls after opening the image.
 
 <p class="saros-map-actions">

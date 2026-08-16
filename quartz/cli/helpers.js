@@ -61,20 +61,20 @@ export async function popContentFolder(contentFolder) {
  * When that fails (EPERM), we try a junction first (no elevation needed),
  * then fall back to a recursive copy as a last resort.
  *
- * @param {string} target  Symlink target (may be relative)
+ * @param {string} target  Symlink target (relative paths are resolved from the current working directory)
  * @param {string} linkPath  Path where the link is created
  */
 export function symlinkOrCopySync(target, linkPath) {
+  const resolvedTarget = path.resolve(target)
   try {
-    fs.symlinkSync(target, linkPath, "dir")
+    fs.symlinkSync(resolvedTarget, linkPath, "dir")
   } catch (err) {
     if (err.code === "EEXIST") return
     if (err.code === "EPERM" && process.platform === "win32") {
       try {
-        fs.symlinkSync(target, linkPath, "junction")
+        fs.symlinkSync(resolvedTarget, linkPath, "junction")
         return
       } catch {
-        const resolvedTarget = path.resolve(path.dirname(linkPath), target)
         fs.cpSync(resolvedTarget, linkPath, { recursive: true })
         return
       }
@@ -86,20 +86,20 @@ export function symlinkOrCopySync(target, linkPath) {
 /**
  * Async version of {@link symlinkOrCopySync}.
  *
- * @param {string} target  Symlink target (may be relative)
+ * @param {string} target  Symlink target (relative paths are resolved from the current working directory)
  * @param {string} linkPath  Path where the link is created
  */
 export async function symlinkOrCopy(target, linkPath) {
+  const resolvedTarget = path.resolve(target)
   try {
-    await fs.promises.symlink(target, linkPath, "dir")
+    await fs.promises.symlink(resolvedTarget, linkPath, "dir")
   } catch (err) {
     if (err.code === "EEXIST") return
     if (err.code === "EPERM" && process.platform === "win32") {
       try {
-        await fs.promises.symlink(target, linkPath, "junction")
+        await fs.promises.symlink(resolvedTarget, linkPath, "junction")
         return
       } catch {
-        const resolvedTarget = path.resolve(path.dirname(linkPath), target)
         await fs.promises.cp(resolvedTarget, linkPath, { recursive: true })
         return
       }

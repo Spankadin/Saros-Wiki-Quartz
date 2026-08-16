@@ -237,7 +237,7 @@ plugins:
     enabled: true
     options:
       links:
-        "Saros © 2026 James McBroom": /about-saros
+        Saros © 2026 James McBroom: /about-saros
         Wiki source: https://github.com/Spankadin/Saros-Wiki-Quartz
     layout:
       position: footer
@@ -277,6 +277,13 @@ plugins:
     enabled: true
     options:
       enableCopyTool: false
+  - source: ./plugins/saros-navigation
+    enabled: true
+    options: {}
+    order: 50
+    layout:
+      position: beforeBody
+      priority: 1
 layout:
   groups:
     toolbar:

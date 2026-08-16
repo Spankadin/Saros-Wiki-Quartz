@@ -9,7 +9,7 @@ Player-facing lore for the Saros campaign setting, published with [Quartz 5](htt
 - [Map of Saros](https://delvesaros.com/locations--and--npcs/map-of-saros)
 - [About Saros](https://delvesaros.com/about-saros)
 
-The live site is deployed from the `v5` branch by GitHub Pages. It includes a vault-sourced landing page, folder-note navigation, graph views, a full-resolution realm map, a portable settlement directory, and creator attribution on every page. Public content uses ordinary Markdown and Obsidian links where browser compatibility matters, and clear references to existing Saros notes are periodically audited for missing cross-links. The `content` directory is a public publishing target, not a backup of the private Obsidian vault.
+The live site is deployed from the `v5` branch by GitHub Pages. It includes a vault-sourced landing page, site-wide navigation, folder-note navigation, graph views, a full-resolution realm map, a portable settlement directory, and creator attribution on every page. Public content uses ordinary Markdown and Obsidian links where browser compatibility matters, and clear references to existing Saros notes are periodically audited for missing cross-links. The `content` directory is a public publishing target, not a backup of the private Obsidian vault.
 
 ## Authorship and site curation
 
@@ -25,7 +25,9 @@ Quartz Syncer can keep using `share` as its publish property; the vault does not
 
 Keep the vault's normal, human-readable folder and note names. Spaces, hyphens, apostrophes, and ampersands are supported. Quartz creates web-safe addresses at build time, so renaming the vault just to improve URLs is unnecessary and risks breaking Obsidian links.
 
-Same-name folder notes are intentional. For example, `Dwarven Clans/Dwarven Clans.md` becomes the page for the `Dwarven Clans` folder in Quartz, while remaining a normal folder note in Obsidian. The small post-install compatibility patch in `scripts/patch-crawl-links.mjs` keeps short Obsidian links working after that conversion.
+Same-name folder notes are intentional. For example, `Dwarven Clans/Dwarven Clans.md` becomes the page for the `Dwarven Clans` folder in Quartz, while remaining a normal folder note in Obsidian. The small post-install compatibility patch in `scripts/patch-crawl-links.mjs` keeps short Obsidian links and local graph identities working after that conversion.
+
+The compact navigation header is supplied by the local `plugins/saros-navigation` component. It gives every published page direct access to Home, the map, cities and towns, factions, history, and the secure game server without adding a Home WikiLink to every vault note and overwhelming the relationship graph.
 
 ## Local preview
 

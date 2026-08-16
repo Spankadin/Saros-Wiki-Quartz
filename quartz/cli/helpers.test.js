@@ -38,6 +38,16 @@ describe("symlinkOrCopySync", () => {
     assert.ok(fs.existsSync(path.join(linkPath, "marker.txt")))
   })
 
+  test("resolves relative targets from the current working directory", () => {
+    const target = makeTarget(tmpDir)
+    const relativeTarget = path.relative(process.cwd(), target)
+    const linkPath = path.join(tmpDir, "relative-link")
+
+    symlinkOrCopySync(relativeTarget, linkPath)
+
+    assert.ok(fs.existsSync(path.join(linkPath, "marker.txt")))
+  })
+
   test("silently succeeds when link already exists (EEXIST)", () => {
     const target = makeTarget(tmpDir)
     const linkPath = path.join(tmpDir, "link")
@@ -168,6 +178,16 @@ describe("symlinkOrCopy", () => {
 
     const stat = fs.lstatSync(linkPath)
     assert.ok(stat.isSymbolicLink())
+    assert.ok(fs.existsSync(path.join(linkPath, "marker.txt")))
+  })
+
+  test("resolves relative targets from the current working directory", async () => {
+    const target = makeTarget(tmpDir)
+    const relativeTarget = path.relative(process.cwd(), target)
+    const linkPath = path.join(tmpDir, "relative-link")
+
+    await symlinkOrCopy(relativeTarget, linkPath)
+
     assert.ok(fs.existsSync(path.join(linkPath, "marker.txt")))
   })
 

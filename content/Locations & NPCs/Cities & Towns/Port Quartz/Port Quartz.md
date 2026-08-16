@@ -87,7 +87,7 @@ The town's greatest everyday hazards are river accidents, cargo theft, smuggling
 - [[Quartz Vaults]] — secured warehouses cut into pale stone
 - [[Shrine of the Last Oar]] — riverside memorial to those lost on the water
 - [[Chainwatch]] — civic watch tower and ferry signal station
-- [[The Quartz Cobra]] — chartered gambling hall and Bank of Saros, operated by [[Lind Bergy]]
+- [[The Quartz Cobra]] — chartered gambling hall and [[Bank of Saros]], operated by [[Lind Bergy]]
 
 ## Character
 

@@ -21,7 +21,13 @@ tags:
   </figcaption>
 </figure>
 
-[[Map of Saros|Open the full map of Saros →]]
+<div class="saros-hero-actions">
+  <a class="saros-map-open" href="https://delvesaros.com/locations--and--npcs/map-of-saros">Open the Full Map</a>
+  <div class="saros-enter-cta">
+    <a class="saros-enter-button" href="https://play.delvesaros.com" target="_blank" rel="noopener noreferrer" aria-describedby="saros-enter-tooltip">Enter Saros</a>
+    <span class="saros-enter-tooltip" id="saros-enter-tooltip" role="tooltip">— Open the secure Saros game server in your browser.</span>
+  </div>
+</div>
 
 # Delve into Saros
 
@@ -51,11 +57,6 @@ Saros is a realm of old roads and older mysteries: proud cities, hard-won allian
 > - [[Queen Amara]]
 > - [[Gerdga]]
 > - [[Malgrim Darkshade]]
-
-<div class="saros-enter-cta">
-  <a class="saros-enter-button" href="https://play.delvesaros.com" target="_blank" rel="noopener noreferrer" aria-describedby="saros-enter-tooltip">Enter Saros</a>
-  <span class="saros-enter-tooltip" id="saros-enter-tooltip" role="tooltip">— Open the secure Saros game server in your browser.</span>
-</div>
 
 ## The map is only the beginning
 

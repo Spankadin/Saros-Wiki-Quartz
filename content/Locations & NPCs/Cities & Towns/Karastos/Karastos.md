@@ -37,7 +37,7 @@ The ease of movement by sea makes patrols, raids, smuggling, and sudden changes 
 
 ## Security
 
-There is no central civic watch comparable to Goslow's. Individual docks, taverns, compounds, and warehouses employ their own guards.
+There is no central civic watch comparable to [[Goslow]]'s. Individual docks, taverns, compounds, and warehouses employ their own guards.
 
 The city's greatest external threat is [[Grymswatch]] and the [[The Aegis Legion|Aegis Legion]] fleet.
 

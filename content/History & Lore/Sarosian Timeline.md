@@ -117,7 +117,7 @@ The final centuries produced overlapping disasters rather than one clean war.
 - The dead later associated with [[Blackwater Bog]] accumulated in wars no surviving record fully explains.
 - The enormous burial complexes of [[The Urmong Barrows]] received soldiers, nobles, healers, weapons, and dangerous sealed remnants.
 - Dwarven wealth and secrecy deepened after [[The Great Betrayal]].
-- [[The Scattering]] drove the surviving Khaz'armok houses toward [[The Glimmering Expanse]].
+- [[The Scattering]] drove the surviving [[Khaz'armok]] houses toward [[The Glimmering Expanse]].
 - Delves were sealed, abandoned, lost, or cut off from one another.
 - Elven populations withdrew from open political life.
 - Roads failed, fields reverted to wilderness, and surviving settlements became isolated.

@@ -48,7 +48,7 @@ This Age saw:
 - Elven discovery and cultivation of the [[Fey-Lines]]
 - Elven withdrawal into hidden woodland domains
 - The rise of the [[Dwarven Clans]] and their great [[Delves]]
-- [[The Great Betrayal]] and the later [[The Scattering|Scattering]] of the Khaz'armok
+- [[The Great Betrayal]] and the later [[The Scattering|Scattering]] of the [[Khaz'armok]]
 
 By the end of the Age, organized human civilization had largely collapsed. Dwarven kingdoms had sealed or lost many delves. Elven populations had withdrawn from open political life. Survivors remained, but the old network of states and cities was gone.
 

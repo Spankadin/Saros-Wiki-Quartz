@@ -24,7 +24,7 @@ Its motto is:
 The Legion is responsible for:
 
 - Defense of the realm
-- Garrisons in major settlements
+- [[Garrisons]] in major settlements
 - Patrols along important roads
 - Coastal and naval security
 - Response to monsters or organized raiders

@@ -59,7 +59,7 @@ Violence that interferes with business is punished quickly. Violence between peo
 
 ## Places of Interest
 
-- [[The Golden Goose]] — Saros's largest gambling hall and Rore's Bank of Saros
+- [[The Golden Goose]] — Saros's largest gambling hall and Rore's [[Bank of Saros]]
 - [[The Dealhouse]] — meeting hall of The House Table and seat of civic court
 - [[The Black Ledger]] — private brokerage house operated by [[Nessa Crowe]]
 - [[Salt Court]] — neutral arbitration hall for debts, contracts, and wagers

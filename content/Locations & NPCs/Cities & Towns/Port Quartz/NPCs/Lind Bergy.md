@@ -8,7 +8,7 @@ tags:
   - Published
 ---
 
-[[Lind Bergy]] owns and operates [[The Quartz Cobra]], the chartered gambling hall and Bank of Saros in [[Port Quartz]].
+[[Lind Bergy]] owns and operates [[The Quartz Cobra]], the chartered gambling hall and [[Bank of Saros]] in [[Port Quartz]].
 
 Lind is quiet, immaculately organized, and gifted at remembering odds, faces, and unpaid promises. He dislikes theatrical threats because they slow the room down. A soft question from Lind usually means he already knows the answer and is measuring the lie.
 

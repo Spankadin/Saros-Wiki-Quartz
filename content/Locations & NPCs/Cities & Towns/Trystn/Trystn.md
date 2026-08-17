@@ -1,11 +1,23 @@
 ---
-publish: true
 title: Trystn
-created: 2026-08-07T06:36:23.929Z
-modified: 2026-08-14T09:49:31.311Z
+ccType: region
+ccId: region-trystn
+aliases: []
 tags:
-  - Town
-  - Published
+- Town
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "102.99"
+Government: "[[Crossroads Council]]"
+Leader: "[[Elian Thorne]]"
+Population: 4600
+ccTags:
+- Town
+publish: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Trystn]] exists because roads meet there.
@@ -44,11 +56,11 @@ It is also the safest conventional route between [[Port Quartz]] and [[Lilya]].
 
 | Destination | Working Distance and Time |
 | --- | --- |
-| [[Port Quartz]] | **45-50 miles**; 2-3 days walking, 3-4 by heavy wagon, or about 2 days mounted |
-| [[Lilya]] | **60-70 miles**; 3-4 days walking, 4-5 by heavy wagon, or 2-3 days mounted |
-| [[Rore]] | **150-170 miles**; 8-9 walking days, 10-12 by heavy wagon, or 5-6 days mounted |
+| [[Port Quartz]] | **125–140 miles**; 7–8 days walking, 9–12 by heavy wagon, or 4–6 mounted |
+| [[Lilya]] | **110–125 miles**; 6–8 days walking, 8–12 by heavy wagon, or 4–6 mounted |
+| [[Rore]] | Provisional pending a hex-by-hex audit; count the visible road and apply the campaign's OSE movement rate |
 
-The long Rore road supports feed sellers, overnight stops, repair yards, and caravan staging throughout the corridor. See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
+The long Rore road supports feed sellers, overnight stops, repair yards, and caravan staging throughout the corridor. The final twenty miles toward Lilya narrow near hex **105.84** and are vulnerable to snow and rockfall. See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
 
 ## Security
 
@@ -64,13 +76,11 @@ The walls are less imposing than Lilya's, but the constant presence of armed tra
 - [[East Gate Caravan Yard]] — the largest secure wagon yard in town
 
 <!-- foundry-ignore-start -->
-
 #### NPCs Found Here
-
-| NPC                                                                           | Race     | Building                                                                                               | Factions                                                                    |
-| ----------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Elian Thorne.md\|Elian Thorne]] | Human    | [[Locations & NPCs/Cities & Towns/Trystn/Locations/Tollhouse Commons.md\|Tollhouse Commons]]           | [[Factions & Clans/Crossroads Council.md\|Crossroads Council]]              |
-| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Jessa Marr.md\|Jessa Marr]]     | Halfling | [[Locations & NPCs/Cities & Towns/Trystn/Locations/The Axle and Bell.md\|The Axle and Bell]]           | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
-| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Torv Hallick.md\|Torv Hallick]] | Human    | [[Locations & NPCs/Cities & Towns/Trystn/Locations/East Gate Caravan Yard.md\|East Gate Caravan Yard]] | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
-
+```dataview
+TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
+FROM #NPC
+WHERE Location = link(this.file.name)
+SORT file.name ASC
+```
 <!-- foundry-ignore-end -->

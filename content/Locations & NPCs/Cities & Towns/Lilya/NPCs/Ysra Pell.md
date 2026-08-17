@@ -1,11 +1,21 @@
 ---
-publish: true
 title: Ysra Pell
-created: 2026-08-07T06:36:23.863Z
-modified: 2026-08-08T11:56:15.863Z
+ccType: npc
+ccId: npc-ysra-pell
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Lilya]]"
+Building: "[[The Deep Lantern]]"
+Faction: []
+Role: Prospector and Surveyor
+ccTags:
+- Prospector
+- Surveyor
+ccAssociates: []
+publish: true
 ---
 
 [[Ysra Pell]] is a prospector and field surveyor based in [[Lilya]].

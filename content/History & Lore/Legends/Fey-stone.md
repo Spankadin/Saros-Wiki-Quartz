@@ -1,16 +1,18 @@
 ---
-publish: true
-aliases:
-  - Leystone
-  - Fey Stone
-  - Ley Stone
 title: Fey-stone
-created: 2025-01-28T09:14:25.322Z
-modified: 2026-08-10T09:37:10.572Z
+ccType: entry
+ccId: entry-fey-stone
+aliases:
+- Leystone
+- Fey Stone
+- Ley Stone
 tags:
-  - Item
-  - Magic
-  - Published
+- Item
+- Magic
+- Published
+ccTags:
+- Magical Material
+publish: true
 ---
 
 [[Fey-stone]] is a rare dull-grey material found near powerful convergences of [[Fey-Lines]].
@@ -38,4 +40,4 @@ The material is notoriously difficult to forge or shape without ruining its magi
 
 [[Bedford]] of [[Bedford's Forge]] in [[Goslow]] is one of the few living craftspeople publicly known to work it reliably.
 
-Older dwarven traditions, especially those associated with the [[Thar'um]], are believed to understand the material far better than most modern Sarosians.
+Older dwarven traditions, especially those associated with the [[Dun'zod]], are believed to understand the material far better than most modern Sarosians.

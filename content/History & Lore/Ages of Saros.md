@@ -1,21 +1,24 @@
 ---
-publish: true
-aliases:
-  - Age
-  - Age of Saros
-  - First Age
-  - Second Age
-  - Third Age
-  - 1st Age
-  - 2nd Age
-  - 3rd Age
 title: Ages of Saros
-created: 2025-03-02T18:09:21.097Z
-modified: 2026-08-14T09:53:18.889Z
+ccType: entry
+ccId: entry-ages-of-saros
+aliases:
+- Age
+- Age of Saros
+- First Age
+- Second Age
+- Third Age
+- 1st Age
+- 2nd Age
+- 3rd Age
 tags:
-  - Lore
-  - History
-  - Published
+- Lore
+- History
+- Published
+ccTags:
+- Lore
+- History
+publish: true
 ---
 
 Sarosian historians divide the world's past into three broad Ages. The boundaries are partly historical and partly cultural; the farther back an Age lies, the less confidently anyone can separate record from legend.
@@ -48,7 +51,7 @@ This Age saw:
 - Elven discovery and cultivation of the [[Fey-Lines]]
 - Elven withdrawal into hidden woodland domains
 - The rise of the [[Dwarven Clans]] and their great [[Delves]]
-- [[The Great Betrayal]] and the later [[The Scattering|Scattering]] of the [[Khaz'armok]]
+- [[The Great Betrayal]] and the later [[The Scattering|Scattering]] of the [[Dun'armok]]
 
 By the end of the Age, organized human civilization had largely collapsed. Dwarven kingdoms had sealed or lost many delves. Elven populations had withdrawn from open political life. Survivors remained, but the old network of states and cities was gone.
 

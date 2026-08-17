@@ -1,11 +1,18 @@
 ---
-publish: true
 title: Mara Venn
-created: 2026-08-07T06:36:23.835Z
-modified: 2026-08-08T11:56:14.287Z
+ccType: npc
+ccId: npc-mara-venn
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Kylor]]"
+Building: "[[The Drowning Mermaid]]"
+Faction: []
+ccTags: []
+ccAssociates: []
+publish: true
 ---
 
 [[Mara Venn]] owns [[The Drowning Mermaid]], the oldest tavern in [[Kylor]].

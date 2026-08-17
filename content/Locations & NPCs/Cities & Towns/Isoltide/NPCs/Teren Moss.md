@@ -1,11 +1,20 @@
 ---
-publish: true
 title: Teren Moss
-created: 2026-08-08T11:56:33.393Z
-modified: 2026-08-08T11:56:15.975Z
+ccType: npc
+ccId: npc-teren-moss
+Race: Half-Elf
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Isoltide]]"
+Building: "[[Eastwater Hall]]"
+Faction: []
+Role: East Reeve
+ccTags:
+- East Reeve
+ccAssociates: []
+publish: true
 ---
 
 [[Teren Moss]] serves as East Reeve of [[Isoltide]].

@@ -1,11 +1,15 @@
 ---
-publish: true
 title: The House Table
-created: 2026-08-07T06:36:23.772Z
-modified: 2026-08-10T09:42:49.436Z
+ccType: group
+ccId: group-the-house-table
+aliases: []
 tags:
-  - Faction
-  - Published
+- Faction
+- Published
+ccTags:
+- Faction
+ccAssociates: []
+publish: true
 ---
 
 [[The House Table]] is the governing council of independent [[Rore]].

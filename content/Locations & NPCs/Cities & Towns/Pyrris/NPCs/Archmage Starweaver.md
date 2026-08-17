@@ -1,11 +1,21 @@
 ---
-publish: true
 title: Archmage Starweaver
-created: 2024-12-24T09:01:04.893Z
-modified: 2026-08-08T11:56:14.850Z
+ccType: npc
+ccId: npc-archmage-starweaver
+Race: Elf
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Pyrris]]"
+Building: "[[The Radiant Citadel]]"
+Faction:
+- "[[The Queen's Council]]"
+Role: Minister of Arcane Affairs
+ccTags:
+- Minister of Arcane Affairs
+ccAssociates: []
+publish: true
 ---
 
 [[Archmage Starweaver|Nisel Starweaver]] is the Minister of Arcane Affairs on [[The Queen's Council]].

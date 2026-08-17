@@ -1,12 +1,18 @@
 ---
-publish: true
 title: Aucien Shipyard
-created: 2025-02-14T08:09:33.083Z
-modified: 2026-08-08T11:56:15.375Z
+ccType: entry
+ccId: entry-aucien-shipyard
+aliases: []
 tags:
-  - Building
-  - Shipyard
-  - Published
+- Building
+- Shipyard
+- Published
+Region: "[[Goslow]]"
+Hex: "67.103"
+ccTags:
+- Building
+- Shipyard
+publish: true
 ---
 
 [[Aucien Shipyard]] is the principal Aucien family marina and shipyard on [[Bishop's Bay]], just north of the main walls of [[Goslow]].
@@ -24,6 +30,9 @@ The shipyard handles:
 - Haul-out work
 - Dock space
 - Custom marine jobs
+- Assembly and finishing of prestigious deep-water vessels
+
+Selected keels, spars, ribs, pitch, and resin arrive from [[Kylor]]. The Aucien yards add Goslow's concentrated rigging, chandlery, metal fittings, credit, and specialist labor; Kylor and Goslow are partners in the ship trade, not duplicate yards.
 
 The family's rope and shipbuilding experience allows work to move between the yard and the Bulkhead depending on the size of the job.
 

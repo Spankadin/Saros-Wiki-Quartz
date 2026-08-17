@@ -1,14 +1,23 @@
 ---
-publish: true
-aliases:
-  - Mudridge
-  - Perla
 title: Perla Mudridge
-created: 2024-08-22T01:25:25.161Z
-modified: 2026-08-08T11:56:15.295Z
+ccType: npc
+ccId: npc-perla-mudridge
+Race: Halfling
+aliases:
+- Mudridge
+- Perla
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Goslow]]"
+Building: "[[The Toad]]"
+Faction: []
+Role: Owner and Innkeeper
+ccTags:
+- Innkeeper
+- Former Adventurer
+ccAssociates: []
+publish: true
 ---
 
 [[Perla Mudridge]] owns [[The Toad]], the largest and busiest inn in [[Goslow]].
@@ -20,6 +29,8 @@ Her replacement leg is made from [[Fey-stone]].
 ## Personality
 
 Perla loves details, rumors, old maps, strange visitors, and stories told by people who have actually gone somewhere dangerous.
+
+She commissioned [[Steev'rix the Explorer]] to draw the continental chart now known as [[Map of Saros|Perla's Map of Saros]]. It hangs in [[The Toad]] as both a practical traveler's reference and an invitation to argue over every uncertain road, coast, and blank place.
 
 She can often be found with her prosthetic leg propped comfortably on a chair or table while sharing a drink with travelers.
 

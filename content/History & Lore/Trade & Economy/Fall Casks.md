@@ -1,22 +1,30 @@
 ---
-publish: true
-aliases:
-  - Fall Cask
-  - Cataract Casks
 title: Fall Casks
-created: 2026-08-08T11:56:32.941Z
-modified: 2026-08-08T11:56:12.971Z
+ccType: entry
+ccId: entry-fall-casks
+aliases:
+- Fall Cask
+- Cataract Casks
 tags:
-  - Lore
-  - Trade
-  - Published
+- Lore
+- Trade
+- Published
+Region: "[[Port Quartz]]"
+Hex: "89.84 to 81.95/82.94"
+ccTags:
+- Trade
+- River
+- Port Quartz
+publish: true
 ---
 
 **Fall casks** are heavily reinforced cargo barrels used to send durable goods from the high basin around [[Lake of Lament]] down the otherwise unnavigable waterfall feeding the river toward [[Port Quartz]].
 
 No ship can climb the cataract. A properly built cask can survive going over it.
 
-The practice is dangerous, expensive, and inefficient compared with a road caravan, but it allows small quantities of dense or valuable cargo from the [[Lilya]] region to move south without first traveling through [[Trystn]].
+The practice is dangerous and expensive, but Lilya's long road and recurring closures make it an essential alternative for small quantities of dense or valuable cargo.
+
+Broad-beamed lake boats carry sealed casks roughly **85 miles** from [[Lilya]] to the fallhead. A staging station at hex **89.83** sorts them above [[Great Fall]] at **89.84**. Booms, guide cables, capstans, and shore crews move casks into controlled release lanes; no crewed boat approaches the brink.
 
 ## Construction
 
@@ -49,7 +57,7 @@ People, animals, glassware, ordinary food cargo, and delicate manufactured goods
 
 ## Recovery at Port Quartz
 
-Catch crews at [[Cataract Yard]] use chain booms, hooks, boats, winches, and recovery cranes to pull surviving casks from the river.
+Catch crews at [[South Cataract Yard]] and [[North Cataract Yard]] use chain booms, hooks, boats, winches, and recovery cranes to pull surviving casks from the [[Ascarid]]. [[Westwater Ferry]] moves crews and cargo between the banks.
 
 A recovered cask is logged before it is opened or released.
 

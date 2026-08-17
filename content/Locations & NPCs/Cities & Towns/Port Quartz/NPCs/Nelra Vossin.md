@@ -1,11 +1,22 @@
 ---
-publish: true
 title: Nelra Vossin
-created: 2026-08-07T03:53:05.610Z
-modified: 2026-08-10T09:38:54.889Z
+ccType: npc
+ccId: npc-nelra-vossin
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Port Quartz]]"
+Building: "[[Vane Archive]]"
+Faction:
+- "[[Mooring Council]]"
+Role: Archivist
+ccTags:
+- Archivist
+- Scholar
+ccAssociates: []
+publish: true
 ---
 
 [[Nelra Vossin]] is the keeper of the [[Vane Archive]] in [[Port Quartz]].

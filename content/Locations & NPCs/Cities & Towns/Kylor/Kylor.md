@@ -1,15 +1,28 @@
 ---
-publish: true
 title: Kylor
-created: 2025-02-06T06:54:02.774Z
-modified: 2026-08-14T09:49:08.345Z
+ccType: region
+ccId: region-kylor
+aliases: []
 tags:
-  - Town
-  - Port
-  - Published
+- Town
+- Port
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Government: "[[Kylor Moot]]"
+Leader: "[[Derran Pike]]"
+Population: 2400
+Hex: "45.104"
+ccTags:
+- Town
+- Port
+publish: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
-[[Kylor]] is a lonely logging and fishing town on the northwestern edge of the settled coast. Dense forest presses close behind the town while cold water and broken shoreline hem it in from the west.
+[[Kylor]] is a lonely marine-timber, fishing, and boatbuilding town on the northwestern edge of the settled coast. Dense forest presses close behind the town while cold water and broken shoreline hem it in from the west.
 
 Unlike [[Goslow]], Kylor does not feel like a place people casually pass through. Most visitors came for timber, fish, work, or because they had nowhere easier to go.
 
@@ -27,24 +40,22 @@ Logging families, boat owners, fishers, and timber factors dominate civic decisi
 
 ## Trade and Economy
 
-Kylor exports:
+Kylor specializes in timber that must survive at sea rather than trying to compete with every woodland around Saros. It exports:
 
-- Ship timber and heavy beams
-- Barrel staves
-- Charcoal
-- Pitch and resin
+- Old-growth keels, masts, spars, ribs, and long structural beams
+- Barrel staves, pitch, tar, and resin
 - Smoked and salted fish
 - Rope fiber
-- Small coastal craft
+- Rugged fishing boats, pilot cutters, and coastal work craft
 - Forest products
 
-Much of the best timber eventually reaches [[Goslow]].
+Much of the best timber eventually reaches [[Goslow]], where [[Jarvis Aucien]] and other shipwrights combine it with rigging, fittings, credit, and specialist labor. Kylori pilots, weather-readers, rescue boatmen, and wreck crews also sell hard-earned knowledge of [[The Sparkling Sea]].
 
 ## Travel and Connections
 
-[[Goslow]] lies roughly **45-50 road miles** away: 2-3 days walking, 3-4 days by heavy wagon, or 1.5-2 days mounted. A coastal vessel can make the trip in about a day in good conditions, so the heaviest timber usually moves by water.
+There is no direct road to [[Goslow]]. The road first runs roughly **90–95 miles** to [[Skaggerty]], then another **85–90 miles** to Goslow: about **175–185 miles** altogether. That is normally 9–11 days walking, 12–15 days by heavy wagon, or 6–8 days mounted.
 
-Commercial cargo bound for [[Port Quartz]] normally passes through Goslow and changes vessels or transport there. The full journey commonly takes **3-5 days**, depending on loading and weather.
+The safe sailing route to Goslow is roughly **110–125 miles**. A rare perfect passage may take 2–3 days underway, but 4–7 elapsed days is normal once weather, tide, pilots, and cargo priority are considered. Small open boats do not treat the rough crossing as routine. Commercial cargo bound for [[Port Quartz]] normally passes through Goslow and changes vessels there.
 
 See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
 
@@ -62,13 +73,11 @@ The most common serious threat is not an army. It is whatever emerges from the f
 - [[Saltwood Market]] — fish, timber contracts, rope, pitch, and forest goods
 
 <!-- foundry-ignore-start -->
-
 #### NPCs Found Here
-
-| NPC                                                                        | Race     | Building                                                                                          | Factions                                       |
-| -------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Derran Pike.md\|Derran Pike]] | Human    | [[Locations & NPCs/Cities & Towns/Kylor/Locations/Saltwood Market.md\|Saltwood Market]]           | [[Factions & Clans/Kylor Moot.md\|Kylor Moot]] |
-| [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Mara Venn.md\|Mara Venn]]     | Human    | [[Locations & NPCs/Cities & Towns/Kylor/Locations/The Drowning Mermaid.md\|The Drowning Mermaid]] |                                                |
-| [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Osk Fen.md\|Osk Fen]]         | Half-Orc | [[Locations & NPCs/Cities & Towns/Kylor/Locations/Blackpine Yard.md\|Blackpine Yard]]             |                                                |
-
+```dataview
+TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
+FROM #NPC
+WHERE Location = link(this.file.name)
+SORT file.name ASC
+```
 <!-- foundry-ignore-end -->

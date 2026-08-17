@@ -1,18 +1,26 @@
 ---
-publish: true
 title: Cataract Yard
-created: 2026-08-07T03:53:05.579Z
-modified: 2026-08-08T11:56:15.039Z
+ccType: entry
+ccId: entry-cataract-yard
+aliases: []
 tags:
-  - Landmark
-  - Industrial
-  - Salvage
-  - Published
+- Landmark
+- Industrial
+- Salvage
+- Published
+Region: "[[Port Quartz]]"
+Hex: "81.95 and 82.94"
+LandmarkType: Industrial
+ccTags:
+- Landmark
+- Industrial
+- Salvage
+publish: true
 ---
 
-[[Cataract Yard]] is the [[Fall Casks|fall-cask]] recovery and salvage works of [[Port Quartz]].
+[[Cataract Yard]] is the collective name for the paired [[Fall Casks|fall-cask]] recovery and salvage works of [[Port Quartz]]: [[South Cataract Yard]] at hex **81.95** and [[North Cataract Yard]] at **82.94**.
 
-It sits along a heavily reinforced stretch of river equipped with chain booms, recovery hooks, cranes, winches, sorting platforms, cooperages, and guarded storage.
+The yards face one another across the narrowest and comparatively calmest workable reach of the [[Ascarid]]. Both banks carry chain booms, recovery hooks, cranes, winches, and sorting platforms. [[Westwater Ferry]] crosses between them.
 
 Goods deliberately sent over the great waterfall from the region around [[Lake of Lament]] are recovered here when they survive the journey.
 
@@ -20,7 +28,7 @@ See [[Fall Casks]] for the full trade and ownership rules.
 
 ## Recovery
 
-Catch crews intercept surviving casks before they continue too far downstream.
+Catch crews on both banks intercept surviving casks before they continue too far downstream.
 
 Every recovered cask is:
 
@@ -32,7 +40,7 @@ Every recovered cask is:
 
 ## Claim Yard
 
-The guarded **claim yard** holds casks whose ownership cannot immediately be resolved.
+The guarded **claim yard** and almost all cooperages, offices, stores, and homes stand at South Cataract Yard. North Cataract Yard is a daily work site; its crews ferry south when the suns set.
 
 Common reasons include:
 

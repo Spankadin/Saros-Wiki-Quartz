@@ -1,16 +1,24 @@
 ---
-publish: true
-aliases:
-  - The Legion
-  - Legion
-  - Aegis
-  - Aegis Legion
 title: The Aegis Legion
-created: 2024-12-24T01:28:56.679Z
-modified: 2026-08-14T09:44:50.017Z
+ccType: group
+ccId: group-the-aegis-legion
+aliases:
+- The Legion
+- Legion
+- Aegis
+- Aegis Legion
 tags:
-  - Faction
-  - Published
+- Faction
+- Published
+ccTags:
+- Faction
+- Military
+ccAssociates: []
+publish: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[The Aegis Legion]] is the principal military institution of the Crown and the most visible symbol of royal authority outside [[Pyrris]].
@@ -31,13 +39,15 @@ The Legion is responsible for:
 - Enforcement of serious Crown law
 - Support during disasters and sieges
 
-In many remote places, the arrival of a Legion patrol is the only regular contact people have with the central government.
+Legion control is strongest inside cities and important towns. Along primary roads it extends as a chain of patrols, inns, toll posts, fortified farms, and small garrisons commonly spaced about **20–25 miles** apart; secondary routes may go **30–40 miles** between dependable shelters. The Legion can respond along those corridors, but it does not occupy every mile between them.
+
+Outlying farms, villages, logging camps, and mines mostly defend themselves. Some can send to a road post for help. Others hire guards or quietly accept assistance from [[The Black Circle]]. In truly remote places, the arrival of a Legion patrol may be the only contact people have with the central government all season.
 
 ## Appearance and Equipment
 
 The Legion presents itself as practical, disciplined, and professional. Armor, clothing, weapons, and insignia are maintained for hard use rather than ceremonial spectacle, although officers and formal guards may wear more polished equipment.
 
-[[Griffin Riders]] use lighter functional riding armor, secure harness points, weather protection, and gear designed not to interfere with wings or saddle movement. A griffin and rider are lifelong partners, not interchangeable cavalry equipment issued from a stable.
+The Legion's few [[Griffin Riders]] use lighter functional riding armor, secure harness points, weather protection, and gear designed not to interfere with wings or saddle movement. A griffin and rider are lifelong partners, not interchangeable cavalry equipment issued from a stable or numerous enough to provide routine coverage.
 
 ## Command
 
@@ -68,16 +78,11 @@ The largest concentration of Legion forces is associated with [[Grymswatch]] and
 Smaller garrisons and posts protect major roads, ports, and politically important settlements throughout the realm.
 
 <!-- foundry-ignore-start -->
-
 #### Known NPCs
-
-| Name                                                                                           | Race  | Location                                                                    | Building                                                                             |
-| ---------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Admiral Thainan.md\|Admiral Thainan]]        | Human | [[Locations & NPCs/Cities & Towns/Grymswatch/Grymswatch.md\|Grymswatch]]    | [[Locations & NPCs/Cities & Towns/Grymswatch/Locations/Mira's Wall.md\|Mira's Wall]] |
-| [[Locations & NPCs/Cities & Towns/Ani/NPCs/Captain Lysa Dorn.md\|Captain Lysa Dorn]]           | Human | [[Locations & NPCs/Cities & Towns/Ani/Ani.md\|Ani]]                         | [[Locations & NPCs/Cities & Towns/Ani/Locations/Ani Watchhouse.md\|Ani Watchhouse]]  |
-| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Captain Serin Holt.md\|Captain Serin Holt]] | Human | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]] | -                                                                                   |
-| [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Festin Dontel.md\|Festin Dontel]]            | Human | [[Locations & NPCs/Cities & Towns/Grymswatch/Grymswatch.md\|Grymswatch]]    | [[Locations & NPCs/Cities & Towns/Grymswatch/Locations/Mira's Wall.md\|Mira's Wall]] |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/General Ironclad.md\|General Ironclad]]          | Human | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]]                | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/Stonepeak.md\|Stonepeak]]         |
-| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Vostin The Mighty.md\|Vostin The Mighty]]        | Human | [[Locations & NPCs/Cities & Towns/Goslow/Goslow.md\|Goslow]]                | [[Locations & NPCs/Cities & Towns/Goslow/Locations/Duskpoint.md\|Duskpoint]]         |
-
+```dataview
+TABLE WITHOUT ID file.link AS "Name", Race, Location, Building
+FROM #NPC
+WHERE contains(Faction, link(this.file.name))
+SORT file.name ASC
+```
 <!-- foundry-ignore-end -->

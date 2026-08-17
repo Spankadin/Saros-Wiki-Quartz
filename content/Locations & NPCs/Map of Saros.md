@@ -1,5 +1,4 @@
 ---
-publish: true
 title: Map of Saros
 description: A full-resolution player map of the realm of Saros.
 aliases:
@@ -9,13 +8,18 @@ tags:
   - Lore
   - Map
   - Published
+ccType: entry
+ccId: entry-map-of-saros
+publish: true
 ---
 
 The realm stretches from [[Caelum's End]] in the frozen north to [[Grymswatch]] on the southern coast, with the roads, waters, cities, and wild frontiers of Saros between them.
 
-This is the map [[Perla Mudridge|Perla]] commissioned for display in [[The Toad]]. The artist did not possess precise measurements of the entire land, so coastlines, waterways, and relative distances are a useful traveler's overview rather than an exact representation of Saros's true scale. For play, treat each small hex as approximately **5 miles** across and each large hex, composed of smaller hexes, as approximately **30 miles** across. See [[Saros - Distances, Travel, Trade, and Population|distances, travel, trade, and population]] for route estimates and the map's allowance for cartographic error.
+This is the map [[Perla Mudridge|Perla]] commissioned from [[Steev'rix the Explorer]] for display in [[The Toad]]. Steev'rix did not possess precise measurements of the entire land, so coastlines, waterways, and relative distances are a useful traveler's overview rather than an exact survey. He later disappeared after speaking publicly about a tip that might lead to the dwarves' legendary **Deep Jewel**.
 
-Use the full-resolution view to inspect the map closely. On a phone or tablet, pinch to zoom; on a computer, use the browser's zoom controls after opening the image.
+For play, treat each small hex as approximately **5 miles** across and each large hex, composed of smaller hexes, as approximately **30 miles** across. See [[Saros - Distances, Travel, Trade, and Population|distances, travel, trade, and population]] for route estimates and the map's allowance for cartographic error.
+
+Use the viewer below to pan, zoom, reset, or enter fullscreen. The full-resolution image remains available as a fallback.
 
 <p class="saros-map-actions">
   <a class="saros-map-open" href="/rules--and--tables--and--tools/z-attachments/saros-image-2.webp" target="_blank" rel="noopener noreferrer">Open the full-resolution map in a new tab</a>

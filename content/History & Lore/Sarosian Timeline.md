@@ -1,16 +1,20 @@
 ---
-publish: true
-aliases:
-  - Timeline of Saros
-  - Saros Timeline
-  - Years After Arrival
 title: Sarosian Timeline
-created: 2026-08-10T09:52:26.466Z
-modified: 2026-08-14T09:50:43.100Z
+ccType: entry
+ccId: entry-sarosian-timeline
+aliases:
+- Timeline of Saros
+- Saros Timeline
+- Years After Arrival
 tags:
-  - Lore
-  - History
-  - Published
+- Lore
+- History
+- Published
+ccTags:
+- Lore
+- History
+- Population
+publish: true
 ---
 
 The [[Sarosian Timeline]] organizes the known history in [[Ages of Saros]] and gives the Third Age a working demographic scale. Dates in the modern record are measured **After Arrival (AA)**, beginning when [[Caelum]]'s wish carried the Wanderers from Mystara to Saros.
@@ -94,7 +98,7 @@ The Second Age begins with the first humanoid civilizations that can be recogniz
 
 - Human tribes established permanent farming settlements and river communities.
 - Elves discovered, mapped, and cultivated portions of the [[Fey-Lines]].
-- The [[Khaz'um]], remembered as the First Dwarves, explored deep mineral regions.
+- The [[Dun'gan]], remembered as the First Dwarves, explored deep mineral regions.
 - [[The Wandering]] produced new dwarven holds and the later clan traditions.
 - Magic spread faster than the customs needed to govern its use.
 - Regional rulers reused First Age sites without understanding all of them.
@@ -117,7 +121,7 @@ The final centuries produced overlapping disasters rather than one clean war.
 - The dead later associated with [[Blackwater Bog]] accumulated in wars no surviving record fully explains.
 - The enormous burial complexes of [[The Urmong Barrows]] received soldiers, nobles, healers, weapons, and dangerous sealed remnants.
 - Dwarven wealth and secrecy deepened after [[The Great Betrayal]].
-- [[The Scattering]] drove the surviving [[Khaz'armok]] houses toward [[The Glimmering Expanse]].
+- [[The Scattering]] drove the surviving [[Dun'armok]] houses toward [[The Glimmering Expanse]].
 - Delves were sealed, abandoned, lost, or cut off from one another.
 - Elven populations withdrew from open political life.
 - Roads failed, fields reverted to wilderness, and surviving settlements became isolated.
@@ -177,7 +181,7 @@ Stable towns and local governments appeared. Caelum's influence spread along roa
 - The earliest durable guilds formed around merchants, builders, sailors, and craftspeople.
 - Native Sarosian families entered the new civic and commercial elite.
 - Predecessor companies of [[The Aegis Legion]] guarded roads, stores, and expeditions.
-- Formal contact with [[Thar'um]] holds reopened limited dwarven trade.
+- Formal contact with [[Dun'zod]] holds reopened limited dwarven trade.
 - Local law remained more important than distant proclamations outside the principal routes.
 
 ### Population
@@ -312,7 +316,7 @@ Farmers leave the walls to work during daylight and return before dark. Isolated
 
 ## Present Distribution
 
-The currently named settlements in [[Major Cities, Towns, and Ports]] account for approximately **73,600** permanent residents, including the Thar'um stronghold of [[Dun Karag]]. The rest live in places too small, hidden, mobile, contested, or numerous for the continental map.
+The currently named settlements in [[Major Cities, Towns, and Ports]] account for approximately **73,600** permanent residents, including the Dun'zod stronghold of [[Dun Karag]]. The rest live in places too small, hidden, mobile, contested, or numerous for the continental map.
 
 | Settlement Pattern | Approximate Population |
 | --- | ---: |

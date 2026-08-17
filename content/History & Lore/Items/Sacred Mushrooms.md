@@ -1,14 +1,17 @@
 ---
-publish: true
-aliases:
-  - sacred mushrooms
 title: Sacred Mushrooms
-created: 2026-08-08T11:56:32.839Z
-modified: 2026-08-08T11:56:12.907Z
+ccType: entry
+ccId: entry-sacred-mushrooms
+aliases:
+- sacred mushrooms
 tags:
-  - Item
-  - Lore
-  - Published
+- Item
+- Lore
+- Published
+ccTags:
+- Ritual
+- Divination
+publish: true
 ---
 
 **Sacred mushrooms** are a broad name used for several rare fungi employed in certain Sarosian divination practices.

@@ -1,11 +1,21 @@
 ---
-publish: true
 title: Ambassador Skylark
-created: 2024-12-24T09:01:20.671Z
-modified: 2026-08-08T11:56:14.860Z
+ccType: npc
+ccId: npc-ambassador-skylark
+Race: Elf
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Pyrris]]"
+Building: "[[The Radiant Citadel]]"
+Faction:
+- "[[The Queen's Council]]"
+Role: Envoy of Public Relations — Queen's Hand
+ccTags:
+- Envoy of Public Relations — Queen's Hand
+ccAssociates: []
+publish: true
 ---
 
 [[Ambassador Skylark|Leonora Skylark]] is the diplomatic and public-facing member of [[The Queen's Council]].

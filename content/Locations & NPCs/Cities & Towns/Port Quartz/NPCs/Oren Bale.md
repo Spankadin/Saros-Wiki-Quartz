@@ -1,11 +1,22 @@
 ---
-publish: true
 title: Oren Bale
-created: 2026-08-07T03:53:05.613Z
-modified: 2026-08-08T11:56:14.983Z
+ccType: npc
+ccId: npc-oren-bale
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Port Quartz]]"
+Building: "[[Westwater Ferry]]"
+Faction:
+- "[[Mooring Council]]"
+Role: Ferrymaster
+ccTags:
+- Ferrymaster
+- Riverfolk
+ccAssociates: []
+publish: true
 ---
 
 [[Oren Bale]] is the senior ferrymaster at [[Westwater Ferry]] in [[Port Quartz]].

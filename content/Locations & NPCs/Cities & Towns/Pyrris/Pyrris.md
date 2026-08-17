@@ -1,13 +1,27 @@
 ---
-publish: true
 title: Pyrris
-created: 2025-01-28T08:59:18.249Z
-modified: 2026-08-14T09:49:08.944Z
+ccType: region
+ccId: region-pyrris
+aliases: []
 tags:
-  - Town
-  - City
-  - Capital
-  - Published
+- Town
+- City
+- Capital
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "71.109"
+Government: The Crown of Saros
+Leader: "[[Queen Amara]]"
+Population: 1100
+ccTags:
+- Town
+- City
+- Capital
+publish: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Pyrris]] is the capital of [[A Brief Saros History|Saros]], but it is not a large conventional city. It is a fortified royal settlement built atop an immense sheer cliff overlooking [[Bishop's Bay]], centered almost entirely around [[The Radiant Citadel]].
@@ -36,7 +50,7 @@ The cliffs also descend directly into Bishop's Bay. Crown and Legion patrols mai
 
 ## Travel and Supply
 
-The High Road route from [[Goslow]] is approximately **35-40 miles**. It takes about 2 days on foot, 2-3 days by loaded wagon, or 1 very long day to 2 days mounted. A griffin can make the journey in roughly 2-3 hours.
+The High Road route from [[Goslow]] is approximately **40–45 miles**. It takes 2–3 days on foot, 3–4 days by loaded wagon, or 1.5–2 days mounted. A rare griffin rider can cross the distance in hours, but griffins are not an ordinary passenger or courier service.
 
 Food arriving from Goslow includes grain, vegetables, livestock products, and preserved seafood from [[Bishop's Bay]]. The cost and difficulty of moving every ordinary necessity up the cliff are major reasons Pyrris remains a small fortress-capital.
 
@@ -65,16 +79,11 @@ The city's small permanent population means the capital functions more like an e
 - [[The High Road]] — the public road connecting Pyrris to the Goslow region
 
 <!-- foundry-ignore-start -->
-
 #### NPCs Found Here
-
-| NPC                                                                                             | Race     | Building                                                                                         | Factions                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Ambassador Skylark.md\|Ambassador Skylark]]       | Elf      | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Archmage Starweaver.md\|Archmage Starweaver]]     | Elf      | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/General Ironclad.md\|General Ironclad]]           | Human    | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/Stonepeak.md\|Stonepeak]]                     | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]], [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Gormley.md\|Gormley]]                             | Halfling | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] |                                                                                                                                                                   |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Lord Goldhaven.md\|Lord Goldhaven]]               | Human    | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Spymaster Shadowcloak.md\|Spymaster Shadowcloak]] | Drow     | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
-
+```dataview
+TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
+FROM #NPC
+WHERE Location = link(this.file.name)
+SORT file.name ASC
+```
 <!-- foundry-ignore-end -->

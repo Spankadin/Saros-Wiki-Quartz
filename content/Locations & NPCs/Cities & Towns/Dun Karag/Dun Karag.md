@@ -1,30 +1,38 @@
 ---
-publish: true
-aliases:
-  - The Northern Gate
-  - Karag Gate
 title: Dun Karag
-created: 2026-08-10T09:39:43.106Z
-modified: 2026-08-14T09:50:10.390Z
+ccType: region
+ccId: region-dun-karag
+aliases:
+- The Northern Gate
+- Karag Gate
 tags:
-  - Stronghold
-  - Dwarves
-  - Published
+- Stronghold
+- Dwarves
+- Published
+Region: "[[The Masys Mountains]]"
+Hex: "53.85"
+Government: "[[Dun'zod]] Hold Council"
+Leader: ''
+Population: 900
+ccTags:
+- Stronghold
+- Dwarven
+publish: true
 ---
 
-[[Dun Karag]] is a [[Thar'um]] stronghold at Hex 53.85, where the road north from [[Skaggerty]] reaches [[The Masys Mountains]]. Its gates control the maintained passage under and through the range toward [[Caelum's End]].
+[[Dun Karag]] is a [[Dun'zod]] stronghold at Hex 53.85, where the road north from [[Skaggerty]] reaches [[The Masys Mountains]]. Its gates control the maintained passage under and through the range toward [[Caelum's End]].
 
 It is the last settled civilization before the cold, dead north.
 
 ## The Northern Gate
 
-The Thar'um maintain avalanche walls, tunnel lamps, bridgeworks, way-markers, ventilation shafts, and refuge chambers along the mountain passage. They also close the road without apology when weather, monsters, or deeper dangers make travel suicidal.
+The Dun'zod maintain avalanche walls, tunnel lamps, bridgeworks, way-markers, ventilation shafts, and refuge chambers along the mountain passage. They also close the road without apology when weather, monsters, or deeper dangers make travel suicidal.
 
 Anyone determined to go north must deal with the hold. Travelers are questioned about purpose, provisions, weapons, and expected return. Passage may require a toll, a guide, repair work, news from the south, or a sworn promise to leave sealed doors alone.
 
 ## Travel and Connections
 
-The maintained southern road descends toward [[Skaggerty]]. Northward, the Thar'um-controlled passage continues through [[The Masys Mountains]] toward [[Caelum's End]]. Weather, closures, and required guides matter more than a simple mileage estimate, and no dependable commercial travel time has yet been fixed.
+The maintained southern road descends toward [[Skaggerty]]. Northward, the Dun'zod-controlled passage continues through [[The Masys Mountains]] toward [[Caelum's End]]. Weather, closures, and required guides matter more than a simple mileage estimate, and no dependable commercial travel time has yet been fixed.
 
 See [[Saros - Distances, Travel, Trade, and Population]] for the current map scale and overland assumptions.
 
@@ -36,7 +44,7 @@ The hold trades with Saros but does not recognize Crown officers as commanders w
 
 ## Deepmantle Ale
 
-Dun Karag produces **Deepmantle Ale**, a dark, cold-fermented ale aged in stone-lined vaults. Many drinkers call it the finest ale in Saros. Genuine casks bear a Thar'um chisel mark under the bung, a detail frequently missed by southern counterfeiters.
+Dun Karag produces **Deepmantle Ale**, a dark, cold-fermented ale aged in stone-lined vaults. Many drinkers call it the finest ale in Saros. Genuine casks bear a Dun'zod chisel mark under the bung, a detail frequently missed by southern counterfeiters.
 
 ## Character
 

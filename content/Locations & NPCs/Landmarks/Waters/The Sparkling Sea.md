@@ -1,21 +1,28 @@
 ---
-publish: true
 title: The Sparkling Sea
-created: 2025-01-28T08:08:02.560Z
-modified: 2026-08-08T11:56:13.745Z
+ccType: entry
+ccId: entry-the-sparkling-sea
+aliases: []
 tags:
-  - Landmark
-  - Water
-  - Published
+- Landmark
+- Water
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "Multiple (western coast)"
+LandmarkType: Sea
+ccTags:
+- Landmark
+- Sea
+publish: true
 ---
 
-[[The Sparkling Sea]] borders the eastern side of [[A Brief Saros History|Saros]].
+[[The Sparkling Sea]] borders the western side of [[A Brief Saros History|Saros]].
 
 In clear weather, mineral-rich shallows and bright sunlight give portions of the water a glittering appearance that inspired the name.
 
-Eastern settlements such as [[Rore]] and [[Ari]] rely on the sea for fishing, coastal trade, and travel.
+Western settlements such as [[Kylor]] and [[Goslow]] rely on the sea and its connected bays for fishing, coastal trade, and travel.
 
-The same routes also attract smugglers and pirates, especially farther south toward [[Karastos]].
+The same routes also attract smugglers, wreckers, and pirates along less-patrolled reaches.
 
 ## Sailing
 
@@ -23,4 +30,4 @@ The sea's pleasant name does not mean harmless water.
 
 Seasonal storms, reefs, piracy, and long stretches without a protected harbor make coastal knowledge valuable.
 
-Captains traveling toward [[Rore]], [[Ari]], or the southern waters near [[Karastos]] pay close attention to local pilots and weather signs.
+Captains traveling toward [[Kylor]], [[Bishop's Bay]], or the rough northern shores pay close attention to local pilots and weather signs.

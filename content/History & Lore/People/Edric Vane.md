@@ -1,13 +1,21 @@
 ---
-publish: true
 title: Edric Vane
-created: 2026-08-06T22:24:02.741Z
-modified: 2026-08-10T09:38:52.756Z
+ccType: npc
+ccId: npc-edric-vane
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - History
-  - Explorer
-  - Published
+- NPC
+- History
+- Explorer
+- Published
+Location: "[[Port Quartz]]"
+Faction: []
+ccTags:
+- History
+- Explorer
+ccAssociates: []
+publish: true
 ---
 
 [[Edric Vane]] led one of the best-known expeditions from [[Port Quartz]] toward [[The Masys Mountains]] centuries ago.

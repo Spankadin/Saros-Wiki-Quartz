@@ -1,16 +1,26 @@
 ---
-publish: true
 title: The Storm Runner
-created: 2026-08-07T06:36:23.806Z
-modified: 2026-08-08T11:56:15.437Z
+ccType: entry
+ccId: entry-the-storm-runner
+aliases: []
 tags:
-  - Ship
-  - Published
+- Ship
+- Published
+Region: "[[Goslow]]"
+Hex: "67.103"
+ccTags:
+- Ship
+- Transport
+publish: true
 ---
 
 [[The Storm Runner]] is a small troop transport captained by [[Mirken Stanton]] and navigated by [[Breelyn]].
 
 The vessel carries a working crew of roughly one hundred and has a reputation for surviving coastal and river voyages that more cautious captains decline.
+
+On the [[Goslow]]–[[Port Quartz]] run, the crew can sail and tack when the wind favors them, then cordelle from prepared banks, warp between hauling posts, kedge with the ship's boats, or tow through difficult approaches. None of this is effortless: working upriver consumes crew, reduces useful cargo or troop capacity, and can force the ship to wait on wind or current.
+
+A normal passage to Port Quartz takes about **5–8 days upstream** and **2–4 days returning downstream**. A practical round trip is **10–16 days** once loading and ordinary weather are included.
 
 ## Crew
 

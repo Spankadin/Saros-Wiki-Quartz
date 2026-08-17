@@ -1,12 +1,18 @@
 ---
-publish: true
 title: Duskpoint
-created: 2024-08-22T01:08:46.235Z
-modified: 2026-08-14T09:44:53.680Z
+ccType: entry
+ccId: entry-duskpoint
+aliases: []
 tags:
-  - Building
-  - Garrison
-  - Published
+- Building
+- Garrison
+- Published
+Region: "[[Goslow]]"
+Hex: "67.103"
+ccTags:
+- Building
+- Garrison
+publish: true
 ---
 
 [[Duskpoint]] is the main [[The Aegis Legion|Aegis Legion]] garrison serving [[Goslow]] and the surrounding roads.
@@ -31,10 +37,10 @@ Duskpoint lies outside the city walls rather than at the civic center.
 
 That separation reflects an important distinction: the Legion is extraordinarily powerful in Goslow, but it is not the same institution as the city's civil government.
 
-Vostin's griffin patrols regularly depart from Duskpoint toward [[Pyrris]], [[The High Road]], and the roads around the bay.
+During serious threats, one of Duskpoint's few griffin pairs may depart toward [[Pyrris]], [[The High Road]], or the roads around the bay. Ordinary coverage comes from foot and mounted patrols.
 
 ## Griffin Roost
 
-The roost supports the bonded companions of [[Griffin Riders]], not a pool of interchangeable mounts. Riders and griffins are quartered close together, and every patrol pair maintains its own tack, habits, feeding routine, and resting space.
+The small roost supports the bonded companions of a few [[Griffin Riders]], not a pool of interchangeable mounts. Riders and griffins are quartered close together, and every pair maintains its own tack, habits, feeding routine, and resting space.
 
 The animals' food requirements make the roost one of Duskpoint's largest recurring expenses. Fishing contracts, livestock offal, butchers, handlers, drainage crews, and secure storage tie the garrison directly to [[Goslow]]'s harbor and markets.

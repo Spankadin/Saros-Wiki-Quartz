@@ -261,6 +261,100 @@ body[data-slug="locations--and--npcs/map-of-saros"] article img[src*="saros-imag
   box-shadow: 0 0.8rem 2rem rgb(0 0 0 / 22%);
 }
 
+.saros-map-viewer {
+  margin: 1.25rem 0 2rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 55%, transparent);
+  border-radius: 0.7rem;
+  background: color-mix(in srgb, var(--light) 88%, var(--secondary) 12%);
+  box-shadow: 0 0.8rem 2rem rgb(0 0 0 / 22%);
+  overflow: hidden;
+
+  &:fullscreen {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+    background: var(--light);
+
+    .saros-map-viewport {
+      flex: 1 1 auto;
+      height: auto;
+      max-height: none;
+    }
+  }
+}
+
+.saros-map-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.55rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--secondary) 38%, transparent);
+
+  button {
+    min-height: 2.1rem;
+    padding: 0.35rem 0.65rem;
+    border: 1px solid color-mix(in srgb, var(--secondary) 58%, var(--lightgray) 42%);
+    border-radius: 0.4rem;
+    background: color-mix(in srgb, var(--light) 82%, var(--secondary) 18%);
+    color: var(--darkgray);
+    font: inherit;
+    font-size: 0.82rem;
+    font-weight: 700;
+    cursor: pointer;
+
+    &:hover,
+    &:focus-visible {
+      background: var(--secondary);
+      color: var(--light);
+    }
+  }
+}
+
+.saros-map-status {
+  margin-left: auto;
+  padding: 0 0.35rem;
+  color: var(--gray);
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+}
+
+.saros-map-viewport {
+  position: relative;
+  height: min(72vh, 52rem);
+  min-height: 24rem;
+  background: #17242b;
+  cursor: grab;
+  overflow: hidden;
+  touch-action: none;
+  user-select: none;
+
+  &.is-dragging {
+    cursor: grabbing;
+  }
+
+  &:focus-visible {
+    outline: 3px solid var(--tertiary);
+    outline-offset: -3px;
+  }
+
+  img[src*="saros-image-2"] {
+    display: block;
+    width: 100%;
+    max-width: none;
+    height: auto;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    transform-origin: 0 0;
+    will-change: transform;
+  }
+}
+
 footer a[href*="about-saros"] {
   font-weight: 700;
 }
@@ -274,7 +368,9 @@ h2#settlements-and-their-people + p + .table-container > table {
   }
 
   th:nth-child(2),
-  td:nth-child(2) {
+  td:nth-child(2),
+  th:nth-child(3),
+  td:nth-child(3) {
     white-space: nowrap;
   }
 }
@@ -402,10 +498,14 @@ body[data-slug$="/index"] li.section-li {
       }
 
       &:nth-child(2)::before {
-        content: "Population";
+        content: "Hex";
       }
 
       &:nth-child(3)::before {
+        content: "Population";
+      }
+
+      &:nth-child(4)::before {
         content: "Notable people";
       }
     }

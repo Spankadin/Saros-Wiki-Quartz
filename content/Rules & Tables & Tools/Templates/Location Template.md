@@ -1,11 +1,17 @@
 ---
-publish: true
 title: Location Template
-created: 2026-06-20T09:40:53.867Z
-modified: 2026-08-08T11:56:16.178Z
+ccType: location
+ccId: location-name
+ccImage: null
+aliases: []
 tags:
-  - Dungeon
-  - Published
+- Dungeon
+- Published
+Region: "[[Region]]"
+Hex: null
+ccTags: []
+ccAssociates: []
+publish: true
 ---
 
 Use the Campaign Codex **Location** type for substantial explorable places that can contain entries and NPCs: dungeons, delves, fortress complexes, large ruins, and similar sites.

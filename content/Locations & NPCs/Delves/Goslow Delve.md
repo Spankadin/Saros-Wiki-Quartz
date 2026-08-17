@@ -1,14 +1,21 @@
 ---
-publish: true
 title: Goslow Delve
-created: 2025-02-04T02:48:03.962Z
-modified: 2026-08-08T11:56:13.965Z
+ccType: location
+ccId: location-goslow-delve
+Hex: "67.103"
+aliases: []
 tags:
-  - Delve
-  - Published
+- Delve
+- Published
+truname: null
+rfaction: null
+ccTags:
+- Delve
+publish: true
+location: "[[Goslow]]"
 ---
 
-Recently re-discovered and unsealed by an unknown source, a dwarf at [[The Toad|The Toad]] has been leading adventurers into the cave entrance to the [[Delves|Delve]] under the assumption that his original party is all but lost down there.
+Recently re-discovered and unsealed by an unknown source, a dwarf at [[The Toad|The Toad]] has been leading adventurers into the cave entrance to the [[Delves|Delve]] under the assumption that his original party is all but lost down there. 
 
 A party of adventurers thwarted [[The Prism]]'s attempt to open the 2nd level of the delve that was sealed by magic centuries ago.
 

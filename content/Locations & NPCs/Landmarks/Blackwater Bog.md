@@ -1,15 +1,22 @@
 ---
-publish: true
-aliases:
-  - The Bog
-  - Blackwater
 title: Blackwater Bog
-created: 2025-01-28T08:50:15.744Z
-modified: 2026-08-08T11:56:13.631Z
+ccType: entry
+ccId: entry-blackwater-bog
+aliases:
+- The Bog
+- Blackwater
 tags:
-  - Landmark
-  - Wetland
-  - Published
+- Landmark
+- Wetland
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "Multiple (southwestern Saros)"
+LandmarkType: Bog
+ccTags:
+- Landmark
+- Wetland
+- Battlefield
+publish: true
 ---
 
 [[Blackwater Bog]] is an enormous southern wetland whose dark water, drowned trees, and unstable ground conceal one of the great mass graves of the [[Ages of Saros|Second Age]].

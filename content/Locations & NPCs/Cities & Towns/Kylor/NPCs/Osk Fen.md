@@ -1,11 +1,18 @@
 ---
-publish: true
 title: Osk Fen
-created: 2026-08-07T06:36:23.838Z
-modified: 2026-08-08T11:56:14.276Z
+ccType: npc
+ccId: npc-osk-fen
+Race: Half-Orc
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Kylor]]"
+Building: "[[Blackpine Yard]]"
+Faction: []
+ccTags: []
+ccAssociates: []
+publish: true
 ---
 
 [[Osk Fen]] is a logging boss and forest pathfinder working out of [[Blackpine Yard]] in [[Kylor]].

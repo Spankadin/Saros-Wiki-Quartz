@@ -1,14 +1,20 @@
 ---
-publish: true
-aliases:
-  - Bishop Bay
 title: Bishop's Bay
-created: 2025-01-28T08:05:45.652Z
-modified: 2026-08-08T11:56:13.723Z
+ccType: entry
+ccId: entry-bishops-bay
+aliases:
+- Bishop Bay
 tags:
-  - Landmark
-  - Water
-  - Published
+- Landmark
+- Water
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+LandmarkType: Bay
+Hex: "Multiple (western bay)"
+ccTags:
+- Landmark
+- Bay
+publish: true
 ---
 
 [[Bishop's Bay]] is the broad sheltered water shared by [[Goslow]] and the towering cliffs beneath [[Pyrris]].
@@ -17,9 +23,9 @@ Its geography is one of the main reasons Goslow became the largest commercial ci
 
 ## Goslow
 
-Ships entering the bay approach Goslow through waters complicated by local rocks and shallows.
+The [[Breakwater Fingers]] shelter Goslow's inner docks but block every easy-looking direct approach. The only generally safe route into Goslow enters from the west and follows a channel known to local pilots.
 
-Large vessels may anchor farther out while smaller craft finish cargo and passenger runs toward the city.
+Large vessels wait for tide and weather, take on a pilot, or anchor farther out while lighters finish cargo and passenger runs. The difficult entrance supports signal crews, pilots, towboats, salvage workers, and chandlers.
 
 ## Pyrris
 

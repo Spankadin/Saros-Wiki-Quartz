@@ -1,23 +1,25 @@
 ---
-publish: true
-aliases:
-  - The Betrayal
-  - Great Betrayal
-  - Blood Feud
 title: The Great Betrayal
-created: 2025-02-15T09:58:00.580Z
-modified: 2026-08-14T09:44:00.788Z
+ccType: entry
+ccId: entry-the-great-betrayal
+aliases:
+- The Betrayal
+- Great Betrayal
+- Blood Feud
 tags:
-  - History
-  - Dwarves
-  - Published
+- History
+- Dwarves
+- Published
+ccTags:
+- Dwarven History
+publish: true
 ---
 
-[[The Great Betrayal]] was the civil war that shattered the [[Khaz'armok]] and drove its surviving houses toward [[The Glimmering Expanse]].
+[[The Great Betrayal]] was the civil war that shattered the [[Dun'armok]] and drove its surviving houses toward [[The Glimmering Expanse]].
 
 ## The Gem
 
-After [[The Wandering]], the leading Khaz'armok houses were closely allied and their elders were remembered as personal friends. Some traditions claim the houses had inherited custody of a discovery first made by the older [[Khaz'um]].
+After [[The Wandering]], the leading Dun'armok houses were closely allied and their elders were remembered as personal friends. Some traditions claim the houses had inherited custody of a discovery first made by the older [[Dun'gan]].
 
 That relationship ended over what later stories call the finest gem ever found in [[A Brief Saros History|Saros]]. Fragmentary accounts call it the **Deep Jewel**, but do not agree whether it was a portable stone, an exposed crystal face, an entire chamber, or a name for something less easily described.
 
@@ -35,6 +37,6 @@ Later histories usually say it was stolen. Dwarven versions are less certain: th
 
 ## Aftermath
 
-The feud destroyed or divided most known Khaz'armok holds. Stone-shapers, dune-breakers, and sand guides were driven toward [[The Glimmering Expanse]] during [[The Scattering]], where their later fate became one of Saros's great dwarven mysteries.
+The feud destroyed or divided most known Dun'armok holds. Stone-shapers, dune-breakers, and sand guides were driven toward [[The Glimmering Expanse]] during [[The Scattering]], where their later fate became one of Saros's great dwarven mysteries.
 
 Modern dwarven histories treat Khaz'dar as an obsolete name for one belligerent tradition, not as a surviving fourth clan.

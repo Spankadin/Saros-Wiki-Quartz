@@ -1,11 +1,21 @@
 ---
-publish: true
 title: Lord Goldhaven
-created: 2024-12-24T09:00:25.817Z
-modified: 2026-08-08T11:56:14.826Z
+ccType: npc
+ccId: npc-lord-goldhaven
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Pyrris]]"
+Building: "[[The Radiant Citadel]]"
+Faction:
+- "[[The Queen's Council]]"
+Role: Treasurer and Keeper of Wealth
+ccTags:
+- Treasurer and Keeper of Wealth
+ccAssociates: []
+publish: true
 ---
 
 [[Lord Goldhaven|Cedric Goldhaven]] is the Treasurer and Keeper of Wealth on [[The Queen's Council]].

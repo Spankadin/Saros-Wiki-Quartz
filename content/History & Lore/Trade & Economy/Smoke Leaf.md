@@ -1,15 +1,18 @@
 ---
-publish: true
-aliases:
-  - Smokeleaf
-  - Leaf
 title: Smoke Leaf
-created: 2026-08-10T09:39:39.472Z
-modified: 2026-08-10T09:39:39.472Z
+ccType: entry
+ccId: entry-smoke-leaf
+aliases:
+- Smokeleaf
+- Leaf
 tags:
-  - Trade
-  - Agriculture
-  - Published
+- Trade
+- Agriculture
+- Published
+ccTags:
+- Trade Good
+- Plant
+publish: true
 ---
 
 [[Smoke Leaf]] is an aromatic cultivated plant grown throughout Saros. Its dried leaves and flowers are smoked, steeped into bitter tea, or baked into small confections for relaxation, pain relief, appetite, and convivial use.

@@ -1,12 +1,18 @@
 ---
-publish: true
 title: Temple of Torm
-created: 2024-08-22T01:07:39.543Z
-modified: 2026-08-08T11:56:15.413Z
+ccType: entry
+ccId: entry-temple-of-torm
+aliases: []
 tags:
-  - Building
-  - Temple
-  - Published
+- Building
+- Temple
+- Published
+Region: "[[Goslow]]"
+Hex: "67.103"
+ccTags:
+- Building
+- Temple
+publish: true
 ---
 
 [[Temple of Torm]] is one of the most respected religious buildings in [[Goslow]], serving as a temple, library, place of counsel, and refuge.

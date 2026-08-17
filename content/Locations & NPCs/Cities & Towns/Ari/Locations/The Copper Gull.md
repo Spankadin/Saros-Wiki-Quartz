@@ -1,13 +1,20 @@
 ---
-publish: true
 title: The Copper Gull
-created: 2026-08-08T11:56:33.093Z
-modified: 2026-08-08T11:56:14.230Z
+ccType: entry
+ccId: entry-the-copper-gull
+aliases: []
 tags:
-  - Building
-  - Inn
-  - Tavern
-  - Published
+- Building
+- Inn
+- Tavern
+- Published
+Region: "[[Ari]]"
+Hex: "128.109"
+ccTags:
+- Building
+- Inn
+- Tavern
+publish: true
 ---
 
 [[The Copper Gull]] is a busy [[Ari]] inn shared by fishers, grain merchants, and prospectors. The common room displays ore samples beside mounted fish, and arguments about which profession lies more are never resolved.

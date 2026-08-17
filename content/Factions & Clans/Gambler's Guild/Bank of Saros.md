@@ -1,14 +1,17 @@
 ---
-publish: true
-aliases:
-  - Banks of Saros
 title: Bank of Saros
-created: 2026-08-10T09:52:25.170Z
-modified: 2026-08-10T09:52:25.170Z
+ccType: group
+ccId: group-bank-of-saros
+aliases:
+- Banks of Saros
 tags:
-  - Faction
-  - Bank
-  - Published
+- Faction
+- Bank
+- Published
+ccTags:
+- Banking
+- Gambler's Guild
+publish: true
 ---
 
 The [[Bank of Saros]] is not a separate chain of buildings. It is the banking network operated through every chartered [[Gambler's Guild]] hall.

@@ -1,11 +1,23 @@
 ---
-publish: true
 title: Mysha
-created: 2026-08-08T11:56:33.537Z
-modified: 2026-08-14T09:50:06.594Z
+ccType: region
+ccId: region-mysha
+aliases: []
 tags:
-  - Town
-  - Published
+- Town
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "92.167"
+Government: Woodward Council
+Leader: "[[Pellin Root]]"
+Population: 2500
+ccTags:
+- Town
+publish: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Mysha]] is a southern logging town set where river, forest, and open land meet. Halflings are especially common in the settlement, and many local families maintain stories connecting their ancestors to [[Lake Runa]].
@@ -51,11 +63,11 @@ The town relies on local wardens, organized work crews, and a militia accustomed
 - [[The Split Log]] — rough inn used by crews and river traders
 
 <!-- foundry-ignore-start -->
-
 #### NPCs Found Here
-
-| NPC                                                                        | Race     | Building                                                                      | Factions |
-| -------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------- | -------- |
-| [[Locations & NPCs/Cities & Towns/Mysha/NPCs/Pellin Root.md\|Pellin Root]] | Halfling | [[Locations & NPCs/Cities & Towns/Mysha/Locations/Runa House.md\|Runa House]] |          |
-
+```dataview
+TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
+FROM #NPC
+WHERE Location = link(this.file.name)
+SORT file.name ASC
+```
 <!-- foundry-ignore-end -->

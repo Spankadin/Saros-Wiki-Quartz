@@ -1,11 +1,16 @@
 ---
-publish: true
 title: The Black Ledger
-created: 2026-08-07T06:36:23.913Z
-modified: 2026-08-08T11:56:14.668Z
+ccType: entry
+ccId: entry-the-black-ledger
+aliases: []
 tags:
-  - Shop
-  - Published
+- Shop
+- Published
+Region: "[[Rore]]"
+Hex: "132.101"
+ccTags:
+- Shop
+publish: true
 ---
 
 [[The Black Ledger]] is a private brokerage house in [[Rore]] operated by [[Nessa Crowe]].

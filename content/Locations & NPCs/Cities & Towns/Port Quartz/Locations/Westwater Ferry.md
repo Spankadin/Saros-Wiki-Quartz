@@ -1,25 +1,31 @@
 ---
-publish: true
 title: Westwater Ferry
-created: 2026-08-07T03:53:05.594Z
-modified: 2026-08-10T09:38:56.242Z
+ccType: entry
+ccId: entry-westwater-ferry
+aliases: []
 tags:
-  - Landmark
-  - Ferry
-  - Published
+- Landmark
+- Ferry
+- Published
+Region: "[[Port Quartz]]"
+Hex: "81.95"
+LandmarkType: Ferry
+ccTags:
+- Landmark
+- Ferry
+- River
+publish: true
 ---
 
-[[Westwater Ferry]] is the principal western river crossing at [[Port Quartz]].
+[[Westwater Ferry]] is the working crossing between [[South Cataract Yard]] at hex **81.95** and [[North Cataract Yard]] at **82.94**.
 
-Heavy wagon ferries, smaller passenger boats, a fortified watch post, stables, equipment sellers, and a missing-person board surround the landing.
-
-[[Oren Bale]] is the senior ferrymaster.
+Low cargo ferries, smaller passenger boats, a fortified watch post, stables, equipment sellers, and a missing-person board surround the southern landing. [[Oren Bale]] is the senior ferrymaster.
 
 ## Routes
 
-Travelers arriving from [[Goslow]] or [[Kylor]] may use Westwater as part of ordinary regional travel.
+The ferry's first duty is moving casks, catch crews, tools, and salvage between the two yards. Workers on the northern bank return south before the suns set because the north landing has little shelter, no permanent neighborhood, and only limited protection from Port Quartz.
 
-People turning northwest toward [[The Masys Mountains]] also cross here, but the ferry should not be mistaken for the start of a safe road.
+Explorers turning northwest toward [[The Masys Mountains]] can also cross here, but the ferry should not be mistaken for the start of a safe road.
 
 The last fragments of maintained path soon give way to the trails collectively known as [[Surveyors' Step]].
 

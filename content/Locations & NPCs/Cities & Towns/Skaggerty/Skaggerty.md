@@ -1,11 +1,23 @@
 ---
-publish: true
 title: Skaggerty
-created: 2025-02-04T02:26:08.273Z
-modified: 2026-08-14T09:49:07.752Z
+ccType: region
+ccId: region-skaggerty
+aliases: []
 tags:
-  - Town
-  - Published
+- Town
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Government: Village Council
+Leader: "[[Mara Sedge]]"
+Population: 1200
+Hex: "62.99"
+ccTags:
+- Town
+publish: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Skaggerty]] is an agricultural market town of roughly twelve hundred residents near Hex 62.99, standing where routes toward [[Goslow]], [[Kylor]], and the northern road country separate.
@@ -22,15 +34,15 @@ The settlement is surrounded by fields worked close enough to town that farmers 
 
 Skaggerty primarily gathers, mills, stores, weighs, and exports grain and basic agricultural goods produced across its wider farm belt. The town's population does not represent every farmer whose crop is sold under the Skaggerty name.
 
-Inns, mills, granaries, teamsters, wagon services, and feed merchants benefit from the crossroads, but the town remains far less specialized than [[Goslow]] or [[Port Quartz]].
+Inns, mills, granaries, teamsters, wagon services, and feed merchants benefit from the crossroads. Managed coppices provide firewood, charcoal, fence posts, and ordinary construction timber, leaving [[Kylor]] to specialize in rare old-growth marine timbers.
 
 ## Travel and Connections
 
-[[Goslow]] lies roughly **40-55 road miles** away: 2-3 days walking, 3-4 days by loaded grain wagon, about 2 days mounted, or roughly 1 day for a fast courier.
+[[Goslow]] lies roughly **85–90 road miles** away: 4–5 days walking, 6–7 days by loaded grain wagon, or 3–4 days mounted. [[Kylor]] lies roughly **90–95 road miles** west: 5–6 days walking, 6–8 by wagon, or 3–4 mounted.
 
 Cargo intended for [[Port Quartz]] normally travels first to Goslow and is transferred to a ship. There is no ordinary safe commercial land route across the great rivers.
 
-The northern road continues toward [[Dun Karag]] and [[The Masys Mountains]], while local western routes connect toward [[Kylor]]. Exact mileages for those legs remain unsettled.
+The northern road continues toward [[Dun Karag]] and [[The Masys Mountains]]. Every ordinary road journey between Kylor and Goslow passes through Skaggerty, making its feed yards and repair shops important even when cargo does not change hands.
 
 See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route and population model.
 
@@ -45,13 +57,11 @@ A modest palisade, local militia, and the occasional Legion patrol provide ordin
 - [[Temple of Austerus]] — local temple overseen by [[Heldoren The Wise]]
 
 <!-- foundry-ignore-start -->
-
 #### NPCs Found Here
-
-| NPC                                                                                        | Race  | Building                                                                                                        | Factions                                                                    |
-| ------------------------------------------------------------------------------------------ | ----- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Heldoren The Wise.md\|Heldoren The Wise]] | Human | [[Locations & NPCs/Cities & Towns/Skaggerty/Locations/Temple of Austerus.md\|Temple of Austerus]]               |                                                                             |
-| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Mara Sedge.md\|Mara Sedge]]               | Human | [[Locations & NPCs/Cities & Towns/Skaggerty/Locations/The Crossroads Weighhouse.md\|The Crossroads Weighhouse]] |                                                                             |
-| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Simoon.md\|Simoon]]                       | Human | [[Locations & NPCs/Cities & Towns/Skaggerty/Locations/The Stout Fool.md\|The Stout Fool]]                       | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
-
+```dataview
+TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
+FROM #NPC
+WHERE Location = link(this.file.name)
+SORT file.name ASC
+```
 <!-- foundry-ignore-end -->

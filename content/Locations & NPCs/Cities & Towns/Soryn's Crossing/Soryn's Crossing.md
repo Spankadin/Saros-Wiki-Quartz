@@ -1,12 +1,25 @@
 ---
-publish: true
 title: Soryn's Crossing
-created: 2026-08-08T11:56:33.886Z
-modified: 2026-08-14T09:50:07.206Z
+ccType: region
+ccId: region-soryn-s-crossing
+aliases: []
 tags:
-  - Town
-  - Port
-  - Published
+- Town
+- Port
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "78.171"
+Government: Crossing Charter Council
+Leader: "[[Dalen Soryn]]"
+Population: 4800
+ccTags:
+- Town
+- Port
+publish: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Soryn's Crossing]] is the principal trade junction of southern Saros, positioned where roads and waterways allow goods to move in several directions without first hugging the outer coast.
@@ -54,11 +67,11 @@ The town maintains a professional watch and hires additional guards during major
 - [[Three Rivers Yard]] — secure caravan and freight compound
 
 <!-- foundry-ignore-start -->
-
 #### NPCs Found Here
-
-| NPC                                                                                   | Race  | Building                                                                                 | Factions                                                                    |
-| ------------------------------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [[Locations & NPCs/Cities & Towns/Soryn's Crossing/NPCs/Dalen Soryn.md\|Dalen Soryn]] | Human | [[Locations & NPCs/Cities & Towns/Soryn's Crossing/Locations/Soryn Hall.md\|Soryn Hall]] | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
-
+```dataview
+TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
+FROM #NPC
+WHERE Location = link(this.file.name)
+SORT file.name ASC
+```
 <!-- foundry-ignore-end -->

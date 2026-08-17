@@ -1,13 +1,24 @@
 ---
-publish: true
-aliases:
-  - Vostin
 title: Vostin The Mighty
-created: 2025-01-27T06:12:19.348Z
-modified: 2026-08-14T09:44:54.293Z
+ccType: npc
+ccId: npc-vostin-the-mighty
+Race: Human
+aliases:
+- Vostin
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Goslow]]"
+Building: "[[Duskpoint]]"
+Faction:
+- "[[The Aegis Legion]]"
+Role: Captain of Duskpoint
+ccTags:
+- Aegis Legion
+- Captain
+- Griffin Rider
+ccAssociates: []
+publish: true
 ---
 
 [[Vostin The Mighty]] commands the [[The Aegis Legion|Aegis Legion]] garrison at [[Duskpoint]] outside [[Goslow]].
@@ -27,10 +38,10 @@ Vostin oversees:
 - Duskpoint's garrison
 - Legion policing around Goslow
 - Patrols on the roads near the city
-- Griffin patrols throughout the Goslow–[[Pyrris]] region
+- Assignment of the garrison's few griffin pairs during serious threats
 - Military coordination with the approaches to [[The High Road]]
 
-He is often seen in the air with a small griffin-mounted guard.
+He takes to the air only when speed or an aerial view justifies risking one of Duskpoint's rare pairs. His appearance overhead is memorable precisely because it is uncommon.
 
 ## Griffin Bond
 

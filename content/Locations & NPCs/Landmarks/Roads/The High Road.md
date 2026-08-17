@@ -1,14 +1,20 @@
 ---
-publish: true
-aliases:
-  - High Road
 title: The High Road
-created: 2025-02-24T05:50:56.242Z
-modified: 2026-08-08T11:56:13.790Z
+ccType: entry
+ccId: entry-the-high-road
+aliases:
+- High Road
 tags:
-  - Landmark
-  - Road
-  - Published
+- Landmark
+- Road
+- Published
+Region: "[[Pyrris]]"
+Hex: "67.103–71.109"
+LandmarkType: Road
+ccTags:
+- Landmark
+- Road
+publish: true
 ---
 
 [[The High Road]] is the enormous switchback road climbing from the [[Goslow]] region to [[Pyrris]] atop the cliffs above [[Bishop's Bay]].
@@ -17,9 +23,7 @@ It is the only normal public route into the capital.
 
 ## Travel
 
-The climb is long enough that a journey between Goslow and Pyrris can consume most of a day even under good conditions.
-
-Loaded wagons move more slowly.
+The switchback route covers approximately **40–45 miles**. It normally takes 2–3 days on foot, 3–4 days by loaded wagon, or 1.5–2 days mounted.
 
 Bad weather, inspections, damaged road sections, or heavy traffic can extend the trip considerably.
 

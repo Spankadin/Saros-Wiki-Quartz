@@ -1,14 +1,26 @@
 ---
-publish: true
 title: Lilya
-created: 2026-08-07T06:36:23.843Z
-modified: 2026-08-14T09:49:31.931Z
+ccType: region
+ccId: region-lilya
+aliases: []
 tags:
-  - Town
-  - Published
+- Town
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Government: "[[Stone Council]]"
+Leader: "[[Maela Torr]]"
+Population: 3800
+Hex: "106.81"
+ccTags:
+- Town
+publish: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
-[[Lilya]] presses against the lower slopes of [[The Silvervein Summits]], built as close to the mountain as its miners can safely live. Retaining walls, ore yards, smoke stacks, hoists, steep streets, and tunnel mouths make the town appear wedged into the range rather than placed beside it.
+[[Lilya]] presses into the lower slopes of [[The Silvervein Summits]] at hex **106.81**. Lower terraces hold docks, warehouses, cooperages, and ore yards; middle terraces carry homes, retaining walls, and avalanche sheds; upper terraces reach the adits, cranes, furnaces, and foundries. The town appears built into the range rather than placed beside it.
 
 Its reason for existing is simple: the mountain pays.
 
@@ -38,15 +50,17 @@ Lilya exports:
 - Deep-earth materials
 - Durable goods prepared for the [[Fall Casks|fall-cask trade]]
 
-Most ordinary freight moves south by road to [[Trystn]], where it can continue toward [[Port Quartz]] or [[Rore]].
+Most ordinary freight moves south by road to [[Trystn]], where it can continue toward [[Port Quartz]] or [[Rore]]. Broad-beamed lake boats and rafts carry fall casks, fuel, and working cargo across [[Lake of Lament]].
+
+Lilya also maintains a harsh seasonal fuel outpost near [[The Greyweald]]. Only the hardiest cutters and guards live there. Its dense bentwood produces a fierce, even charcoal that Lilyan smelters prize for high furnace temperatures, though workers sometimes report oddly colored ash, shared dreams, or finished metal that holds heat too long.
 
 ## Travel and Connections
 
-[[Trystn]] lies roughly **60-70 road miles** away: 3-4 days walking, 4-5 days by heavy wagon, or 2-3 days mounted.
+[[Trystn]] lies roughly **110–125 road miles** away: 6–8 days walking, 8–12 days by heavy wagon, or 4–6 days mounted.
 
-The full safe route to [[Port Quartz]] runs through Trystn and covers approximately **110-120 road miles**. It takes about 6 days walking, 7-9 days by heavy commercial wagon, or roughly 4 days mounted. A direct griffin journey can be made in about a day.
+The full safe road to [[Port Quartz]] runs through Trystn and covers approximately **235–265 miles**. It takes roughly 13–17 days walking, 17–24 days by heavy commercial wagon, or 8–12 days mounted. Near hex **105.84**, the final twenty miles narrow to a cart road with passing places; rockfalls and snow can close it for days or weeks.
 
-Ore, stone, and finished mineral goods move downhill. Food, feed, timber, tools, and mine supplies move north. See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
+The lake route runs roughly **85 miles** west to [[Great Fall]] at **89.84**, normally 3–5 days for a loaded convoy. [[Fall Casks]] make this route vital when the road closes. Ore, stone, and finished mineral goods move outward; food, feed, ordinary timber, tools, and mine supplies move inward. See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
 
 ## Security
 
@@ -71,13 +85,11 @@ A disaster below ground is often more dangerous than an enemy outside the walls.
 The oldest and deepest workings around Lilya overlap with forgotten dwarven construction whose full extent is no longer understood.
 
 <!-- foundry-ignore-start -->
-
 #### NPCs Found Here
-
-| NPC                                                                          | Race  | Building                                                                                  | Factions                                             |
-| ---------------------------------------------------------------------------- | ----- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Garran Flint.md\|Garran Flint]] | Dwarf | [[Locations & NPCs/Cities & Towns/Lilya/Locations/The Silver Gate.md\|The Silver Gate]]   |                                                      |
-| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Maela Torr.md\|Maela Torr]]     | Human | [[Locations & NPCs/Cities & Towns/Lilya/Locations/Stonewake Hall.md\|Stonewake Hall]]     | [[Factions & Clans/Stone Council.md\|Stone Council]] |
-| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Ysra Pell.md\|Ysra Pell]]       | Human | [[Locations & NPCs/Cities & Towns/Lilya/Locations/The Deep Lantern.md\|The Deep Lantern]] |                                                      |
-
+```dataview
+TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
+FROM #NPC
+WHERE Location = link(this.file.name)
+SORT file.name ASC
+```
 <!-- foundry-ignore-end -->

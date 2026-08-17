@@ -1,17 +1,24 @@
 ---
-publish: true
-aliases:
-  - Greyweald
-  - The Grey Wood
 title: The Greyweald
-created: 2026-08-10T09:39:40.783Z
-modified: 2026-08-10T09:39:40.783Z
+ccType: entry
+ccId: entry-the-greyweald
+aliases:
+- Greyweald
+- The Grey Wood
 tags:
-  - Landmark
-  - Forest
-  - Fey
-  - Haunted
-  - Published
+- Landmark
+- Forest
+- Fey
+- Haunted
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+LandmarkType: Forest
+Hex: "Multiple (north of Lake of Lament)"
+ccTags:
+- Landmark
+- Forest
+- Fey
+publish: true
 ---
 
 [[The Greyweald]] is the broad, ashen forest east of [[The Masys Mountains]], north of [[Lake of Lament]], and west of [[The Silvervein Summits]]. It is both haunted and deeply altered by fey magic.
@@ -39,3 +46,9 @@ Some spirits appear to be human dead. Others imitate human memory without unders
 Experienced travelers mark both sides of a tree, distrust straight trails, and never follow a familiar voice they cannot see. Iron bells, bread left at a fork, and sleeping with boots pointed outward are common precautions, though no custom works everywhere.
 
 The Greyweald is not a single curse with a known center. Scholars suspect overlapping [[Fey-Lines]], old violence, and centuries of isolation have created many smaller hauntings that now behave like one wilderness.
+
+## The Lilyan Fuel Outpost
+
+[[Lilya]] maintains a hard seasonal cutting outpost near the forest. Only the heartiest cutters, charcoal burners, boat crews, and guards remain there. The Greyweald's dense bentwood makes unusually hot, even charcoal prized by Lilyan smelters, so the settlement tolerates a supply line that would otherwise seem reckless.
+
+Workers sometimes bring back strange-colored ash, shared dreams, or stories of tools and finished metal remaining warm long after they should have cooled. Lilyan guilds attribute these reports to mineral impurities, exhaustion, and fear of the forest.

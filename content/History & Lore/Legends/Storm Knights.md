@@ -1,14 +1,17 @@
 ---
-publish: true
-aliases:
-  - Storm Knight
 title: Storm Knights
-created: 2025-01-27T08:31:55.615Z
-modified: 2026-08-08T11:56:12.850Z
+ccType: group
+ccId: group-storm-knights
+aliases:
+- Storm Knight
 tags:
-  - Legend
-  - Faction
-  - Published
+- Legend
+- Faction
+- Published
+ccTags:
+- Historical Faction
+- Second Age
+publish: true
 ---
 
 The [[Storm Knights]] were one of the great human powers of the [[Ages of Saros|Second Age]].

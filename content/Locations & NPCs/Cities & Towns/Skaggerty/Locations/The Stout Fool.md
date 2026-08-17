@@ -1,14 +1,19 @@
 ---
-publish: true
-aliases:
-  - The Stout Fool
 title: The Stout Fool
-created: 2024-12-06T07:03:04.095Z
-modified: 2026-08-08T11:56:15.714Z
+ccType: entry
+ccId: entry-the-stout-fool
+aliases:
+- The Stout Fool
 tags:
-  - Building
-  - Tavern
-  - Published
+- Building
+- Tavern
+- Published
+Region: "[[Skaggerty]]"
+Hex: "62.99"
+ccTags:
+- Building
+- Tavern
+publish: true
 ---
 
 Ran by [[Simoon]], a diminutive and unassuming human male with quite an intellect and a dark sense of humor. He lives above the Stout Fool in one of the only few available rooms.

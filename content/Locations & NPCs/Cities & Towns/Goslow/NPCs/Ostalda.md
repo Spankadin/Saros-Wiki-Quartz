@@ -1,11 +1,21 @@
 ---
-publish: true
 title: Ostalda
-created: 2025-02-04T02:45:10.437Z
-modified: 2026-08-08T11:56:15.342Z
+ccType: npc
+ccId: npc-ostalda
+Race: Half-Elf
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Goslow]]"
+Building: "[[Temple of Torm]]"
+Faction: []
+Role: Resident Sage
+ccTags:
+- Sage
+- Diviner
+ccAssociates: []
+publish: true
 ---
 
 [[Ostalda]] is the resident sage at [[Temple of Torm]] in [[Goslow]].

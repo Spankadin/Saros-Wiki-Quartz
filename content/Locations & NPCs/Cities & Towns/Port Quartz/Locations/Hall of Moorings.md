@@ -1,12 +1,18 @@
 ---
-publish: true
 title: Hall of Moorings
-created: 2026-08-07T03:53:05.584Z
-modified: 2026-08-08T11:56:15.141Z
+ccType: entry
+ccId: entry-hall-of-moorings
+aliases: []
 tags:
-  - Building
-  - Civic
-  - Published
+- Building
+- Civic
+- Published
+Region: "[[Port Quartz]]"
+Hex: "79.96"
+ccTags:
+- Building
+- Civic
+publish: true
 ---
 
 [[Hall of Moorings]] is the civic heart of [[Port Quartz]] and the usual workplace of [[Hesta Vane]] and the [[Mooring Council]].

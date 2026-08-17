@@ -1,19 +1,22 @@
 ---
-publish: true
-aliases:
-  - Saros
-  - Sarosian
-  - Daron
-  - Aiy-Vana
-  - The Realm
-  - Realm
 title: A Brief Saros History
-created: 2024-08-22T00:34:36.587Z
-modified: 2026-08-10T09:40:16.756Z
+ccType: entry
+ccId: entry-a-brief-saros-history
+aliases:
+- Saros
+- Sarosian
+- Daron
+- Aiy-Vana
+- The Realm
+- Realm
 tags:
-  - Lore
-  - History
-  - Published
+- Lore
+- History
+- Published
+ccTags:
+- Lore
+- History
+publish: true
 ---
 
 Just over **fourteen centuries ago**, the wizard [[Caelum]] made a desperate wish to save the remnants of his people from catastrophe in their former world of Mystara.

@@ -1,15 +1,23 @@
 ---
-publish: true
-aliases:
-  - Chibby
-  - Chib-Chib
-  - Chib-Chibs
 title: Chibs
-created: 2025-02-11T04:58:39.312Z
-modified: 2026-08-08T11:56:15.251Z
+ccType: npc
+ccId: npc-chibs
+Race: Penguin
+aliases:
+- Chibby
+- Chib-Chib
+- Chib-Chibs
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Goslow]]"
+Building: "[[The Sphinx's Spellbook]]"
+Faction: []
+Role: Shop Companion
+ccTags:
+- Animal Companion
+ccAssociates: []
+publish: true
 ---
 
 [[Chibs]] is the tiny penguin who lives with [[Mori]] above [[The Sphinx's Spellbook]] in [[Goslow]].

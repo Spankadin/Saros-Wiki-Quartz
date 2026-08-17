@@ -1,15 +1,21 @@
 ---
-publish: true
-aliases:
-  - The Expanse
-  - Glimmering Expanse
 title: The Glimmering Expanse
-created: 2025-01-28T08:26:56.963Z
-modified: 2026-08-08T11:56:13.667Z
+ccType: entry
+ccId: entry-the-glimmering-expanse
+aliases:
+- The Expanse
+- Glimmering Expanse
 tags:
-  - Landmark
-  - Desert
-  - Published
+- Landmark
+- Desert
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "Multiple (central Saros)"
+LandmarkType: Desert
+ccTags:
+- Landmark
+- Desert
+publish: true
 ---
 
 [[The Glimmering Expanse]] is the vast central desert separating much of northern and southern [[A Brief Saros History|Saros]].
@@ -51,11 +57,11 @@ On a map this can look like an obvious route.
 
 In practice, reaching and crossing it requires surviving the Expanse itself, and the route is considered nearly unusable.
 
-## Khaz'armok
+## Dun'armok
 
-Old stories claim the dwarven [[Khaz'armok]] once knew safe routes through the Expanse and may even have lived within it.
+Old stories claim the dwarven [[Dun'armok]] once knew safe routes through the Expanse and may even have lived within it.
 
-Modern Sarosians generally treat claims that Khaz'armok communities still survive there as tall tales.
+Modern Sarosians generally treat claims that Dun'armok communities still survive there as tall tales.
 
 ## The Great Sphinx
 

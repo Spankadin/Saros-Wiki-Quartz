@@ -1,11 +1,16 @@
 ---
-publish: true
 title: Salt Court
-created: 2026-08-07T06:36:23.911Z
-modified: 2026-08-08T11:56:14.658Z
+ccType: entry
+ccId: entry-salt-court
+aliases: []
 tags:
-  - Building
-  - Published
+- Building
+- Published
+Region: "[[Rore]]"
+Hex: "132.101"
+ccTags:
+- Building
+publish: true
 ---
 
 [[Salt Court]] is Rore’s neutral arbitration hall.

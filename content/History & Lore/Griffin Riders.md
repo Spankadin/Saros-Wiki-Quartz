@@ -1,21 +1,24 @@
 ---
-publish: true
-aliases:
-  - Griffin Rider
-  - Griffin Riding
 title: Griffin Riders
-created: 2026-08-14T09:44:52.463Z
-modified: 2026-08-14T09:52:08.088Z
+ccType: entry
+ccId: entry-griffin-riders
+aliases:
+- Griffin Rider
+- Griffin Riding
 tags:
-  - Lore
-  - Griffins
-  - Travel
-  - Published
+- Lore
+- Griffins
+- Travel
+- Published
+ccTags:
+- Griffins
+- Travel
+publish: true
 ---
 
 True [[Griffin Riders]] are bonded companions to their griffins rather than owners of interchangeable cavalry mounts.
 
-The [[The Aegis Legion|Aegis Legion]] maintains the most visible organized riders in modern Saros, but the tradition is not exclusive to the Crown. Riders of any faction normally follow the same dangerous path to [[Vy'Tungavor]].
+The [[The Aegis Legion|Aegis Legion]] maintains the most visible organized riders in modern Saros, but even its pairs are rare and strategically reserved. Many Sarosians have never seen a griffin close enough to identify its rider. The tradition is not exclusive to the Crown; riders of any faction normally follow the same dangerous path to [[Vy'Tungavor]].
 
 ## Claiming a Griffin
 
@@ -47,6 +50,6 @@ The rider's thighs straddle the torso and the legs rest naturally along the flan
 
 Mature griffins consume tremendous quantities of food. A working roost needs handlers, butchers or fishing contracts, drainage, secure resting space, tack repair, and room for safe takeoff and landing.
 
-This cost naturally limits their number. Griffins excel at scouting, patrol, command travel, and urgent communication, but cannot replace ships or wagons carrying bulk cargo.
+This cost naturally limits their number. Griffins excel at exceptional scouting, command travel, and urgent communication, but cannot provide routine patrol coverage or replace ships and wagons.
 
 Ordinary flight covers roughly **70–100 miles in a day** when weather and rest permit. An emergency courier may cover **120–150 miles**, but such exertion is not a sustainable daily routine. See [[Saros - Distances, Travel, Trade, and Population]] for the wider travel model.

@@ -1,11 +1,20 @@
 ---
-publish: true
 title: Faction Template
-created: 2026-08-08T11:56:34.533Z
-modified: 2026-08-08T11:56:16.168Z
+ccType: group
+ccId: group-faction-name
+ccImage: null
+aliases: []
 tags:
-  - Faction
-  - Published
+- Faction
+- Published
+ccTags:
+- Faction
+ccAssociates: []
+publish: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 Describe the faction's public identity, goals, methods, and place in [[Saros]].
@@ -19,10 +28,11 @@ Explain leadership, membership, and internal structure.
 Explain how ordinary people, rivals, and the Crown tend to view the faction.
 
 <!-- foundry-ignore-start -->
-
 #### Known NPCs
-
-| Name | Race | Location | Building |
-| ---- | ---- | -------- | -------- |
-
+```dataview
+TABLE WITHOUT ID file.link AS "Name", Race, Location, Building
+FROM #NPC
+WHERE contains(Faction, link(this.file.name))
+SORT file.name ASC
+```
 <!-- foundry-ignore-end -->

@@ -1,12 +1,18 @@
 ---
-publish: true
 title: Ani Watchhouse
-created: 2026-08-08T11:56:33.050Z
-modified: 2026-08-08T11:56:14.457Z
+ccType: entry
+ccId: entry-ani-watchhouse
+aliases: []
 tags:
-  - Building
-  - Fortification
-  - Published
+- Building
+- Fortification
+- Published
+Region: "[[Ani]]"
+Hex: "59.153"
+ccTags:
+- Building
+- Fortification
+publish: true
 ---
 
 [[Ani Watchhouse]] is the headquarters of the town watch and militia under [[Captain Lysa Dorn]]. Signal gear, reserve weapons, and Barrowgate duty rosters are kept here.

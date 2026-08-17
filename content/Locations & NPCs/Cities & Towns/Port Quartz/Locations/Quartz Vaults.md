@@ -1,12 +1,18 @@
 ---
-publish: true
 title: Quartz Vaults
-created: 2026-08-07T03:53:05.586Z
-modified: 2026-08-08T11:56:15.062Z
+ccType: entry
+ccId: entry-quartz-vaults
+aliases: []
 tags:
-  - Building
-  - Warehouse
-  - Published
+- Building
+- Warehouse
+- Published
+Region: "[[Port Quartz]]"
+Hex: "79.96"
+ccTags:
+- Building
+- Warehouse
+publish: true
 ---
 
 The [[Quartz Vaults]] are secure storage chambers cut into pale stone above the commercial waterfront of [[Port Quartz]].

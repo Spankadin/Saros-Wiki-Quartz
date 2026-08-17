@@ -1,11 +1,21 @@
 ---
-publish: true
 title: Hob
-created: 2025-02-06T09:22:08.559Z
-modified: 2026-08-08T11:56:15.274Z
+ccType: npc
+ccId: npc-hob
+Race: Elemental
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Goslow]]"
+Building: "[[The Toad]]"
+Faction: []
+Role: Bouncer and Cleaner
+ccTags:
+- Elemental
+- Bouncer
+ccAssociates: []
+publish: true
 ---
 
 [[Hob]] is an eight-foot-tall water elemental bound to [[The Toad]] in [[Goslow]].

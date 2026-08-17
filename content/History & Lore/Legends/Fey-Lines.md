@@ -1,16 +1,19 @@
 ---
-publish: true
-aliases:
-  - Feyline
-  - Fey-Line
-  - Fey Line
 title: Fey-Lines
-created: 2025-01-28T10:06:24.496Z
-modified: 2026-08-08T11:56:12.861Z
+ccType: entry
+ccId: entry-fey-lines
+aliases:
+- Feyline
+- Fey-Line
+- Fey Line
 tags:
-  - Lore
-  - Magic
-  - Published
+- Lore
+- Magic
+- Published
+ccTags:
+- Magic
+- Fey-Lines
+publish: true
 ---
 
 [[Fey-Lines]] are loosely connected streams of magical energy believed to flow beneath and through [[A Brief Saros History|Saros]].

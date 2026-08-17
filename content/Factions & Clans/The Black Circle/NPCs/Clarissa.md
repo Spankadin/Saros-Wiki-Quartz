@@ -1,11 +1,18 @@
 ---
-publish: true
 title: Clarissa
-created: 2025-02-06T09:30:46.950Z
-modified: 2026-08-08T11:56:13.489Z
+ccType: npc
+ccId: npc-clarissa
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Skaggerty]] (Region)"
+Faction:
+- "[[The Black Circle]]"
+ccTags: []
+ccAssociates: []
+publish: true
 ---
 
 [[Clarissa]] is a young human mage and known member of [[The Black Circle]].

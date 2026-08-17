@@ -1,11 +1,19 @@
 ---
-publish: true
 title: Jessa Marr
-created: 2026-08-07T06:36:23.948Z
-modified: 2026-08-08T11:56:14.062Z
+ccType: npc
+ccId: npc-jessa-marr
+Race: Halfling
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Trystn]]"
+Building: "[[The Axle and Bell]]"
+Faction:
+- "[[Merchant's Guild]]"
+ccTags: []
+ccAssociates: []
+publish: true
 ---
 
 [[Jessa Marr]] owns [[The Axle and Bell]], one of the busiest caravan inns in [[Trystn]].

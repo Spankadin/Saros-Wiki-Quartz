@@ -1,15 +1,21 @@
 ---
-publish: true
-aliases:
-  - Masys
-  - Masys Mountains
 title: The Masys Mountains
-created: 2025-01-28T08:50:22.289Z
-modified: 2026-08-10T09:38:53.477Z
+ccType: entry
+ccId: entry-the-masys-mountains
+aliases:
+- Masys
+- Masys Mountains
 tags:
-  - Landmark
-  - Mountain
-  - Published
+- Landmark
+- Mountain
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "Multiple (northern Saros)"
+LandmarkType: Mountain Range
+ccTags:
+- Landmark
+- Mountains
+publish: true
 ---
 
 [[The Masys Mountains]] form the remote northern range beyond the settled roads west and northwest of [[Port Quartz]]. At Hex 53.85, [[Dun Karag]] guards the maintained passage through the range toward [[Caelum's End]].

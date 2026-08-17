@@ -27,7 +27,7 @@ Keep the vault's normal, human-readable folder and note names. Spaces, hyphens, 
 
 Same-name folder notes are intentional. For example, `Dwarven Clans/Dwarven Clans.md` becomes the page for the `Dwarven Clans` folder in Quartz, while remaining a normal folder note in Obsidian. The small post-install compatibility patch in `scripts/patch-crawl-links.mjs` keeps short Obsidian links and local graph identities working after that conversion.
 
-The compact navigation header is supplied by the local `plugins/saros-navigation` component. It gives every published page direct access to Home, the map, cities and towns, factions, history, and the secure game server without adding a Home WikiLink to every vault note and overwhelming the relationship graph.
+The compact navigation header is supplied by the local `plugins/saros-navigation` component. It gives every published page direct access to Home, the interactive map, cities and towns, factions, history, useful links, and the secure game server without adding a Home WikiLink to every vault note and overwhelming the relationship graph.
 
 ## Local preview
 

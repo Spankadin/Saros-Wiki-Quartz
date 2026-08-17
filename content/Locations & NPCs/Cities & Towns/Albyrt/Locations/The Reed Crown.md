@@ -1,13 +1,20 @@
 ---
-publish: true
 title: The Reed Crown
-created: 2026-08-08T11:56:33.020Z
-modified: 2026-08-08T11:56:15.625Z
+ccType: entry
+ccId: entry-the-reed-crown
+aliases: []
 tags:
-  - Building
-  - Inn
-  - Tavern
-  - Published
+- Building
+- Inn
+- Tavern
+- Published
+Region: "[[Albyrt]]"
+Hex: "83.142"
+ccTags:
+- Building
+- Inn
+- Tavern
+publish: true
 ---
 
 [[The Reed Crown]] is a large lakeside inn in [[Albyrt]] favored by ferry crews and merchants. Its upper galleries look across the water toward [[Isoltide]], and arguments about which twin city has the better view are encouraged because they sell drinks.

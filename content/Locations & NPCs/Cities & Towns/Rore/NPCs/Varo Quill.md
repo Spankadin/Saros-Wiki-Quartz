@@ -1,11 +1,19 @@
 ---
-publish: true
 title: Varo Quill
-created: 2026-08-07T06:36:23.924Z
-modified: 2026-08-10T09:42:48.796Z
+ccType: npc
+ccId: npc-varo-quill
+Race: Half-Elf
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Rore]]"
+Building: "[[The Golden Goose]]"
+Faction:
+- "[[Gambler's Guild]]"
+ccTags: []
+ccAssociates: []
+publish: true
 ---
 
 [[Varo Quill]] owns and operates [[The Golden Goose]], the largest and most famous gambling hall in Saros. He is one of the most visible representatives of the [[Gambler's Guild]] in [[Rore]].

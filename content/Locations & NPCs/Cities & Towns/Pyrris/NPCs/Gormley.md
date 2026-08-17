@@ -1,13 +1,19 @@
 ---
-publish: true
-aliases:
-  - Gormley The Bard
 title: Gormley
-created: 2025-03-08T05:39:49.199Z
-modified: 2026-08-08T11:56:14.837Z
+ccType: npc
+ccId: npc-gormley
+Race: Halfling
+aliases:
+- Gormley The Bard
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Pyrris]]"
+Building: "[[The Radiant Citadel]]"
+Faction: []
+ccTags: []
+ccAssociates: []
+publish: true
 ---
 
 [[Gormley]] is the most famous bard in [[A Brief Saros History|Saros]].

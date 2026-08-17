@@ -1,11 +1,16 @@
 ---
-publish: true
 title: East Gate Caravan Yard
-created: 2026-08-07T06:36:23.933Z
-modified: 2026-08-08T11:56:14.140Z
+ccType: entry
+ccId: entry-east-gate-caravan-yard
+aliases: []
 tags:
-  - Commercial
-  - Published
+- Commercial
+- Published
+Region: "[[Trystn]]"
+Hex: "102.99"
+ccTags:
+- Commercial
+publish: true
 ---
 
 [[East Gate Caravan Yard]] is the largest secure wagon yard in [[Trystn]].

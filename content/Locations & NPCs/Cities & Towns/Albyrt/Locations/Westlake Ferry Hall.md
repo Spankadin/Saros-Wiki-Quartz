@@ -1,12 +1,18 @@
 ---
-publish: true
 title: Westlake Ferry Hall
-created: 2026-08-08T11:56:33.025Z
-modified: 2026-08-08T11:56:15.614Z
+ccType: entry
+ccId: entry-westlake-ferry-hall
+aliases: []
 tags:
-  - Building
-  - Civic
-  - Published
+- Building
+- Civic
+- Published
+Region: "[[Albyrt]]"
+Hex: "83.142"
+ccTags:
+- Building
+- Civic
+publish: true
 ---
 
 [[Westlake Ferry Hall]] combines ferry offices, passenger records, and civic meeting rooms on the waterfront of [[Albyrt]]. [[Mara Avelin]] keeps her public office here. The hall's bell tower signals dangerous lake weather and temporary ferry closures.

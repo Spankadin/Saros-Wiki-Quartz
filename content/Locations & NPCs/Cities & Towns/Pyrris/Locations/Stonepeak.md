@@ -1,13 +1,20 @@
 ---
-publish: true
 title: Stonepeak
-created: 2025-02-08T09:55:58.666Z
-modified: 2026-08-08T11:56:14.905Z
+ccType: entry
+ccId: entry-stonepeak
+aliases: []
 tags:
-  - Building
-  - Garrison
-  - Fortification
-  - Published
+- Building
+- Garrison
+- Fortification
+- Published
+Region: "[[Pyrris]]"
+Hex: "71.109"
+ccTags:
+- Building
+- Garrison
+- Fortification
+publish: true
 ---
 
 [[Stonepeak]] is the principal [[The Aegis Legion|Aegis Legion]] garrison in [[Pyrris]] and the command post of [[General Ironclad]].

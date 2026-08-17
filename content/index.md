@@ -1,15 +1,15 @@
 ---
-publish: true
+title: Welcome to Saros
+description: A player-facing guide to the people, places, factions, and history of Saros.
 aliases:
   - Home
   - Delve into Saros
-title: Welcome to Saros
-description: A player-facing guide to the people, places, factions, and history of Saros.
-created: 2026-08-15T19:53:01.230Z
-modified: 2026-08-15T19:53:01.230Z
 tags:
   - Lore
   - Published
+ccType: entry
+ccId: entry-saros-wiki-home
+publish: true
 ---
 
 <figure class="saros-hero">
@@ -37,7 +37,6 @@ Saros is a realm of old roads and older mysteries: proud cities, hard-won allian
 > New to the setting? Start with [[A Brief Saros History]], continue through the [[Ages of Saros]], and then follow the [[Sarosian Timeline]]. Use search for a particular name, hover over links for previews, or follow the graph to discover unexpected connections.
 
 > [!saros-realm] Explore the Realm
->
 > - [[Map of Saros|Map of Saros]]
 > - [[Major Cities, Towns, and Ports|Cities, towns, and ports]]
 > - [[Dataview/Landmarks|Landmarks and wonders]]
@@ -45,14 +44,12 @@ Saros is a realm of old roads and older mysteries: proud cities, hard-won allian
 > - [[Griffin Riders|Griffin riders]]
 
 > [!saros-powers] Meet the Powers
->
 > - [[The Crown of Saros]]
 > - [[The Aegis Legion]]
 > - [[The Prism]] and [[The Black Circle]]
 > - [[Dwarven Clans]], the [[Gambler's Guild]], and the [[Merchant's Guild]]
 
 > [!saros-people] Find the People
->
 > - [[NPCs|People and notable figures]]
 > - [[Queen Amara]]
 > - [[Gerdga]]

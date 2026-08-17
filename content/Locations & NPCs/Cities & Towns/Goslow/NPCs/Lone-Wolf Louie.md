@@ -1,11 +1,22 @@
 ---
-publish: true
 title: Lone-Wolf Louie
-created: 2024-12-29T09:41:16.018Z
-modified: 2026-08-08T11:56:15.331Z
+ccType: npc
+ccId: npc-lone-wolf-louie
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Goslow]]"
+Building: "[[The Silver Drake]]"
+Faction:
+- "[[Gambler's Guild]]"
+Role: Hall Overseer
+ccTags:
+- Gambling
+- Banking
+ccAssociates: []
+publish: true
 ---
 
 [[Lone-Wolf Louie]] oversees [[The Silver Drake]], the famous [[Gambler's Guild]] hall and bank in [[Goslow]].

@@ -1,11 +1,16 @@
 ---
-publish: true
 title: Stonewake Hall
-created: 2026-08-07T06:36:23.849Z
-modified: 2026-08-08T11:56:15.931Z
+ccType: entry
+ccId: entry-stonewake-hall
+aliases: []
 tags:
-  - Building
-  - Published
+- Building
+- Published
+Region: "[[Lilya]]"
+Hex: "106.81"
+ccTags:
+- Building
+publish: true
 ---
 
 [[Stonewake Hall]] is the civic meeting house of [[Lilya]] and the seat of [[Maela Torr]] and the [[Stone Council]].

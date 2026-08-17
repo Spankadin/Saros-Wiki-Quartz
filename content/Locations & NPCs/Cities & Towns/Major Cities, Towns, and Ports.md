@@ -1,11 +1,14 @@
 ---
-publish: true
 title: Major Cities, Towns, and Ports
-created: 2024-08-22T00:49:19.881Z
-modified: 2026-08-14T09:50:30.356Z
+ccType: entry
+ccId: entry-major-cities-towns-and-ports
+aliases: []
 tags:
-  - Lore
-  - Published
+- Lore
+- Published
+ccTags:
+- Settlements
+publish: true
 ---
 
 The named settlements below are the largest or most strategically important concentrations of people currently established in known [[A Brief Saros History|Saros]].
@@ -14,26 +17,26 @@ The wilderness between them contains many smaller villages, hamlets, farms, fort
 
 Distances and route times are maintained in [[Saros - Distances, Travel, Trade, and Population]].
 
-| Settlement | Approx. Population | Role |
-| --- | ---: | --- |
-| [[Goslow]] | 14,000 | Largest city, major commercial port, shipbuilding and trade |
-| [[Rore]] | 7,200 | Independent gambling city, eastern port and black-market center |
-| [[Albyrt]] | 6,400 | Western twin lake city, grain and ferry trade |
-| [[Isoltide]] | 5,800 | Eastern twin lake city, fishing, ferries and forest trade |
-| [[Port Quartz]] | 5,250 | River crossing, ferries, warehousing and northern trade |
-| [[Soryn's Crossing]] | 4,800 | Principal southern crossroads and freight hub |
-| [[Trystn]] | 4,600 | Northern crossroads, caravans, livestock and road trade |
-| [[Ari]] | 4,000 | Fishing, grain and support for Vy'Tungavor mining |
-| [[Lilya]] | 3,800 | Mining town beneath the Silvervein Summits |
-| [[Ani]] | 3,000 | Fortified southern town guarding approaches to the Urmong Barrows |
-| [[Mysha]] | 2,500 | Logging, river timber and halfling traditions |
-| [[Kylor]] | 2,400 | Isolated northwestern logging and fishing port |
-| [[Pyrris]] | 1,100 | Royal capital, Citadel and administrative center |
-| [[Grymswatch]] | 1,000 | Major Legion fortress and naval town |
-| [[Dun Karag]] | 900 | Thar'um stronghold and guarded northern mountain passage |
-| [[Brynk]] | 650 | Isolated mountain town with closed local customs |
-| [[Skaggerty]] | 1,200 | Agricultural market town serving the western grain belt |
-| [[Karastos]] | ~5,000 | Pirate-held port; population is difficult to count |
+| Settlement           | Hex     | Approx. Population | Role                                                              |
+| -------------------- | ------- | -----------------: | ----------------------------------------------------------------- |
+| [[Goslow]]           | 67.103  |             14,000 | Largest city, sheltered port, prestige shipbuilding and trade     |
+| [[Rore]]             | 132.101 |              7,200 | Independent gambling city, eastern port and black-market center   |
+| [[Albyrt]]           | 83.142  |              6,400 | Western twin lake city, grain and ferry trade                     |
+| [[Isoltide]]         | 86.150  |              5,800 | Eastern twin lake city, fishing, ferries and forest trade         |
+| [[Port Quartz]]      | 79.96   |              5,250 | River confluence, cask recovery, warehousing and northern trade   |
+| [[Soryn's Crossing]] | 78.171  |              4,800 | Principal southern crossroads and freight hub                     |
+| [[Trystn]]           | 102.99  |              4,600 | Northern crossroads, caravans, livestock and road trade           |
+| [[Ari]]              | 128.109 |              4,000 | Fishing, grain and support for Vy'Tungavor mining                 |
+| [[Lilya]]            | 106.81  |              3,800 | Mountain mining, smelting, and lake freight                       |
+| [[Ani]]              | 59.153  |              3,000 | Fortified southern town guarding approaches to the Urmong Barrows |
+| [[Mysha]]            | 92.167  |              2,500 | Logging, river timber and halfling traditions                     |
+| [[Kylor]]            | 45.104  |              2,400 | Marine timber, fishing, pilots, and rugged coastal craft          |
+| [[Pyrris]]           | 71.109  |              1,100 | Royal capital, Citadel and administrative center                  |
+| [[Grymswatch]]       | 133.179 |              1,000 | Major Legion fortress and naval town                              |
+| [[Dun Karag]]        | 53.85   |                900 | Dun'zod stronghold and guarded northern mountain passage          |
+| [[Brynk]]            | 58.180  |                650 | Isolated mountain town with closed local customs                  |
+| [[Skaggerty]]        | 62.99   |              1,200 | Grain, livestock, mills, wagon teams, and managed woodland        |
+| [[Karastos]]         | 133.170 |             ~5,000 | Pirate-held port; population is difficult to count                |
 
 ## Northern Centers
 
@@ -47,19 +50,19 @@ Distances and route times are maintained in [[Saros - Distances, Travel, Trade, 
 
 ### Port Quartz
 
-[[Port Quartz]] controls an important ferry crossing and the transfer of goods among western, eastern, and northern routes. Its [[Fall Casks|fall-cask trade]] is unique in Saros.
+[[Port Quartz]] stands where the [[Dun'Nala]] and [[Ascarid]] become [[The Coldwater]]. It transfers waterborne and road cargo, supports difficult upstream shipping, and recovers [[Fall Casks]] at its paired Cataract Yards.
 
 ### Lilya
 
-[[Lilya]] exists because of the mineral wealth of [[The Silvervein Summits]]. Most ordinary freight moves south to [[Trystn]].
+[[Lilya]] exists because of the mineral wealth of [[The Silvervein Summits]]. Its difficult road and lake-and-cask route make transport, charcoal, and winter isolation part of the town's identity.
 
 ### Kylor
 
-[[Kylor]] is a remote working port built around fishing and the timber trade.
+[[Kylor]] is a remote working port built around marine timber, fishing, pilotage, rescue work, and rugged coastal craft. Its old-growth keels and spars feed Goslow's prestige shipyards.
 
 ### Dun Karag
 
-[[Dun Karag]] is the last permanent stronghold on the road to [[Caelum's End]]. Its [[Thar'um]] wardens maintain and control the passage through [[The Masys Mountains]].
+[[Dun Karag]] is the last permanent stronghold on the road to [[Caelum's End]]. Its [[Dun'zod]] wardens maintain and control the passage through [[The Masys Mountains]].
 
 ### Rore
 

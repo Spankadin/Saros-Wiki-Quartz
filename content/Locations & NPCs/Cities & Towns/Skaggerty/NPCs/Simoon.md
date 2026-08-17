@@ -1,11 +1,19 @@
 ---
-publish: true
 title: Simoon
-created: 2024-12-24T01:26:46.528Z
-modified: 2026-08-08T11:56:15.680Z
+ccType: npc
+ccId: npc-simoon
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Skaggerty]]"
+Building: "[[The Stout Fool]]"
+Faction:
+- "[[Merchant's Guild]]"
+ccTags: []
+ccAssociates: []
+publish: true
 ---
 
 [[Simoon]] owns [[The Stout Fool]], the only true tavern and inn in [[Skaggerty]].

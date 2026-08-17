@@ -1,11 +1,16 @@
 ---
-publish: true
 title: The Deep Lantern
-created: 2026-08-07T06:36:23.851Z
-modified: 2026-08-08T11:56:15.897Z
+ccType: entry
+ccId: entry-the-deep-lantern
+aliases: []
 tags:
-  - Inn
-  - Published
+- Inn
+- Published
+Region: "[[Lilya]]"
+Hex: "106.81"
+ccTags:
+- Inn
+publish: true
 ---
 
 [[The Deep Lantern]] is the largest inn and miners’ hiring hall in [[Lilya]].

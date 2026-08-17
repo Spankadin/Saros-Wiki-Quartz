@@ -1,15 +1,18 @@
 ---
-publish: true
-aliases:
-  - Delve
-  - Delving
 title: Delves
-created: 2024-08-22T00:57:35.309Z
-modified: 2026-08-14T09:44:55.530Z
+ccType: entry
+ccId: entry-delve-index
+aliases:
+- Delve
+- Delving
 tags:
-  - Lore
-  - Index
-  - Published
+- Lore
+- Index
+- Published
+ccTags:
+- Delves
+publish: true
+dataview: true
 ---
 
 During the [[Ages of Saros|Second Age]], dwarven and elven understanding of the [[Fey-Lines]] changed how both peoples interacted with the land.
@@ -54,8 +57,14 @@ Merchants, guards, laborers, scholars, and opportunists usually follow.
 
 Some towns have grown around profitable old workings.
 
-| Known Delve                                                         | True Name | Region                                                                                     | Ruling Faction |
-| ------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------ | -------------- |
-| [[Locations & NPCs/Delves/Goslow Delve.md\|Goslow Delve]]           | -        | -                                                                                         | -             |
-| [[Locations & NPCs/Delves/Port Quartz Delve.md\|Port Quartz Delve]] | -        | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]]                | -             |
-| [[Locations & NPCs/Delves/Silvervein Delve.md\|Silvervein Delve]]   | -        | [[Locations & NPCs/Landmarks/Mountains/The Silvervein Summits.md\|The Silvervein Summits]] | -             |
+```dataview
+TABLE WITHOUT ID
+file.link AS "Known Delve",
+Hex,
+truname AS "True Name",
+Region,
+rfaction AS "Ruling Faction"
+FROM #Delve
+WHERE file.name != this.file.name
+SORT file.name ASC
+```

@@ -1,11 +1,16 @@
 ---
-publish: true
 title: The Drowning Mermaid
-created: 2025-02-24T06:46:44.339Z
-modified: 2026-08-08T11:56:14.332Z
+ccType: entry
+ccId: entry-the-drowning-mermaid
+aliases: []
 tags:
-  - Tavern
-  - Published
+- Tavern
+- Published
+Region: "[[Kylor]]"
+Hex: "45.104"
+ccTags:
+- Tavern
+publish: true
 ---
 
 [[The Drowning Mermaid]] is the oldest tavern in [[Kylor]] and the first place most outsiders hear the town’s real news.

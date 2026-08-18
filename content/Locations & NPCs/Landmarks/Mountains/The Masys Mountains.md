@@ -20,6 +20,8 @@ publish: true
 
 [[The Masys Mountains]] form the remote northern range beyond the settled roads west and northwest of [[Port Quartz]]. At Hex 53.85, [[Dun Karag]] guards the maintained passage through the range toward [[Caelum's End]].
 
+Snowmelt, rain, and hidden mountain springs gather into the [[Dun'Nala]], which descends from the high Masys valleys and runs southeast toward [[Port Quartz]]. Its cold, seasonally violent reaches are among the wide waters that make the range difficult to approach.
+
 Wide rivers, hills, broken forest, and difficult crossings isolate much of the region from the rest of northern Saros.
 
 ## Travel

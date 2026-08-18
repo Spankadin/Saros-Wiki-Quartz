@@ -43,7 +43,7 @@ Some have become:
 - Roadside ruins
 - Refuges used by later peoples
 
-[[Veiled Archive]] is one surviving complex associated with them.
+A few surviving complexes are still attributed to them, though most are ruined, sealed, or known only through fragmentary accounts.
 
 ## Fall
 

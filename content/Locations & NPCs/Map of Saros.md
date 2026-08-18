@@ -25,7 +25,7 @@ Use the viewer below to pan, zoom, reset, or enter fullscreen. The full-resoluti
   <a class="saros-map-open" href="/rules--and--tables--and--tools/z-attachments/saros-image-2.webp" target="_blank" rel="noopener noreferrer">Open the full-resolution map in a new tab</a>
 </p>
 
-![[Saros Image 2.webp]]
+![[Rules & Tables & Tools/Z-Attachments/Saros Image 2.webp]]
 
 ## Explore from the map
 

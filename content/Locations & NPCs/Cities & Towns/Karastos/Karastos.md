@@ -24,6 +24,8 @@ links:
 
 [[Karastos]] is a notorious pirate-held port on the southeastern coast and one of the few major settlements that does not pretend to answer to the Crown.
 
+It occupies the edge of a rocky coastal outcropping. Broken stone, reefs, narrow approaches, and pirate-controlled waters make the port difficult to reach even before anyone objects to a visitor's flag.
+
 Its population is difficult to count. Crews arrive, disappear, recruit, die, and sail again constantly; an estimate of roughly five thousand permanent residents is useful only in the broadest sense.
 
 ## Character
@@ -44,24 +46,21 @@ Its reputation for complete lawlessness is exaggerated. Karastos has rules—the
 
 ## Travel and Connections
 
-[[Grymswatch]] is close enough to remain a constant military threat. The difficult land journey takes roughly 3 days where usable, 3-4 days by wagon, or about 2 days mounted. A coastal vessel can make the passage in about a day.
+[[Grymswatch]] is only **50–60 water miles** away, but Karastos has no dependable land approach. Reaching it overland is a mountain expedition through broken southern terrain, not a road journey.
 
-The ease of movement by sea makes patrols, raids, smuggling, and sudden changes in naval pressure more important than the apparent overland separation. See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
+A suitable coastal vessel might make the sea passage in 1–3 days, but the rocky approaches, weather, pirate patrols, and Legion cordons can make the elapsed time unpredictable. See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
 
 ## Security
 
 There is no central civic watch comparable to [[Goslow]]'s. Individual docks, taverns, compounds, and warehouses employ their own guards.
 
-The city's greatest external threat is [[Grymswatch]] and the [[The Aegis Legion|Aegis Legion]] fleet.
+The city's greatest external threat is [[Grymswatch]] and the [[The Aegis Legion|Aegis Legion]] fleet. Pirate squadrons and Legion vessels fight frequent skirmishes throughout the surrounding waters, seldom producing lasting control.
 
 [[Bloodmarked]] crews are among the most feared pirate factions associated with the southern waters.
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+_No published NPCs are currently indexed here._
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

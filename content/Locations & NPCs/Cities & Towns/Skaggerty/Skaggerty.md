@@ -58,10 +58,12 @@ A modest palisade, local militia, and the occasional Legion patrol provide ordin
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Factions & Clans/The Black Circle/NPCs/Clarissa\|Clarissa]] | Human | — | [[The Black Circle]] |
+| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Heldoren The Wise\|Heldoren The Wise]] | Human | [[Temple of Austerus]] | — |
+| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Mara Sedge\|Mara Sedge]] | Human | [[The Crossroads Weighhouse]] | — |
+| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Simoon\|Simoon]] | Human | [[The Stout Fool]] | [[Merchant's Guild]] |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

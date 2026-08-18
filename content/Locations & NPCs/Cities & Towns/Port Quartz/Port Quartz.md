@@ -102,6 +102,7 @@ The town's greatest everyday hazards are river accidents, cargo theft, smuggling
 - [[Shrine of the Last Oar]] — riverside memorial to those lost on the water
 - [[Chainwatch]] — civic watch tower and ferry signal station
 - [[The Quartz Cobra]] — chartered gambling hall and [[Bank of Saros]], operated by [[Lind Bergy]]
+- [[Gileon's Vault]] — a shabby arcane shop among ancient scrying pools, kept by [[Gileon]]
 
 ## Character
 
@@ -111,10 +112,17 @@ The river decides working hours, prices, law, and funerals. No government has ev
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Caldus Renn\|Caldus Renn]] | Human | — | — |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Captain Serin Holt\|Captain Serin Holt]] | Human | — | [[The Aegis Legion]] |
+| [[History & Lore/Peoples/Edric Vane\|Edric Vane]] | Human | — | — |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Gileon\|Gileon]] | Human | [[Gileon's Vault]] | — |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Hesta Vane\|Hesta Vane]] | Human | [[Hall of Moorings]] | [[Mooring Council]] |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Lind Bergy\|Lind Bergy]] | Human | [[The Quartz Cobra]] | [[Gambler's Guild]] |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Nelra Vossin\|Nelra Vossin]] | Human | [[Vane Archive]] | [[Mooring Council]] |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Oren Bale\|Oren Bale]] | Human | [[Westwater Ferry]] | [[Mooring Council]] |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Prance Mondrel\|Prance Mondrel]] | Half-Elf | [[The Fourty Knights]] | [[Merchant's Guild]] |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

@@ -105,10 +105,23 @@ The city's size makes it safer than most Sarosian settlements, but no one mistak
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Bedford\|Bedford]] | Human | [[Bedford's Forge]] | [[Merchant's Guild]] |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Breelyn\|Breelyn]] | Human | [[The Storm Runner]] | — |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Chibs\|Chibs]] | Penguin | [[The Sphinx's Spellbook]] | — |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Gerdga\|Gerdga]] | Halfling | [[The Toad]] | [[Merchant's Guild]] |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Hob\|Hob]] | Elemental | [[The Toad]] | — |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Jarvis Aucien\|Jarvis Aucien]] | Half-Elf | [[The Bulkhead]] | — |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Korth\|Korth]] | Human | [[Temple of Torm]] | — |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Lone-Wolf Louie\|Lone-Wolf Louie]] | Human | [[The Silver Drake]] | [[Gambler's Guild]] |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Mary\|Mary]] | Human | [[Bedford's Forge]] | — |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Mirken Stanton\|Mirken Stanton]] | Human | [[The Storm Runner]] | — |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Mori\|Mori]] | Half-Elf | [[The Sphinx's Spellbook]] | — |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Munchies Muldridge\|Munchies Muldridge]] | Halfling | [[The Toad]] | — |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Ostalda\|Ostalda]] | Half-Elf | [[Temple of Torm]] | — |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Perla Mudridge\|Perla Mudridge]] | Halfling | [[The Toad]] | — |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Vostin The Mighty\|Vostin The Mighty]] | Human | [[Duskpoint]] | [[The Aegis Legion]] |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

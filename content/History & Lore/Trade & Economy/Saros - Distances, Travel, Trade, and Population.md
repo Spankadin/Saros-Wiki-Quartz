@@ -19,7 +19,7 @@ The familiar continental chart, [[Map of Saros|Perla's Map of Saros]], was commi
 
 > **Working map scale:** one small hex is approximately **5 miles** across; one large hex, composed of smaller hexes, is approximately **30 miles** across.
 
-# Recommended Size of Saros
+# Size of Saros
 
 | Measure | Working Estimate |
 | --- | ---: |
@@ -30,7 +30,7 @@ The familiar continental chart, [[Map of Saros|Perla's Map of Saros]], was commi
 | Large hex | **~30 miles** |
 | Pressed party on a good road | **~25–30 miles/day** |
 
-This makes Saros large enough for distinct regional economies and journeys measured in days or weeks. Most campaigns still operate inside one region. A true end-to-end crossing is a major undertaking of roughly six to ten weeks on connected roads and considerably longer through wilderness, but ordinary travel between neighboring centers does not require months.
+A true end-to-end crossing is a major undertaking of roughly six to ten weeks on connected roads and considerably longer through wilderness, but ordinary travel between neighboring centers does not require months.
 
 ## Cartographic Error Allowance
 
@@ -78,15 +78,15 @@ Draft animals consume cargo simply by existing. Water is usually obtained along 
 
 Assume a pack mule carries **180 lb** and needs about **20 lb of fodder per day** when it cannot graze. After five feedless days, more than half of that payload is fodder. Long caravan routes depend on settlements selling feed, pasture, stable space, repairs, and remounts.
 
-| Method | Useful Cargo Scale | Best For | Poor For |
-| --- | ---: | --- | --- |
-| Individual porter | **30–60 lb** | Valuables, tools, expedition gear | Bulk food |
-| Pack mule | **150–200 lb** | Expensive goods, mountain routes | Cheap bulky cargo |
-| Light cart | **500–1,200 lb** | Local produce, market goods | Bad roads |
-| Heavy wagon | **1,500–3,000+ lb** | Grain, barrels, manufactured goods | Long feed-poor routes |
-| River barge | **5–30+ tons** | Grain, ore, timber, barrels | Rapids and waterfalls |
-| Small coastal trader | **20–80 tons** | Intercity bulk trade | Shallow upper rivers |
-| Large merchant vessel | **80–200+ tons** | Grain, timber, military supply | Small docks |
+| Method                |  Useful Cargo Scale | Best For                           | Poor For                 |                          |
+| --------------------- | ------------------: | ---------------------------------- | ------------------------ | ------------------------ |
+| Individual porter     |        **30–60 lb** | Valuables, tools, expedition gear  | Bulk food                |                          |
+| Pack mule             |      **150–200 lb** | Expensive goods, mountain routes   | Cheap bulky cargo        |                          |
+| Light cart            |    **500–1,200 lb** | Local produce, market goods        | Bad roads                |                          |
+| Heavy wagon           | **1,500–3,000+ lb** | Grain, barrels, manufactured goods | Long feed-poor routes    |                          |
+| River barge           |      **5–30+ tons** | Grain, ore, timber, barrels        | Rapids and waterfalls    |                          |
+| Small coastal trader  |      **20–80 tons** | Intercity bulk trade               | Shallow upper rivers     |                          |
+| Large merchant vessel |    **80–200+ tons** | Grain, timber, military supply     | Small docks              |                          |
 | [[Fall Casks|Fall cask]] | Small individual loads | Durable high-value goods | People and fragile cargo |
 
 # Rivers and Sailing Without Engines
@@ -112,12 +112,12 @@ The river descending from the northern [[The Masys Mountains|Masys Mountains]] i
 
 [[Kylor]], [[Skaggerty]], [[Goslow]], [[Pyrris]], and the country northwest of Skaggerty occupy a western pocket bounded by broad water. There is no direct Kylor–Goslow road: all ordinary road traffic passes through Skaggerty.
 
-| Route | Audited Route Distance | Walking | Heavy Wagon | Mounted |
-| --- | ---: | ---: | ---: | ---: |
-| [[Kylor]]–[[Skaggerty]] road | **~90–95 mi** | **5–6 days** | **6–8 days** | **3–4 days** |
-| [[Skaggerty]]–[[Goslow]] road | **~85–90 mi** | **4–5 days** | **6–7 days** | **3–4 days** |
-| Kylor–Goslow via Skaggerty | **~175–185 mi** | **9–11 days** | **12–15 days** | **6–8 days** |
-| [[Goslow]]–[[Pyrris]] by [[The High Road]] | **~40–45 mi** | **2–3 days** | **3–4 days** | **1.5–2 days** |
+| Route                                      | Audited Route Distance |       Walking |    Heavy Wagon |        Mounted |
+| ------------------------------------------ | ---------------------: | ------------: | -------------: | -------------: |
+| [[Kylor]]–[[Skaggerty]] road               |          **~90–95 mi** |  **5–6 days** |   **6–8 days** |   **3–4 days** |
+| [[Skaggerty]]–[[Goslow]] road              |          **~85–90 mi** |  **4–5 days** |   **6–7 days** |   **3–4 days** |
+| [[Kylor]]–[[Goslow]] via [[Skaggerty]]     |        **~175–185 mi** | **9–11 days** | **12–15 days** |   **6–8 days** |
+| [[Goslow]]–[[Pyrris]] by [[The High Road]] |          **~40–45 mi** |  **2–3 days** |   **3–4 days** | **1.5–2 days** |
 
 ### Kylor to Goslow by Water
 
@@ -142,17 +142,17 @@ There is **no normal safe overland road between [[Goslow]] and [[Port Quartz]]**
 | Fast packet in favorable conditions | **4–6 days** | **2–3 days** |
 | Ordinary merchant vessel | **7–12 days** | **3–5 days** |
 | Heavy barge or awkward cargo | **10–15+ days** | **4–7 days** |
-| [[The Storm Runner]] with a working crew | **5–8 days** | **2–4 days** |
+| [[The Storm Runner]] with its regular crew and contracted river hands | **5–8 days** | **2–4 days** |
 
-The Storm Runner's roughly hundred-person complement lets her cordelle, warp, kedge, and tow more effectively than a small merchant crew, but those operations occupy sailors who might otherwise handle passengers or cargo. A practical round trip is **10–16 days** including loading and ordinary weather; a contrary wind or unusually strong current can extend it.
+The Storm Runner normally sails with **24 officers and crew**. That is enough to handle a fast, relatively light seagoing transport, but not enough to drag her bodily against the Coldwater for days. On the upstream run she hires licensed pilots, bank-hauling gangs, and capstan crews along the prepared reaches maintained by [[Port Quartz]]. Her own boats can still kedge or tow through short difficult approaches, but sustained cordelling is shore labor. A practical round trip is **10–16 days** including loading, contracted hauling, and ordinary weather; a contrary wind, unusually strong current, or unavailable river crew can extend it.
 
 ## Port Quartz and the Eastern Northern Roads
 
-| Route | Audited Route Distance | Walking | Heavy Wagon | Mounted |
-| --- | ---: | ---: | ---: | ---: |
-| [[Port Quartz]]–[[Trystn]] road | **~125–140 mi** | **7–8 days** | **9–12 days** | **4–6 days** |
-| [[Trystn]]–[[Lilya]] road | **~110–125 mi** | **6–8 days** | **8–12 days** | **4–6 days** |
-| Port Quartz–Lilya via Trystn | **~235–265 mi** | **13–17 days** | **17–24 days** | **8–12 days** |
+| Route                                    | Audited Route Distance |        Walking |    Heavy Wagon |       Mounted |
+| ---------------------------------------- | ---------------------: | -------------: | -------------: | ------------: |
+| [[Port Quartz]]–[[Trystn]] road          |        **~125–140 mi** |   **7–8 days** |  **9–12 days** |  **4–6 days** |
+| [[Trystn]]–[[Lilya]] road                |        **~110–125 mi** |   **6–8 days** |  **8–12 days** |  **4–6 days** |
+| [[Port Quartz]]–[[Lilya]] via [[Trystn]] |        **~235–265 mi** | **13–17 days** | **17–24 days** | **8–12 days** |
 
 The final twenty miles into Lilya narrow near hex **105.84** to a cart road with passing places. Snowfall, rockfalls, and repairs can close it for days or weeks. This makes the lake-and-cask route economically necessary rather than quaint.
 
@@ -168,9 +168,25 @@ The final twenty miles into Lilya narrow near hex **105.84** to a cart road with
 
 Boats never approach the brink. Booms, capstans, guide cables, and shore crews move sealed casks into controlled release lanes. Below the falls, crews at the paired [[Cataract Yard|Cataract Yards]] recover casks on both banks. [[South Cataract Yard]] and [[Westwater Ferry]] occupy **81.95**; [[North Cataract Yard]] occupies **82.94**. Most workers ferry south at sunset because the northern works lack both Port Quartz's comforts and its dependable protection.
 
-## Provisional Southern Routes
+## Southern Crossings and Routes
 
-The earlier southern route figures were not measured consistently against the five-mile grid. Until their roads and navigable reaches receive the same hex-by-hex audit as the northern corridors, use OSE movement rates and count the visible route rather than relying on an inherited travel-time table. This applies especially to the Albyrt–Isoltide, Isoltide–Mysha, Mysha–Soryn's Crossing, Soryn's Crossing–Brynk, Rore–Ari, and Karastos–Grymswatch corridors.
+Southern Saros is not a web of interchangeable roads. Its rivers and long interior waters divide the continent into broad regions, and the maintained route system depends on two controlled chokepoints.
+
+- The **Albyrt–Isoltide ferry** is the only known safe crossing of the upper southern divide. There is **no road around the lake**. A traveler avoiding the ferry must provide a suitable boat and cross the immense river that runs from the northern end of [[Vy'tungavor]] to [[The Sparkling Sea]].
+- Farther south, [[Soryn's Crossing]] occupies both sides of the river flowing from [[Lake Runa]]. The town controls a great natural land bridge and the maintained passage toward the southern coast.
+- Away from those crossings, an apparent straight line on Perla's map may conceal a major water barrier, trackless forest, mountain approach, or pirate-controlled coast. Such travel is an expedition, not an alternate road.
+
+| Corridor | Audited Route Distance | Ordinary Passage | Canonical Finding |
+| --- | ---: | ---: | --- |
+| [[Albyrt]]–[[Isoltide]] | **~45–50 water mi** | **Most of a day to 1 day** by scheduled ferry, depending on wind and loading | No road connects the cities. This ferry is the only known safe upper crossing. |
+| [[Isoltide]]–[[Soryn's Crossing]] | **~135–145 road mi** | **7–9 days** walking; **10–13 days** by heavy wagon; **4–6 days** mounted | The forest road bends southwest toward Soryn's controlled crossing. |
+| [[Soryn's Crossing]]–[[Mysha]] | **~80–90 road mi** | **4–5 days** walking; **6–8 days** by heavy wagon; **3–4 days** mounted | The road arcs east and northeast around water and broken ground. |
+| [[Isoltide]]–[[Mysha]] via [[Soryn's Crossing]] | **~215–235 road mi** | **11–14 days** walking; **16–21 days** by heavy wagon; **7–10 days** mounted | There is no direct Isoltide–Mysha road. Maintained traffic goes through Soryn's Crossing. |
+| [[Soryn's Crossing]]–[[Brynk]] | **~110–125 road mi** | **7–9 days** walking; **9–13 days** by pack train; **5–7 days** mounted | The western-height road is too steep and narrow for dependable heavy-wagon traffic. |
+| [[Rore]]–[[Ari]] | **~50–60 water mi** | **1–3 days** by suitable coastal vessel | The local roads do not join near the coast. Bulk trade remains maritime; an inland attempt is an expedition. |
+| [[Karastos]]–[[Grymswatch]] | **~50–60 water mi** | **1–3 days** when a captain dares the passage; otherwise unpredictable | Karastos has no dependable land approach. Rock outcroppings, reefs, pirate patrols, and Legion naval pressure make even the short sea route hazardous. |
+
+These routes leave the Legion strongest at settlements, ferries, bridges, and road stations. Between them, southern villages and farms rely heavily on local defense, boat owners, and whatever aid the [[The Black Circle|Black Circle]] can provide.
 
 # Regional Economies
 
@@ -262,12 +278,6 @@ A plausible present range remains **280,000–320,000**. Council counts are lowe
 
 [[Griffin Riders]] are rare individuals, not a routine transport service or a familiar patrol over every city. A rider can ignore river barriers and may cover **70–100 miles in a day** under useful conditions, but weather, landing sites, the griffin's enormous food needs, rest, and the rider's bond all matter. Emergency flights belong to military crises, royal messages, or exceptional adventures; commercial routes and ordinary itineraries should not list “griffin” beside wagon and ship.
 
-# Quick GM Procedure
-
-1. Count the visible road, river, or safe coastal route in five-mile hexes; do not use straight-line distance where no direct route exists.
-2. Apply the party's OSE movement and encumbrance first. Use the bands above only when a more exact rate is unavailable.
-3. Apply road and terrain conditions, then add ferries, river crossings, weather waits, loading, and closures separately.
-4. Treat every result as a range. Perla's map and Sarosian timetables are not precise enough to promise an arrival hour.
 
 # Working Canon Summary
 

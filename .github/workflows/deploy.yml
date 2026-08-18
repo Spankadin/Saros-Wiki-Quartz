@@ -43,6 +43,8 @@ jobs:
         run: npm ci
       - name: Install Quartz plugins
         run: npx quartz plugin install
+      - name: Check public content compatibility
+        run: npm run check:public-content
       - name: Build Quartz
         run: npx quartz build
       - name: Upload site

@@ -54,9 +54,9 @@ Without the Legion, the settlement would be dramatically smaller.
 
 ## Travel and Connections
 
-[[Karastos]] lies about a day away by coastal vessel. The difficult land journey takes roughly 3 days where usable, 3-4 days by wagon, or about 2 days mounted.
+[[Karastos]] lies approximately **50–60 water miles** away, but its rocky outcropping, reefs, narrow approaches, and pirate control prevent a dependable schedule. A naval vessel might make the passage in 1–3 days; patrols can spend much longer waiting, stalking, or fighting for an approach.
 
-This short sea connection makes naval readiness more important than the land road and places [[Admiral Thainan]] under constant pressure to watch the pirate coast. See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
+There is no dependable land route between the two settlements. An overland attempt is a mountain expedition. The resulting dependence on sea power places [[Admiral Thainan]] under constant pressure to watch the pirate coast. See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
 
 ## Security
 
@@ -68,10 +68,10 @@ This short sea connection makes naval readiness more important than the land roa
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Admiral Thainan\|Admiral Thainan]] | Human | [[Mira's Wall]] | [[The Aegis Legion]] |
+| [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Festin Dontel\|Festin Dontel]] | Human | [[Mira's Wall]] | [[The Aegis Legion]] |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

@@ -15,15 +15,15 @@ publish: true
 dataview: true
 ---
 
-During the [[Ages of Saros|Second Age]], dwarven and elven understanding of the [[Fey-Lines]] changed how both peoples interacted with the land.
+Long ago in the [[Ages of Saros|Second Age]], when magical knowledge was powerful but crude, dwarves and elves worked together to harness forces rising through the earth at particular points along the [[Fey-Lines]]. These loosely connected magical streams seemed to flow between one another and gather where several lines met. Such convergences became places of extraordinary magical energy.
 
-Elven traditions used concentrations of fey-line power to cultivate life, conceal domains, and protect forests.
+Elven traditions used that power to spread life and abundance, protect forests, and conceal entire domains from unknown dangers. As elven distrust of other peoples grew, the same workings helped their realms withdraw from the wider world.
 
-The [[Dwarven Clans]] built vast underground complexes at or near powerful convergences. Modern Sarosians call these structures **Delves**.
+The [[Dwarven Clans]] applied their knowledge of architecture, geometry, and deep stone to build vast underground complexes at or near the convergences. Modern Sarosians call these structures **Delves**.
 
 ## Purpose
 
-A Delve could combine:
+A Delve served both the ruling clan of a mountain-home and the work below it. A single complex could combine:
 
 - Mine
 - Fortress
@@ -33,15 +33,15 @@ A Delve could combine:
 - Fey-line installation
 - Access to deeper underworld passages
 
-The dwarves sought valuable stone, metal, and [[Fey-stone]] while also establishing defensible underground centers.
+The dwarves sought valuable stone, metal, wondrous gems infused with magic, and [[Fey-stone]]. The delves also became remote bases of operation, defensible clan centers, and geometric installations through which fey-line power could be studied or directed.
 
 ## The Danger of Depth
 
-Many delves were eventually sealed.
+Many delves are now lost to time and ruin. Others were deliberately sealed.
 
-Dwarven stories repeatedly warn that a delve can go **too deep**, reaching places or creatures that should not be disturbed.
+Dwarven stories repeatedly warn that a delve can go **too deep**, reaching places or creatures that should never have been disturbed. Some traditions say the dwarves unleashed denizens of the deeps by digging too greedily; once a working passed the point from which it could be made safe, its upper gates were closed and its name struck from ordinary road records.
 
-A large number of known delves are now abandoned, ruined, occupied, or lost entirely.
+A large number of delves are therefore abandoned, ruined, occupied, or lost entirely. Their sealed galleries may still contain clan treasuries, magical stones, machines, maps, and the remains of those who did not escape.
 
 ## Light and Abandonment
 
@@ -51,20 +51,15 @@ Explorers should not expect a centuries-sealed gallery to reveal more than their
 
 ## Modern Delving
 
-When a delve is rediscovered, adventurers arrive quickly.
+Several delves have known entrances in modern Saros, though “known” rarely means fully explored. At least one rediscovery has caused an entire town to grow around the traffic it created.
 
-Merchants, guards, laborers, scholars, and opportunists usually follow.
+When a delve is found again, adventurers arrive seeking gold, magic, lost history, and glory. Traders, guards, laborers, scholars, innkeepers, and opportunists soon follow to equip expeditions and buy whatever scraps return to the suns.
 
-Some towns have grown around profitable old workings.
+The promise is always the same: untold treasure may wait below. The warning is equally old: finding a delve is easier than coming back to see the suns again.
 
-```dataview
-TABLE WITHOUT ID
-file.link AS "Known Delve",
-Hex,
-truname AS "True Name",
-Region,
-rfaction AS "Ruling Faction"
-FROM #Delve
-WHERE file.name != this.file.name
-SORT file.name ASC
-```
+<!-- saros-materialized:start delves -->
+| Known Delve | Hex | True Name | Region | Ruling Faction |
+| --- | --- | --- | --- | --- |
+| [[Locations & NPCs/Delves/Goslow Delve\|Goslow Delve]] | 67.103 | — | [[Goslow]] | — |
+| [[Locations & NPCs/Delves/Port Quartz Delve\|Port Quartz Delve]] | 79.96 | — | [[Port Quartz]] | — |
+<!-- saros-materialized:end delves -->

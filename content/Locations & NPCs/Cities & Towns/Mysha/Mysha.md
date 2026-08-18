@@ -46,9 +46,9 @@ Much of its timber moves by river before joining southern trade routes.
 
 ## Travel and Connections
 
-[[Isoltide]] lies roughly **65-80 road miles** away: 3-4 days walking, 4-6 by wagon, or 2-3 days mounted. Water travel can be faster where the connected channels are navigable.
+The maintained route to [[Isoltide]] runs through [[Soryn's Crossing]]: approximately **215–235 road miles**, or 11–14 days walking, 16–21 days by heavy wagon, and 7–10 days mounted. There is no direct Isoltide–Mysha road.
 
-[[Soryn's Crossing]] lies roughly **45-55 miles** away: 2-3 days walking, 3-4 by wagon, about 2 days mounted, or 1-2 days for river freight when conditions cooperate.
+[[Soryn's Crossing]] lies approximately **80–90 road miles** southwest: 4–5 days walking, 6–8 days by heavy wagon, or 3–4 days mounted. River freight may be faster when water, crew, and passage rights cooperate.
 
 See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
 
@@ -64,10 +64,9 @@ The town relies on local wardens, organized work crews, and a militia accustomed
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Mysha/NPCs/Pellin Root\|Pellin Root]] | Halfling | [[Runa House]] | — |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

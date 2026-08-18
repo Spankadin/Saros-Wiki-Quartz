@@ -66,10 +66,10 @@ The cult continues to recognize Silas as its true leader and reveres him with an
 
 <!-- foundry-ignore-start -->
 #### Known NPCs
-```dataview
-TABLE WITHOUT ID file.link AS "Name", Race, Location, Building
-FROM #NPC
-WHERE contains(Faction, link(this.file.name))
-SORT file.name ASC
-```
+<!-- saros-materialized:start faction-npcs -->
+| Name | Race | Location | Building |
+| --- | --- | --- | --- |
+| [[Factions & Clans/The Prism/NPCs/Malgrim Darkshade\|Malgrim Darkshade]] | Elf | Unknown | — |
+| [[Factions & Clans/The Prism/NPCs/Silas Voss\|Silas Voss]] | Human | Unknown | — |
+<!-- saros-materialized:end faction-npcs -->
 <!-- foundry-ignore-end -->

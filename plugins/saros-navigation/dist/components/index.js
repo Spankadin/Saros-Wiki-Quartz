@@ -107,7 +107,7 @@ const initializeSarosMap = () => {
     const localY = clientY - rect.top
     const contentX = (localX - state.x) / state.scale
     const contentY = (localY - state.y) / state.scale
-    state.scale = Math.min(5, Math.max(1, scale))
+    state.scale = Math.min(8, Math.max(1, scale))
     state.x = localX - contentX * state.scale
     state.y = localY - contentY * state.scale
     render()
@@ -166,7 +166,7 @@ const initializeSarosMap = () => {
       const [a, b] = points
       const rect = viewport.getBoundingClientRect()
       const center = { x: (a.x + b.x) / 2, y: (a.y + b.y) / 2 }
-      state.scale = Math.min(5, Math.max(1, gesture.scale * Math.hypot(a.x - b.x, a.y - b.y) / gesture.distance))
+      state.scale = Math.min(8, Math.max(1, gesture.scale * Math.hypot(a.x - b.x, a.y - b.y) / gesture.distance))
       state.x = center.x - rect.left - gesture.contentX * state.scale
       state.y = center.y - rect.top - gesture.contentY * state.scale
       render()
@@ -179,7 +179,7 @@ const initializeSarosMap = () => {
   }
   viewport.addEventListener("pointerup", endPointer)
   viewport.addEventListener("pointercancel", endPointer)
-  viewport.addEventListener("dblclick", (event) => zoomAt(state.scale > 3.5 ? 1 : state.scale * 1.6, event.clientX, event.clientY))
+  viewport.addEventListener("dblclick", (event) => zoomAt(state.scale > 6.5 ? 1 : state.scale * 1.6, event.clientX, event.clientY))
   viewport.addEventListener("keydown", (event) => {
     const amount = event.shiftKey ? 120 : 45
     if (["+", "="].includes(event.key)) zoomCenter(1.25)

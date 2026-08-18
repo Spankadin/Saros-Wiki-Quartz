@@ -53,10 +53,15 @@ When tariffs, military seizures, or local corruption threaten commerce, powerful
 
 <!-- foundry-ignore-start -->
 #### Known NPCs
-```dataview
-TABLE WITHOUT ID file.link AS "Name", Race, Location, Building
-FROM #NPC
-WHERE contains(Faction, link(this.file.name))
-SORT file.name ASC
-```
+<!-- saros-materialized:start faction-npcs -->
+| Name | Race | Location | Building |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Bedford\|Bedford]] | Human | [[Goslow]] | [[Bedford's Forge]] |
+| [[Locations & NPCs/Cities & Towns/Soryn's Crossing/NPCs/Dalen Soryn\|Dalen Soryn]] | Human | [[Soryn's Crossing]] | [[Soryn Hall]] |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Gerdga\|Gerdga]] | Halfling | [[Goslow]] | [[The Toad]] |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Jessa Marr\|Jessa Marr]] | Halfling | [[Trystn]] | [[The Axle and Bell]] |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Prance Mondrel\|Prance Mondrel]] | Half-Elf | [[Port Quartz]] | [[The Fourty Knights]] |
+| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Simoon\|Simoon]] | Human | [[Skaggerty]] | [[The Stout Fool]] |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Torv Hallick\|Torv Hallick]] | Human | [[Trystn]] | [[East Gate Caravan Yard]] |
+<!-- saros-materialized:end faction-npcs -->
 <!-- foundry-ignore-end -->

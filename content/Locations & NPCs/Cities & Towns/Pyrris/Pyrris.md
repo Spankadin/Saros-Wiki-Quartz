@@ -80,10 +80,14 @@ The city's small permanent population means the capital functions more like an e
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Ambassador Skylark\|Ambassador Skylark]] | Elf | [[The Radiant Citadel]] | [[The Queen's Council]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Archmage Starweaver\|Archmage Starweaver]] | Elf | [[The Radiant Citadel]] | [[The Queen's Council]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/General Ironclad\|General Ironclad]] | Human | [[Stonepeak]] | [[The Queen's Council]], [[The Aegis Legion]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Gormley\|Gormley]] | Halfling | [[The Radiant Citadel]] | — |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Lord Goldhaven\|Lord Goldhaven]] | Human | [[The Radiant Citadel]] | [[The Queen's Council]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Spymaster Shadowcloak\|Spymaster Shadowcloak]] | Drow | [[The Radiant Citadel]] | [[The Queen's Council]] |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

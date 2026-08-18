@@ -62,10 +62,11 @@ It is wealthy, politically connected, and useful enough that even people who dis
 
 <!-- foundry-ignore-start -->
 #### Known NPCs
-```dataview
-TABLE WITHOUT ID file.link AS "Name", Race, Location, Building
-FROM #NPC
-WHERE contains(Faction, link(this.file.name))
-SORT file.name ASC
-```
+<!-- saros-materialized:start faction-npcs -->
+| Name | Race | Location | Building |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Lind Bergy\|Lind Bergy]] | Human | [[Port Quartz]] | [[The Quartz Cobra]] |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Lone-Wolf Louie\|Lone-Wolf Louie]] | Human | [[Goslow]] | [[The Silver Drake]] |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Varo Quill\|Varo Quill]] | Half-Elf | [[Rore]] | [[The Golden Goose]] |
+<!-- saros-materialized:end faction-npcs -->
 <!-- foundry-ignore-end -->

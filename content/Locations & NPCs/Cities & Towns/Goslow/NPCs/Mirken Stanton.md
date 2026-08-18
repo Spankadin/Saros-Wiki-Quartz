@@ -20,7 +20,7 @@ ccAssociates: []
 publish: true
 ---
 
-[[Mirken Stanton]] is captain of [[The Storm Runner]], a small troop transport with a working crew of roughly one hundred.
+[[Mirken Stanton]] is captain of [[The Storm Runner]], a fast, relatively light troop transport with a regular complement of 24 officers and crew.
 
 He has a reputation for being fearless at sea, fair enough to his own people, and frighteningly quick to fight when someone threatens a member of his crew.
 

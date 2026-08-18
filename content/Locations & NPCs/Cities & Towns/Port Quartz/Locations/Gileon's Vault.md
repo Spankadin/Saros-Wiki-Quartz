@@ -1,0 +1,26 @@
+---
+title: Gileon's Vault
+ccType: entry
+ccId: entry-gileons-vault
+aliases: []
+tags:
+- Shop
+- Arcane
+- Published
+Region: "[[Port Quartz]]"
+Hex: "79.96"
+ccTags:
+- Shop
+- Arcane
+publish: true
+---
+
+[[Gileon's Vault]] is an arcane shop in a quarter of [[Port Quartz]] known for its ancient scrying pools. The shop occupies a shabby three-storey building whose tall, elf-wrought wooden beams make the entryway look grander than anything beyond it.
+
+Inside, a few candles leave the crowded rooms dim. Old lenses, ritual vessels, tarnished instruments, sealed boxes, and uncertain curios compete for shelf space with ledgers and dust.
+
+## Shopkeeper
+
+[[Gileon]] is a heavyset human man who keeps the shop, knows where almost everything is, and blames trolls for every misfortune—from spoiled lamp oil and missing parcels to bad weather and unpaid accounts.
+
+Customers who challenge the explanation receive a longer explanation.

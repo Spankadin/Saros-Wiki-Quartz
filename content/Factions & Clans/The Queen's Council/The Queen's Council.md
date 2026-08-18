@@ -66,10 +66,13 @@ The longer Amara remains missing, the harder it becomes for the Council to rely 
 
 <!-- foundry-ignore-start -->
 #### Known Members
-```dataview
-TABLE WITHOUT ID file.link AS "Name", Role, Race, Location
-FROM #NPC
-WHERE contains(Faction, link(this.file.name))
-SORT file.name ASC
-```
+<!-- saros-materialized:start faction-npcs -->
+| Name | Race | Location | Building |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Ambassador Skylark\|Ambassador Skylark]] | Elf | [[Pyrris]] | [[The Radiant Citadel]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Archmage Starweaver\|Archmage Starweaver]] | Elf | [[Pyrris]] | [[The Radiant Citadel]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/General Ironclad\|General Ironclad]] | Human | [[Pyrris]] | [[Stonepeak]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Lord Goldhaven\|Lord Goldhaven]] | Human | [[Pyrris]] | [[The Radiant Citadel]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Spymaster Shadowcloak\|Spymaster Shadowcloak]] | Drow | [[Pyrris]] | [[The Radiant Citadel]] |
+<!-- saros-materialized:end faction-npcs -->
 <!-- foundry-ignore-end -->

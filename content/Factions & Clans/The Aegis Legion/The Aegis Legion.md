@@ -79,10 +79,14 @@ Smaller garrisons and posts protect major roads, ports, and politically importan
 
 <!-- foundry-ignore-start -->
 #### Known NPCs
-```dataview
-TABLE WITHOUT ID file.link AS "Name", Race, Location, Building
-FROM #NPC
-WHERE contains(Faction, link(this.file.name))
-SORT file.name ASC
-```
+<!-- saros-materialized:start faction-npcs -->
+| Name | Race | Location | Building |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Admiral Thainan\|Admiral Thainan]] | Human | [[Grymswatch]] | [[Mira's Wall]] |
+| [[Locations & NPCs/Cities & Towns/Ani/NPCs/Captain Lysa Dorn\|Captain Lysa Dorn]] | Human | [[Ani]] | [[Ani Watchhouse]] |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Captain Serin Holt\|Captain Serin Holt]] | Human | [[Port Quartz]] | — |
+| [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Festin Dontel\|Festin Dontel]] | Human | [[Grymswatch]] | [[Mira's Wall]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/General Ironclad\|General Ironclad]] | Human | [[Pyrris]] | [[Stonepeak]] |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Vostin The Mighty\|Vostin The Mighty]] | Human | [[Goslow]] | [[Duskpoint]] |
+<!-- saros-materialized:end faction-npcs -->
 <!-- foundry-ignore-end -->

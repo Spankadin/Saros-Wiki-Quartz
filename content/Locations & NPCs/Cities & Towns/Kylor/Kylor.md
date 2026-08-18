@@ -74,10 +74,11 @@ The most common serious threat is not an army. It is whatever emerges from the f
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Derran Pike\|Derran Pike]] | Human | [[Saltwood Market]] | [[Kylor Moot]] |
+| [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Mara Venn\|Mara Venn]] | Human | [[The Drowning Mermaid]] | — |
+| [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Osk Fen\|Osk Fen]] | Half-Orc | [[Blackpine Yard]] | — |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

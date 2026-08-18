@@ -86,10 +86,11 @@ The oldest and deepest workings around Lilya overlap with forgotten dwarven cons
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Garran Flint\|Garran Flint]] | Dwarf | [[The Silver Gate]] | — |
+| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Maela Torr\|Maela Torr]] | Human | [[Stonewake Hall]] | [[Stone Council]] |
+| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Ysra Pell\|Ysra Pell]] | Human | [[The Deep Lantern]] | — |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

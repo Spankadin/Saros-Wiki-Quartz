@@ -20,12 +20,8 @@ Abandoned Sarosian dungeons can be genuinely lightless. A sealed interior that h
 
 A dying torch, lantern, spell, personal shard, or ritual source may expose only a small portion of a chamber while the rest remains absolute black. Occupied sites still use whatever practical light their inhabitants require; true blackout is a property of abandonment, depth, and circumstance rather than a universal visual filter.
 
-```dataview
-TABLE WITHOUT ID
-file.link AS "Dungeon",
-Hex,
-Region
-FROM #Dungeon
-WHERE file.name != this.file.name
-SORT file.name ASC
-```
+<!-- saros-materialized:start dungeons -->
+| Dungeon | Hex | Region |
+| --- | --- | --- |
+| [[Locations & NPCs/Dungeons/Serpent Ruin\|Serpent Ruin]] | 67.104 | [[Goslow]] |
+<!-- saros-materialized:end dungeons -->

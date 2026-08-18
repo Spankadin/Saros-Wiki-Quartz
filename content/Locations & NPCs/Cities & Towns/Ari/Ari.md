@@ -63,10 +63,9 @@ Ari is fortified enough to resist raiders but cannot protect every mining camp i
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Ari/NPCs/Harlan Vey\|Harlan Vey]] | Human | [[Ari Grain Quay]] | — |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

@@ -79,10 +79,11 @@ Violence that interferes with business is punished quickly. Violence between peo
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Cassia Rook\|Cassia Rook]] | Human | [[The Dealhouse]] | [[The House Table]] |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Nessa Crowe\|Nessa Crowe]] | Human | [[The Black Ledger]] | — |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Varo Quill\|Varo Quill]] | Half-Elf | [[The Golden Goose]] | [[Gambler's Guild]] |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

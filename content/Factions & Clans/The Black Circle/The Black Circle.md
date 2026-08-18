@@ -92,10 +92,9 @@ Both sides can point to real examples supporting their view.
 
 <!-- foundry-ignore-start -->
 #### Known NPCs
-```dataview
-TABLE WITHOUT ID file.link AS "Name", Race, Location, Building
-FROM #NPC
-WHERE contains(Faction, link(this.file.name))
-SORT file.name ASC
-```
+<!-- saros-materialized:start faction-npcs -->
+| Name | Race | Location | Building |
+| --- | --- | --- | --- |
+| [[Factions & Clans/The Black Circle/NPCs/Clarissa\|Clarissa]] | Human | [[Skaggerty]] (Region) | — |
+<!-- saros-materialized:end faction-npcs -->
 <!-- foundry-ignore-end -->

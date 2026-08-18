@@ -77,10 +77,11 @@ The walls are less imposing than Lilya's, but the constant presence of armed tra
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Elian Thorne\|Elian Thorne]] | Human | [[Tollhouse Commons]] | [[Crossroads Council]] |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Jessa Marr\|Jessa Marr]] | Halfling | [[The Axle and Bell]] | [[Merchant's Guild]] |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Torv Hallick\|Torv Hallick]] | Human | [[East Gate Caravan Yard]] | [[Merchant's Guild]] |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

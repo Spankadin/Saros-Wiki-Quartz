@@ -13,15 +13,15 @@ This is a growing collection of rules references, generators, and creators used 
 
 ## Rules and generators
 
-- [Old-School Essentials Online Rules Reference](https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=start)
-- [Donjon](https://donjon.bin.sh/)
-- [Watabou's Generators](https://watabou.github.io/index.html)
+- <a href="https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=start" target="_blank" rel="noopener noreferrer">Old-School Essentials Online Rules Reference</a>
+- <a href="https://donjon.bin.sh/" target="_blank" rel="noopener noreferrer">Donjon</a>
+- <a href="https://watabou.github.io/index.html" target="_blank" rel="noopener noreferrer">Watabou's Generators</a>
 
 ## Worldbuilding channels
 
-- [Bandit's Keep](https://www.youtube.com/@BanditsKeep)
-- [Matthew Colville](https://www.youtube.com/@mcolville)
-- [The Grainbound](https://www.youtube.com/@TheGrainbound)
-- [Just In Time Worldbuilding](https://www.youtube.com/@JustInTimeWorldbuilding)
-- [Mystic Arts](https://www.youtube.com/@MysticArtsDM)
-- [Dungeon Craft](https://www.youtube.com/@DUNGEONCRAFT1)
+- <a href="https://www.youtube.com/@BanditsKeep" target="_blank" rel="noopener noreferrer">Bandit's Keep</a>
+- <a href="https://www.youtube.com/@mcolville" target="_blank" rel="noopener noreferrer">Matthew Colville</a>
+- <a href="https://www.youtube.com/@TheGrainbound" target="_blank" rel="noopener noreferrer">The Grainbound</a>
+- <a href="https://www.youtube.com/@JustInTimeWorldbuilding" target="_blank" rel="noopener noreferrer">Just In Time Worldbuilding</a>
+- <a href="https://www.youtube.com/@Dadi-MysticArts" target="_blank" rel="noopener noreferrer">Mystic Arts</a>
+- <a href="https://www.youtube.com/@DUNGEONCRAFT1" target="_blank" rel="noopener noreferrer">Dungeon Craft</a>

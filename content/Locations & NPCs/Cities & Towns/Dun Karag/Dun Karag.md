@@ -6,6 +6,7 @@ aliases:
 - The Northern Gate
 - Karag Gate
 tags:
+- Town
 - Stronghold
 - Dwarves
 - Published
@@ -15,6 +16,7 @@ Government: "[[Dun'zod]] Hold Council"
 Leader: ''
 Population: 900
 ccTags:
+- Town
 - Stronghold
 - Dwarven
 publish: true

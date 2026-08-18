@@ -355,6 +355,28 @@ body[data-slug="locations--and--npcs/map-of-saros"] article img[src*="saros-imag
   }
 }
 
+// Keep the whole desktop reference rail scrollable so a long backlinks list
+// cannot squeeze or clip the table of contents above it.
+@media (min-width: 1200px) {
+  .page > #quartz-body .sidebar.right {
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-gutter: stable;
+  }
+
+  .page > #quartz-body .sidebar.right > .toc,
+  .page > #quartz-body .sidebar.right > .backlinks {
+    flex: 0 0 auto;
+    overflow: visible;
+  }
+
+  .page > #quartz-body .sidebar.right > .toc > ul.toc-content.overflow,
+  .page > #quartz-body .sidebar.right > .backlinks > ul.overflow {
+    max-height: none;
+    overflow: visible;
+  }
+}
+
 footer a[href*="about-saros"] {
   font-weight: 700;
 }

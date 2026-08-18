@@ -22,13 +22,13 @@ links:
   convert: true
 ---
 
-[[Soryn's Crossing]] is the principal trade junction of southern Saros, positioned where roads and waterways allow goods to move in several directions without first hugging the outer coast.
+[[Soryn's Crossing]] is the principal trade junction of southern Saros. It stands on both banks of the river flowing south from [[Lake Runa]], where a great land bridge creates the only known safe maintained passage toward the far southern coast.
 
 It is a commercial town before it is anything else.
 
 ## Character
 
-The Crossing is full of warehouses, ferry slips, stables, brokers, caravan yards, and temporary residents. The town's population changes noticeably with the trading season.
+The Crossing is full of warehouses, guarded approaches, stables, brokers, caravan yards, and temporary residents. Its two halves face one another across the river and are governed as one town. The population changes noticeably with the trading season.
 
 ## Government
 
@@ -39,7 +39,7 @@ A charter council regulates tolls, quays, road maintenance, and market law. [[Da
 Soryn's Crossing makes money from:
 
 - Warehousing
-- Ferry and river traffic
+- River traffic and controlled crossing tolls
 - Caravan services
 - Grain and livestock exchange
 - Money changing
@@ -50,15 +50,17 @@ Goods from [[Mysha]], the lake cities, the southern coast, and routes toward [[A
 
 ## Travel and Connections
 
-[[Mysha]] lies roughly **45-55 miles** away: 2-3 days walking, 3-4 by wagon, about 2 days mounted, or 1-2 days for river freight when conditions cooperate.
+[[Isoltide]] lies approximately **135–145 road miles** northeast: 7–9 days walking, 10–13 days by heavy wagon, or 4–6 days mounted.
 
-[[Brynk]] lies roughly **40-50 road miles** away: 2-3 days walking, 3-4 by wagon, about 2 days mounted, or less than a day by griffin. The climb makes bulky low-value freight expensive.
+[[Mysha]] lies approximately **80–90 road miles** northeast: 4–5 days walking, 6–8 days by heavy wagon, or 3–4 days mounted.
+
+[[Brynk]] lies approximately **110–125 road miles** through the western heights: 7–9 days walking, 9–13 days by pack train, or 5–7 days mounted. Heavy wagons are unreliable on the climb, and griffin passage is too rare to serve as an ordinary itinerary.
 
 See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
 
 ## Security
 
-The town maintains a professional watch and hires additional guards during major trade periods. Its strategic position also attracts frequent Legion patrols.
+The town maintains a professional watch and hires additional guards during major trade periods. Its command of the land bridge attracts frequent Legion patrols, while gates and watch posts on both banks control passage south.
 
 ## Places of Interest
 
@@ -68,10 +70,9 @@ The town maintains a professional watch and hires additional guards during major
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Soryn's Crossing/NPCs/Dalen Soryn\|Dalen Soryn]] | Human | [[Soryn Hall]] | [[Merchant's Guild]] |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

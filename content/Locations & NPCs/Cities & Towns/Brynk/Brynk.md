@@ -42,7 +42,7 @@ The town's small population means it relies on periodic caravans for salt, metal
 
 ## Travel and Connections
 
-[[Soryn's Crossing]] lies roughly **40-50 road miles** away: 2-3 days walking, 3-4 by wagon, about 2 days mounted, or less than a day by griffin.
+[[Soryn's Crossing]] lies approximately **110–125 road miles** away through the western heights: 7–9 days walking, 9–13 days by pack train, or 5–7 days mounted. Heavy wagons are unreliable on the climb, and griffin riders are far too rare to count as ordinary transport.
 
 The mountain climb raises the price of cheap bulky goods and helps preserve Brynk's isolation. See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
 
@@ -58,10 +58,9 @@ The mountain itself provides much of Brynk's defense. Narrow approaches, watch p
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Brynk/NPCs/Vessa Keln\|Vessa Keln]] | Human | [[House of Measures]] | — |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

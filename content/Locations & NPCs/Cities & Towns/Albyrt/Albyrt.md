@@ -40,9 +40,11 @@ Its position near routes toward the dangerous [[The Urmong Barrows|Urmong Barrow
 
 ## Travel and Connections
 
-[[Isoltide]] stands across the great southern lake. A ferry or lake boat crosses in less than a day, while going around takes about 2 days on foot, 2-3 days by heavy cart, or 1-2 days mounted.
+[[Isoltide]] stands roughly **45–50 water miles** across the great southern lake. The scheduled ferry usually takes most of a day to a full day, depending on wind, current, loading, and the wait for departure.
 
-The lake carries grain, fish, timber, livestock feed, stone, and passengers far more efficiently than the road. See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
+There is **no road around the lake**. The ferry is the only known safe passage between the cities and the only safe crossing of the upper southern divide. Anyone refusing it must provide a suitable boat and attempt the immense river that flows from northern [[Vy'tungavor]] south into [[The Sparkling Sea]].
+
+The lake carries grain, fish, timber, livestock feed, stone, and passengers. See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
 
 ## Security
 
@@ -56,10 +58,9 @@ A lakeside wall, gatehouses, watch boats, and local militia protect the town. Pa
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Albyrt/NPCs/Mara Avelin\|Mara Avelin]] | Human | [[Westlake Ferry Hall]] | — |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

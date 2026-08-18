@@ -65,10 +65,9 @@ Ani has strong walls for its size, layered gates, coastal patrols, and watch tow
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Ani/NPCs/Captain Lysa Dorn\|Captain Lysa Dorn]] | Human | [[Ani Watchhouse]] | [[The Aegis Legion]] |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

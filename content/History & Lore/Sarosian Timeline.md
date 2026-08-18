@@ -5,7 +5,7 @@ ccId: entry-sarosian-timeline
 aliases:
 - Timeline of Saros
 - Saros Timeline
-- Years After Arrival
+- Years Since Caelum's Arrival
 tags:
 - Lore
 - History
@@ -17,9 +17,9 @@ ccTags:
 publish: true
 ---
 
-The [[Sarosian Timeline]] organizes the known history in [[Ages of Saros]] and gives the Third Age a working demographic scale. Dates in the modern record are measured **After Arrival (AA)**, beginning when [[Caelum]]'s wish carried the Wanderers from Mystara to Saros.
+The [[Sarosian Timeline]] organizes the known history in [[Ages of Saros]] and gives the Third Age a working demographic scale. Dates in the modern record are measured from **Caelum's Arrival (CA)**, beginning when his wish carried the Wanderers from Mystara to Saros.
 
-The present is approximately **1,400 AA**.
+The present is approximately **1,400 CA**.
 
 Dates before the Arrival are reconstructed from ruins, oral traditions, elven memory, dwarven records, and later copies. They should be treated as increasingly uncertain the farther back they reach.
 
@@ -29,12 +29,12 @@ Known Saros holds approximately **300,000 inhabitants**. The number is a useful 
 
 | Time | Approximate Known Population | Demographic Character |
 | --- | ---: | --- |
-| Arrival, 0 AA | 8,000–10,000 | Nearly 1,000 Wanderers plus scattered surviving Sarosians |
-| 200 AA | 13,000–17,000 | Fortified farms and the first stable charter towns |
-| 600 AA | 35,000–50,000 | A connected realm exists; Caelum's reign ends |
-| 900 AA | 80,000–100,000 | Amaran institutions and southern trade expand |
-| 1,200 AA | 190,000–220,000 | Long-distance trade and settlement reach their broadest growth |
-| Present, about 1,400 AA | 280,000–320,000 | Working canon: approximately 300,000 |
+| Arrival, 0 CA | 8,000–10,000 | Nearly 1,000 Wanderers plus scattered surviving Sarosians |
+| 200 CA | 13,000–17,000 | Fortified farms and the first stable charter towns |
+| 600 CA | 35,000–50,000 | A connected realm exists; Caelum's reign ends |
+| 900 CA | 80,000–100,000 | Amaran institutions and southern trade expand |
+| 1,200 CA | 190,000–220,000 | Long-distance trade and settlement reach their broadest growth |
+| Present, about 1,400 CA | 280,000–320,000 | Working canon: approximately 300,000 |
 
 These figures describe long trends rather than smooth growth. Saros has repeatedly lost whole communities to famine, sickness, monsters, war, magical contamination, piracy, isolation, and failed roads.
 
@@ -130,7 +130,7 @@ By the end of the Second Age, Saros contained people but no surviving network of
 
 # Third Age — Caelum's Arrival
 
-## 0–120 AA — The Years of Gathering
+## 0–120 CA — The Years of Gathering
 
 Caelum's wish brought approximately **900–1,000 Wanderers** from Mystara. They gradually encountered another **6,000–10,000 Sarosians** living in isolated communities.
 
@@ -162,11 +162,11 @@ The survivors included:
 ### Population
 
 - At Arrival: approximately **8,000–10,000** known people, including newcomers and discovered survivors
-- By 120 AA: approximately **10,000–13,000**
+- By 120 CA: approximately **10,000–13,000**
 
 The earliest records are household lists and ration counts, not censuses.
 
-## 120–350 AA — The Chartering
+## 120–350 CA — The Chartering
 
 Stable towns and local governments appeared. Caelum's influence spread along roads, rivers, ports, and negotiated charters rather than through complete control of the land between them.
 
@@ -186,12 +186,12 @@ Stable towns and local governments appeared. Caelum's influence spread along roa
 
 ### Population
 
-- Around 200 AA: **13,000–17,000**
-- By 350 AA: approximately **22,000–30,000**
+- Around 200 CA: **13,000–17,000**
+- By 350 CA: approximately **22,000–30,000**
 
 Growth came from safer harvests, the joining of previously uncounted communities, and movement toward defended settlements as much as from births.
 
-## 350–600 AA — The Long Founding
+## 350–600 CA — The Long Founding
 
 During the Long Founding, the political culture associated with modern Saros became dominant across the best-connected regions.
 
@@ -208,7 +208,7 @@ During the Long Founding, the political culture associated with modern Saros bec
 - Saros reused Second Age walls, cisterns, bridges, tomb roads, and foundations whenever repair was easier than new construction.
 - Dwarven and elven knowledge entered trade selectively and remained largely controlled by its keepers.
 
-### Caelum's End, about 600 AA
+### Caelum's End, about 600 CA
 
 Near the close of this period, Caelum and [[Queen Amara|Amara]] took their former pupil [[Silas Voss]] to the frozen northern peak now called [[Caelum's End]]. It was their final attempt to turn him away from evil.
 
@@ -222,9 +222,9 @@ Near the close of this period, Caelum and [[Queen Amara|Amara]] took their forme
 
 ### Population
 
-- By 600 AA: approximately **35,000–50,000**
+- By 600 CA: approximately **35,000–50,000**
 
-## 600–1,000 AA — The Early Amaran Peace
+## 600–1,000 CA — The Early Amaran Peace
 
 Amara's early reign transformed a founder's network into a durable realm. “Peace” is relative: roads remained dangerous, towns fought, and entire districts could still disappear. The period was peaceful compared with what came before it.
 
@@ -243,12 +243,12 @@ Amara's early reign transformed a founder's network into a durable realm. “Pea
 
 ### Population
 
-- Around 900 AA: approximately **80,000–100,000**
-- By 1,000 AA: approximately **105,000–125,000**
+- Around 900 CA: approximately **80,000–100,000**
+- By 1,000 CA: approximately **105,000–125,000**
 
 Population rose unevenly. Several local booms ended in plague, failed harvest, magical disaster, or abandonment.
 
-## 1,000–1,300 AA — The High Peace
+## 1,000–1,300 CA — The High Peace
 
 Most institutions considered “old” in modern daily life took their present form during the High Peace.
 
@@ -269,10 +269,10 @@ Most institutions considered “old” in modern daily life took their present f
 
 ### Population
 
-- Around 1,200 AA: approximately **190,000–220,000**
-- By 1,300 AA: approximately **240,000–270,000**
+- Around 1,200 CA: approximately **190,000–220,000**
+- By 1,300 CA: approximately **240,000–270,000**
 
-## 1,300 AA–Present — The Fraying Peace
+## 1,300 CA–Present — The Fraying Peace
 
 The system stopped expanding consistently and began spending more effort preserving what already existed.
 
@@ -394,7 +394,7 @@ A modern city therefore contains layers rather than steady progress: Second Age 
 
 # The Six-Century Question
 
-If Caelum arrived around 0 AA and fell at Caelum's End around 600 AA, the human founder lived for roughly six centuries after the Arrival.
+If Caelum arrived around 0 CA and fell at Caelum's End around 600 CA, the human founder lived for roughly six centuries after Caelum's Arrival.
 
 Sarosian scholars offer several explanations:
 

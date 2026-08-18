@@ -47,9 +47,9 @@ The council coordinates closely with Albyrt on lake safety while arguing constan
 
 ## Travel and Connections
 
-[[Albyrt]] lies across the great southern lake. A ferry or lake boat crosses in less than a day; the road around takes about 2 days walking or 2-3 days by heavy cart.
+[[Albyrt]] lies roughly **45–50 water miles** across the great southern lake. The scheduled ferry usually takes most of a day to a full day, depending on wind, current, loading, and the wait for departure. There is **no road around the lake**. The ferry is the only known safe upper crossing; avoiding it requires a private boat and a dangerous crossing of the great river flowing from northern [[Vy'tungavor]] to [[The Sparkling Sea]].
 
-[[Mysha]] lies roughly **65-80 road miles** away: 3-4 days walking, 4-6 by wagon, or 2-3 days mounted. Navigable water movement can rival or beat the road.
+The maintained road to [[Mysha]] runs through [[Soryn's Crossing]]: approximately **215–235 miles**, or 11–14 days walking, 16–21 days by heavy wagon, and 7–10 days mounted. A direct line across the forest is not a road and must still overcome the intervening waters.
 
 See [[Saros - Distances, Travel, Trade, and Population]] for the canonical route model.
 
@@ -65,10 +65,9 @@ Isoltide is modestly fortified and maintains armed watch boats. The forest edge 
 
 <!-- foundry-ignore-start -->
 #### NPCs Found Here
-```dataview
-TABLE WITHOUT ID file.link AS "NPC", Race, Building, join(Faction, ", ") AS "Factions"
-FROM #NPC
-WHERE Location = link(this.file.name)
-SORT file.name ASC
-```
+<!-- saros-materialized:start town-npcs -->
+| NPC | Race | Building | Factions |
+| --- | --- | --- | --- |
+| [[Locations & NPCs/Cities & Towns/Isoltide/NPCs/Teren Moss\|Teren Moss]] | Half-Elf | [[Eastwater Hall]] | — |
+<!-- saros-materialized:end town-npcs -->
 <!-- foundry-ignore-end -->

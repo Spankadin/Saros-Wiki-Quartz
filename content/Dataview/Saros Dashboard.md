@@ -92,9 +92,9 @@ modified: 2026-08-08T11:56:12.742Z
 
 ## Recent File Updates
 
+- [[index.md|index]]
 - [[Useful Links.md|Useful Links]]
 - [[About Saros.md|About Saros]]
-- [[index.md|index]]
 - [[Locations & NPCs/Cities & Towns/Goslow/Locations/Bedford's Forge.md|Bedford's Forge]]
 - [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Toad.md|The Toad]]
 - [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Fourty Knights.md|The Fourty Knights]]

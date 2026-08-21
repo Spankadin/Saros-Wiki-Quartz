@@ -6,7 +6,7 @@ aliases:
 title: Welcome to Saros
 description: A player-facing guide to the people, places, factions, and history of Saros.
 created: 2026-08-15T19:53:01.230Z
-modified: 2026-08-21T07:18:01.117Z
+modified: 2026-08-21T08:42:03.506Z
 tags:
   - Lore
   - Published
@@ -17,7 +17,7 @@ tags:
   <figcaption>
     <p class="saros-hero__eyebrow">A player’s guide to the realm</p>
     <strong class="saros-hero__title">Saros</strong>
-    <p class="saros-hero__subtitle">Ancient ruins, dangerous roads, powerful factions—and stories waiting beyond the map’s edge.</p>
+    <p class="saros-hero__subtitle">Saros is a realm of old roads and older mysteries: scattered settlements, malevolent monsters, deep Dwarven Delves, and legendary lore.</p>
   </figcaption>
 </figure>
 
@@ -30,8 +30,6 @@ tags:
 </div>
 
 # Delve into Saros
-
-Saros is a realm of old roads and older mysteries: proud cities, hard-won alliances, forgotten delves, and communities built atop the remains of earlier worlds. This wiki is your player-facing gateway to its people, powers, places, and history.
 
 > [!tip] Begin your journey
 > New to the setting? Start with [[A Brief Saros History]], continue through the [[Ages of Saros]], and then follow the [[Sarosian Timeline]]. Use search for a particular name, hover over links for previews, or follow the graph to discover unexpected connections.

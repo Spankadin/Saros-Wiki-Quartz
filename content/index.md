@@ -6,7 +6,7 @@ aliases:
 title: Welcome to Saros
 description: A player-facing guide to the people, places, factions, and history of Saros.
 created: 2026-08-15T19:53:01.230Z
-modified: 2026-08-21T08:42:03.506Z
+modified: 2026-08-21T08:43:49.160Z
 tags:
   - Lore
   - Published
@@ -28,8 +28,6 @@ tags:
     <span class="saros-enter-tooltip" id="saros-enter-tooltip" role="tooltip">Open the secure Saros game server in your browser.</span>
   </div>
 </div>
-
-# Delve into Saros
 
 > [!tip] Begin your journey
 > New to the setting? Start with [[A Brief Saros History]], continue through the [[Ages of Saros]], and then follow the [[Sarosian Timeline]]. Use search for a particular name, hover over links for previews, or follow the graph to discover unexpected connections.

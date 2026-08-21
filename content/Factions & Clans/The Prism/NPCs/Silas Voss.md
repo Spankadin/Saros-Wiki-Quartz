@@ -1,25 +1,13 @@
 ---
-title: Silas Voss
-ccType: npc
-ccId: npc-silas-voss
-Race: Human
-aliases:
-- Silas
-tags:
-- NPC
-- Published
-Location: Unknown
-Faction:
-- "[[The Prism]]"
-ccTags:
-- Prism
-- Wizard
-- Historical
-ccAssociates:
-- "[[Caelum]]"
-- "[[Queen Amara]]"
-- "[[Malgrim Darkshade]]"
 publish: true
+aliases:
+  - Silas
+title: Silas Voss
+created: 2025-01-28T10:26:12.658Z
+modified: 2026-08-14T09:55:39.966Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Silas Voss]] is a human wizard tied to both the destruction that preceded [[Caelum]]'s Arrival and the modern cult called [[The Prism]]. His current fate is unknown.

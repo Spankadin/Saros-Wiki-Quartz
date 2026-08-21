@@ -1,15 +1,15 @@
 ---
-title: Breakwater Fingers
-ccType: entry
-ccId: entry-breakwater-fingers
-aliases:
-- The Breakwater Fingers
-tags: [Landmark, Coast, Navigation, Published]
-Region: "[[Bishop's Bay]]"
-LandmarkType: Rock Formation
-Hex: "63.102–66.108"
-ccTags: [Landmark, Coast, Navigation]
 publish: true
+aliases:
+  - The Breakwater Fingers
+title: Breakwater Fingers
+created: 2026-08-17T11:46:36.379Z
+modified: 2026-08-17T11:46:36.380Z
+tags:
+  - Landmark
+  - Coast
+  - Navigation
+  - Published
 ---
 
 The [[Breakwater Fingers]] are the great rock formations reaching into [[Bishop's Bay]] west and south of [[Goslow]]. They blunt the bay's heavy currents and keep the city's inner docks calm enough for many kinds of vessel.

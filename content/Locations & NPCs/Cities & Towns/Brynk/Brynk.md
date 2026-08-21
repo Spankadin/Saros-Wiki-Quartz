@@ -1,23 +1,11 @@
 ---
-title: Brynk
-ccType: region
-ccId: region-brynk
-aliases: []
-tags:
-- Town
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Hex: "58.180"
-Government: Closed Customary Council
-Leader: "[[Vessa Keln]]"
-Population: 650
-ccTags:
-- Town
 publish: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+title: Brynk
+created: 2026-08-08T11:56:33.114Z
+modified: 2026-08-18T07:22:22.947Z
+tags:
+  - Town
+  - Published
 ---
 
 [[Brynk]] is a small and peculiar mountain town whose isolation has preserved laws, rituals, and customs that often seem baffling to outsiders.
@@ -57,10 +45,11 @@ The mountain itself provides much of Brynk's defense. Narrow approaches, watch p
 - [[The Quiet Cup]] — the only inn routinely permitted to host outsiders
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-<!-- saros-materialized:start town-npcs -->
-| NPC | Race | Building | Factions |
-| --- | --- | --- | --- |
-| [[Locations & NPCs/Cities & Towns/Brynk/NPCs/Vessa Keln\|Vessa Keln]] | Human | [[House of Measures]] | — |
-<!-- saros-materialized:end town-npcs -->
+
+| NPC                                                                      | Race  | Building                                                                                    | Factions |
+| ------------------------------------------------------------------------ | ----- | ------------------------------------------------------------------------------------------- | -------- |
+| [[Locations & NPCs/Cities & Towns/Brynk/NPCs/Vessa Keln.md\|Vessa Keln]] | Human | [[Locations & NPCs/Cities & Towns/Brynk/Locations/House of Measures.md\|House of Measures]] |          |
+
 <!-- foundry-ignore-end -->

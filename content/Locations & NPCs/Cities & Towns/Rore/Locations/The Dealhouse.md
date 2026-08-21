@@ -1,20 +1,15 @@
 ---
-title: The Dealhouse
-ccType: entry
-ccId: entry-the-dealhouse
-aliases:
-- Dealhouse
-tags:
-- Building
-- Government
-- Court
-- Published
-Region: "[[Rore]]"
-Hex: "132.101"
-ccTags:
-- Building
-- Civic Hall
 publish: true
+aliases:
+  - Dealhouse
+title: The Dealhouse
+created: 2026-08-10T09:42:00.176Z
+modified: 2026-08-17T11:47:40.147Z
+tags:
+  - Building
+  - Government
+  - Court
+  - Published
 ---
 
 [[The Dealhouse]] is the civic seat of [[Rore]], where [[The House Table]] meets and the city's public court is held.

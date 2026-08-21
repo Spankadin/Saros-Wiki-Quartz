@@ -1,18 +1,12 @@
 ---
-title: House of Measures
-ccType: entry
-ccId: entry-house-of-measures
-aliases: []
-tags:
-- Building
-- Civic
-- Published
-Region: "[[Brynk]]"
-Hex: "58.180"
-ccTags:
-- Building
-- Civic
 publish: true
+title: House of Measures
+created: 2026-08-08T11:56:33.122Z
+modified: 2026-08-17T11:47:39.977Z
+tags:
+  - Building
+  - Civic
+  - Published
 ---
 
 The [[House of Measures]] is [[Brynk]]'s civic hall and court of customary law. [[Vessa Keln]] speaks for the council here, though many hearings are decided by precedent older than anyone present.

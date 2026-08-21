@@ -1,20 +1,13 @@
 ---
-title: The Silver Drake
-ccType: entry
-ccId: entry-the-silver-drake
-aliases: []
-tags:
-- Building
-- Bank
-- Gambling Hall
-- Published
-Region: "[[Goslow]]"
-Hex: "67.103"
-ccTags:
-- Building
-- Bank
-- Gambling Hall
 publish: true
+title: The Silver Drake
+created: 2024-12-29T09:42:26.046Z
+modified: 2026-08-17T11:47:40.005Z
+tags:
+  - Building
+  - Bank
+  - Gambling Hall
+  - Published
 ---
 
 [[The Silver Drake]] is [[Goslow]]'s sole [[Gambler's Guild|Guild-chartered]] gambling hall and a [[Bank of Saros]]. It is one of the most famous halls in Saros, surpassed in scale by [[The Golden Goose]] in [[Rore]].

@@ -1,21 +1,11 @@
 ---
-title: Lind Bergy
-ccType: npc
-ccId: npc-lind-bergy
-Race: Human
-aliases: []
-tags:
-- NPC
-- Published
-Location: "[[Port Quartz]]"
-Building: "[[The Quartz Cobra]]"
-Faction:
-- "[[Gambler's Guild]]"
-Role: Proprietor and Banker
-ccTags:
-- Gambler's Guild
-ccAssociates: []
 publish: true
+title: Lind Bergy
+created: 2026-08-10T09:42:00.801Z
+modified: 2026-08-15T23:54:57.514Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Lind Bergy]] owns and operates [[The Quartz Cobra]], the chartered gambling hall and [[Bank of Saros]] in [[Port Quartz]].

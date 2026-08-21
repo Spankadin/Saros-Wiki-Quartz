@@ -1,19 +1,12 @@
 ---
-title: Four Roads Market
-ccType: entry
-ccId: entry-four-roads-market
-aliases: []
-tags:
-- Landmark
-- Market
-- Published
-Region: "[[Trystn]]"
-Hex: "102.99"
-LandmarkType: Market
-ccTags:
-- Landmark
-- Market
 publish: true
+title: Four Roads Market
+created: 2026-08-07T06:36:23.936Z
+modified: 2026-08-17T11:47:40.177Z
+tags:
+  - Landmark
+  - Market
+  - Published
 ---
 
 [[Four Roads Market]] fills the center of [[Trystn]] with wagons, livestock, tents, grain, tools, and travelers.

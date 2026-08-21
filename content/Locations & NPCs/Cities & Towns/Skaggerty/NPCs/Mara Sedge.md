@@ -1,21 +1,13 @@
 ---
-title: Mara Sedge
-ccType: npc
-ccId: npc-mara-sedge
-Race: Human
-aliases:
-- Council Speaker Sedge
-tags:
-- NPC
-- Published
-Location: "[[Skaggerty]]"
-Building: "[[The Crossroads Weighhouse]]"
-Faction: []
-Role: Council Speaker and Grain Assessor
-ccTags:
-- Civic Leader
-ccAssociates: []
 publish: true
+aliases:
+  - Council Speaker Sedge
+title: Mara Sedge
+created: 2026-08-10T09:41:58.880Z
+modified: 2026-08-10T09:41:58.880Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Mara Sedge]] is the Council Speaker and official grain assessor of [[Skaggerty]]. She chairs the village council from [[The Crossroads Weighhouse]], settles routine disputes, certifies wagon weights, and keeps the stores that matter when a harvest fails.

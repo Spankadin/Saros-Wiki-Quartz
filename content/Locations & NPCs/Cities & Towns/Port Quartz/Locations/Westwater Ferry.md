@@ -1,20 +1,12 @@
 ---
-title: Westwater Ferry
-ccType: entry
-ccId: entry-westwater-ferry
-aliases: []
-tags:
-- Landmark
-- Ferry
-- Published
-Region: "[[Port Quartz]]"
-Hex: "81.95"
-LandmarkType: Ferry
-ccTags:
-- Landmark
-- Ferry
-- River
 publish: true
+title: Westwater Ferry
+created: 2026-08-07T03:53:05.594Z
+modified: 2026-08-17T11:44:37.161Z
+tags:
+  - Landmark
+  - Ferry
+  - Published
 ---
 
 [[Westwater Ferry]] is the working crossing between [[South Cataract Yard]] at hex **81.95** and [[North Cataract Yard]] at **82.94**.

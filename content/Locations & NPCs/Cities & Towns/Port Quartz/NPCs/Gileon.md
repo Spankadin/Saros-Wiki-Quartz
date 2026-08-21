@@ -1,21 +1,11 @@
 ---
-title: Gileon
-ccType: npc
-ccId: npc-gileon
-Race: Human
-aliases: []
-tags:
-- NPC
-- Published
-Location: "[[Port Quartz]]"
-Building: "[[Gileon's Vault]]"
-Faction: []
-Role: Arcane Shopkeeper
-ccTags:
-- Merchant
-- Arcane
-ccAssociates: []
 publish: true
+title: Gileon
+created: 2026-08-18T07:23:18.292Z
+modified: 2026-08-18T07:23:18.293Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Gileon]] is the heavyset human proprietor of [[Gileon's Vault]], a dim and shabby arcane shop in [[Port Quartz]].

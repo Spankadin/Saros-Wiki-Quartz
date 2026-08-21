@@ -1,17 +1,11 @@
 ---
-title: Caldus Renn
-ccType: npc
-ccId: npc-caldus-renn
-Race: Human
-aliases: []
-tags:
-- NPC
-- Published
-Location: "[[Port Quartz]]"
-Faction: []
-ccTags: []
-ccAssociates: []
 publish: true
+title: Caldus Renn
+created: 2026-08-07T03:53:05.603Z
+modified: 2026-08-10T09:38:54.183Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Caldus Renn]] is one of the few living guides known to have crossed the western rivers and returned from the foothills of [[The Masys Mountains]].

@@ -1,20 +1,13 @@
 ---
-title: The Golden Goose
-ccType: entry
-ccId: entry-the-golden-goose
-aliases: []
-tags:
-- Casino
-- Bank
-- Gambling Hall
-- Published
-Region: "[[Rore]]"
-Hex: "132.101"
-ccTags:
-- Casino
-- Bank
-- Gambling Hall
 publish: true
+title: The Golden Goose
+created: 2026-08-10T09:42:19.994Z
+modified: 2026-08-17T11:47:40.149Z
+tags:
+  - Casino
+  - Bank
+  - Gambling Hall
+  - Published
 ---
 
 [[The Golden Goose]] is the largest and most famous gambling hall in Saros. It is [[Rore]]'s sole [[Gambler's Guild|Guild-chartered]] hall and also operates as a [[Bank of Saros]].

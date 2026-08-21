@@ -1,23 +1,11 @@
 ---
-title: Skaggerty
-ccType: region
-ccId: region-skaggerty
-aliases: []
-tags:
-- Town
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Government: Village Council
-Leader: "[[Mara Sedge]]"
-Population: 1200
-Hex: "62.99"
-ccTags:
-- Town
 publish: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+title: Skaggerty
+created: 2025-02-04T02:26:08.273Z
+modified: 2026-08-17T11:07:21.436Z
+tags:
+  - Town
+  - Published
 ---
 
 [[Skaggerty]] is an agricultural market town of roughly twelve hundred residents near Hex 62.99, standing where routes toward [[Goslow]], [[Kylor]], and the northern road country separate.
@@ -57,13 +45,13 @@ A modest palisade, local militia, and the occasional Legion patrol provide ordin
 - [[Temple of Austerus]] — local temple overseen by [[Heldoren The Wise]]
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-<!-- saros-materialized:start town-npcs -->
-| NPC | Race | Building | Factions |
-| --- | --- | --- | --- |
-| [[Factions & Clans/The Black Circle/NPCs/Clarissa\|Clarissa]] | Human | — | [[The Black Circle]] |
-| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Heldoren The Wise\|Heldoren The Wise]] | Human | [[Temple of Austerus]] | — |
-| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Mara Sedge\|Mara Sedge]] | Human | [[The Crossroads Weighhouse]] | — |
-| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Simoon\|Simoon]] | Human | [[The Stout Fool]] | [[Merchant's Guild]] |
-<!-- saros-materialized:end town-npcs -->
+
+| NPC                                                                                        | Race  | Building                                                                                                        | Factions                                                                    |
+| ------------------------------------------------------------------------------------------ | ----- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Heldoren The Wise.md\|Heldoren The Wise]] | Human | [[Locations & NPCs/Cities & Towns/Skaggerty/Locations/Temple of Austerus.md\|Temple of Austerus]]               |                                                                             |
+| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Mara Sedge.md\|Mara Sedge]]               | Human | [[Locations & NPCs/Cities & Towns/Skaggerty/Locations/The Crossroads Weighhouse.md\|The Crossroads Weighhouse]] |                                                                             |
+| [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Simoon.md\|Simoon]]                       | Human | [[Locations & NPCs/Cities & Towns/Skaggerty/Locations/The Stout Fool.md\|The Stout Fool]]                       | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
+
 <!-- foundry-ignore-end -->

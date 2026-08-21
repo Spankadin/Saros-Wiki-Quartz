@@ -1,20 +1,16 @@
 ---
-title: Sarosian Timeline
-ccType: entry
-ccId: entry-sarosian-timeline
-aliases:
-- Timeline of Saros
-- Saros Timeline
-- Years Since Caelum's Arrival
-tags:
-- Lore
-- History
-- Published
-ccTags:
-- Lore
-- History
-- Population
 publish: true
+aliases:
+  - Timeline of Saros
+  - Saros Timeline
+  - Years Since Caelum's Arrival
+title: Sarosian Timeline
+created: 2026-08-10T09:52:26.466Z
+modified: 2026-08-18T07:23:38.490Z
+tags:
+  - Lore
+  - History
+  - Published
 ---
 
 The [[Sarosian Timeline]] organizes the known history in [[Ages of Saros]] and gives the Third Age a working demographic scale. Dates in the modern record are measured from **Caelum's Arrival (CA)**, beginning when his wish carried the Wanderers from Mystara to Saros.

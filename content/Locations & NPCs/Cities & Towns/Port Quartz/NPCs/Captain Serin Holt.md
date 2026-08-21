@@ -1,21 +1,11 @@
 ---
-title: Captain Serin Holt
-ccType: npc
-ccId: npc-captain-serin-holt
-Race: Human
-aliases: []
-tags:
-- NPC
-- Published
-Location: "[[Port Quartz]]"
-Faction:
-- "[[The Aegis Legion]]"
-Role: Aegis Garrison Commander
-ccTags:
-- Aegis Legion
-- Captain
-ccAssociates: []
 publish: true
+title: Captain Serin Holt
+created: 2026-08-07T03:53:05.605Z
+modified: 2026-08-08T11:56:14.961Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Captain Serin Holt]] commands the [[The Aegis Legion|Aegis Legion]] garrison in [[Port Quartz]].

@@ -1,18 +1,15 @@
 ---
-title: Delves
-ccType: entry
-ccId: entry-delve-index
-aliases:
-- Delve
-- Delving
-tags:
-- Lore
-- Index
-- Published
-ccTags:
-- Delves
 publish: true
-dataview: true
+aliases:
+  - Delve
+  - Delving
+title: Delves
+created: 2024-08-22T00:57:35.309Z
+modified: 2026-08-18T07:23:16.346Z
+tags:
+  - Lore
+  - Index
+  - Published
 ---
 
 Long ago in the [[Ages of Saros|Second Age]], when magical knowledge was powerful but crude, dwarves and elves worked together to harness forces rising through the earth at particular points along the [[Fey-Lines]]. These loosely connected magical streams seemed to flow between one another and gather where several lines met. Such convergences became places of extraordinary magical energy.
@@ -57,9 +54,8 @@ When a delve is found again, adventurers arrive seeking gold, magic, lost histor
 
 The promise is always the same: untold treasure may wait below. The warning is equally old: finding a delve is easier than coming back to see the suns again.
 
-<!-- saros-materialized:start delves -->
-| Known Delve | Hex | True Name | Region | Ruling Faction |
-| --- | --- | --- | --- | --- |
-| [[Locations & NPCs/Delves/Goslow Delve\|Goslow Delve]] | 67.103 | — | [[Goslow]] | — |
-| [[Locations & NPCs/Delves/Port Quartz Delve\|Port Quartz Delve]] | 79.96 | — | [[Port Quartz]] | — |
-<!-- saros-materialized:end delves -->
+| Known Delve                                                         | Hex    | True Name | Region                                                                                     | Ruling Faction |
+| ------------------------------------------------------------------- | ------ | --------- | ------------------------------------------------------------------------------------------ | -------------- |
+| [[Locations & NPCs/Delves/Goslow Delve.md\|Goslow Delve]]           | 67.103 | -        | -                                                                                         | -             |
+| [[Locations & NPCs/Delves/Port Quartz Delve.md\|Port Quartz Delve]] | 79.96  | -        | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]]                | -             |
+| [[Locations & NPCs/Delves/Silvervein Delve.md\|Silvervein Delve]]   | 106.81 | -        | [[Locations & NPCs/Landmarks/Mountains/The Silvervein Summits.md\|The Silvervein Summits]] | -             |

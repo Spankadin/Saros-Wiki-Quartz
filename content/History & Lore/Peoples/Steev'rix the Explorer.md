@@ -1,17 +1,15 @@
 ---
-title: Steev'rix the Explorer
-ccType: npc
-ccId: npc-steev-rix-the-explorer
-Race: Unknown
-aliases:
-- Steev'rix
-tags: [NPC, Explorer, Cartographer, Published]
-Location: Unknown
-Faction: []
-ccTags: [Explorer, Cartographer]
-ccAssociates:
-- "[[Perla Mudridge]]"
 publish: true
+aliases:
+  - Steev'rix
+title: Steev'rix the Explorer
+created: 2026-08-17T11:46:32.802Z
+modified: 2026-08-17T11:46:32.802Z
+tags:
+  - NPC
+  - Explorer
+  - Cartographer
+  - Published
 ---
 
 [[Steev'rix the Explorer]] is the traveler and artist commissioned by [[Perla Mudridge]] to draw [[Map of Saros|Perla's Map of Saros]] for display in [[The Toad]].

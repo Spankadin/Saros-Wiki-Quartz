@@ -1,21 +1,15 @@
 ---
-title: The Glimmering Expanse
-ccType: entry
-ccId: entry-the-glimmering-expanse
-aliases:
-- The Expanse
-- Glimmering Expanse
-tags:
-- Landmark
-- Desert
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Hex: "Multiple (central Saros)"
-LandmarkType: Desert
-ccTags:
-- Landmark
-- Desert
 publish: true
+aliases:
+  - The Expanse
+  - Glimmering Expanse
+title: The Glimmering Expanse
+created: 2025-01-28T08:26:56.963Z
+modified: 2026-08-17T11:47:40.204Z
+tags:
+  - Landmark
+  - Desert
+  - Published
 ---
 
 [[The Glimmering Expanse]] is the vast central desert separating much of northern and southern [[A Brief Saros History|Saros]].

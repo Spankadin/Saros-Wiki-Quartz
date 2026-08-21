@@ -1,27 +1,13 @@
 ---
-title: Pyrris
-ccType: region
-ccId: region-pyrris
-aliases: []
-tags:
-- Town
-- City
-- Capital
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Hex: "71.109"
-Government: The Crown of Saros
-Leader: "[[Queen Amara]]"
-Population: 1100
-ccTags:
-- Town
-- City
-- Capital
 publish: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+title: Pyrris
+created: 2025-01-28T08:59:18.249Z
+modified: 2026-08-17T12:55:05.080Z
+tags:
+  - Town
+  - City
+  - Capital
+  - Published
 ---
 
 [[Pyrris]] is the capital of [[A Brief Saros History|Saros]], but it is not a large conventional city. It is a fortified royal settlement built atop an immense sheer cliff overlooking [[Bishop's Bay]], centered almost entirely around [[The Radiant Citadel]].
@@ -79,15 +65,16 @@ The city's small permanent population means the capital functions more like an e
 - [[The High Road]] — the public road connecting Pyrris to the Goslow region
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-<!-- saros-materialized:start town-npcs -->
-| NPC | Race | Building | Factions |
-| --- | --- | --- | --- |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Ambassador Skylark\|Ambassador Skylark]] | Elf | [[The Radiant Citadel]] | [[The Queen's Council]] |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Archmage Starweaver\|Archmage Starweaver]] | Elf | [[The Radiant Citadel]] | [[The Queen's Council]] |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/General Ironclad\|General Ironclad]] | Human | [[Stonepeak]] | [[The Queen's Council]], [[The Aegis Legion]] |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Gormley\|Gormley]] | Halfling | [[The Radiant Citadel]] | — |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Lord Goldhaven\|Lord Goldhaven]] | Human | [[The Radiant Citadel]] | [[The Queen's Council]] |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Spymaster Shadowcloak\|Spymaster Shadowcloak]] | Drow | [[The Radiant Citadel]] | [[The Queen's Council]] |
-<!-- saros-materialized:end town-npcs -->
+
+| NPC                                                                                             | Race     | Building                                                                                         | Factions                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Ambassador Skylark.md\|Ambassador Skylark]]       | Elf      | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Archmage Starweaver.md\|Archmage Starweaver]]     | Elf      | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/General Ironclad.md\|General Ironclad]]           | Human    | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/Stonepeak.md\|Stonepeak]]                     | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]], [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Gormley.md\|Gormley]]                             | Halfling | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] |                                                                                                                                                                   |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Lord Goldhaven.md\|Lord Goldhaven]]               | Human    | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Spymaster Shadowcloak.md\|Spymaster Shadowcloak]] | Drow     | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
+
 <!-- foundry-ignore-end -->

@@ -1,24 +1,14 @@
 ---
-title: Caelum
-ccType: npc
-ccId: npc-caelum
-Race: Human
-aliases:
-- King Caelum
-tags:
-- NPC
-- Legend
-- Published
-Location: Deceased
-Faction: []
-ccTags:
-- Historical
-- Wizard
-- King
-ccAssociates:
-- "[[Queen Amara]]"
-- "[[Silas Voss]]"
 publish: true
+aliases:
+  - King Caelum
+title: Caelum
+created: 2025-01-28T10:13:02.556Z
+modified: 2026-08-10T09:40:14.193Z
+tags:
+  - NPC
+  - Legend
+  - Published
 ---
 
 [[Caelum]] was a powerful human wizard from Mystara and the figure whose desperate wish began the modern history of [[A Brief Saros History|Saros]].

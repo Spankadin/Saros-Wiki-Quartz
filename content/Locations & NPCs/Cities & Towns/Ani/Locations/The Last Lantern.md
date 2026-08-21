@@ -1,20 +1,13 @@
 ---
-title: The Last Lantern
-ccType: entry
-ccId: entry-the-last-lantern
-aliases: []
-tags:
-- Building
-- Inn
-- Tavern
-- Published
-Region: "[[Ani]]"
-Hex: "59.153"
-ccTags:
-- Building
-- Inn
-- Tavern
 publish: true
+title: The Last Lantern
+created: 2026-08-08T11:56:33.061Z
+modified: 2026-08-17T11:47:39.960Z
+tags:
+  - Building
+  - Inn
+  - Tavern
+  - Published
 ---
 
 [[The Last Lantern]] is the traditional gathering place for expeditions preparing to leave [[Ani]] toward [[The Urmong Barrows]]. Equipment changes hands constantly, and the walls carry memorial marks for groups that never returned.

@@ -1,16 +1,16 @@
 ---
-title: Map of Saros
-description: A full-resolution player map of the realm of Saros.
+publish: true
 aliases:
   - Saros Map
   - World Map
+title: Map of Saros
+description: A full-resolution player map of the realm of Saros.
+created: 2026-08-15T23:11:40.582Z
+modified: 2026-08-18T09:17:52.497Z
 tags:
   - Lore
   - Map
   - Published
-ccType: entry
-ccId: entry-map-of-saros
-publish: true
 ---
 
 The realm stretches from [[Caelum's End]] in the frozen north to [[Grymswatch]] on the southern coast, with the roads, waters, cities, and wild frontiers of Saros between them.

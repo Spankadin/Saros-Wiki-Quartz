@@ -1,18 +1,11 @@
 ---
-title: Landmark Template
-ccType: entry
-ccId: landmark-name
-ccImage: null
-aliases: []
-tags:
-- Landmark
-- Published
-Region: "[[Region]]"
-Hex: null
-LandmarkType: Landmark
-ccTags:
-- Landmark
 publish: true
+title: Landmark Template
+created: 2026-08-08T11:56:34.538Z
+modified: 2026-08-17T12:54:11.409Z
+tags:
+  - Landmark
+  - Published
 ---
 
 A public description of the landmark and how it shapes travel, trade, culture, or local geography.

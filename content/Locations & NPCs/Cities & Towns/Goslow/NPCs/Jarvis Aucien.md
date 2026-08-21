@@ -1,19 +1,13 @@
 ---
-title: Jarvis Aucien
-ccType: npc
-ccId: npc-jarvis-aucien
-Race: Half-Elf
-aliases:
-- Jarvis, Mr. Aucien, Jarv
-tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[The Bulkhead]]"
-Faction: []
-ccTags: []
-ccAssociates: []
 publish: true
+aliases:
+  - Jarvis, Mr. Aucien, Jarv
+title: Jarvis Aucien
+created: 2024-12-29T09:40:57.746Z
+modified: 2026-08-17T11:45:22.019Z
+tags:
+  - NPC
+  - Published
 ---
 
 Jarvis Aucien is a tall, blond, muscular half-elf who operates [[The Bulkhead]] in [[Goslow]], a family rope- and shipmaking business passed down through generations. Anyone seeking one of the finest seafaring vessels in [[A Brief Saros History|Saros]] hopes to have enough coin—and to find Jarvis booked for months rather than years.

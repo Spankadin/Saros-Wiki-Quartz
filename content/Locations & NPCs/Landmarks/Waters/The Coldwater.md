@@ -1,15 +1,15 @@
 ---
-title: The Coldwater
-ccType: entry
-ccId: entry-the-coldwater
-aliases:
-- Coldwater
-tags: [Landmark, Water, River, Published]
-Region: "[[Port Quartz]]"
-LandmarkType: River
-Hex: "79.96 southward"
-ccTags: [Landmark, River]
 publish: true
+aliases:
+  - Coldwater
+title: The Coldwater
+created: 2026-08-17T11:46:34.568Z
+modified: 2026-08-17T11:46:34.568Z
+tags:
+  - Landmark
+  - Water
+  - River
+  - Published
 ---
 
 [[The Coldwater]] is the common Sarosian name for the great river formed where the [[Dun'Nala]] and [[Ascarid]] meet at [[Port Quartz]], hex **79.96**. From there it flows south toward [[Pyrris]] and empties into [[Bishop's Bay]].

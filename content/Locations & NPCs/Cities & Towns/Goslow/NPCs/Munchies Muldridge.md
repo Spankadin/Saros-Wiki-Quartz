@@ -1,24 +1,16 @@
 ---
-title: Munchies Muldridge
-ccType: npc
-ccId: npc-munchies-muldridge
-Race: Halfling
-aliases:
-- Munchil
-- Munch
-- Munchie
-- Munchies
-tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[The Toad]]"
-Faction: []
-Role: General Staff
-ccTags:
-- Inn Staff
-ccAssociates: []
 publish: true
+aliases:
+  - Munchil
+  - Munch
+  - Munchie
+  - Munchies
+title: Munchies Muldridge
+created: 2025-02-14T08:13:38.148Z
+modified: 2026-08-08T11:56:15.228Z
+tags:
+  - NPC
+  - Published
 ---
 
 Munchil “[[Munchies Muldridge|Munchies]]” Muldridge works at [[The Toad]] in [[Goslow]].

@@ -1,25 +1,12 @@
 ---
-title: Soryn's Crossing
-ccType: region
-ccId: region-soryn-s-crossing
-aliases: []
-tags:
-- Town
-- Port
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Hex: "78.171"
-Government: Crossing Charter Council
-Leader: "[[Dalen Soryn]]"
-Population: 4800
-ccTags:
-- Town
-- Port
 publish: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+title: Soryn's Crossing
+created: 2026-08-08T11:56:33.886Z
+modified: 2026-08-18T07:22:21.648Z
+tags:
+  - Town
+  - Port
+  - Published
 ---
 
 [[Soryn's Crossing]] is the principal trade junction of southern Saros. It stands on both banks of the river flowing south from [[Lake Runa]], where a great land bridge creates the only known safe maintained passage toward the far southern coast.
@@ -69,10 +56,11 @@ The town maintains a professional watch and hires additional guards during major
 - [[Three Rivers Yard]] — secure caravan and freight compound
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-<!-- saros-materialized:start town-npcs -->
-| NPC | Race | Building | Factions |
-| --- | --- | --- | --- |
-| [[Locations & NPCs/Cities & Towns/Soryn's Crossing/NPCs/Dalen Soryn\|Dalen Soryn]] | Human | [[Soryn Hall]] | [[Merchant's Guild]] |
-<!-- saros-materialized:end town-npcs -->
+
+| NPC                                                                                   | Race  | Building                                                                                 | Factions                                                                    |
+| ------------------------------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Soryn's Crossing/NPCs/Dalen Soryn.md\|Dalen Soryn]] | Human | [[Locations & NPCs/Cities & Towns/Soryn's Crossing/Locations/Soryn Hall.md\|Soryn Hall]] | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
+
 <!-- foundry-ignore-end -->

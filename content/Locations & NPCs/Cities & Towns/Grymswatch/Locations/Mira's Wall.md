@@ -1,18 +1,12 @@
 ---
-title: Mira's Wall
-ccType: entry
-ccId: entry-mira-s-wall
-aliases: []
-tags:
-- Building
-- Garrison
-- Published
-Region: "[[Grymswatch]]"
-Hex: "133.179"
-ccTags:
-- Building
-- Garrison
 publish: true
+title: Mira's Wall
+created: 2025-02-08T10:06:13.642Z
+modified: 2026-08-17T11:47:40.015Z
+tags:
+  - Building
+  - Garrison
+  - Published
 ---
 
 The main headquarters and training facility for [[The Aegis Legion]]. Mira's Wall is a massive castle-like structure and the central figure standing tall amongst the few low peasant homes that make up [[Grymswatch]].

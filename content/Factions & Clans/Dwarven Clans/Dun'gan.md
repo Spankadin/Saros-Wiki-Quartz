@@ -1,20 +1,17 @@
 ---
-title: Dun'gan
-ccType: group
-ccId: group-dun-gan
-aliases:
-- Khaz'um
-- First-Dwarves
-- Khaz
-tags:
-- Race
-- Dwarves
-- Faction
-- Published
-ccTags:
-- Dwarven Clan
-- Historical
 publish: true
+aliases:
+  - Khaz'um
+  - First-Dwarves
+  - Khaz
+title: Dun'gan
+created: 2025-02-15T10:31:02.460Z
+modified: 2026-08-17T11:06:12.834Z
+tags:
+  - Race
+  - Dwarves
+  - Faction
+  - Published
 ---
 
 The [[Dun'gan]] are remembered as the earliest dwarves of [[A Brief Saros History|Saros]]. In Sarosian Dwarvish, **Dun** (pronounced “dune”) means **dwarves** or **the dwarven people**.

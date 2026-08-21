@@ -1,19 +1,11 @@
 ---
-title: Cassia Rook
-ccType: npc
-ccId: npc-cassia-rook
-Race: Human
-aliases: []
-tags:
-- NPC
-- Published
-Location: "[[Rore]]"
-Building: "[[The Dealhouse]]"
-Faction:
-- "[[The House Table]]"
-ccTags: []
-ccAssociates: []
 publish: true
+title: Cassia Rook
+created: 2026-08-10T09:42:18.375Z
+modified: 2026-08-10T09:42:18.376Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Cassia Rook]] is the current First Dealer of [[Rore]], presiding over [[The House Table]] from [[The Dealhouse]].

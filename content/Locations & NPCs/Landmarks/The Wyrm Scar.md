@@ -1,21 +1,15 @@
 ---
-title: The Wyrm Scar
-ccType: entry
-ccId: entry-the-wyrm-scar
-aliases:
-- The Scar
-- Wyrm Scar
-tags:
-- Landmark
-- Canyon
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Hex: "Multiple (central Saros)"
-LandmarkType: Canyon
-ccTags:
-- Landmark
-- Canyon
 publish: true
+aliases:
+  - The Scar
+  - Wyrm Scar
+title: The Wyrm Scar
+created: 2025-01-28T08:27:05.058Z
+modified: 2026-08-17T11:47:40.208Z
+tags:
+  - Landmark
+  - Canyon
+  - Published
 ---
 
 [[The Wyrm Scar]] is the greatest visible wound in the geography of [[A Brief Saros History|Saros]].

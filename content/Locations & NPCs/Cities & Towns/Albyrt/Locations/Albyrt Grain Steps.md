@@ -1,21 +1,13 @@
 ---
-title: Albyrt Grain Steps
-ccType: entry
-ccId: entry-albyrt-grain-steps
-aliases: []
-tags:
-- Landmark
-- Waterfront
-- Market
-- Published
-Region: "[[Albyrt]]"
-Hex: "83.142"
-LandmarkType: Waterfront
-ccTags:
-- Landmark
-- Waterfront
-- Market
 publish: true
+title: Albyrt Grain Steps
+created: 2026-08-08T11:56:33.014Z
+modified: 2026-08-17T11:47:39.944Z
+tags:
+  - Landmark
+  - Waterfront
+  - Market
+  - Published
 ---
 
 The [[Albyrt Grain Steps]] are broad stone terraces descending toward the lake, designed so carts can unload grain directly into barges and ferries. On busy days the steps become one of the loudest places in [[Albyrt]].

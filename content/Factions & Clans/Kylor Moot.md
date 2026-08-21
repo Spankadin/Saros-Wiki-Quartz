@@ -1,15 +1,12 @@
 ---
-title: Kylor Moot
-ccType: group
-ccId: group-kylor-moot
-tags:
-- Faction
-- Government
-- Published
-ccTags:
-- Civic Government
-- Kylor
 publish: true
+title: Kylor Moot
+created: 2026-08-07T06:36:23.767Z
+modified: 2026-08-08T11:56:13.215Z
+tags:
+  - Faction
+  - Government
+  - Published
 ---
 
 The [[Kylor Moot]] is the practical civic government of [[Kylor]].

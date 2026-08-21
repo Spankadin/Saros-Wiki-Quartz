@@ -1,19 +1,16 @@
 ---
-title: Griffin Riders
-ccType: entry
-ccId: entry-griffin-riders
-aliases:
-- Griffin Rider
-- Griffin Riding
-tags:
-- Lore
-- Griffins
-- Travel
-- Published
-ccTags:
-- Griffins
-- Travel
 publish: true
+aliases:
+  - Griffin Rider
+  - Griffin Riding
+title: Griffin Riders
+created: 2026-08-14T09:44:52.463Z
+modified: 2026-08-17T12:55:06.338Z
+tags:
+  - Lore
+  - Griffins
+  - Travel
+  - Published
 ---
 
 True [[Griffin Riders]] are bonded companions to their griffins rather than owners of interchangeable cavalry mounts.

@@ -1,25 +1,12 @@
 ---
-title: Rore
-ccType: region
-ccId: region-rore
-aliases: []
-tags:
-- City
-- Port
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Hex: "132.101"
-Government: "[[The House Table]]"
-Leader: "[[Cassia Rook]]"
-Population: 7200
-ccTags:
-- City
-- Port
 publish: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+title: Rore
+created: 2026-08-07T06:36:23.905Z
+modified: 2026-08-17T11:47:40.139Z
+tags:
+  - City
+  - Port
+  - Published
 ---
 
 [[Rore]] is the largest openly independent city in eastern Saros and a place where nearly anything can be wagered, financed, sold, hidden, or made respectable after enough paperwork and coin.
@@ -78,12 +65,13 @@ Violence that interferes with business is punished quickly. Violence between peo
 - [[Salt Court]] — neutral arbitration hall for debts, contracts, and wagers
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-<!-- saros-materialized:start town-npcs -->
-| NPC | Race | Building | Factions |
-| --- | --- | --- | --- |
-| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Cassia Rook\|Cassia Rook]] | Human | [[The Dealhouse]] | [[The House Table]] |
-| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Nessa Crowe\|Nessa Crowe]] | Human | [[The Black Ledger]] | — |
-| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Varo Quill\|Varo Quill]] | Half-Elf | [[The Golden Goose]] | [[Gambler's Guild]] |
-<!-- saros-materialized:end town-npcs -->
+
+| NPC                                                                       | Race     | Building                                                                                 | Factions                                                                 |
+| ------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Cassia Rook.md\|Cassia Rook]] | Human    | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Dealhouse.md\|The Dealhouse]]       | [[Factions & Clans/The House Table.md\|The House Table]]                 |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Nessa Crowe.md\|Nessa Crowe]] | Human    | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Black Ledger.md\|The Black Ledger]] |                                                                          |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Varo Quill.md\|Varo Quill]]   | Half-Elf | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Golden Goose.md\|The Golden Goose]] | [[Factions & Clans/Gambler's Guild/Gambler's Guild.md\|Gambler's Guild]] |
+
 <!-- foundry-ignore-end -->

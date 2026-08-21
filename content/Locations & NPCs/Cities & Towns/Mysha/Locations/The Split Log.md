@@ -1,20 +1,13 @@
 ---
-title: The Split Log
-ccType: entry
-ccId: entry-the-split-log
-aliases: []
-tags:
-- Building
-- Inn
-- Tavern
-- Published
-Region: "[[Mysha]]"
-Hex: "92.167"
-ccTags:
-- Building
-- Inn
-- Tavern
 publish: true
+title: The Split Log
+created: 2026-08-08T11:56:33.555Z
+modified: 2026-08-17T11:47:40.067Z
+tags:
+  - Building
+  - Inn
+  - Tavern
+  - Published
 ---
 
 [[The Split Log]] is a rough crew inn in [[Mysha]] where loggers and river traders eat cheaply, sleep heavily, and compare injuries.

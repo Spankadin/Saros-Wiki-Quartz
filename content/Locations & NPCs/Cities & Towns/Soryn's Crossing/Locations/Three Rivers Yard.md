@@ -1,18 +1,12 @@
 ---
-title: Three Rivers Yard
-ccType: entry
-ccId: entry-three-rivers-yard
-aliases: []
-tags:
-- Building
-- Commercial
-- Published
-Region: "[[Soryn's Crossing]]"
-Hex: "78.171"
-ccTags:
-- Building
-- Commercial
 publish: true
+title: Three Rivers Yard
+created: 2026-08-08T11:56:33.904Z
+modified: 2026-08-17T11:47:40.167Z
+tags:
+  - Building
+  - Commercial
+  - Published
 ---
 
 [[Three Rivers Yard]] is a secured freight compound in [[Soryn's Crossing]] with guarded storage, wagon repair, animal pens, and space for caravans waiting on road conditions.

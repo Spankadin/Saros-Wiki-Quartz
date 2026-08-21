@@ -1,18 +1,14 @@
 ---
-title: Bloodmarked
-ccType: group
-ccId: group-bloodmarked
-aliases:
-- The Bloodmarked
-- Bloodmarked Pirates
-tags:
-- Faction
-- Published
-ccTags:
-- Pirates
-- Faction
 publish: true
-dataview: true
+aliases:
+  - The Bloodmarked
+  - Bloodmarked Pirates
+title: Bloodmarked
+created: 2025-03-02T21:42:45.629Z
+modified: 2026-08-08T11:56:13.577Z
+tags:
+  - Faction
+  - Published
 ---
 
 The [[Bloodmarked]] are one of the most feared pirate factions operating around southern [[A Brief Saros History|Saros]].

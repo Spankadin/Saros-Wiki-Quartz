@@ -1,21 +1,13 @@
 ---
-title: The Prism
-ccType: group
-ccId: group-the-prism
-aliases:
-- Prism
-tags:
-- Faction
-- Published
-ccTags:
-- Faction
-- Draconic Cult
-ccAssociates: []
 publish: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+aliases:
+  - Prism
+title: The Prism
+created: 2025-01-28T09:55:37.992Z
+modified: 2026-08-14T09:43:29.127Z
+tags:
+  - Faction
+  - Published
 ---
 
 [[The Prism]] is a secretive draconic cult associated with [[Silas Voss]] and his lieutenant [[Malgrim Darkshade]].
@@ -65,11 +57,12 @@ The cult continues to recognize Silas as its true leader and reveres him with an
 [[Malgrim Darkshade]] is the highest-ranking Prism operative publicly known to be active. Whether she receives instructions from Silas, interprets an older command, or governs in his absence is unknown.
 
 <!-- foundry-ignore-start -->
+
 #### Known NPCs
-<!-- saros-materialized:start faction-npcs -->
-| Name | Race | Location | Building |
-| --- | --- | --- | --- |
-| [[Factions & Clans/The Prism/NPCs/Malgrim Darkshade\|Malgrim Darkshade]] | Elf | Unknown | — |
-| [[Factions & Clans/The Prism/NPCs/Silas Voss\|Silas Voss]] | Human | Unknown | — |
-<!-- saros-materialized:end faction-npcs -->
+
+| Name                                                                        | Race  | Location | Building |
+| --------------------------------------------------------------------------- | ----- | -------- | -------- |
+| [[Factions & Clans/The Prism/NPCs/Malgrim Darkshade.md\|Malgrim Darkshade]] | Elf   | Unknown  | -       |
+| [[Factions & Clans/The Prism/NPCs/Silas Voss.md\|Silas Voss]]               | Human | Unknown  | -       |
+
 <!-- foundry-ignore-end -->

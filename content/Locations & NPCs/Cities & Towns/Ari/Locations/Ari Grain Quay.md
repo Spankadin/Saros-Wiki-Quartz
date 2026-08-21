@@ -1,21 +1,13 @@
 ---
-title: Ari Grain Quay
-ccType: entry
-ccId: entry-ari-grain-quay
-aliases: []
-tags:
-- Landmark
-- Waterfront
-- Market
-- Published
-Region: "[[Ari]]"
-Hex: "128.109"
-LandmarkType: Waterfront
-ccTags:
-- Landmark
-- Waterfront
-- Market
 publish: true
+title: Ari Grain Quay
+created: 2026-08-08T11:56:33.087Z
+modified: 2026-08-17T11:47:39.966Z
+tags:
+  - Landmark
+  - Waterfront
+  - Market
+  - Published
 ---
 
 [[Ari Grain Quay]] handles much of [[Ari]]'s grain and fish traffic. [[Harlan Vey]] maintains an office close enough to the scales that merchants cannot easily avoid him.

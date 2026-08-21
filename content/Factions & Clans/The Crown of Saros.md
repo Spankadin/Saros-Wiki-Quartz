@@ -1,18 +1,15 @@
 ---
-title: The Crown of Saros
-ccType: group
-ccId: group-the-crown-of-saros
-aliases:
-- The Crown
-- Sarosian Crown
-tags:
-- Faction
-- Government
-- Published
-ccTags:
-- Government
 publish: true
-dataview: true
+aliases:
+  - The Crown
+  - Sarosian Crown
+title: The Crown of Saros
+created: 2026-08-08T11:56:32.558Z
+modified: 2026-08-08T11:56:13.193Z
+tags:
+  - Faction
+  - Government
+  - Published
 ---
 
 **The Crown of Saros** is the legal monarchy centered on [[Queen Amara]] and [[Pyrris]].

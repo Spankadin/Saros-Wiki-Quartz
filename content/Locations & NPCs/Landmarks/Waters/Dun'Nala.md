@@ -1,15 +1,15 @@
 ---
-title: Dun'Nala
-ccType: entry
-ccId: entry-dun-nala
-aliases:
-- The Dun'Nala
-tags: [Landmark, Water, River, Published]
-Region: "[[The Masys Mountains]]"
-LandmarkType: River
-Hex: "Multiple (Masys Mountains to 79.96)"
-ccTags: [Landmark, River]
 publish: true
+aliases:
+  - The Dun'Nala
+title: Dun'Nala
+created: 2026-08-17T11:46:33.396Z
+modified: 2026-08-17T11:46:33.397Z
+tags:
+  - Landmark
+  - Water
+  - River
+  - Published
 ---
 
 The [[Dun'Nala]] descends from the northern [[The Masys Mountains|Masys Mountains]] and runs southeast toward [[Port Quartz]]. Its name means **“the Dwarves' Water”** in Sarosian Dwarvish; **Dun** is pronounced “dune.”

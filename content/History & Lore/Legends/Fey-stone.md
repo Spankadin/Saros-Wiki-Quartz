@@ -1,18 +1,16 @@
 ---
-title: Fey-stone
-ccType: entry
-ccId: entry-fey-stone
-aliases:
-- Leystone
-- Fey Stone
-- Ley Stone
-tags:
-- Item
-- Magic
-- Published
-ccTags:
-- Magical Material
 publish: true
+aliases:
+  - Leystone
+  - Fey Stone
+  - Ley Stone
+title: Fey-stone
+created: 2025-01-28T09:14:25.322Z
+modified: 2026-08-17T11:05:36.389Z
+tags:
+  - Item
+  - Magic
+  - Published
 ---
 
 [[Fey-stone]] is a rare dull-grey material found near powerful convergences of [[Fey-Lines]].

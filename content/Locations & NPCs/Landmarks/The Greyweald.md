@@ -1,24 +1,17 @@
 ---
-title: The Greyweald
-ccType: entry
-ccId: entry-the-greyweald
-aliases:
-- Greyweald
-- The Grey Wood
-tags:
-- Landmark
-- Forest
-- Fey
-- Haunted
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-LandmarkType: Forest
-Hex: "Multiple (north of Lake of Lament)"
-ccTags:
-- Landmark
-- Forest
-- Fey
 publish: true
+aliases:
+  - Greyweald
+  - The Grey Wood
+title: The Greyweald
+created: 2026-08-10T09:39:40.783Z
+modified: 2026-08-17T11:45:20.817Z
+tags:
+  - Landmark
+  - Forest
+  - Fey
+  - Haunted
+  - Published
 ---
 
 [[The Greyweald]] is the broad, ashen forest east of [[The Masys Mountains]], north of [[Lake of Lament]], and west of [[The Silvervein Summits]]. It is both haunted and deeply altered by fey magic.

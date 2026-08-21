@@ -1,21 +1,11 @@
 ---
-title: Admiral Thainan
-ccType: npc
-ccId: npc-admiral-thainan
-Race: Human
-aliases: []
-tags:
-- NPC
-- Published
-Location: "[[Grymswatch]]"
-Building: "[[Mira's Wall]]"
-Faction:
-- "[[The Aegis Legion]]"
-Role: Admiral
-ccTags:
-- Admiral
-ccAssociates: []
 publish: true
+title: Admiral Thainan
+created: 2025-01-28T06:03:19.380Z
+modified: 2026-08-08T11:56:15.504Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Admiral Thainan]] is the senior naval commander based at [[Grymswatch]] and one of the most powerful officers in [[The Aegis Legion]].

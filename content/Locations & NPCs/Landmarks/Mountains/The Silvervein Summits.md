@@ -1,21 +1,15 @@
 ---
-title: The Silvervein Summits
-ccType: entry
-ccId: entry-the-silvervein-summits
-aliases:
-- Silvervein
-- Silvervein Mountains
-tags:
-- Landmark
-- Mountain
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Hex: "Multiple (eastern Saros)"
-LandmarkType: Mountain Range
-ccTags:
-- Landmark
-- Mountains
 publish: true
+aliases:
+  - Silvervein
+  - Silvervein Mountains
+title: The Silvervein Summits
+created: 2025-01-28T08:50:47.908Z
+modified: 2026-08-17T11:47:40.213Z
+tags:
+  - Landmark
+  - Mountain
+  - Published
 ---
 
 [[The Silvervein Summits]] rise above [[Lilya]] and the high basin of [[Lake of Lament]].

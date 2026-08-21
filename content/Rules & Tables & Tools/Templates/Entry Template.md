@@ -1,16 +1,11 @@
 ---
-title: Entry Template
-ccType: entry
-ccId: entry-name
-ccImage: null
-aliases: []
-tags:
-- Building
-- Published
-Region: "[[Settlement or Region]]"
-ccTags: []
-ccAssociates: []
 publish: true
+title: Entry Template
+created: 2026-08-08T11:56:34.528Z
+modified: 2026-08-08T11:56:16.201Z
+tags:
+  - Building
+  - Published
 ---
 
 A public description of this building, business, civic work, ship, market, shrine, or point of interest.

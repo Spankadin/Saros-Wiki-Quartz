@@ -1,23 +1,11 @@
 ---
-title: Lilya
-ccType: region
-ccId: region-lilya
-aliases: []
-tags:
-- Town
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Government: "[[Stone Council]]"
-Leader: "[[Maela Torr]]"
-Population: 3800
-Hex: "106.81"
-ccTags:
-- Town
 publish: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+title: Lilya
+created: 2026-08-07T06:36:23.843Z
+modified: 2026-08-17T11:07:22.743Z
+tags:
+  - Town
+  - Published
 ---
 
 [[Lilya]] presses into the lower slopes of [[The Silvervein Summits]] at hex **106.81**. Lower terraces hold docks, warehouses, cooperages, and ore yards; middle terraces carry homes, retaining walls, and avalanche sheds; upper terraces reach the adits, cranes, furnaces, and foundries. The town appears built into the range rather than placed beside it.
@@ -85,12 +73,13 @@ A disaster below ground is often more dangerous than an enemy outside the walls.
 The oldest and deepest workings around Lilya overlap with forgotten dwarven construction whose full extent is no longer understood.
 
 <!-- foundry-ignore-start -->
+
 #### NPCs Found Here
-<!-- saros-materialized:start town-npcs -->
-| NPC | Race | Building | Factions |
-| --- | --- | --- | --- |
-| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Garran Flint\|Garran Flint]] | Dwarf | [[The Silver Gate]] | — |
-| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Maela Torr\|Maela Torr]] | Human | [[Stonewake Hall]] | [[Stone Council]] |
-| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Ysra Pell\|Ysra Pell]] | Human | [[The Deep Lantern]] | — |
-<!-- saros-materialized:end town-npcs -->
+
+| NPC                                                                          | Race  | Building                                                                                  | Factions                                             |
+| ---------------------------------------------------------------------------- | ----- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Garran Flint.md\|Garran Flint]] | Dwarf | [[Locations & NPCs/Cities & Towns/Lilya/Locations/The Silver Gate.md\|The Silver Gate]]   |                                                      |
+| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Maela Torr.md\|Maela Torr]]     | Human | [[Locations & NPCs/Cities & Towns/Lilya/Locations/Stonewake Hall.md\|Stonewake Hall]]     | [[Factions & Clans/Stone Council.md\|Stone Council]] |
+| [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Ysra Pell.md\|Ysra Pell]]       | Human | [[Locations & NPCs/Cities & Towns/Lilya/Locations/The Deep Lantern.md\|The Deep Lantern]] |                                                      |
+
 <!-- foundry-ignore-end -->

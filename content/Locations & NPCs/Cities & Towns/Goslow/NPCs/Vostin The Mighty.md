@@ -1,24 +1,13 @@
 ---
-title: Vostin The Mighty
-ccType: npc
-ccId: npc-vostin-the-mighty
-Race: Human
-aliases:
-- Vostin
-tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[Duskpoint]]"
-Faction:
-- "[[The Aegis Legion]]"
-Role: Captain of Duskpoint
-ccTags:
-- Aegis Legion
-- Captain
-- Griffin Rider
-ccAssociates: []
 publish: true
+aliases:
+  - Vostin
+title: Vostin The Mighty
+created: 2025-01-27T06:12:19.348Z
+modified: 2026-08-17T12:55:06.964Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Vostin The Mighty]] commands the [[The Aegis Legion|Aegis Legion]] garrison at [[Duskpoint]] outside [[Goslow]].

@@ -1,19 +1,11 @@
 ---
-title: Elian Thorne
-ccType: npc
-ccId: npc-elian-thorne
-Race: Human
-aliases: []
-tags:
-- NPC
-- Published
-Location: "[[Trystn]]"
-Building: "[[Tollhouse Commons]]"
-Faction:
-- "[[Crossroads Council]]"
-ccTags: []
-ccAssociates: []
 publish: true
+title: Elian Thorne
+created: 2026-08-07T06:36:23.946Z
+modified: 2026-08-08T11:56:14.072Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Elian Thorne]] is the Roadwarden of [[Trystn]] and chairs the [[Crossroads Council]].

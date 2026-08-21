@@ -1,21 +1,11 @@
 ---
-title: Dalen Soryn
-ccType: npc
-ccId: npc-dalen-soryn
-Race: Human
-aliases: []
-tags:
-- NPC
-- Published
-Location: "[[Soryn's Crossing]]"
-Building: "[[Soryn Hall]]"
-Faction:
-- "[[Merchant's Guild]]"
-Role: First Warden
-ccTags:
-- First Warden
-ccAssociates: []
 publish: true
+title: Dalen Soryn
+created: 2026-08-08T11:56:33.911Z
+modified: 2026-08-08T11:56:15.762Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Dalen Soryn]] is First Warden of [[Soryn's Crossing]] and a distant descendant of the family associated with the settlement's modern name.

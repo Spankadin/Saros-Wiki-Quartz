@@ -1,16 +1,20 @@
 ---
-title: Saros - Distances, Travel, Trade, and Population
-ccType: entry
-ccId: entry-saros-distances-travel-trade-and-population
-aliases:
-- Saros Travel Times
-- Saros Distances
-- Saros Population
-- Travel in Saros
-- Trade in Saros
-tags: [Lore, Geography, Travel, Trade, Published]
-ccTags: [Geography, Travel, Trade, Settlements]
 publish: true
+aliases:
+  - Saros Travel Times
+  - Saros Distances
+  - Saros Population
+  - Travel in Saros
+  - Trade in Saros
+title: Saros - Distances, Travel, Trade, and Population
+created: 2026-08-17T10:55:57.838Z
+modified: 2026-08-18T07:21:21.856Z
+tags:
+  - Lore
+  - Geography
+  - Travel
+  - Trade
+  - Published
 ---
 
 This note is the canonical working source for travel, trade routes, settlement spacing, and population in [[A Brief Saros History|Saros]]. Route estimates should be revised here first and then reflected in the relevant settlement notes.
@@ -87,7 +91,7 @@ Assume a pack mule carries **180 lb** and needs about **20 lb of fodder per day*
 | River barge           |      **5–30+ tons** | Grain, ore, timber, barrels        | Rapids and waterfalls    |                          |
 | Small coastal trader  |      **20–80 tons** | Intercity bulk trade               | Shallow upper rivers     |                          |
 | Large merchant vessel |    **80–200+ tons** | Grain, timber, military supply     | Small docks              |                          |
-| [[Fall Casks|Fall cask]] | Small individual loads | Durable high-value goods | People and fragile cargo |
+| [[Fall Casks\|Fall cask]] | Small individual loads | Durable high-value goods | People and fragile cargo |
 
 # Rivers and Sailing Without Engines
 
@@ -277,7 +281,6 @@ A plausible present range remains **280,000–320,000**. Council counts are lowe
 # Griffin Travel
 
 [[Griffin Riders]] are rare individuals, not a routine transport service or a familiar patrol over every city. A rider can ignore river barriers and may cover **70–100 miles in a day** under useful conditions, but weather, landing sites, the griffin's enormous food needs, rest, and the rider's bond all matter. Emergency flights belong to military crises, royal messages, or exceptional adventures; commercial routes and ordinary itineraries should not list “griffin” beside wagon and ship.
-
 
 # Working Canon Summary
 

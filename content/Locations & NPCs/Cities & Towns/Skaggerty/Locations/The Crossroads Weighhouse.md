@@ -1,19 +1,14 @@
 ---
-title: The Crossroads Weighhouse
-ccType: entry
-ccId: entry-the-crossroads-weighhouse
-aliases:
-- Weighhouse
-tags:
-- Building
-- Government
-- Published
-Region: "[[Skaggerty]]"
-Hex: "62.99"
-ccTags:
-- Building
-- Civic Hall
 publish: true
+aliases:
+  - Weighhouse
+title: The Crossroads Weighhouse
+created: 2026-08-10T09:41:59.518Z
+modified: 2026-08-17T11:47:40.155Z
+tags:
+  - Building
+  - Government
+  - Published
 ---
 
 [[The Crossroads Weighhouse]] is Skaggerty's public scale house, records room, council chamber, and emergency granary office.

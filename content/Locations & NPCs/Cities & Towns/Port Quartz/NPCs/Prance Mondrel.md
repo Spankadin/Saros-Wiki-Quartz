@@ -1,22 +1,11 @@
 ---
-title: Prance Mondrel
-ccType: npc
-ccId: npc-prance-mondrel
-Race: Half-Elf
-aliases: []
-tags:
-- NPC
-- Published
-Location: "[[Port Quartz]]"
-Building: "[[The Fourty Knights]]"
-Faction:
-- "[[Merchant's Guild]]"
-Role: Innkeeper
-ccTags:
-- Innkeeper
-- Merchant
-ccAssociates: []
 publish: true
+title: Prance Mondrel
+created: 2025-02-10T08:36:30.482Z
+modified: 2026-08-08T11:56:14.995Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Prance Mondrel]] owns and operates [[The Fourty Knights]], the largest tavern and inn on the docks of [[Port Quartz]].

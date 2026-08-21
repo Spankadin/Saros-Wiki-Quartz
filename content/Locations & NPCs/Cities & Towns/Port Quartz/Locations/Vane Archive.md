@@ -1,18 +1,12 @@
 ---
-title: Vane Archive
-ccType: entry
-ccId: entry-vane-archive
-aliases: []
-tags:
-- Building
-- Archive
-- Published
-Region: "[[Port Quartz]]"
-Hex: "79.96"
-ccTags:
-- Building
-- Archive
 publish: true
+title: Vane Archive
+created: 2026-08-07T03:53:05.592Z
+modified: 2026-08-17T11:47:40.114Z
+tags:
+  - Building
+  - Archive
+  - Published
 ---
 
 The [[Vane Archive]] is [[Port Quartz]]'s principal collection of expedition journals, route notes, ferry records, old surveys, and disputed maps.

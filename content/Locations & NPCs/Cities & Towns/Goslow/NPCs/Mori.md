@@ -1,22 +1,13 @@
 ---
-title: Mori
-ccType: npc
-ccId: npc-mori
-Race: Half-Elf
-aliases:
-- Mori
-tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[The Sphinx's Spellbook]]"
-Faction: []
-Role: Apothecary
-ccTags:
-- Alchemist
-- Apothecary
-ccAssociates: []
 publish: true
+aliases:
+  - Mori
+title: Mori
+created: 2024-12-12T02:31:12.533Z
+modified: 2026-08-08T11:56:15.263Z
+tags:
+  - NPC
+  - Published
 ---
 
 [[Mori]] owns [[The Sphinx's Spellbook]], the cramped apothecary and arcane shop near the docks of [[Goslow]].

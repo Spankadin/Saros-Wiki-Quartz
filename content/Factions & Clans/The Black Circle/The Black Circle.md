@@ -1,22 +1,14 @@
 ---
-title: The Black Circle
-ccType: group
-ccId: group-the-black-circle
-aliases:
-- Circle
-- The Circle
-tags:
-- Faction
-- Published
-ccTags:
-- Faction
-- Anti-Authoritarian
-ccAssociates: []
 publish: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+aliases:
+  - Circle
+  - The Circle
+title: The Black Circle
+created: 2024-08-22T01:20:15.624Z
+modified: 2026-08-14T09:44:50.629Z
+tags:
+  - Faction
+  - Published
 ---
 
 [[The Black Circle]] is a loose and deliberately decentralized network built around the belief that no ruler, army, guild, or council possesses an inherent right to own another person's freedom.
@@ -91,10 +83,11 @@ Legion officers see the Circle's secrecy and willingness to obstruct lawful orde
 Both sides can point to real examples supporting their view.
 
 <!-- foundry-ignore-start -->
+
 #### Known NPCs
-<!-- saros-materialized:start faction-npcs -->
-| Name | Race | Location | Building |
-| --- | --- | --- | --- |
-| [[Factions & Clans/The Black Circle/NPCs/Clarissa\|Clarissa]] | Human | [[Skaggerty]] (Region) | — |
-<!-- saros-materialized:end faction-npcs -->
+
+| Name                                                             | Race  | Location               | Building |
+| ---------------------------------------------------------------- | ----- | ---------------------- | -------- |
+| [[Factions & Clans/The Black Circle/NPCs/Clarissa.md\|Clarissa]] | Human | [[Skaggerty]] (Region) | -       |
+
 <!-- foundry-ignore-end -->

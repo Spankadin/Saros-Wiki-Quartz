@@ -1,34 +1,27 @@
 ---
-title: Towns
-ccType: entry
-ccId: entry-dataview-towns
-tags: []
 publish: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+title: Towns
+created: 2025-02-10T03:10:44.561Z
+modified: 2026-08-17T11:49:00.039Z
 ---
 
-<!-- saros-materialized:start settlements -->
-| Settlement | Hex | Population | Government | Leader |
-| --- | --- | --- | --- | --- |
-| [[Locations & NPCs/Cities & Towns/Goslow/Goslow\|Goslow]] | 67.103 | 14,000 | Royal Charter Council | — |
-| [[Locations & NPCs/Cities & Towns/Rore/Rore\|Rore]] | 132.101 | 7,200 | [[The House Table]] | [[Cassia Rook]] |
-| [[Locations & NPCs/Cities & Towns/Albyrt/Albyrt\|Albyrt]] | 83.142 | 6,400 | Twin-Lake Charter Council | [[Mara Avelin]] |
-| [[Locations & NPCs/Cities & Towns/Isoltide/Isoltide\|Isoltide]] | 86.150 | 5,800 | Twin-Lake Charter Council | [[Teren Moss]] |
-| [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz\|Port Quartz]] | 79.96 | 5,250 | [[Mooring Council]] | [[Hesta Vane]] |
-| [[Locations & NPCs/Cities & Towns/Karastos/Karastos\|Karastos]] | 133.170 | 5,000 | Pirate Captains and Local Powers | — |
-| [[Locations & NPCs/Cities & Towns/Soryn's Crossing/Soryn's Crossing\|Soryn's Crossing]] | 78.171 | 4,800 | Crossing Charter Council | [[Dalen Soryn]] |
-| [[Locations & NPCs/Cities & Towns/Trystn/Trystn\|Trystn]] | 102.99 | 4,600 | [[Crossroads Council]] | [[Elian Thorne]] |
-| [[Locations & NPCs/Cities & Towns/Ari/Ari\|Ari]] | 128.109 | 4,000 | Coastal Charter Council | [[Harlan Vey]] |
-| [[Locations & NPCs/Cities & Towns/Lilya/Lilya\|Lilya]] | 106.81 | 3,800 | [[Stone Council]] | [[Maela Torr]] |
-| [[Locations & NPCs/Cities & Towns/Ani/Ani\|Ani]] | 59.153 | 3,000 | March Charter | [[Captain Lysa Dorn]] |
-| [[Locations & NPCs/Cities & Towns/Mysha/Mysha\|Mysha]] | 92.167 | 2,500 | Woodward Council | [[Pellin Root]] |
-| [[Locations & NPCs/Cities & Towns/Kylor/Kylor\|Kylor]] | 45.104 | 2,400 | [[Kylor Moot]] | [[Derran Pike]] |
-| [[Locations & NPCs/Cities & Towns/Skaggerty/Skaggerty\|Skaggerty]] | 62.99 | 1,200 | Village Council | [[Mara Sedge]] |
-| [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris\|Pyrris]] | 71.109 | 1,100 | The Crown of Saros | [[Queen Amara]] |
-| [[Locations & NPCs/Cities & Towns/Grymswatch/Grymswatch\|Grymswatch]] | 133.179 | 1,000 | Military Charter | [[Admiral Thainan]] |
-| [[Locations & NPCs/Cities & Towns/Dun Karag/Dun Karag\|Dun Karag]] | 53.85 | 900 | [[Dun'zod]] Hold Council | — |
-| [[Locations & NPCs/Cities & Towns/Brynk/Brynk\|Brynk]] | 58.180 | 650 | Closed Customary Council | [[Vessa Keln]] |
-<!-- saros-materialized:end settlements -->
+| Settlement                                                                                 | Hex     | Population | Government                                                     | Leader                                                                                  |
+| ------------------------------------------------------------------------------------------ | ------- | ---------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Goslow/Goslow.md\|Goslow]]                               | 67.103  | 14000      | Royal Charter Council                                          |                                                                                         |
+| [[Locations & NPCs/Cities & Towns/Rore/Rore.md\|Rore]]                                     | 132.101 | 7200       | [[Factions & Clans/The House Table.md\|The House Table]]       | [[Locations & NPCs/Cities & Towns/Rore/NPCs/Cassia Rook.md\|Cassia Rook]]               |
+| [[Locations & NPCs/Cities & Towns/Albyrt/Albyrt.md\|Albyrt]]                               | 83.142  | 6400       | Twin-Lake Charter Council                                      | [[Locations & NPCs/Cities & Towns/Albyrt/NPCs/Mara Avelin.md\|Mara Avelin]]             |
+| [[Locations & NPCs/Cities & Towns/Isoltide/Isoltide.md\|Isoltide]]                         | 86.150  | 5800       | Twin-Lake Charter Council                                      | [[Locations & NPCs/Cities & Towns/Isoltide/NPCs/Teren Moss.md\|Teren Moss]]             |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]]                | 79.96   | 5250       | [[Factions & Clans/Mooring Council.md\|Mooring Council]]       | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Hesta Vane.md\|Hesta Vane]]          |
+| [[Locations & NPCs/Cities & Towns/Karastos/Karastos.md\|Karastos]]                         | 133.170 | 5000       | Pirate Captains and Local Powers                               |                                                                                         |
+| [[Locations & NPCs/Cities & Towns/Soryn's Crossing/Soryn's Crossing.md\|Soryn's Crossing]] | 78.171  | 4800       | Crossing Charter Council                                       | [[Locations & NPCs/Cities & Towns/Soryn's Crossing/NPCs/Dalen Soryn.md\|Dalen Soryn]]   |
+| [[Locations & NPCs/Cities & Towns/Trystn/Trystn.md\|Trystn]]                               | 102.99  | 4600       | [[Factions & Clans/Crossroads Council.md\|Crossroads Council]] | [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Elian Thorne.md\|Elian Thorne]]           |
+| [[Locations & NPCs/Cities & Towns/Ari/Ari.md\|Ari]]                                        | 128.109 | 4000       | Coastal Charter Council                                        | [[Locations & NPCs/Cities & Towns/Ari/NPCs/Harlan Vey.md\|Harlan Vey]]                  |
+| [[Locations & NPCs/Cities & Towns/Lilya/Lilya.md\|Lilya]]                                  | 106.81  | 3800       | [[Factions & Clans/Stone Council.md\|Stone Council]]           | [[Locations & NPCs/Cities & Towns/Lilya/NPCs/Maela Torr.md\|Maela Torr]]                |
+| [[Locations & NPCs/Cities & Towns/Ani/Ani.md\|Ani]]                                        | 59.153  | 3000       | March Charter                                                  | [[Locations & NPCs/Cities & Towns/Ani/NPCs/Captain Lysa Dorn.md\|Captain Lysa Dorn]]    |
+| [[Locations & NPCs/Cities & Towns/Mysha/Mysha.md\|Mysha]]                                  | 92.167  | 2500       | Woodward Council                                               | [[Locations & NPCs/Cities & Towns/Mysha/NPCs/Pellin Root.md\|Pellin Root]]              |
+| [[Locations & NPCs/Cities & Towns/Kylor/Kylor.md\|Kylor]]                                  | 45.104  | 2400       | [[Factions & Clans/Kylor Moot.md\|Kylor Moot]]                 | [[Locations & NPCs/Cities & Towns/Kylor/NPCs/Derran Pike.md\|Derran Pike]]              |
+| [[Locations & NPCs/Cities & Towns/Skaggerty/Skaggerty.md\|Skaggerty]]                      | 62.99   | 1200       | Village Council                                                | [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Mara Sedge.md\|Mara Sedge]]            |
+| [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]]                               | 71.109  | 1100       | The Crown of Saros                                             | [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Queen Amara.md\|Queen Amara]]             |
+| [[Locations & NPCs/Cities & Towns/Grymswatch/Grymswatch.md\|Grymswatch]]                   | 133.179 | 1000       | Military Charter                                               | [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Admiral Thainan.md\|Admiral Thainan]] |
+| [[Locations & NPCs/Cities & Towns/Dun Karag/Dun Karag.md\|Dun Karag]]                      | 53.85   | 900        | [[Dun'zod]] Hold Council                                       |                                                                                         |
+| [[Locations & NPCs/Cities & Towns/Brynk/Brynk.md\|Brynk]]                                  | 58.180  | 650        | Closed Customary Council                                       | [[Locations & NPCs/Cities & Towns/Brynk/NPCs/Vessa Keln.md\|Vessa Keln]]                |

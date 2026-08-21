@@ -1,21 +1,14 @@
 ---
-title: The Great Sphinx
-ccType: npc
-ccId: npc-the-great-sphinx
-Race: Sphinx
-aliases:
-- Great Sphinx
-tags:
-- NPC
-- Legend
-- Published
-Location: "[[The Glimmering Expanse]]"
-Faction: []
-ccTags:
-- Legend
-- Sphinx
-ccAssociates: []
 publish: true
+aliases:
+  - Great Sphinx
+title: The Great Sphinx
+created: 2024-12-11T07:48:24.714Z
+modified: 2026-08-08T11:56:12.827Z
+tags:
+  - NPC
+  - Legend
+  - Published
 ---
 
 [[The Great Sphinx]] is one of the enduring legends of [[The Glimmering Expanse]].

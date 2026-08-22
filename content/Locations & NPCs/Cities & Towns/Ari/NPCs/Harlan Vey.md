@@ -1,11 +1,18 @@
 ---
-publish: true
 title: Harlan Vey
-created: 2026-08-08T11:56:33.106Z
-modified: 2026-08-08T11:56:14.184Z
+ccType: npc
+ccId: npc-harlan-vey
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Ari]]"
+Building: "[[Ari Grain Quay]]"
+Faction: []
+Role: Harbor Warden
+ccAssociates: []
+share: true
 ---
 
 [[Harlan Vey]] is Harbor Warden of [[Ari]].

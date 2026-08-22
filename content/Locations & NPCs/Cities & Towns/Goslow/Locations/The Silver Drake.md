@@ -1,16 +1,21 @@
 ---
-publish: true
 title: The Silver Drake
-created: 2024-12-29T09:42:26.046Z
-modified: 2026-08-17T11:47:40.005Z
+ccType: entry
+ccId: entry-the-silver-drake
+aliases: []
 tags:
-  - Building
-  - Bank
-  - Gambling Hall
-  - Published
+- Building
+- Bank
+- Gambling Hall
+- Published
+Region: "[[Goslow]]"
+Faction:
+- "[[The Cast Lot]]"
+Hex: "67.103"
+share: true
 ---
 
-[[The Silver Drake]] is [[Goslow]]'s sole [[Gambler's Guild|Guild-chartered]] gambling hall and a [[Bank of Saros]]. It is one of the most famous halls in Saros, surpassed in scale by [[The Golden Goose]] in [[Rore]].
+[[The Silver Drake]] is [[Goslow]]'s sole gambling hall chartered by [[The Cast Lot]] and the city's legitimate bank. It is one of the most famous halls in [[A Brief Saros History|Saros]], surpassed in scale by [[The Crowned Die]] in [[Rore]].
 
 [[Lone-Wolf Louie]] oversees the hall.
 
@@ -18,7 +23,7 @@ tags:
 
 The Drake attracts travelers willing to risk serious coin.
 
-Licensed tables, private games, tournaments, and high-value wagers all operate under Guild rules.
+Licensed tables, private games, tournaments, and high-value wagers all operate under the Lot's rules.
 
 Cheating that threatens the hall's reputation is treated much more seriously than simply losing badly.
 
@@ -34,4 +39,4 @@ Individual account balances are private records and are not publicly posted.
 
 The building is tightly controlled.
 
-Door staff, house guards, secure counting rooms, and Guild connections make robbery a much worse idea than the concentration of money might initially suggest.
+Door staff, house guards, secure counting rooms, and the Lot's connections make robbery a much worse idea than the concentration of money might initially suggest.

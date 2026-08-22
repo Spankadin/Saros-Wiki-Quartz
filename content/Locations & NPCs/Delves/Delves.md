@@ -1,15 +1,16 @@
 ---
-publish: true
-aliases:
-  - Delve
-  - Delving
 title: Delves
-created: 2024-08-22T00:57:35.309Z
-modified: 2026-08-18T07:23:16.346Z
+ccType: entry
+ccId: entry-delve-index
+aliases:
+- Delve
+- Delving
 tags:
-  - Lore
-  - Index
-  - Published
+- Lore
+- Index
+- Published
+share: true
+dataview: true
 ---
 
 Long ago in the [[Ages of Saros|Second Age]], when magical knowledge was powerful but crude, dwarves and elves worked together to harness forces rising through the earth at particular points along the [[Fey-Lines]]. These loosely connected magical streams seemed to flow between one another and gather where several lines met. Such convergences became places of extraordinary magical energy.

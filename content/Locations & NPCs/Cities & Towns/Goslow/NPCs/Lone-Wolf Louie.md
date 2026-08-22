@@ -1,14 +1,22 @@
 ---
-publish: true
 title: Lone-Wolf Louie
-created: 2024-12-29T09:41:16.018Z
-modified: 2026-08-08T11:56:15.331Z
+ccType: npc
+ccId: npc-lone-wolf-louie
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Goslow]]"
+Building: "[[The Silver Drake]]"
+Faction:
+- "[[The Cast Lot]]"
+Role: Hall Overseer
+ccAssociates: []
+share: true
 ---
 
-[[Lone-Wolf Louie]] oversees [[The Silver Drake]], the famous [[Gambler's Guild]] hall and bank in [[Goslow]].
+[[Lone-Wolf Louie]] oversees [[The Silver Drake]], the famous hall of [[The Cast Lot]] and bank in [[Goslow]].
 
 He speaks with a heavy accent and is almost always chewing something, which makes him difficult to understand even when he is trying to be clear.
 
@@ -21,7 +29,7 @@ Louie supervises:
 - High-value disputes
 - Banking operations
 - Large withdrawals
-- Relationships with the Gambler's Guild
+- Relationships with the Cast Lot
 
 He rarely deals cards himself anymore.
 

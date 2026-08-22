@@ -1,14 +1,18 @@
 ---
-publish: true
-aliases:
-  - Xiximanter
 title: Zixu
-created: 2024-12-29T09:48:35.892Z
-modified: 2026-08-17T11:06:14.401Z
+ccType: npc
+ccId: npc-zixu
+Race: Snake-Man
+aliases:
+- Xiximanter
 tags:
-  - NPC
-  - Legend
-  - Published
+- NPC
+- Legend
+- Published
+Location: "[[Serpent Ruin]]"
+Faction: []
+ccAssociates: []
+share: true
 ---
 
 A centuries-old snake-man wizard, Zixu was left in his laboratory by [[The Serpent King]] to work on experiments involving time. Unbeknownst to him, he succeeded. When a party of adventurers found him, what seemed like a few days to Zixu had been hundreds of years in [[A Brief Saros History|Saros]]. His civilization had crumbled around him and his once-great culture had passed into history.

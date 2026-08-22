@@ -1,12 +1,23 @@
 ---
-publish: true
 title: Ari
-created: 2026-08-08T11:56:33.078Z
-modified: 2026-08-17T11:47:39.962Z
+ccType: region
+ccId: region-ari
+aliases: []
 tags:
-  - Town
-  - Port
-  - Published
+- Region
+- Town
+- Port
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "128.109"
+Government: Coastal Charter Council
+Leader: "[[Harlan Vey]]"
+Population: 4000
+share: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Ari]] is an eastern coastal town supported by fishing, nearby grain production, and small mining outposts working the lower country around [[Vy'Tungavor]].
@@ -48,12 +59,16 @@ Ari is fortified enough to resist raiders but cannot protect every mining camp i
 - [[Vytung Yard]] — pack trains and mining supply market
 - [[The Copper Gull]] — inn used by fishers and prospectors
 
-<!-- foundry-ignore-start -->
+### Places of Interest Directory
+
+| Place                                                                                 | Type                                    |
+| ------------------------------------------------------------------------------------- | --------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Ari/Locations/Ari Grain Quay.md\|Ari Grain Quay]]   | Landmark, Waterfront, Market, Published |
+| [[Locations & NPCs/Cities & Towns/Ari/Locations/The Copper Gull.md\|The Copper Gull]] | Building, Inn, Tavern, Published        |
+| [[Locations & NPCs/Cities & Towns/Ari/Locations/Vytung Yard.md\|Vytung Yard]]         | Landmark, Market, Published             |
 
 #### NPCs Found Here
 
 | NPC                                                                    | Race  | Building                                                                            | Factions |
 | ---------------------------------------------------------------------- | ----- | ----------------------------------------------------------------------------------- | -------- |
 | [[Locations & NPCs/Cities & Towns/Ari/NPCs/Harlan Vey.md\|Harlan Vey]] | Human | [[Locations & NPCs/Cities & Towns/Ari/Locations/Ari Grain Quay.md\|Ari Grain Quay]] |          |
-
-<!-- foundry-ignore-end -->

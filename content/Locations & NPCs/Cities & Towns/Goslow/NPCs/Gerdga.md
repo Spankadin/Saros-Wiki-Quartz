@@ -1,11 +1,20 @@
 ---
-publish: true
 title: Gerdga
-created: 2024-08-22T01:26:30.274Z
-modified: 2026-08-08T11:56:15.195Z
+ccType: npc
+ccId: npc-gerdga
+Race: Halfling
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Merchant
+- Published
+Location: "[[Goslow]]"
+Building: "[[The Toad]]"
+Faction:
+- "[[The Scales]]"
+Role: Manager
+ccAssociates: []
+share: true
 ---
 
 [[Gerdga]] is the manager of [[The Toad]] and the person most likely to actually know what is happening inside the enormous inn at any given moment.

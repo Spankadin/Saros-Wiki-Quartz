@@ -1,12 +1,23 @@
 ---
-publish: true
 title: Port Quartz
-created: 2025-02-04T04:37:15.062Z
-modified: 2026-08-18T07:23:16.999Z
+ccType: region
+ccId: region-port-quartz
+aliases: []
 tags:
-  - Town
-  - Port
-  - Published
+- Region
+- Town
+- Port
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Government: "[[Mooring Council]]"
+Leader: "[[Hesta Vane]]"
+Population: 5250
+Hex: "79.96"
+share: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Port Quartz]] is one of the great transfer points of northern [[A Brief Saros History|Saros]], standing at hex **79.96** where the [[Dun'Nala]] and [[Ascarid]] converge to become [[The Coldwater]]. The combined waterway cannot be bridged by present-day Sarosian engineering. Cargo craft, warehouses, customs offices, hauling crews, and river pilots shape nearly every part of daily life.
@@ -88,7 +99,7 @@ The town's greatest everyday hazards are river accidents, cargo theft, smuggling
 - [[Quartz Vaults]] — secured warehouses cut into pale stone
 - [[Shrine of the Last Oar]] — riverside memorial to those lost on the water
 - [[Chainwatch]] — civic watch tower and ferry signal station
-- [[The Quartz Cobra]] — chartered gambling hall and [[Bank of Saros]], operated by [[Lind Bergy]]
+- [[The Quartz Cobra]] — chartered hall and banking branch of [[The Cast Lot]], operated by [[Lind Bergy]]
 - [[Gileon's Vault]] — a shabby arcane shop among ancient scrying pools, kept by [[Gileon]]
 
 ## Character
@@ -97,7 +108,24 @@ Port Quartz is crowded, loud, practical, and accustomed to strangers. Its people
 
 The river decides working hours, prices, law, and funerals. No government has ever persuaded it otherwise.
 
-<!-- foundry-ignore-start -->
+### Places of Interest Directory
+
+| Place                                                                                                       | Type                                      |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Breakwater Registry.md\|Breakwater Registry]]       | Building, Registry, Published             |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Cataract Yard.md\|Cataract Yard]]                   | Landmark, Industrial, Salvage, Published  |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Chainwatch.md\|Chainwatch]]                         | Building, Fortification, Watch, Published |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Gileon's Vault.md\|Gileon's Vault]]                 | Shop, Arcane, Published                   |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Hall of Moorings.md\|Hall of Moorings]]             | Building, Civic, Published                |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/North Cataract Yard.md\|North Cataract Yard]]       | Landmark, Industrial, Salvage, Published  |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Quartz Vaults.md\|Quartz Vaults]]                   | Building, Warehouse, Published            |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Shrine of the Last Oar.md\|Shrine of the Last Oar]] | Building, Shrine, Published               |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/South Cataract Yard.md\|South Cataract Yard]]       | Landmark, Industrial, Salvage, Published  |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Fourty Knights.md\|The Fourty Knights]]         | Building, Tavern, Inn, Published          |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Quartz Cobra.md\|The Quartz Cobra]]             | Building, Bank, Gambling Hall, Published  |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Vane Archive.md\|Vane Archive]]                     | Building, Archive, Published              |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Westwater Ferry.md\|Westwater Ferry]]               | Landmark, Ferry, Published                |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/White Quays.md\|White Quays]]                       | Landmark, Waterfront, Quay, Published     |
 
 #### NPCs Found Here
 
@@ -108,9 +136,7 @@ The river decides working hours, prices, law, and funerals. No government has ev
 | [[History & Lore/Peoples/Edric Vane.md\|Edric Vane]]                                           | Human    | -                                                                                                  |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Gileon.md\|Gileon]]                         | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Gileon's Vault.md\|Gileon's Vault]]         |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Hesta Vane.md\|Hesta Vane]]                 | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Hall of Moorings.md\|Hall of Moorings]]     | [[Factions & Clans/Mooring Council.md\|Mooring Council]]                    |
-| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Lind Bergy.md\|Lind Bergy]]                 | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Quartz Cobra.md\|The Quartz Cobra]]     | [[Factions & Clans/Gambler's Guild/Gambler's Guild.md\|Gambler's Guild]]    |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Lind Bergy.md\|Lind Bergy]]                 | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Quartz Cobra.md\|The Quartz Cobra]]     | [[Factions & Clans/The Cast Lot/The Cast Lot.md\|The Cast Lot]]             |
 | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Nelra Vossin.md\|Nelra Vossin]]             | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Vane Archive.md\|Vane Archive]]             | [[Factions & Clans/Mooring Council.md\|Mooring Council]]                    |
 | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Oren Bale.md\|Oren Bale]]                   | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Westwater Ferry.md\|Westwater Ferry]]       | [[Factions & Clans/Mooring Council.md\|Mooring Council]]                    |
-| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Prance Mondrel.md\|Prance Mondrel]]         | Half-Elf | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Fourty Knights.md\|The Fourty Knights]] | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
-
-<!-- foundry-ignore-end -->
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Prance Mondrel.md\|Prance Mondrel]]         | Half-Elf | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Fourty Knights.md\|The Fourty Knights]] | [[Factions & Clans/The Scales/The Scales.md\|The Scales]]                   |

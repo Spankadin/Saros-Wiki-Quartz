@@ -1,11 +1,13 @@
 ---
-publish: true
 title: Dungeons
-created: 2025-02-06T07:08:59.251Z
-modified: 2026-08-17T11:49:03.743Z
+ccType: entry
+ccId: entry-dungeon-index
+aliases: []
 tags:
-  - Index
-  - Published
+- Index
+- Published
+share: true
+dataview: true
 ---
 
 The settled parts of [[A Brief Saros History|Saros]] are surrounded by ruins, tombs, forts, caves, sealed complexes, and other dangerous places collectively useful to adventurers as **dungeons**.

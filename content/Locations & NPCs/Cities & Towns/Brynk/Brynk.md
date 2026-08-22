@@ -1,11 +1,22 @@
 ---
-publish: true
 title: Brynk
-created: 2026-08-08T11:56:33.114Z
-modified: 2026-08-18T07:22:22.947Z
+ccType: region
+ccId: region-brynk
+aliases: []
 tags:
-  - Town
-  - Published
+- Region
+- Town
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "58.180"
+Government: Closed Customary Council
+Leader: "[[Vessa Keln]]"
+Population: 650
+share: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Brynk]] is a small and peculiar mountain town whose isolation has preserved laws, rituals, and customs that often seem baffling to outsiders.
@@ -44,12 +55,16 @@ The mountain itself provides much of Brynk's defense. Narrow approaches, watch p
 - [[House of Measures]] — civic hall and court of custom
 - [[The Quiet Cup]] — the only inn routinely permitted to host outsiders
 
-<!-- foundry-ignore-start -->
+### Places of Interest Directory
+
+| Place                                                                                       | Type                       |
+| ------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Locations & NPCs/Cities & Towns/Brynk/Locations/House of Measures.md\|House of Measures]] | Building, Civic, Published |
+| [[Locations & NPCs/Cities & Towns/Brynk/Locations/The Closed Gate.md\|The Closed Gate]]     | Landmark, Gate, Published  |
+| [[Locations & NPCs/Cities & Towns/Brynk/Locations/The Quiet Cup.md\|The Quiet Cup]]         | Building, Inn, Published   |
 
 #### NPCs Found Here
 
 | NPC                                                                      | Race  | Building                                                                                    | Factions |
 | ------------------------------------------------------------------------ | ----- | ------------------------------------------------------------------------------------------- | -------- |
 | [[Locations & NPCs/Cities & Towns/Brynk/NPCs/Vessa Keln.md\|Vessa Keln]] | Human | [[Locations & NPCs/Cities & Towns/Brynk/Locations/House of Measures.md\|House of Measures]] |          |
-
-<!-- foundry-ignore-end -->

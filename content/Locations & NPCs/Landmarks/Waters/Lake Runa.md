@@ -1,14 +1,17 @@
 ---
-publish: true
-aliases:
-  - Runa
 title: Lake Runa
-created: 2025-01-28T08:07:16.340Z
-modified: 2026-08-17T11:47:40.221Z
+ccType: entry
+ccId: entry-lake-runa
+aliases:
+- Runa
 tags:
-  - Landmark
-  - Water
-  - Published
+- Landmark
+- Water
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "Multiple (southern interior)"
+LandmarkType: Lake
+share: true
 ---
 
 [[Lake Runa]] is a southern inland lake surrounded by dense forest and old halfling traditions.

@@ -1,11 +1,13 @@
 ---
-publish: true
 title: Port Quartz Delve
-created: 2025-02-11T09:07:03.202Z
-modified: 2026-08-18T05:38:46.051Z
+ccType: location
+ccId: location-port-quartz-delve
 tags:
-  - Delve
-  - Published
+- Delve
+- Published
+Region: "[[Port Quartz]]"
+Hex: "79.96"
+share: true
 ---
 
 [[Port Quartz Delve]] is a known [[Delves|dwarven delve]] beneath or immediately adjacent to [[Port Quartz]].

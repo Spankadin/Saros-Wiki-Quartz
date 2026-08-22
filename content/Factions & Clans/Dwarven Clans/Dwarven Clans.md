@@ -1,15 +1,16 @@
 ---
-publish: true
-aliases:
-  - Dwarven Clan, Dwarf Clan, Dwarves, Dwarfs, Dwarven
 title: Dwarven Clans
-created: 2025-02-04T02:36:54.452Z
-modified: 2026-08-17T11:06:13.611Z
+ccType: faction
+ccId: faction-dwarven-clans
+aliases:
+- Dwarven Clan, Dwarf Clan, Dwarves, Dwarfs, Dwarven
 tags:
-  - Race
-  - Dwarves
-  - Faction
-  - Published
+- Race
+- Dwarves
+- Faction
+- Published
+ccAssociates: []
+share: true
 ---
 
 In Sarosian Dwarvish, **Dun** (pronounced “dune”) means **dwarves** or **the dwarven people**. The surviving clan names preserve that shared root even where their dialects and traditions diverge.

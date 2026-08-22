@@ -2,7 +2,7 @@
 publish: true
 title: Faction Template
 created: 2026-08-08T11:56:34.533Z
-modified: 2026-08-08T11:56:16.168Z
+modified: 2026-08-21T10:24:23.614Z
 tags:
   - Faction
   - Published

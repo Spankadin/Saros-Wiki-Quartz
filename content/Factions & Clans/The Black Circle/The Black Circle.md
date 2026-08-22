@@ -5,7 +5,7 @@ aliases:
   - The Circle
 title: The Black Circle
 created: 2024-08-22T01:20:15.624Z
-modified: 2026-08-14T09:44:50.629Z
+modified: 2026-08-22T06:48:20.108Z
 tags:
   - Faction
   - Published
@@ -82,12 +82,8 @@ Legion officers see the Circle's secrecy and willingness to obstruct lawful orde
 
 Both sides can point to real examples supporting their view.
 
-<!-- foundry-ignore-start -->
-
 #### Known NPCs
 
 | Name                                                             | Race  | Location               | Building |
 | ---------------------------------------------------------------- | ----- | ---------------------- | -------- |
 | [[Factions & Clans/The Black Circle/NPCs/Clarissa.md\|Clarissa]] | Human | [[Skaggerty]] (Region) | -       |
-
-<!-- foundry-ignore-end -->

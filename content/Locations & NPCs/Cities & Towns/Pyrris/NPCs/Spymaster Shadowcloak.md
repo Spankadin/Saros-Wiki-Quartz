@@ -1,11 +1,19 @@
 ---
-publish: true
 title: Spymaster Shadowcloak
-created: 2024-12-24T09:01:38.533Z
-modified: 2026-08-08T11:56:14.871Z
+ccType: npc
+ccId: npc-spymaster-shadowcloak
+Race: Drow
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Pyrris]]"
+Building: "[[The Radiant Citadel]]"
+Faction:
+- "[[The Queen's Council]]"
+Role: Minister of Espionage and Intelligence
+ccAssociates: []
+share: true
 ---
 
 [[Spymaster Shadowcloak|Elias Shadowcloak]] is the Minister of Espionage and Intelligence on [[The Queen's Council]].

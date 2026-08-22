@@ -1,12 +1,16 @@
 ---
-publish: true
 title: The Sea of Myth
-created: 2025-01-28T08:08:13.878Z
-modified: 2026-08-17T11:47:52.409Z
+ccType: entry
+ccId: entry-the-sea-of-myth
+aliases: []
 tags:
-  - Landmark
-  - Water
-  - Published
+- Landmark
+- Water
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "Multiple (eastern coast)"
+LandmarkType: Sea
+share: true
 ---
 
 [[The Sea of Myth]] lies along the eastern side of [[A Brief Saros History|Saros]].

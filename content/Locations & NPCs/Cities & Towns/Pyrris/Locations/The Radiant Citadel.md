@@ -2,7 +2,7 @@
 publish: true
 title: The Radiant Citadel
 created: 2025-01-27T08:18:43.007Z
-modified: 2026-08-17T11:47:40.136Z
+modified: 2026-08-21T09:05:20.126Z
 tags:
   - Building
   - Palace

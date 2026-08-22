@@ -1,15 +1,14 @@
 ---
-publish: true
-aliases:
-  - The Ascarid
 title: Ascarid
-created: 2026-08-17T11:46:33.982Z
-modified: 2026-08-17T11:46:33.983Z
-tags:
-  - Landmark
-  - Water
-  - River
-  - Published
+ccType: entry
+ccId: entry-ascarid
+aliases:
+- The Ascarid
+tags: [Landmark, Water, River, Published]
+Region: "[[Lake of Lament]]"
+LandmarkType: River
+Hex: "89.84 to 79.96"
+share: true
 ---
 
 The [[Ascarid]] begins where [[Lake of Lament]] plunges over [[Great Fall]] at hex **89.84**. Its Elvish name means **“Rushing-waters.”**

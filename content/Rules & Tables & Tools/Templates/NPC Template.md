@@ -2,7 +2,7 @@
 publish: true
 title: NPC Template
 created: 2025-02-05T07:07:13.755Z
-modified: 2026-08-08T11:56:16.212Z
+modified: 2026-08-21T10:24:25.562Z
 tags:
   - NPC
   - Published

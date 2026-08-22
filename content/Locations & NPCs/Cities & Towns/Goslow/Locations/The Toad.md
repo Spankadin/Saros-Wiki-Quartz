@@ -1,14 +1,16 @@
 ---
-publish: true
-aliases:
-  - Toad, The Toad
 title: The Toad
-created: 2024-08-22T01:03:43.507Z
-modified: 2026-08-21T02:18:05.209Z
+ccType: entry
+ccId: entry-the-toad
+aliases:
+- Toad, The Toad
 tags:
-  - Building
-  - Tavern
-  - Published
+- Building
+- Tavern
+- Published
+Region: "[[Goslow]]"
+Hex: "67.103"
+share: true
 ---
 
 [[The Toad]] is a two-story half-timber and brick building with smooth stone floors and a warm breeze from the massive blazing fireplace that invites the weary traveler inside on a cold evening. The largest and busiest tavern and Inn in [[Goslow]], filled with elf-wrought tables and chairs, it was once a massive mansion that fell to ruin with age and was bought and restored by [[Perla Mudridge|Perla]]. The main hall houses a large collection of priceless artwork from all across [[A Brief Saros History|Saros]]. Accommodations range from small, modestly priced rooms with a soft woolen mattress, to huge luxury suites that rival small houses.

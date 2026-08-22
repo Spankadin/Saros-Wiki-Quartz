@@ -1,13 +1,13 @@
 ---
-publish: true
 title: North Cataract Yard
-created: 2026-08-17T11:46:37.559Z
-modified: 2026-08-17T11:46:37.559Z
-tags:
-  - Landmark
-  - Industrial
-  - Salvage
-  - Published
+ccType: entry
+ccId: entry-north-cataract-yard
+aliases: []
+tags: [Landmark, Industrial, Salvage, Published]
+Region: "[[Port Quartz]]"
+LandmarkType: Industrial
+Hex: "82.94"
+share: true
 ---
 
 [[North Cataract Yard]] is the exposed northern half of the paired [[Cataract Yard|Cataract Yards]] at hex **82.94**. Catch booms, hooks, cranes, sorting platforms, and emergency sheds let crews recover casks that pass the southern bank.

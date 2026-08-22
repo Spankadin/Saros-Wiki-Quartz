@@ -1,11 +1,13 @@
 ---
-publish: true
 title: Landmarks
-created: 2025-02-09T22:19:22.880Z
-modified: 2026-08-17T13:23:36.297Z
+ccType: entry
+ccId: entry-landmark-index
+aliases: []
 tags:
-  - Index
-  - Published
+- Index
+- Published
+share: true
+dataview: true
 ---
 
 Landmarks are geographic features, monumental works, roads, districts, waters, and other named parts of [[A Brief Saros History|Saros]] that shape travel and identity without functioning as Campaign Codex **Locations**.

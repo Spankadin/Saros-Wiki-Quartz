@@ -1,16 +1,16 @@
 ---
-publish: true
-aliases:
-  - Timeline of Saros
-  - Saros Timeline
-  - Years Since Caelum's Arrival
 title: Sarosian Timeline
-created: 2026-08-10T09:52:26.466Z
-modified: 2026-08-18T07:23:38.490Z
+ccType: entry
+ccId: entry-sarosian-timeline
+aliases:
+- Timeline of Saros
+- Saros Timeline
+- Years Since Caelum's Arrival
 tags:
-  - Lore
-  - History
-  - Published
+- Lore
+- History
+- Published
+share: true
 ---
 
 The [[Sarosian Timeline]] organizes the known history in [[Ages of Saros]] and gives the Third Age a working demographic scale. Dates in the modern record are measured from **Caelum's Arrival (CA)**, beginning when his wish carried the Wanderers from Mystara to Saros.
@@ -255,7 +255,7 @@ Most institutions considered “old” in modern daily life took their present f
 - Guild halls, temples, stone walls, mills, quays, courts, and civic monuments were built or rebuilt.
 - The Legion established much of its present fortress and patrol network.
 - Long-distance trade became routine enough for ordinary people to plan lives around it.
-- The [[Gambler's Guild]] linked its chartered halls through the [[Bank of Saros]].
+- [[The Cast Lot]] linked its chartered halls into a realm-spanning banking network.
 - [[Port Quartz]] grew wealthy through ferries, storage, salvage, and northern goods.
 - [[Lilya]] expanded beneath [[The Silvervein Summits]].
 - [[Mysha]] became known for timber and halfling-grown [[Smoke Leaf]].

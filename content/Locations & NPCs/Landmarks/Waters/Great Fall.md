@@ -1,14 +1,14 @@
 ---
-publish: true
-aliases:
-  - The Great Fall
 title: Great Fall
-created: 2026-08-17T11:46:35.179Z
-modified: 2026-08-17T11:46:35.179Z
-tags:
-  - Landmark
-  - Waterfall
-  - Published
+ccType: entry
+ccId: entry-great-fall
+aliases:
+- The Great Fall
+tags: [Landmark, Waterfall, Published]
+Region: "[[Lake of Lament]]"
+LandmarkType: Waterfall
+Hex: "89.84"
+share: true
 ---
 
 [[Great Fall]] is the immense cataract at hex **89.84** where [[Lake of Lament]] becomes the [[Ascarid]]. No ordinary vessel can descend it intact or climb it at all.

@@ -1,11 +1,17 @@
 ---
-publish: true
 title: Nessa Crowe
-created: 2026-08-07T06:36:23.922Z
-modified: 2026-08-10T06:50:40.975Z
+ccType: npc
+ccId: npc-nessa-crowe
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Rore]]"
+Building: "[[The Black Ledger]]"
+Faction: []
+ccAssociates: []
+share: true
 ---
 
 [[Nessa Crowe]] operates [[The Black Ledger]], a brokerage house in [[Rore]] that specializes in goods respectable merchants would rather not handle publicly.

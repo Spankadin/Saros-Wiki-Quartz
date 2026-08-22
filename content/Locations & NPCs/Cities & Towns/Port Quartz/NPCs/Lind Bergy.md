@@ -1,14 +1,22 @@
 ---
-publish: true
 title: Lind Bergy
-created: 2026-08-10T09:42:00.801Z
-modified: 2026-08-15T23:54:57.514Z
+ccType: npc
+ccId: npc-lind-bergy
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Port Quartz]]"
+Building: "[[The Quartz Cobra]]"
+Faction:
+- "[[The Cast Lot]]"
+Role: Proprietor and Banker
+ccAssociates: []
+share: true
 ---
 
-[[Lind Bergy]] owns and operates [[The Quartz Cobra]], the chartered gambling hall and [[Bank of Saros]] in [[Port Quartz]].
+[[Lind Bergy]] owns and operates [[The Quartz Cobra]], the chartered hall and banking branch of [[The Cast Lot]] in [[Port Quartz]].
 
 Lind is quiet, immaculately organized, and gifted at remembering odds, faces, and unpaid promises. He dislikes theatrical threats because they slow the room down. A soft question from Lind usually means he already knows the answer and is measuring the lie.
 

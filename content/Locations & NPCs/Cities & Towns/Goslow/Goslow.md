@@ -1,13 +1,23 @@
 ---
-publish: true
 title: Goslow
-created: 2025-01-28T08:58:45.124Z
-modified: 2026-08-17T11:07:22.057Z
+ccType: region
+ccId: region-goslow
+aliases: []
 tags:
-  - Town
-  - City
-  - Port
-  - Published
+- Region
+- Town
+- Port
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Government: Royal Charter Council
+Leader: ''
+Population: 14000
+Hex: "67.103"
+share: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Goslow]] is the largest concentration of permanent residents in known [[A Brief Saros History|Saros]] and the realm's dominant commercial port. It sits on the inner coast of [[Bishop's Bay]], where the sheltered water, nearby farmland, fishing grounds, and roads converging on the bay have made trade more dependable than almost anywhere else in the north.
@@ -78,7 +88,7 @@ The city's size makes it safer than most Sarosian settlements, but no one mistak
 ## Places of Interest
 
 - [[The Toad]] — the city's largest and most famous inn, operated by [[Perla Mudridge]] and [[Gerdga]]
-- [[The Silver Drake]] — a major [[Gambler's Guild]] hall and bank
+- [[The Silver Drake]] — a major hall of [[The Cast Lot]] and a bank
 - [[The Sphinx's Spellbook]] — cramped apothecary and arcane shop owned by [[Mori]]
 - [[Bedford's Forge]] — renowned smithy operated by [[Bedford]] and [[Mary]]
 - [[The Bulkhead]] — the Aucien family's rope and shipbuilding business
@@ -89,20 +99,32 @@ The city's size makes it safer than most Sarosian settlements, but no one mistak
 
 **Approximate permanent structures:** 1,385.
 
-<!-- foundry-ignore-start -->
+### Places of Interest Directory
+
+| Place                                                                                                  | Type                                     |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Goslow/Locations/Aucien Shipyard.md\|Aucien Shipyard]]               | Building, Shipyard, Published            |
+| [[Locations & NPCs/Cities & Towns/Goslow/Locations/Bedford's Forge.md\|Bedford's Forge]]               | Building, Blacksmith, Published          |
+| [[Locations & NPCs/Cities & Towns/Goslow/Locations/Duskpoint.md\|Duskpoint]]                           | Building, Garrison, Published            |
+| [[Locations & NPCs/Cities & Towns/Goslow/Locations/Temple of Torm.md\|Temple of Torm]]                 | Building, Temple, Published              |
+| [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Bulkhead.md\|The Bulkhead]]                     | Building, Shipwright, Shop, Published    |
+| [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Silver Drake.md\|The Silver Drake]]             | Building, Bank, Gambling Hall, Published |
+| [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Sphinx's Spellbook.md\|The Sphinx's Spellbook]] | Building, Apothecary, Shop, Published    |
+| [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Storm Runner.md\|The Storm Runner]]             | Ship, Published                          |
+| [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Toad.md\|The Toad]]                             | Building, Tavern, Published              |
 
 #### NPCs Found Here
 
 | NPC                                                                                       | Race      | Building                                                                                               | Factions                                                                    |
 | ----------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Bedford.md\|Bedford]]                       | Human     | [[Locations & NPCs/Cities & Towns/Goslow/Locations/Bedford's Forge.md\|Bedford's Forge]]               | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Bedford.md\|Bedford]]                       | Human     | [[Locations & NPCs/Cities & Towns/Goslow/Locations/Bedford's Forge.md\|Bedford's Forge]]               | [[Factions & Clans/The Scales/The Scales.md\|The Scales]]                   |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Breelyn.md\|Breelyn]]                       | Human     | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Storm Runner.md\|The Storm Runner]]             |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Chibs.md\|Chibs]]                           | Penguin   | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Sphinx's Spellbook.md\|The Sphinx's Spellbook]] |                                                                             |
-| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Gerdga.md\|Gerdga]]                         | Halfling  | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Toad.md\|The Toad]]                             | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Gerdga.md\|Gerdga]]                         | Halfling  | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Toad.md\|The Toad]]                             | [[Factions & Clans/The Scales/The Scales.md\|The Scales]]                   |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Hob.md\|Hob]]                               | Elemental | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Toad.md\|The Toad]]                             |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Jarvis Aucien.md\|Jarvis Aucien]]           | Half-Elf  | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Bulkhead.md\|The Bulkhead]]                     |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Korth.md\|Korth]]                           | Human     | [[Locations & NPCs/Cities & Towns/Goslow/Locations/Temple of Torm.md\|Temple of Torm]]                 |                                                                             |
-| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Lone-Wolf Louie.md\|Lone-Wolf Louie]]       | Human     | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Silver Drake.md\|The Silver Drake]]             | [[Factions & Clans/Gambler's Guild/Gambler's Guild.md\|Gambler's Guild]]    |
+| [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Lone-Wolf Louie.md\|Lone-Wolf Louie]]       | Human     | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Silver Drake.md\|The Silver Drake]]             | [[Factions & Clans/The Cast Lot/The Cast Lot.md\|The Cast Lot]]             |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Mary.md\|Mary]]                             | Human     | [[Locations & NPCs/Cities & Towns/Goslow/Locations/Bedford's Forge.md\|Bedford's Forge]]               |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Mirken Stanton.md\|Mirken Stanton]]         | Human     | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Storm Runner.md\|The Storm Runner]]             |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Mori.md\|Mori]]                             | Half-Elf  | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Sphinx's Spellbook.md\|The Sphinx's Spellbook]] |                                                                             |
@@ -110,5 +132,3 @@ The city's size makes it safer than most Sarosian settlements, but no one mistak
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Ostalda.md\|Ostalda]]                       | Half-Elf  | [[Locations & NPCs/Cities & Towns/Goslow/Locations/Temple of Torm.md\|Temple of Torm]]                 |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Perla Mudridge.md\|Perla Mudridge]]         | Halfling  | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Toad.md\|The Toad]]                             |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Vostin The Mighty.md\|Vostin The Mighty]]   | Human     | [[Locations & NPCs/Cities & Towns/Goslow/Locations/Duskpoint.md\|Duskpoint]]                           | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |
-
-<!-- foundry-ignore-end -->

@@ -1,11 +1,18 @@
 ---
-publish: true
 title: Mara Avelin
-created: 2026-08-08T11:56:33.034Z
-modified: 2026-08-08T11:56:15.581Z
+ccType: npc
+ccId: npc-mara-avelin
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Albyrt]]"
+Building: "[[Westlake Ferry Hall]]"
+Faction: []
+Role: Lake Reeve
+ccAssociates: []
+share: true
 ---
 
 [[Mara Avelin]] is the current Lake Reeve of [[Albyrt]], responsible for balancing ferry interests, grain merchants, shoreline households, and the constant civic comparison with [[Isoltide]].

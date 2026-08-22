@@ -1,13 +1,13 @@
 ---
-publish: true
-aliases:
-  - The Golden Grouper
 title: Golden Grouper
-created: 2025-01-28T07:28:53.946Z
-modified: 2026-08-08T11:56:12.838Z
+ccType: entry
+ccId: entry-golden-grouper
+aliases:
+- The Golden Grouper
 tags:
-  - Legend
-  - Published
+- Legend
+- Published
+share: true
 ---
 
 The [[Golden Grouper]] is one of the better-known sailor stories of [[Bishop's Bay]].

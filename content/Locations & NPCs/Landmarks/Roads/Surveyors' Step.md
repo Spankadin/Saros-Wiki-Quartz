@@ -1,12 +1,16 @@
 ---
-publish: true
 title: Surveyors' Step
-created: 2026-08-07T06:36:23.963Z
-modified: 2026-08-17T11:47:40.217Z
+ccType: entry
+ccId: entry-surveyors-step
+aliases: []
 tags:
-  - Landmark
-  - Road
-  - Published
+- Landmark
+- Road
+- Published
+Region: "[[Port Quartz]]"
+Hex: "82.94 northwestward"
+LandmarkType: Road
+share: true
 ---
 
 The [[Surveyors' Step]] is the collective name used in [[Port Quartz]] for the fading trails, cairns, hunter paths, and old expedition cuts beyond [[Westwater Ferry]].

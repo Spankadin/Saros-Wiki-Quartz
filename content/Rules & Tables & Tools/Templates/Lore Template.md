@@ -2,7 +2,7 @@
 publish: true
 title: Lore Template
 created: 2026-08-08T11:56:34.550Z
-modified: 2026-08-08T11:56:16.244Z
+modified: 2026-08-21T10:40:42.275Z
 tags:
   - Lore
   - Published

@@ -2,7 +2,7 @@
 publish: true
 title: Landmark Template
 created: 2026-08-08T11:56:34.538Z
-modified: 2026-08-17T12:54:11.409Z
+modified: 2026-08-21T10:40:41.622Z
 tags:
   - Landmark
   - Published

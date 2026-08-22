@@ -2,7 +2,7 @@
 publish: true
 title: Entry Template
 created: 2026-08-08T11:56:34.528Z
-modified: 2026-08-08T11:56:16.201Z
+modified: 2026-08-21T10:24:26.215Z
 tags:
   - Building
   - Published

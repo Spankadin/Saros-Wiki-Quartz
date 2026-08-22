@@ -2,7 +2,7 @@
 publish: true
 title: Location Template
 created: 2026-06-20T09:40:53.867Z
-modified: 2026-08-17T12:54:10.798Z
+modified: 2026-08-21T10:24:24.910Z
 tags:
   - Dungeon
   - Published

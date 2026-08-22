@@ -1,12 +1,16 @@
 ---
-publish: true
 title: The Closed Gate
-created: 2026-08-08T11:56:33.128Z
-modified: 2026-08-17T11:47:39.986Z
+ccType: entry
+ccId: entry-the-closed-gate
+aliases: []
 tags:
-  - Landmark
-  - Gate
-  - Published
+- Landmark
+- Gate
+- Published
+Region: "[[Brynk]]"
+Hex: "58.180"
+LandmarkType: Gate
+share: true
 ---
 
 [[The Closed Gate]] is the formal entrance to [[Brynk]]. Visitors are stopped here, recorded, and given a concise explanation of the local customs they will be expected to follow.

@@ -1,14 +1,17 @@
 ---
-publish: true
-aliases:
-  - High Road
 title: The High Road
-created: 2025-02-24T05:50:56.242Z
-modified: 2026-08-17T12:55:05.677Z
+ccType: entry
+ccId: entry-the-high-road
+aliases:
+- High Road
 tags:
-  - Landmark
-  - Road
-  - Published
+- Landmark
+- Road
+- Published
+Region: "[[Pyrris]]"
+Hex: "67.103–71.109"
+LandmarkType: Road
+share: true
 ---
 
 [[The High Road]] is the enormous switchback road climbing from the [[Goslow]] region to [[Pyrris]] atop the cliffs above [[Bishop's Bay]].

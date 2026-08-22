@@ -1,11 +1,13 @@
 ---
-publish: true
 title: Waters
-created: 2025-02-09T22:18:00.490Z
-modified: 2026-08-17T11:49:01.902Z
+ccType: entry
+ccId: entry-water-index
+aliases: []
 tags:
-  - Index
-  - Published
+- Index
+- Published
+share: true
+dataview: true
 ---
 
 The seas, bays, lakes, and other named waters of [[A Brief Saros History|Saros]] shape nearly every major trade route.

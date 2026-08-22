@@ -1,15 +1,22 @@
 ---
-publish: true
-aliases:
-  - Amara
-  - The Queen
-  - Queen
 title: Queen Amara
-created: 2024-12-29T05:24:53.292Z
-modified: 2026-08-14T09:43:32.766Z
+ccType: npc
+ccId: npc-queen-amara
+Race: Elf
+aliases:
+- Amara
+- The Queen
+- Queen
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: Unknown
+Faction:
+- "[[The Crown of Saros]]"
+ccAssociates:
+- "[[Caelum]]"
+- "[[The Queen's Council]]"
+share: true
 ---
 
 [[Queen Amara]] Tatami is the elven Queen of [[A Brief Saros History|Saros]], widow of [[Caelum]], and one of the longest-lived rulers known to the realm.

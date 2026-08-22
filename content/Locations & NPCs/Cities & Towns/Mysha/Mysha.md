@@ -1,11 +1,22 @@
 ---
-publish: true
 title: Mysha
-created: 2026-08-08T11:56:33.537Z
-modified: 2026-08-18T07:22:22.302Z
+ccType: region
+ccId: region-mysha
+aliases: []
 tags:
-  - Town
-  - Published
+- Region
+- Town
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "92.167"
+Government: Woodward Council
+Leader: "[[Pellin Root]]"
+Population: 2500
+share: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Mysha]] is a southern logging town set where river, forest, and open land meet. Halflings are especially common in the settlement, and many local families maintain stories connecting their ancestors to [[Lake Runa]].
@@ -50,12 +61,16 @@ The town relies on local wardens, organized work crews, and a militia accustomed
 - [[Runa House]] — communal hall associated with local halfling traditions
 - [[The Split Log]] — rough inn used by crews and river traders
 
-<!-- foundry-ignore-start -->
+### Places of Interest Directory
+
+| Place                                                                                 | Type                             |
+| ------------------------------------------------------------------------------------- | -------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Mysha/Locations/Rootwheel Mill.md\|Rootwheel Mill]] | Building, Industrial, Published  |
+| [[Locations & NPCs/Cities & Towns/Mysha/Locations/Runa House.md\|Runa House]]         | Building, Civic, Published       |
+| [[Locations & NPCs/Cities & Towns/Mysha/Locations/The Split Log.md\|The Split Log]]   | Building, Inn, Tavern, Published |
 
 #### NPCs Found Here
 
 | NPC                                                                        | Race     | Building                                                                      | Factions |
 | -------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------- | -------- |
 | [[Locations & NPCs/Cities & Towns/Mysha/NPCs/Pellin Root.md\|Pellin Root]] | Halfling | [[Locations & NPCs/Cities & Towns/Mysha/Locations/Runa House.md\|Runa House]] |          |
-
-<!-- foundry-ignore-end -->

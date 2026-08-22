@@ -1,12 +1,23 @@
 ---
-publish: true
 title: Ani
-created: 2026-08-08T11:56:33.043Z
-modified: 2026-08-17T11:47:39.952Z
+ccType: region
+ccId: region-ani
+aliases: []
 tags:
-  - Town
-  - Port
-  - Published
+- Region
+- Town
+- Port
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "59.153"
+Government: March Charter
+Leader: "[[Captain Lysa Dorn]]"
+Population: 3000
+share: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Ani]] is a fortified coastal town whose primary purpose is to protect settled southern Saros from dangers associated with [[The Urmong Barrows]].
@@ -50,12 +61,16 @@ Ani has strong walls for its size, layered gates, coastal patrols, and watch tow
 - [[The Last Lantern]] — expedition inn and gathering place
 - [[Ani Watchhouse]] — militia headquarters and warning tower
 
-<!-- foundry-ignore-start -->
+### Places of Interest Directory
+
+| Place                                                                                   | Type                                     |
+| --------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Ani/Locations/Ani Watchhouse.md\|Ani Watchhouse]]     | Building, Fortification, Published       |
+| [[Locations & NPCs/Cities & Towns/Ani/Locations/Barrowgate.md\|Barrowgate]]             | Landmark, Fortification, Gate, Published |
+| [[Locations & NPCs/Cities & Towns/Ani/Locations/The Last Lantern.md\|The Last Lantern]] | Building, Inn, Tavern, Published         |
 
 #### NPCs Found Here
 
 | NPC                                                                                  | Race  | Building                                                                            | Factions                                                                    |
 | ------------------------------------------------------------------------------------ | ----- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [[Locations & NPCs/Cities & Towns/Ani/NPCs/Captain Lysa Dorn.md\|Captain Lysa Dorn]] | Human | [[Locations & NPCs/Cities & Towns/Ani/Locations/Ani Watchhouse.md\|Ani Watchhouse]] | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |
-
-<!-- foundry-ignore-end -->

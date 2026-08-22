@@ -1,11 +1,22 @@
 ---
-publish: true
 title: Trystn
-created: 2026-08-07T06:36:23.929Z
-modified: 2026-08-17T12:55:04.472Z
+ccType: region
+ccId: region-trystn
+aliases: []
 tags:
-  - Town
-  - Published
+- Region
+- Town
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "102.99"
+Government: "[[Crossroads Council]]"
+Leader: "[[Elian Thorne]]"
+Population: 4600
+share: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Trystn]] exists because roads meet there.
@@ -59,18 +70,25 @@ The walls are less imposing than Lilya's, but the constant presence of armed tra
 ## Places of Interest
 
 - [[Four Roads Market]] — the great central open market
+- [[The Golden Goose]] — the crossroads hall and banking branch of [[The Cast Lot]]
 - [[The Axle and Bell]] — busy caravan inn run by [[Jessa Marr]]
 - [[Tollhouse Commons]] — road office, public notices, and civic hearings
 - [[East Gate Caravan Yard]] — the largest secure wagon yard in town
 
-<!-- foundry-ignore-start -->
+### Places of Interest Directory
+
+| Place                                                                                                  | Type                                     |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Trystn/Locations/East Gate Caravan Yard.md\|East Gate Caravan Yard]] | Commercial, Published                    |
+| [[Locations & NPCs/Cities & Towns/Trystn/Locations/Four Roads Market.md\|Four Roads Market]]           | Landmark, Market, Published              |
+| [[Locations & NPCs/Cities & Towns/Trystn/Locations/The Axle and Bell.md\|The Axle and Bell]]           | Inn, Published                           |
+| [[Locations & NPCs/Cities & Towns/Trystn/Locations/The Golden Goose.md\|The Golden Goose]]             | Building, Bank, Gambling Hall, Published |
+| [[Locations & NPCs/Cities & Towns/Trystn/Locations/Tollhouse Commons.md\|Tollhouse Commons]]           | Building, Published                      |
 
 #### NPCs Found Here
 
-| NPC                                                                           | Race     | Building                                                                                               | Factions                                                                    |
-| ----------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Elian Thorne.md\|Elian Thorne]] | Human    | [[Locations & NPCs/Cities & Towns/Trystn/Locations/Tollhouse Commons.md\|Tollhouse Commons]]           | [[Factions & Clans/Crossroads Council.md\|Crossroads Council]]              |
-| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Jessa Marr.md\|Jessa Marr]]     | Halfling | [[Locations & NPCs/Cities & Towns/Trystn/Locations/The Axle and Bell.md\|The Axle and Bell]]           | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
-| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Torv Hallick.md\|Torv Hallick]] | Human    | [[Locations & NPCs/Cities & Towns/Trystn/Locations/East Gate Caravan Yard.md\|East Gate Caravan Yard]] | [[Factions & Clans/Merchant's Guild/Merchant's Guild.md\|Merchant's Guild]] |
-
-<!-- foundry-ignore-end -->
+| NPC                                                                           | Race     | Building                                                                                               | Factions                                                       |
+| ----------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Elian Thorne.md\|Elian Thorne]] | Human    | [[Locations & NPCs/Cities & Towns/Trystn/Locations/Tollhouse Commons.md\|Tollhouse Commons]]           | [[Factions & Clans/Crossroads Council.md\|Crossroads Council]] |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Jessa Marr.md\|Jessa Marr]]     | Halfling | [[Locations & NPCs/Cities & Towns/Trystn/Locations/The Axle and Bell.md\|The Axle and Bell]]           | [[Factions & Clans/The Scales/The Scales.md\|The Scales]]      |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Torv Hallick.md\|Torv Hallick]] | Human    | [[Locations & NPCs/Cities & Towns/Trystn/Locations/East Gate Caravan Yard.md\|East Gate Caravan Yard]] | [[Factions & Clans/The Scales/The Scales.md\|The Scales]]      |

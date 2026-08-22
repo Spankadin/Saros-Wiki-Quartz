@@ -1,16 +1,22 @@
 ---
-publish: true
-aliases:
-  - The Northern Gate
-  - Karag Gate
 title: Dun Karag
-created: 2026-08-10T09:39:43.106Z
-modified: 2026-08-18T01:02:51.332Z
+ccType: region
+ccId: region-dun-karag
+aliases:
+- The Northern Gate
+- Karag Gate
 tags:
-  - Town
-  - Stronghold
-  - Dwarves
-  - Published
+- Region
+- Town
+- Stronghold
+- Dwarves
+- Published
+Region: "[[The Masys Mountains]]"
+Hex: "53.85"
+Government: "[[Dun'zod]] Hold Council"
+Leader: ''
+Population: 900
+share: true
 ---
 
 [[Dun Karag]] is a [[Dun'zod]] stronghold at Hex 53.85, where the road north from [[Skaggerty]] reaches [[The Masys Mountains]]. Its gates control the maintained passage under and through the range toward [[Caelum's End]].
@@ -42,3 +48,8 @@ Dun Karag produces **Deepmantle Ale**, a dark, cold-fermented ale aged in stone-
 ## Character
 
 The stronghold is warm, disciplined, and never fully quiet. Chain lifts, water wheels, distant hammers, and gate bells echo through carved halls. Hospitality is serious once granted; so is a closed door.
+
+### Places of Interest Directory
+
+| Place | Type |
+| ----- | ---- |

@@ -1,12 +1,15 @@
 ---
-publish: true
 title: Eastwater Hall
-created: 2026-08-08T11:56:33.376Z
-modified: 2026-08-17T11:47:40.021Z
+ccType: entry
+ccId: entry-eastwater-hall
+aliases: []
 tags:
-  - Building
-  - Civic
-  - Published
+- Building
+- Civic
+- Published
+Region: "[[Isoltide]]"
+Hex: "86.150"
+share: true
 ---
 
 [[Eastwater Hall]] is the ferry registry and civic hall of [[Isoltide]], where [[Teren Moss]] and the local council conduct business.

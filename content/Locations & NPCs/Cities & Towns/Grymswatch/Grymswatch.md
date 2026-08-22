@@ -1,12 +1,23 @@
 ---
-publish: true
 title: Grymswatch
-created: 2025-02-09T00:20:31.602Z
-modified: 2026-08-18T07:22:24.251Z
+ccType: region
+ccId: region-grymswatch
+aliases: []
 tags:
-  - Town
-  - Port
-  - Published
+- Region
+- Town
+- Port
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "133.179"
+Government: Military Charter
+Leader: "[[Admiral Thainan]]"
+Population: 1000
+share: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Grymswatch]] is a fortified military town and one of the principal strongholds of [[The Aegis Legion]]. It stands watch over the southeastern approaches of Saros and exists primarily to contain the threat posed by [[Karastos]] and the pirate factions operating from that coast.
@@ -53,7 +64,11 @@ There is no dependable land route between the two settlements. An overland attem
 
 - [[Mira's Wall]] — Legion headquarters and training fortress
 
-<!-- foundry-ignore-start -->
+### Places of Interest Directory
+
+| Place                                                                                | Type                          |
+| ------------------------------------------------------------------------------------ | ----------------------------- |
+| [[Locations & NPCs/Cities & Towns/Grymswatch/Locations/Mira's Wall.md\|Mira's Wall]] | Building, Garrison, Published |
 
 #### NPCs Found Here
 
@@ -61,5 +76,3 @@ There is no dependable land route between the two settlements. An overland attem
 | --------------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
 | [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Admiral Thainan.md\|Admiral Thainan]] | Human | [[Locations & NPCs/Cities & Towns/Grymswatch/Locations/Mira's Wall.md\|Mira's Wall]] | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |
 | [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Festin Dontel.md\|Festin Dontel]]     | Human | [[Locations & NPCs/Cities & Towns/Grymswatch/Locations/Mira's Wall.md\|Mira's Wall]] | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |
-
-<!-- foundry-ignore-end -->

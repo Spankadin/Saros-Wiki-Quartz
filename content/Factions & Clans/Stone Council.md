@@ -1,11 +1,13 @@
 ---
-publish: true
 title: Stone Council
-created: 2026-08-07T06:36:23.770Z
-modified: 2026-08-08T11:56:13.172Z
+ccType: faction
+ccId: faction-stone-council
+aliases: []
 tags:
-  - Faction
-  - Published
+- Faction
+- Published
+ccAssociates: []
+share: true
 ---
 
 The [[Stone Council]] governs [[Lilya]] and represents the town’s mine crews, smelters, haulers, craftsmen, and established households.

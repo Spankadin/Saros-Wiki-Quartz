@@ -1,14 +1,17 @@
 ---
-publish: true
-aliases:
-  - Bishop Bay
 title: Bishop's Bay
-created: 2025-01-28T08:05:45.652Z
-modified: 2026-08-17T11:45:19.547Z
+ccType: entry
+ccId: entry-bishops-bay
+aliases:
+- Bishop Bay
 tags:
-  - Landmark
-  - Water
-  - Published
+- Landmark
+- Water
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+LandmarkType: Bay
+Hex: "Multiple (western bay)"
+share: true
 ---
 
 [[Bishop's Bay]] is the broad sheltered water shared by [[Goslow]] and the towering cliffs beneath [[Pyrris]].

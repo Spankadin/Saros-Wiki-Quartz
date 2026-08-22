@@ -2,7 +2,7 @@
 publish: true
 title: Prance Mondrel
 created: 2025-02-10T08:36:30.482Z
-modified: 2026-08-08T11:56:14.995Z
+modified: 2026-08-21T10:25:37.834Z
 tags:
   - NPC
   - Published
@@ -24,4 +24,4 @@ The Fourty Knights succeeds because Prance understands travelers.
 
 He keeps enough rooms, food, drink, stable arrangements, and hired help available that merchants and expedition parties tolerate the tavern's rough edges.
 
-Prance is a member of the [[Merchant's Guild]], though his idea of respectable commerce is broader than some guild members would prefer.
+Prance is a member of [[The Scales]], though his idea of respectable commerce is broader than some members would prefer.

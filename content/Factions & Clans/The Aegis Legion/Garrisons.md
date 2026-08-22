@@ -2,7 +2,7 @@
 publish: true
 title: Garrisons
 created: 2025-02-09T22:28:23.032Z
-modified: 2026-08-15T23:54:51.671Z
+modified: 2026-08-22T06:48:10.546Z
 tags:
   - Index
   - Published

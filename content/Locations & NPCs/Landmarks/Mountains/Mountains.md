@@ -1,11 +1,13 @@
 ---
-publish: true
 title: Mountains
-created: 2025-02-09T22:18:57.739Z
-modified: 2026-08-17T11:49:02.541Z
+ccType: entry
+ccId: entry-mountain-index
+aliases: []
 tags:
-  - Index
-  - Published
+- Index
+- Published
+share: true
+dataview: true
 ---
 
 The mountain ranges of [[A Brief Saros History|Saros]] contain mines, isolated settlements, old ruins, and entrances to forgotten [[Delves]].

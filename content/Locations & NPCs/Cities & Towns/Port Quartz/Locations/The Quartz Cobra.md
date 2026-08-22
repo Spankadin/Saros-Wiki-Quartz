@@ -1,18 +1,22 @@
 ---
-publish: true
-aliases:
-  - Quartz Cobra
 title: The Quartz Cobra
-created: 2026-08-10T09:42:01.472Z
-modified: 2026-08-18T09:15:21.433Z
+ccType: entry
+ccId: entry-the-quartz-cobra
+aliases:
+- Quartz Cobra
 tags:
-  - Casino
-  - Bank
-  - Gambling Hall
-  - Published
+- Building
+- Bank
+- Gambling Hall
+- Published
+Region: "[[Port Quartz]]"
+Faction:
+- "[[The Cast Lot]]"
+Hex: "79.96"
+share: true
 ---
 
-[[The Quartz Cobra]] is [[Port Quartz]]'s sole [[Gambler's Guild|Guild-chartered]] gambling hall and its [[Bank of Saros]].
+[[The Quartz Cobra]] is [[Port Quartz]]'s sole gambling hall chartered by [[The Cast Lot]] and its legitimate bank.
 
 Pale stone scales curve around the doorway, while a long quartz cobra coils above the counting cage inside. [[Lind Bergy]] owns and operates the hall.
 
@@ -22,4 +26,4 @@ The Cobra favors compact games suited to sailors, caravan crews, and merchants w
 
 ## Banking
 
-The secured lower rooms accept deposits, store valuables, honor verified Guild drafts, exchange coin, and arrange withdrawals through other Guild halls. River schedules make the hall especially valuable to merchants who do not want their entire payroll sitting on a delayed wagon.
+The secured lower rooms accept deposits, store valuables, honor verified Lot drafts, exchange coin, and arrange withdrawals through other Lot halls. River schedules make the hall especially valuable to merchants who do not want their entire payroll sitting on a delayed wagon.

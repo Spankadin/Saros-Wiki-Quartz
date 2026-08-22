@@ -1,12 +1,23 @@
 ---
-publish: true
 title: Isoltide
-created: 2026-08-08T11:56:33.368Z
-modified: 2026-08-18T07:22:20.994Z
+ccType: region
+ccId: region-isoltide
+aliases: []
 tags:
-  - Town
-  - Port
-  - Published
+- Region
+- Town
+- Port
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "86.150"
+Government: Twin-Lake Charter Council
+Leader: "[[Teren Moss]]"
+Population: 5800
+share: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Isoltide]] stands opposite [[Albyrt]] on the great southern lake, where the eastern forest, river traffic, and lake fisheries meet.
@@ -50,12 +61,16 @@ Isoltide is modestly fortified and maintains armed watch boats. The forest edge 
 - [[Isoltide Fishstairs]] — stepped fish market descending toward the lake
 - [[The Green Lantern]] — travelers' inn near the forest road
 
-<!-- foundry-ignore-start -->
+### Places of Interest Directory
+
+| Place                                                                                              | Type                                    |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Isoltide/Locations/Eastwater Hall.md\|Eastwater Hall]]           | Building, Civic, Published              |
+| [[Locations & NPCs/Cities & Towns/Isoltide/Locations/Isoltide Fishstairs.md\|Isoltide Fishstairs]] | Landmark, Waterfront, Market, Published |
+| [[Locations & NPCs/Cities & Towns/Isoltide/Locations/The Green Lantern.md\|The Green Lantern]]     | Building, Inn, Published                |
 
 #### NPCs Found Here
 
 | NPC                                                                         | Race     | Building                                                                                 | Factions |
 | --------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------- | -------- |
 | [[Locations & NPCs/Cities & Towns/Isoltide/NPCs/Teren Moss.md\|Teren Moss]] | Half-Elf | [[Locations & NPCs/Cities & Towns/Isoltide/Locations/Eastwater Hall.md\|Eastwater Hall]] |          |
-
-<!-- foundry-ignore-end -->

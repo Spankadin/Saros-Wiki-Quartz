@@ -1,15 +1,15 @@
 ---
-publish: true
+title: Welcome to Saros
+description: A player-facing guide to the people, places, factions, and history of Saros.
 aliases:
   - Home
   - Delve into Saros
-title: Welcome to Saros
-description: A player-facing guide to the people, places, factions, and history of Saros.
-created: 2026-08-15T19:53:01.230Z
-modified: 2026-08-21T08:43:49.160Z
 tags:
   - Lore
   - Published
+ccType: entry
+ccId: entry-saros-wiki-home
+share: true
 ---
 
 <figure class="saros-hero">
@@ -45,7 +45,7 @@ tags:
 > - [[The Crown of Saros]]
 > - [[The Aegis Legion]]
 > - [[The Prism]] and [[The Black Circle]]
-> - [[Dwarven Clans]], the [[Gambler's Guild]], and the [[Merchant's Guild]]
+> - [[Dwarven Clans]], [[The Cast Lot]], and [[The Scales]]
 
 > [!saros-people] Find the People
 >

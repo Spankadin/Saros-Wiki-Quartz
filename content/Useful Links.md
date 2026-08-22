@@ -1,14 +1,12 @@
 ---
-publish: true
-aliases:
-  - Saros Resources
 title: Useful Links
 description: Rules references, generators, and creators used in the inspiration and creation of Saros.
-created: 2026-08-17T11:46:38.829Z
-modified: 2026-08-21T08:05:54.884Z
-tags:
-  - Published
-  - Resources
+aliases:
+- Saros Resources
+tags: [Published, Resources]
+ccType: entry
+ccId: entry-useful-links
+share: true
 ---
 
 This is a growing collection of rules references, generators, and creators used in the inspiration and creation of Saros. External resources remain the work and property of their respective creators.

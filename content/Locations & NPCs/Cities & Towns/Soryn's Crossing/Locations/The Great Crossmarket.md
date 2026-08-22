@@ -1,15 +1,25 @@
 ---
-publish: true
 title: The Great Crossmarket
-created: 2026-08-08T11:56:33.899Z
-modified: 2026-08-17T11:47:40.165Z
+ccType: entry
+ccId: entry-the-great-crossmarket
+aliases: []
 tags:
-  - Landmark
-  - Market
-  - Published
+- Landmark
+- Market
+- Auction House
+- Trade Hub
+- Published
+Region: "[[Soryn's Crossing]]"
+Faction:
+- "[[The Scales]]"
+Hex: "78.171"
+LandmarkType: Market
+share: true
 ---
 
 [[The Great Crossmarket]] is the wholesale heart of [[Soryn's Crossing]], where bulk goods change wagons, owners, and destinations.
+
+It also houses the headquarters of [[The Scales]]. The guild's central exchange occupies a large auction hall and adjoining chambers used for standards hearings, commercial arbitration, credit disputes, and negotiations involving merchants from several settlements.
 
 ## Everyday Use
 

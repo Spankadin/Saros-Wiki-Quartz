@@ -1,20 +1,20 @@
 ---
-publish: true
-aliases:
-  - Thar'um
-  - Tha'run
-  - Vak'dar
-  - Gemseeker
-  - Gemseekers
-  - Mountain Keepers
 title: Dun'zod
-created: 2026-08-10T09:37:06.545Z
-modified: 2026-08-17T11:06:11.986Z
+ccType: faction
+ccId: faction-dun-zod
+aliases:
+- Thar'um
+- Tha'run
+- Vak'dar
+- Gemseeker
+- Gemseekers
+- Mountain Keepers
 tags:
-  - Race
-  - Dwarves
-  - Faction
-  - Published
+- Race
+- Dwarves
+- Faction
+- Published
+share: true
 ---
 
 The [[Dun'zod]] are the **Mountain Keepers** and **Gem-Seekers**, a [[Dwarven Clans|dwarven clan]] formed from traditions once recorded separately as the Tha'run and Vak'dar. In Sarosian Dwarvish, **Dun** (pronounced “dune”) means **dwarves** or **the dwarven people**.

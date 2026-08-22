@@ -1,14 +1,14 @@
 ---
-publish: true
-aliases:
-  - Dun'armok Scattering
 title: The Scattering
-created: 2026-08-14T09:43:33.993Z
-modified: 2026-08-17T11:05:36.386Z
+ccType: entry
+ccId: entry-the-scattering
+aliases:
+- Dun'armok Scattering
 tags:
-  - History
-  - Dwarves
-  - Published
+- History
+- Dwarves
+- Published
+share: true
 ---
 
 [[The Scattering]] is the name given to the flight and dispersal of the surviving [[Dun'armok]] houses after [[The Great Betrayal]].

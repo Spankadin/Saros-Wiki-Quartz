@@ -1,12 +1,23 @@
 ---
-publish: true
 title: Rore
-created: 2026-08-07T06:36:23.905Z
-modified: 2026-08-17T11:47:40.139Z
+ccType: region
+ccId: region-rore
+aliases: []
 tags:
-  - City
-  - Port
-  - Published
+- Region
+- City
+- Port
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "132.101"
+Government: "[[The Cast Lot|House Table]]"
+Leader: "[[Cassia Rook]]"
+Population: 7200
+share: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Rore]] is the largest openly independent city in eastern Saros and a place where nearly anything can be wagered, financed, sold, hidden, or made respectable after enough paperwork and coin.
@@ -21,7 +32,7 @@ Rore's independence attracts people who dislike Crown oversight as well as peopl
 
 ## Government
 
-[[The House Table]] governs the city. Great gaming houses, lenders, brokers, and ward representatives dominate the council.
+[[The Cast Lot|The House Table]] governs the city as the senior council of [[The Cast Lot]]. Great gaming houses, lenders, brokers, and ward representatives dominate its bargains, but it is no longer treated as a separate faction.
 
 [[Cassia Rook]] serves as **First Dealer**, the closest office Rore accepts to a mayor.
 
@@ -41,7 +52,7 @@ Rore earns money through:
 - Contract arbitration
 - Resale of cargo whose ownership has become inconvenient
 
-The [[Gambler's Guild]] is enormously influential but does not rule alone.
+The Lot rules through negotiation rather than simple command. Ward interests, lenders, brokers, and independent houses can still defeat a proposal when Cassia cannot assemble a profitable coalition.
 
 ## Travel and Connections
 
@@ -59,19 +70,24 @@ Violence that interferes with business is punished quickly. Violence between peo
 
 ## Places of Interest
 
-- [[The Golden Goose]] — Saros's largest gambling hall and Rore's [[Bank of Saros]]
-- [[The Dealhouse]] — meeting hall of The House Table and seat of civic court
+- [[The Crowned Die]] — Saros's largest gambling hall, the headquarters of [[The Cast Lot]], and Rore's legitimate bank
+- [[The Dealhouse]] — public civic offices, records, petition hall, and court
 - [[The Black Ledger]] — private brokerage house operated by [[Nessa Crowe]]
 - [[Salt Court]] — neutral arbitration hall for debts, contracts, and wagers
 
-<!-- foundry-ignore-start -->
+### Places of Interest Directory
+
+| Place                                                                                    | Type                                     |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Rore/Locations/Salt Court.md\|Salt Court]]             | Building, Published                      |
+| [[Locations & NPCs/Cities & Towns/Rore/Locations/The Black Ledger.md\|The Black Ledger]] | Shop, Published                          |
+| [[Locations & NPCs/Cities & Towns/Rore/Locations/The Crowned Die.md\|The Crowned Die]]   | Building, Bank, Gambling Hall, Published |
+| [[Locations & NPCs/Cities & Towns/Rore/Locations/The Dealhouse.md\|The Dealhouse]]       | Building, Government, Court, Published   |
 
 #### NPCs Found Here
 
-| NPC                                                                       | Race     | Building                                                                                 | Factions                                                                 |
-| ------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Cassia Rook.md\|Cassia Rook]] | Human    | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Dealhouse.md\|The Dealhouse]]       | [[Factions & Clans/The House Table.md\|The House Table]]                 |
-| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Nessa Crowe.md\|Nessa Crowe]] | Human    | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Black Ledger.md\|The Black Ledger]] |                                                                          |
-| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Varo Quill.md\|Varo Quill]]   | Half-Elf | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Golden Goose.md\|The Golden Goose]] | [[Factions & Clans/Gambler's Guild/Gambler's Guild.md\|Gambler's Guild]] |
-
-<!-- foundry-ignore-end -->
+| NPC                                                                       | Race     | Building                                                                                 | Factions                                                        |
+| ------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Cassia Rook.md\|Cassia Rook]] | Human    | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Crowned Die.md\|The Crowned Die]]   | [[Factions & Clans/The Cast Lot/The Cast Lot.md\|The Cast Lot]] |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Nessa Crowe.md\|Nessa Crowe]] | Human    | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Black Ledger.md\|The Black Ledger]] |                                                                 |
+| [[Locations & NPCs/Cities & Towns/Rore/NPCs/Varo Quill.md\|Varo Quill]]   | Half-Elf | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Crowned Die.md\|The Crowned Die]]   | [[Factions & Clans/The Cast Lot/The Cast Lot.md\|The Cast Lot]] |

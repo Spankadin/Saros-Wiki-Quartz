@@ -1,19 +1,19 @@
 ---
-publish: true
-aliases:
-  - Khaz'armok
-  - Sand Dwarves
-  - Khaz'dar
-  - Dune-Breakers
-  - Dunebreakers
 title: Dun'armok
-created: 2025-02-04T02:34:04.363Z
-modified: 2026-08-17T11:06:11.210Z
+ccType: faction
+ccId: faction-dun-armok
+aliases:
+- Khaz'armok
+- Sand Dwarves
+- Khaz'dar
+- Dune-Breakers
+- Dunebreakers
 tags:
-  - Race
-  - Dwarves
-  - Faction
-  - Published
+- Race
+- Dwarves
+- Faction
+- Published
+share: true
 ---
 
 The [[Dun'armok]] are the legendary **Sand Dwarves** and **Dune-Breakers**, a clan whose history became inseparable from [[The Glimmering Expanse]]. The name now includes stone-shaping houses once recorded separately as the Khaz'dar.

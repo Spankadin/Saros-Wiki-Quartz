@@ -1,14 +1,18 @@
 ---
-publish: true
-aliases:
-  - Rom, Old Rom
 title: Rom The Wizard
-created: 2024-12-29T05:29:53.920Z
-modified: 2026-08-10T09:38:52.096Z
+ccType: npc
+ccId: npc-rom-the-wizard
+Race: Elf
+aliases:
+- Rom, Old Rom
 tags:
-  - NPC
-  - Legend
-  - Published
+- NPC
+- Legend
+- Published
+Location: "[[The Masys Mountains]]"
+Faction: []
+ccAssociates: []
+share: true
 ---
 
 Legends tell of an old and exceedingly strange wizard called [[Rom The Wizard|Rom]] who has lived somewhere near the southern reaches of [[The Masys Mountains]] for roughly **eighty years**.

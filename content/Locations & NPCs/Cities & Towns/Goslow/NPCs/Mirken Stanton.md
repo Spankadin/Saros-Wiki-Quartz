@@ -1,14 +1,20 @@
 ---
-publish: true
-aliases:
-  - Mirken
-  - Stanton
 title: Mirken Stanton
-created: 2024-08-22T01:22:12.583Z
-modified: 2026-08-18T07:27:58.713Z
+ccType: npc
+ccId: npc-mirken-stanton
+Race: Human
+aliases:
+- Mirken
+- Stanton
 tags:
-  - NPC
-  - Published
+- NPC
+- Published
+Location: "[[Goslow]]"
+Building: "[[The Storm Runner]]"
+Faction: []
+Role: Captain
+ccAssociates: []
+share: true
 ---
 
 [[Mirken Stanton]] is captain of [[The Storm Runner]], a fast, relatively light troop transport with a regular complement of 24 officers and crew.

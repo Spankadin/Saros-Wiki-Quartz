@@ -1,15 +1,14 @@
 ---
-publish: true
-aliases:
-  - Fall-Cask Outpost
 title: Fallhead Station
-created: 2026-08-17T11:46:35.786Z
-modified: 2026-08-17T11:46:35.787Z
-tags:
-  - Landmark
-  - Outpost
-  - Trade
-  - Published
+ccType: entry
+ccId: entry-fallhead-station
+aliases:
+- Fall-Cask Outpost
+tags: [Landmark, Outpost, Trade, Published]
+Region: "[[Lake of Lament]]"
+LandmarkType: Outpost
+Hex: "89.83"
+share: true
 ---
 
 [[Fallhead Station]] is the small working outpost at hex **89.83** above [[Great Fall]]. Broad-beamed boats from [[Lilya]] unload casks, crews inspect their seals and balance, and capstan teams transfer them into the protected fall works.

@@ -1,12 +1,12 @@
 ---
-publish: true
-aliases:
-  - The Festival, Spring Harvest
 title: The Spring Harvest Festival
-created: 2026-04-03T00:39:57.007Z
-modified: 2026-08-08T11:56:12.950Z
+ccType: entry
+ccId: entry-the-spring-harvest-festival
+aliases:
+- The Festival, Spring Harvest
 tags:
-  - Published
+- Published
+share: true
 ---
 
 Wonderful foods, lavish entertainment, and games of all sorts are plentiful during [[The Spring Harvest Festival|The Festival]]. The Spring Harvest is celebrated by most civilized peoples of [[A Brief Saros History|Saros]] in their own ways, but the largest celebration is held annually at the Capitol in [[Pyrris]].

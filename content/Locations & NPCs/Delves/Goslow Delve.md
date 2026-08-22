@@ -1,11 +1,16 @@
 ---
-publish: true
 title: Goslow Delve
-created: 2025-02-04T02:48:03.962Z
-modified: 2026-08-18T05:38:47.219Z
+ccType: location
+ccId: location-goslow-delve
+Hex: "67.103"
+aliases: []
 tags:
-  - Delve
-  - Published
+- Delve
+- Published
+truname: null
+rfaction: null
+share: true
+location: "[[Goslow]]"
 ---
 
 Recently re-discovered and unsealed by an unknown source, a dwarf at [[The Toad|The Toad]] has been leading adventurers into the cave entrance to the [[Delves|Delve]] under the assumption that his original party is all but lost down there.

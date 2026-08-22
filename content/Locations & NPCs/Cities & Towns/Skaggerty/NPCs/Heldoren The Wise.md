@@ -1,12 +1,18 @@
 ---
-publish: true
 title: Heldoren The Wise
-created: 2024-12-24T01:34:41.114Z
-modified: 2026-08-08T11:56:15.669Z
+ccType: npc
+ccId: npc-heldoren-the-wise
+Race: Human
+aliases: []
 tags:
-  - NPC
-  - Sage
-  - Published
+- NPC
+- Sage
+- Published
+Location: "[[Skaggerty]]"
+Building: "[[Temple of Austerus]]"
+Faction: []
+ccAssociates: []
+share: true
 ---
 
 [[Heldoren The Wise]] is the high priest of [[Temple of Austerus]] in [[Skaggerty]].

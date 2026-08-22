@@ -1,13 +1,24 @@
 ---
-publish: true
 title: Pyrris
-created: 2025-01-28T08:59:18.249Z
-modified: 2026-08-17T12:55:05.080Z
+ccType: region
+ccId: region-pyrris
+aliases: []
 tags:
-  - Town
-  - City
-  - Capital
-  - Published
+- Region
+- Town
+- City
+- Capital
+- Published
+Region: "[[A Brief Saros History|Saros]]"
+Hex: "71.109"
+Government: The Crown of Saros
+Leader: "[[Queen Amara]]"
+Population: 1100
+share: true
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 [[Pyrris]] is the capital of [[A Brief Saros History|Saros]], but it is not a large conventional city. It is a fortified royal settlement built atop an immense sheer cliff overlooking [[Bishop's Bay]], centered almost entirely around [[The Radiant Citadel]].
@@ -64,7 +75,13 @@ The city's small permanent population means the capital functions more like an e
 - [[Stonepeak]] — Legion garrison and primary public checkpoint
 - [[The High Road]] — the public road connecting Pyrris to the Goslow region
 
-<!-- foundry-ignore-start -->
+### Places of Interest Directory
+
+| Place                                                                                            | Type                                         |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Pyrris/Locations/Queen's Gate.md\|Queen's Gate]]               | Building, Landmark, Published                |
+| [[Locations & NPCs/Cities & Towns/Pyrris/Locations/Stonepeak.md\|Stonepeak]]                     | Building, Garrison, Fortification, Published |
+| [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | Building, Palace, Fortification, Published   |
 
 #### NPCs Found Here
 
@@ -76,5 +93,3 @@ The city's small permanent population means the capital functions more like an e
 | [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Gormley.md\|Gormley]]                             | Halfling | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] |                                                                                                                                                                   |
 | [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Lord Goldhaven.md\|Lord Goldhaven]]               | Human    | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
 | [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Spymaster Shadowcloak.md\|Spymaster Shadowcloak]] | Drow     | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
-
-<!-- foundry-ignore-end -->

@@ -1,7 +1,7 @@
 ---
 title: Soryn Hall
-ccType: entry
-ccId: entry-soryn-hall
+ccType: location
+ccId: location-soryn-hall
 aliases: []
 tags:
 - Building

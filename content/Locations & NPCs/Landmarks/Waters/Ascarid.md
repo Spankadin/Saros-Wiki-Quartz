@@ -1,7 +1,7 @@
 ---
 title: Ascarid
-ccType: entry
-ccId: entry-ascarid
+ccType: region
+ccId: region-ascarid
 aliases:
 - The Ascarid
 tags: [Landmark, Water, River, Published]

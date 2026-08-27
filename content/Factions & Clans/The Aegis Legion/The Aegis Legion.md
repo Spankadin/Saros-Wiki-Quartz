@@ -1,21 +1,16 @@
 ---
-title: The Aegis Legion
-ccType: faction
-ccId: faction-the-aegis-legion
+publish: true
 aliases:
-- The Legion
-- Legion
-- Aegis
-- Aegis Legion
+  - The Legion
+  - Legion
+  - Aegis
+  - Aegis Legion
+title: The Aegis Legion
+created: 2024-12-24T01:28:56.679Z
+modified: 2026-08-25T09:16:43.926Z
 tags:
-- Faction
-- Published
-ccAssociates: []
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Faction
+  - Published
 ---
 
 [[The Aegis Legion]] is the principal military institution of the Crown and the most visible symbol of royal authority outside [[Pyrris]].
@@ -76,7 +71,7 @@ Smaller garrisons and posts protect major roads, ports, and politically importan
 
 #### Known NPCs
 
-| Name                                                                                           | Race  | Location                                                                    | Building                                                                             |
+| Name                                                                                           | Race  | Region                                                                      | Location                                                                             |
 | ---------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Admiral Thainan.md\|Admiral Thainan]]        | Human | [[Locations & NPCs/Cities & Towns/Grymswatch/Grymswatch.md\|Grymswatch]]    | [[Locations & NPCs/Cities & Towns/Grymswatch/Locations/Mira's Wall.md\|Mira's Wall]] |
 | [[Locations & NPCs/Cities & Towns/Ani/NPCs/Captain Lysa Dorn.md\|Captain Lysa Dorn]]           | Human | [[Locations & NPCs/Cities & Towns/Ani/Ani.md\|Ani]]                         | [[Locations & NPCs/Cities & Towns/Ani/Locations/Ani Watchhouse.md\|Ani Watchhouse]]  |

@@ -2,13 +2,14 @@
 title: Albyrt
 ccType: region
 ccId: region-albyrt
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Port
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "83.142"
 Government: Twin-Lake Charter Council
 Leader: "[[Mara Avelin]]"
@@ -64,6 +65,6 @@ A lakeside wall, gatehouses, watch boats, and local militia protect the town. Pa
 
 #### NPCs Found Here
 
-| NPC                                                                         | Race  | Building                                                                                         | Factions |
+| NPC                                                                         | Race  | Location                                                                                         | Factions |
 | --------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------ | -------- |
 | [[Locations & NPCs/Cities & Towns/Albyrt/NPCs/Mara Avelin.md\|Mara Avelin]] | Human | [[Locations & NPCs/Cities & Towns/Albyrt/Locations/Westlake Ferry Hall.md\|Westlake Ferry Hall]] |          |

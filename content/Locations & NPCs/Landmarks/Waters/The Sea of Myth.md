@@ -1,13 +1,13 @@
 ---
 title: The Sea of Myth
-ccType: entry
-ccId: entry-the-sea-of-myth
+ccType: region
+ccId: region-the-sea-of-myth
 aliases: []
 tags:
 - Landmark
 - Water
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "Multiple (eastern coast)"
 LandmarkType: Sea
 share: true

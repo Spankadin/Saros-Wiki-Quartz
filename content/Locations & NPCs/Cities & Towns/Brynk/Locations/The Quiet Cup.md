@@ -1,7 +1,7 @@
 ---
 title: The Quiet Cup
-ccType: entry
-ccId: entry-the-quiet-cup
+ccType: location
+ccId: location-the-quiet-cup
 aliases: []
 tags:
 - Building

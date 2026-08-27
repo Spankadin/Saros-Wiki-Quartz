@@ -1,15 +1,15 @@
 ---
-title: Welcome to Saros
-description: A player-facing guide to the people, places, factions, and history of Saros.
+publish: true
 aliases:
   - Home
   - Delve into Saros
+title: Welcome to Saros
+description: A player-facing guide to the people, places, factions, and history of Saros.
+created: 2026-08-15T19:53:01.230Z
+modified: 2026-08-22T18:46:17.727Z
 tags:
   - Lore
   - Published
-ccType: entry
-ccId: entry-saros-wiki-home
-share: true
 ---
 
 <figure class="saros-hero">

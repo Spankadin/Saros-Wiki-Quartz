@@ -2,7 +2,7 @@
 publish: true
 title: Maela Torr
 created: 2026-08-07T06:36:23.860Z
-modified: 2026-08-08T11:56:15.874Z
+modified: 2026-08-26T06:36:41.906Z
 tags:
   - NPC
   - Published
@@ -16,6 +16,28 @@ Maela respects [[The Aegis Legion]] when it keeps roads and mine entrances safe,
 
 The recent problems beneath [[The Silvervein Summits]] have made her increasingly suspicious of sealed orders arriving from outside Lilya.
 
-## Manner
+## Appearance
+
+_Not yet established._
+
+## Personality
+
+### Manner
 
 Maela dislikes promises that do not include numbers. A plan that cannot explain how much timber, food, rope, labor, or time it requires is not yet a plan in her view.
+
+## Role
+
+_Not yet established._
+
+## Reputation
+
+_Not yet established._
+
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

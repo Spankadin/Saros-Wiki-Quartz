@@ -1,23 +1,22 @@
 ---
-title: Dwarven Clans
-ccType: faction
-ccId: faction-dwarven-clans
+publish: true
 aliases:
-- Dwarven Clan, Dwarf Clan, Dwarves, Dwarfs, Dwarven
+  - Dwarven Clan, Dwarf Clan, Dwarves, Dwarfs, Dwarven
+title: Dwarven Clans
+created: 2025-02-04T02:36:54.452Z
+modified: 2026-08-26T06:26:38.702Z
 tags:
-- Race
-- Dwarves
-- Faction
-- Published
-ccAssociates: []
-share: true
+  - Race
+  - Dwarves
+  - Entry
+  - Published
 ---
 
 In Sarosian Dwarvish, **Dun** (pronounced “dune”) means **dwarves** or **the dwarven people**. The surviving clan names preserve that shared root even where their dialects and traditions diverge.
 
-### [[Dun'gan]]
+### [[Dun'eld]]
 
-The First Dwarves. Their united culture faded during [[The Wandering]], and no confirmed Dun'gan settlement survives.
+The First Dwarves. Their united culture faded during [[The Wandering]], and no confirmed Dun'eld settlement survives.
 
 ### [[Dun'zod]]
 

@@ -1,23 +1,21 @@
 ---
-title: Sarosian Timeline
-ccType: entry
-ccId: entry-sarosian-timeline
+publish: true
 aliases:
-- Timeline of Saros
-- Saros Timeline
-- Years Since Caelum's Arrival
+  - Timeline of Saros
+  - Saros Timeline
+  - Years Since Caelum's Arrival
+title: Sarosian Timeline
+created: 2026-08-26T06:25:30.090Z
+modified: 2026-08-26T06:25:30.090Z
 tags:
-- Lore
-- History
-- Published
-share: true
+  - Lore
+  - History
+  - Published
 ---
 
 The [[Sarosian Timeline]] organizes the known history in [[Ages of Saros]] and gives the Third Age a working demographic scale. Dates in the modern record are measured from **Caelum's Arrival (CA)**, beginning when his wish carried the Wanderers from Mystara to Saros.
 
-The present is approximately **1,400 CA**.
-
-Dates before the Arrival are reconstructed from ruins, oral traditions, elven memory, dwarven records, and later copies. They should be treated as increasingly uncertain the farther back they reach.
+The present is approximately **425 CA**. Dates before the Arrival are reconstructed from ruins, oral traditions, elven memory, dwarven records, and later copies. Even early Third Age dates remain approximate because Caelum's people inherited several local calendars before establishing a common one.
 
 ## Population at a Glance
 
@@ -25,25 +23,17 @@ Known Saros holds approximately **300,000 inhabitants**. The number is a useful 
 
 | Time | Approximate Known Population | Demographic Character |
 | --- | ---: | --- |
-| Arrival, 0 CA | 8,000–10,000 | Nearly 1,000 Wanderers plus scattered surviving Sarosians |
-| 200 CA | 13,000–17,000 | Fortified farms and the first stable charter towns |
-| 600 CA | 35,000–50,000 | A connected realm exists; Caelum's reign ends |
-| 900 CA | 80,000–100,000 | Amaran institutions and southern trade expand |
-| 1,200 CA | 190,000–220,000 | Long-distance trade and settlement reach their broadest growth |
-| Present, about 1,400 CA | 280,000–320,000 | Working canon: approximately 300,000 |
+| Arrival, 0 CA | 8,000–11,000 | Nearly 1,000 Wanderers plus the communities they first encountered |
+| 70 CA | 20,000–30,000 | Roads, farms, and settlements reconnect previously isolated people |
+| 170 CA | 60,000–90,000 | Reclaimed ports, market towns, and trade corridors form a connected realm |
+| 250 CA | 120,000–170,000 | The Long Founding ends and Amara assumes the throne |
+| Present, about 425 CA | 280,000–320,000 | Working canon: approximately 300,000 |
 
-These figures describe long trends rather than smooth growth. Saros has repeatedly lost whole communities to famine, sickness, monsters, war, magical contamination, piracy, isolation, and failed roads.
+The rise in the known population is not explained by births alone. Caelum's administration counted existing Sarosian communities as roads reopened, settlements joined the charter network, and people moved toward defended towns. The actual population at 0 CA may already have been **20,000–35,000 or more**, but most of those people were outside the newcomers' knowledge.
 
-The Council's latest official count claims only **260,000–275,000** people. It badly undercounts:
+Growth has never been smooth. Saros repeatedly loses communities to famine, sickness, monsters, war, magical contamination, piracy, isolation, and failed roads. A settlement may flourish for a generation, vanish from Crown records, and be reclaimed again decades later.
 
-- Hidden elven communities
-- Sealed or private dwarven holds
-- Pirate settlements
-- Nomadic peoples
-- Remote islands and fishing camps
-- Unchartered villages
-- Communities that refuse Crown taxation
-- Travelers and displaced people between settlements
+The Council's latest official count claims only **260,000–275,000** people. It badly undercounts hidden elven communities, sealed dwarven holds, pirate settlements, nomadic peoples, remote islands, unchartered villages, and communities that refuse Crown taxation.
 
 ## People of Modern Saros
 
@@ -59,13 +49,11 @@ The following proportions are useful realm-wide estimates. Individual settlement
 | Other peoples | 9,000 | 3% |
 | **Total** | **300,000** | **100%** |
 
-These categories reflect census habits more than clean ancestry. Fourteen centuries of movement, alliance, adoption, and intermarriage make many local identities more important than census labels.
+These categories reflect census habits more than clean ancestry. Four centuries of movement, alliance, adoption, and intermarriage make many local identities more important than census labels.
 
 # First Age — The First Breaths
 
-No dependable continuous calendar survives from the First Age.
-
-Later traditions agree on only a broad sequence:
+No dependable continuous calendar survives from the First Age. Later traditions agree on only a broad sequence:
 
 - Dragons dominated the earliest remembered world.
 - Younger peoples existed but left few records that modern historians can date.
@@ -76,135 +64,104 @@ Later traditions agree on only a broad sequence:
 
 Modern historians call the era **The First Breaths** because nearly every people places its earliest origin stories somewhere within it. The name does not imply a single creation story.
 
-## What Survives
-
-- Dragon bones and structures too large for later builders
-- Glass fields with incompatible magical signatures
-- Fragments of prehumanoid or unidentifiable writing
-- Oral traditions preserved by elves, dwarves, and isolated communities
-- Relics that do not respond consistently to modern magic
-
-No population estimate is credible for this Age.
-
 # Second Age — The Great Tribulation
 
-The Second Age begins with the first humanoid civilizations that can be recognized in surviving Sarosian tradition. It ends with their political collapse before Caelum's Arrival.
+The Second Age begins with the first humanoid civilizations recognizable in surviving Sarosian tradition. It ends with their political collapse before Caelum's Arrival.
 
 ## Early Second Age
 
 - Human tribes established permanent farming settlements and river communities.
 - Elves discovered, mapped, and cultivated portions of the [[Fey-Lines]].
-- The [[Dun'gan]], remembered as the First Dwarves, explored deep mineral regions.
+- The [[Dun'eld]], remembered as the First Dwarves, explored deep mineral regions.
 - [[The Wandering]] produced new dwarven holds and the later clan traditions.
 - Magic spread faster than the customs needed to govern its use.
 - Regional rulers reused First Age sites without understanding all of them.
 
-## The Rise of Realms
+## The Rise and Collapse of Realms
 
-- Human kingdoms built roads, fortifications, burial grounds, and coastal settlements.
+- Human kingdoms built roads, fortifications, burial grounds, ports, and agricultural works.
 - The [[Storm Knights]] became a major military and learned order.
 - Elven domains withdrew behind guarded woodland borders as human wars intensified.
 - Dwarven delves expanded around mineral wealth and fey-line convergences.
-- Rival traditions of law, burial, oath, and sorcery hardened into political identities.
-- Trade linked regions that still possessed no single realm-wide government.
-
-## The Great Tribulation
-
-The final centuries produced overlapping disasters rather than one clean war.
-
-- Early human kingdoms fought with poorly constrained magic.
-- The Storm Knights rose, divided, and were destroyed.
+- Trade linked regions that possessed no single realm-wide government.
+- The final centuries produced overlapping magical wars and disasters rather than one clean conflict.
 - The dead later associated with [[Blackwater Bog]] accumulated in wars no surviving record fully explains.
 - The enormous burial complexes of [[The Urmong Barrows]] received soldiers, nobles, healers, weapons, and dangerous sealed remnants.
 - Dwarven wealth and secrecy deepened after [[The Great Betrayal]].
-- [[The Scattering]] drove the surviving [[Dun'armok]] houses toward [[The Glimmering Expanse]].
+- [[The Scattering]] drove the surviving [[Dun'armok]] houses toward the Glimmering Expanse.
 - Delves were sealed, abandoned, lost, or cut off from one another.
-- Elven populations withdrew from open political life.
 - Roads failed, fields reverted to wilderness, and surviving settlements became isolated.
 
 By the end of the Second Age, Saros contained people but no surviving network of human states. It was a land of hidden communities, ruined strongholds, scattered villages, and fragments of older knowledge.
 
 # Third Age — Caelum's Arrival
 
-## 0–120 CA — The Years of Gathering
+## 0–70 CA — The Gathering
 
-Caelum's wish brought approximately **900–1,000 Wanderers** from Mystara. They gradually encountered another **6,000–10,000 Sarosians** living in isolated communities.
+Caelum's wish brought approximately **900–1,000 Wanderers** from Mystara. They first encountered another **7,000–10,000 Sarosians** living in isolated communities, while many more remained unknown beyond the recovered roads.
 
 Caelum found a land without functioning nations, not a land without people.
-
-The survivors included:
-
-- Isolated farming clans
-- Hidden forest communities
-- Shepherd and herding groups
-- Monasteries preserving fragments of old knowledge
-- Refugees inside ruined fortresses
-- Fishing villages with little contact beyond their own bays
-- Families sheltering near Storm Knight tombs
-- Dwarves living outside sealed delves
-- Human communities that had forgotten the names of earlier kingdoms
 
 ### Major Developments
 
 - The Wanderers established fortified camps near reliable water and sheltered coasts.
 - Native crops were combined with imported agricultural methods.
-- Old roads were cleared in short, defensible sections.
-- [[Goslow]] began as a landing, fishing settlement, and supply concentration near [[Bishop's Bay]].
+- Old roads were cleared in short, defensible sections rather than built anew.
+- [[Goslow]] developed from an older landing, fishing settlement, and supply concentration near [[Bishop's Bay]].
+- The routes among Goslow, [[Kylor]], and [[Skaggerty]] were reconnected.
+- Abandoned or thinly occupied farmland was reclaimed around protected settlements.
 - Caelum negotiated, absorbed, allied with, and sometimes displaced existing communities.
 - Early arguments asked whether the newcomers were rescuers, conquerors, refugees, or invaders.
 - Mixed settlements developed shared law faster than they developed a shared identity.
-- Explorers vanished into old forests, delves, and ruins at a rate that discouraged rapid expansion.
 
 ### Population
 
-- At Arrival: approximately **8,000–10,000** known people, including newcomers and discovered survivors
-- By 120 CA: approximately **10,000–13,000**
+- At Arrival: approximately **8,000–11,000 known people**, including the newcomers and the survivors first encountered
+- Plausible actual population: **20,000–35,000 or more**
+- By 70 CA: approximately **20,000–30,000 connected and counted people**
 
 The earliest records are household lists and ration counts, not censuses.
 
-## 120–350 CA — The Chartering
+## 70–170 CA — The Reclamation
 
-Stable towns and local governments appeared. Caelum's influence spread along roads, rivers, ports, and negotiated charters rather than through complete control of the land between them.
+The modern realm began by reclaiming connections rather than founding a blank frontier. Towns, ferries, farms, and roads were repaired where Second Age foundations still offered water, defensible ground, or useful crossings.
 
 ### Major Developments
 
-- Goslow received its first durable walls and harbor rules.
-- [[Port Quartz]] became a permanent ferry and transfer point.
+- Goslow received durable walls and harbor rules.
+- [[Port Quartz]] became a permanent reclaimed ferry and transfer point.
+- [[Trystn]] emerged as a protected road and caravan center.
 - [[Kylor]] supplied timber, pitch, charcoal, boats, and building material.
-- [[Skaggerty]] and similar crossroads communities became grain markets protected by palisades.
-- Early market towns received written charters recognizing local offices and obligations.
+- [[Skaggerty]] became a grain market protected by palisades and surrounding farm settlements.
 - Standard coin weights and measures began to spread.
-- The earliest durable guilds formed around merchants, builders, sailors, and craftspeople.
+- Early guilds formed around merchants, builders, sailors, soldiers, and craftspeople.
 - Native Sarosian families entered the new civic and commercial elite.
-- Predecessor companies of [[The Aegis Legion]] guarded roads, stores, and expeditions.
+- Predecessor companies of [[The Aegis Legion]] guarded roads, stores, and reclamation expeditions.
 - Formal contact with [[Dun'zod]] holds reopened limited dwarven trade.
-- Local law remained more important than distant proclamations outside the principal routes.
 
 ### Population
 
-- Around 200 CA: **13,000–17,000**
-- By 350 CA: approximately **22,000–30,000**
+- By 170 CA: approximately **60,000–90,000**
 
-Growth came from safer harvests, the joining of previously uncounted communities, and movement toward defended settlements as much as from births.
+Much of this increase represents communities entering the connected realm rather than new people appearing within it.
 
-## 350–600 CA — The Long Founding
+## 170–250 CA — The Long Founding
 
 During the Long Founding, the political culture associated with modern Saros became dominant across the best-connected regions.
 
 ### Major Developments
 
-- [[The High Road]] linked Goslow to the royal height above Bishop's Bay.
-- [[Pyrris]] and the early works of [[The Radiant Citadel]] became the royal and administrative center.
-- Crown road, river, ferry, and salvage laws took recognizable form.
-- Southern expeditions founded new settlements or absorbed older ones into the charter network.
+- [[The High Road]] was reopened and fortified between Goslow and the royal height above Bishop's Bay.
+- [[Pyrris]] and the recovered works of [[The Radiant Citadel]] became the royal and administrative center.
+- Crown road, river, ferry, salvage, and charter laws took recognizable form.
+- [[The Aegis Legion]] became a recognizable realm-wide institution.
 - [[Albyrt]] and [[Isoltide]] grew around the twin-lake trade.
-- [[Soryn's Crossing]], [[Trystn]], and other freight centers became permanent market towns.
-- Guilds accumulated multigenerational records, privileges, and rivalries.
-- Commanders, towns, and merchants began the first major disputes over the limits of emergency authority.
-- Saros reused Second Age walls, cisterns, bridges, tomb roads, and foundations whenever repair was easier than new construction.
-- Dwarven and elven knowledge entered trade selectively and remained largely controlled by its keepers.
+- [[Soryn's Crossing]] and other freight centers became permanent market towns.
+- [[The Cast Lot]], [[The Scales]], and other durable organizations accumulated privileges and rivalries.
+- Commanders, towns, and merchants began major disputes over the limits of emergency authority.
+- Second Age walls, cisterns, bridges, tomb roads, and foundations were repaired wherever recovery was easier than new construction.
 
-### Caelum's End, about 600 CA
+### Caelum's End, circa 240 CA
 
 Near the close of this period, Caelum and [[Queen Amara|Amara]] took their former pupil [[Silas Voss]] to the frozen northern peak now called [[Caelum's End]]. It was their final attempt to turn him away from evil.
 
@@ -212,78 +169,40 @@ Near the close of this period, Caelum and [[Queen Amara|Amara]] took their forme
 - No one but Amara witnessed the end.
 - Caelum and Silas both went over the edge into the northern sea.
 - Amara returned alone.
-- Caelum did not return.
-- Neither man has been reliably seen since, and the fate of both remains unknown.
+- Neither man has been reliably seen since.
 - Amara assumed Caelum's throne in Pyrris.
 
 ### Population
 
-- By 600 CA: approximately **35,000–50,000**
+- By 250 CA: approximately **120,000–170,000**
 
-## 600–1,000 CA — The Early Amaran Peace
+## 250–425 CA — The Amaran Expansion and Fraying Peace
 
-Amara's early reign transformed a founder's network into a durable realm. “Peace” is relative: roads remained dangerous, towns fought, and entire districts could still disappear. The period was peaceful compared with what came before it.
+Amara inherited a connected but incomplete realm. Her reign regularized Caelum's network, pushed farther along recovered roads, and then slowly lost ground at its edges.
 
-### Major Developments
+### Expansion
 
-- [[The Aegis Legion]] became the principal realm-wide military institution.
-- The Crown recognized and regularized municipal charters.
 - [[The Queen's Council]] became the permanent machinery of finance, law, diplomacy, intelligence, military policy, and magical oversight.
-- Roads, bridges, mile markers, and signal systems were standardized along principal routes.
-- The southern lake cities became major population and trade centers.
+- Municipal charters and Legion responsibilities were regularized.
+- Roads, bridges, mile markers, ferry stations, and signals were standardized along principal routes.
 - [[Rore]] repeatedly resisted royal authority and developed its independent civic traditions.
 - [[The Black Circle]] spread as a decentralized answer to concentrated power and dangerous neglected places.
-- Guilds expanded between cities and began enforcing rules through reputation as well as law.
-- Monasteries, temples, and archives copied older records before more originals were lost.
-- Frontier settlements grew around forts, mines, ferries, forests, and reclaimed farmland.
-
-### Population
-
-- Around 900 CA: approximately **80,000–100,000**
-- By 1,000 CA: approximately **105,000–125,000**
-
-Population rose unevenly. Several local booms ended in plague, failed harvest, magical disaster, or abandonment.
-
-## 1,000–1,300 CA — The High Peace
-
-Most institutions considered “old” in modern daily life took their present form during the High Peace.
-
-### Major Developments
-
-- Goslow reached true city size and became the realm's commercial heart.
-- Merchant houses became multigenerational institutions.
-- Guild halls, temples, stone walls, mills, quays, courts, and civic monuments were built or rebuilt.
-- The Legion established much of its present fortress and patrol network.
-- Long-distance trade became routine enough for ordinary people to plan lives around it.
-- [[The Cast Lot]] linked its chartered halls into a realm-spanning banking network.
-- [[Port Quartz]] grew wealthy through ferries, storage, salvage, and northern goods.
+- Guilds expanded between cities and enforced rules through reputation as well as law.
+- The Cast Lot linked its halls into the realm's recognized banking network.
+- [[Port Quartz]] grew through ferries, storage, salvage, and northern goods.
 - [[Lilya]] expanded beneath [[The Silvervein Summits]].
 - [[Mysha]] became known for timber and halfling-grown [[Smoke Leaf]].
-- Exploration reclaimed some old sites as mines, monasteries, keeps, or roads.
-- Other expeditions opened dangers that required the same sites to be sealed again.
-- Crown law became predictable on the major roads without ever making the wilderness between them safe.
 
-### Population
+### The Fraying Peace
 
-- Around 1,200 CA: approximately **190,000–220,000**
-- By 1,300 CA: approximately **240,000–270,000**
-
-## 1,300 CA–Present — The Fraying Peace
-
-The system stopped expanding consistently and began spending more effort preserving what already existed.
-
-### Major Developments
-
-- Roads beyond the principal routes deteriorated.
+- The realm reached roughly its present inhabited extent rather than continuing unchecked expansion.
+- Secondary roads and settlements were repeatedly lost, reclaimed, and lost again.
 - Legion commanders assumed increasing local authority under claims of emergency.
 - Pirates and brigands became bolder as patrol coverage thinned.
 - Guilds withheld taxes, hired private guards, and enforced their own contracts.
 - The Black Circle accused the Council and Legion of abandoning old protections while expanding control.
-- Several settlements disappeared, failed, or became isolated.
 - Dangerous magic resurfaced in regions assumed to be stable.
-- The northern wilderness became harder to reach and less reliably mapped.
-- Amara withdrew increasingly from ordinary government.
-- Her disappearance transformed a slow institutional decline into an open crisis of legitimacy.
+- Amara withdrew increasingly from ordinary government and then disappeared.
 
 ### Population
 
@@ -293,26 +212,23 @@ The system stopped expanding consistently and began spending more effort preserv
 
 The Third Age has not officially ended. Later historians may decide that Amara's disappearance marked the beginning of a Fourth Age.
 
+# Reclamation as the Third Age Pattern
+
+Modern Saros is a young connected civilization living inside the remains of an ancient one.
+
+Caelum did not populate an empty continent. He connected people who were already here. Most present settlements stand on, beside, or inside Second Age sites chosen for the same reasons their predecessors chose them: water, defensible ground, fertile land, mineral access, crossings, and sheltered ports.
+
+In ordinary speech, Sarosians still say that a town was “founded.” Historical records distinguish among an older settlement's origin, its abandonment or isolation, its Third Age reclamation, and the date it received a modern charter.
+
+This layered history creates modern political disputes. Native families may claim rights older than the Crown, while charter holders claim authority through Caelum or Amara. A road the Legion calls a royal work may follow a Second Age causeway that local people maintained long before the Arrival.
+
 # How Modern Saros Is Settled
 
 Saros practices **nucleated settlement**. People cluster behind walls, palisades, watch posts, and old stone rather than living evenly across the countryside.
 
-A typical agricultural community has:
+A typical agricultural community has 200–500 residents, a palisade or repaired older wall, a communal granary, a signal tower, fields within reach of shelter, a local ward or shrine, a militia, and one maintained road toward a market town.
 
-- 200–500 residents
-- A palisade or repaired older wall
-- A communal granary
-- A watchtower, bell, or signal fire
-- Fields extending one or two miles from shelter
-- A temple, shrine, or local ward
-- A militia of 20–60 adults
-- One maintained road toward a market town
-
-Farmers leave the walls to work during daylight and return before dark. Isolated farms exist, but they are risky and often short-lived.
-
-## Present Distribution
-
-The currently named settlements in [[Major Cities, Towns, and Ports]] account for approximately **73,600** permanent residents, including the Dun'zod stronghold of [[Dun Karag]]. The rest live in places too small, hidden, mobile, contested, or numerous for the continental map.
+The currently named settlements in [[Major Cities, Towns, and Ports]] account for approximately **73,600** permanent residents, including the [[Dun'zod]] stronghold of [[Dun Karag]]. The rest live in places too small, hidden, mobile, contested, or numerous for the continental map.
 
 | Settlement Pattern | Approximate Population |
 | --- | ---: |
@@ -322,95 +238,21 @@ The currently named settlements in [[Major Cities, Towns, and Ports]] account fo
 | Hidden enclaves, delves, pirate ports, nomads, islands, and remote camps | 30,000 |
 | **Working total** | **300,000** |
 
-These numbers are deliberately approximate. Seasonal workers, sailors, soldiers, pilgrims, caravans, refugees, and uncounted communities constantly blur the categories.
+# Why Four Centuries Produced a Layered Realm
 
-## Why Goslow Dominates
+Four centuries were enough for cities, guilds, regional identities, legal traditions, grudges, and repeated cycles of prosperity because the Third Age did not begin from nothing. Its people recovered farms, masonry, routes, waterworks, and knowledge from the civilizations before them.
 
-[[Goslow]] supports about **14,000 permanent residents**, making it the largest city in Saros.
+The realm still did not expand without limit. Safe farmland clusters around protected settlements; monsters recolonize abandoned territory; old magical contamination ruins promising regions; roads require constant patrol and repair; piracy and weather threaten water routes; and recovered structures are often easier to reuse than new infrastructure is to build.
 
-It can hold that population because:
-
-- Many central buildings have two floors.
-- Families live above workshops and businesses.
-- Several buildings contain multiple households.
-- Sailors and laborers use boarding houses.
-- Wealthier properties include servants and extended families.
-- Warehouses and civic buildings occupy much of the waterfront.
-- Its harbor gathers food and material from a broad trade network.
-
-Goslow is not surrounded by one enormous rural district. It consumes the output of many independent communities:
-
-- Grain from [[Skaggerty]]'s wider agricultural belt, [[Trystn]], and southern routes
-- Fresh and preserved seafood from [[Bishop's Bay]], [[Kylor]], and coastal settlements
-- Timber, pitch, and charcoal from Kylor
-- Northern goods through Port Quartz
-- Livestock driven along guarded roads
-- Coastal shipments from southern Saros
-- Royal supply contracts bound for Pyrris
-
-Its ordinary daytime population may reach 15,000–17,000. Fairs, festivals, or fleet gatherings can push the number higher.
-
-The canonical route, freight, food-demand, and settlement-distance model is maintained in [[Saros - Distances, Travel, Trade, and Population]].
-
-## Why Pyrris Is Called a City
-
-[[Pyrris]] has only about **1,100 permanent residents**. It is a city by charter, history, and function rather than size.
-
-Its population chiefly supports:
-
-- The Citadel household and maintenance works
-- Legion guards and officers
-- Scribes, judges, clerks, and royal officials
-- Diplomats and council attendants
-- Priests, scholars, and magical specialists
-- Inns, stables, licensed merchants, and dependent families
-
-Large cisterns, royal granaries, the [[The High Road|High Road]], and lifting works above Bishop's Bay make the fortress-city possible. Hearings, festivals, and crises can temporarily raise its population to 2,000–3,000.
-
-# Why Fourteen Centuries Did Not Fill the Map
-
-Fourteen centuries allowed Saros to develop cities, guilds, regional identities, legal traditions, architectural layers, grudges, and repeated cycles of prosperity. It did not produce uninterrupted expansion.
-
-Growth repeatedly strikes limits:
-
-- Safe farmland clusters around protected settlements.
-- Monsters recolonize abandoned territory.
-- Old magical contamination ruins promising regions.
-- Major roads require constant patrol and repair.
-- Sea and river trade face piracy, weather, and creatures.
-- Plague, famine, war, and monster incursions erase local population booms.
-- Dwarven and elven knowledge is deliberately controlled.
-- Guilds hoard technical knowledge that protects their influence.
-- Magic replaces some technologies without becoming broadly available.
-- Recovered ancient structures are easier to reuse than new infrastructure is to build.
-- Amara's extremely long reign encouraged legal and technical conservatism.
-- The Council often preferred a manageable chain of towns over uncontrolled settlement.
-
-A modern city therefore contains layers rather than steady progress: Second Age foundations, Third Age sewers, a five-hundred-year-old wall, a newly rebuilt guildhall, and homes standing over an unexplored ruin.
-
-# The Six-Century Question
-
-If Caelum arrived around 0 CA and fell at Caelum's End around 600 CA, the human founder lived for roughly six centuries after Caelum's Arrival.
-
-Sarosian scholars offer several explanations:
-
-- The wish bound Caelum's life to the survival of the Wanderers.
-- He gave up the source of immortality but retained centuries already taken from time.
-- Passage from Mystara altered time for some original arrivals.
-- A powerful artifact sustained him until it was lost or surrendered.
-- Early chroniclers combined more than one event under a single reign.
-
-The strongest court tradition says the wish would not release Caelum until his people were secure. In that reading, his fall marks the moment the refugee colony became Amara's kingdom.
-
-No surviving public record proves the explanation. The extraordinary lifespan is established history; its cause remains lore, faith, and political argument.
+A modern city therefore contains layers: Second Age foundations, early Third Age repairs, a century-old charter wall, a newly rebuilt guildhall, and homes standing over an unexplored ruin.
 
 # Working Canon Summary
 
-- Caelum's wish brought nearly one thousand Wanderers to Saros about fourteen centuries ago.
-- They found no surviving open kingdoms, but they did find several thousand Sarosians in isolated communities.
-- The combined population grew through alliance, consolidation, migration, and ordinary generations.
-- Modern Saros has roughly 300,000 inhabitants.
-- Goslow, at about 14,000, is its largest city and commercial center.
-- Pyrris, at about 1,100, is a fortress-capital sustained by Goslow and royal infrastructure.
-- About three quarters of Sarosians live outside the named map settlements.
-- Civilization survives as defended concentrations connected by narrow roads through much older wilderness.
+- Caelum's wish brought nearly one thousand Wanderers to Saros at **0 CA**, about **425 years** before the present.
+- The newcomers initially knew of roughly **7,000–10,000** surviving Sarosians, while the real population was probably much larger.
+- Caelum connected and reclaimed an ancient inhabited landscape; he did not create civilization in an empty land.
+- The first seventy years were the Gathering, followed by a century of Reclamation and the Long Founding.
+- Caelum disappeared at [[Caelum's End]] circa **240 CA**; Amara has ruled for roughly **185 years**.
+- The realm now contains approximately **300,000 people**, but most live outside the major named settlements.
+- Roads and settlements can be reclaimed, lost, and reclaimed again. Civilization advances and retreats rather than moving in one direction.
+- The canonical route, freight, food-demand, and settlement-distance model remains in [[Saros - Distances, Travel, Trade, and Population]].

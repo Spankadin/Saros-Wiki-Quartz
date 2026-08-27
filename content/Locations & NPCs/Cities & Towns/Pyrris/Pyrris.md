@@ -2,6 +2,7 @@
 title: Pyrris
 ccType: region
 ccId: region-pyrris
+ccLabel: Towns
 aliases: []
 tags:
 - Region
@@ -9,7 +10,7 @@ tags:
 - City
 - Capital
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "71.109"
 Government: The Crown of Saros
 Leader: "[[Queen Amara]]"
@@ -85,11 +86,12 @@ The city's small permanent population means the capital functions more like an e
 
 #### NPCs Found Here
 
-| NPC                                                                                             | Race     | Building                                                                                         | Factions                                                                                                                                                          |
+| NPC                                                                                             | Race     | Location                                                                                         | Factions                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Ambassador Skylark.md\|Ambassador Skylark]]       | Elf      | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
 | [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Archmage Starweaver.md\|Archmage Starweaver]]     | Elf      | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
 | [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/General Ironclad.md\|General Ironclad]]           | Human    | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/Stonepeak.md\|Stonepeak]]                     | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]], [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |
 | [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Gormley.md\|Gormley]]                             | Halfling | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] |                                                                                                                                                                   |
 | [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Lord Goldhaven.md\|Lord Goldhaven]]               | Human    | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Queen Amara.md\|Queen Amara]]                     | Elf      | -                                                                                               | [[Factions & Clans/The Crown of Saros.md\|The Crown of Saros]]                                                                                                    |
 | [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Spymaster Shadowcloak.md\|Spymaster Shadowcloak]] | Drow     | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] | [[Factions & Clans/The Queen's Council/The Queen's Council.md\|The Queen's Council]]                                                                              |

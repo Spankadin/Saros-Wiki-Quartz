@@ -1,12 +1,15 @@
 ---
-publish: true
 title: Rootwheel Mill
-created: 2026-08-08T11:56:33.545Z
-modified: 2026-08-17T11:47:40.057Z
+ccType: location
+ccId: location-rootwheel-mill
+aliases: []
 tags:
-  - Building
-  - Industrial
-  - Published
+- Building
+- Industrial
+- Published
+Region: "[[Mysha]]"
+Hex: "92.167"
+share: true
 ---
 
 [[Rootwheel Mill]] is the largest sawmill in [[Mysha]], driven by a heavy river wheel and surrounded by log booms. Much of the town's commercial timber passes through the mill before continuing downstream.

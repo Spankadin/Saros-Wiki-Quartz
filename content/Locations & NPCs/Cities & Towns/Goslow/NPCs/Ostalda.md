@@ -1,18 +1,11 @@
 ---
+publish: true
 title: Ostalda
-ccType: npc
-ccId: npc-ostalda
-Race: Half-Elf
-aliases: []
+created: 2025-02-04T02:45:10.437Z
+modified: 2026-08-25T14:53:08.579Z
 tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[Temple of Torm]]"
-Faction: []
-Role: Resident Sage
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Ostalda]] is the resident sage at [[Temple of Torm]] in [[Goslow]].
@@ -25,7 +18,13 @@ Ostalda is a dark-haired half-elf whose skin has developed a noticeable blue cas
 
 The effect has become so associated with her that strangers occasionally assume it is natural.
 
-## Work
+## Personality
+
+_Not yet established._
+
+## Role
+
+### Work
 
 Ostalda studies:
 
@@ -40,6 +39,16 @@ She is not a convenient source of perfect answers.
 
 Her value lies in recognizing patterns and identifying when an apparently isolated event resembles something older.
 
-## Korth
+## Reputation
+
+_Not yet established._
+
+## Relationships
+
+### Korth
 
 She works closely with [[Korth]], though she has learned to continue reading while he sleeps through portions of their conversations.
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

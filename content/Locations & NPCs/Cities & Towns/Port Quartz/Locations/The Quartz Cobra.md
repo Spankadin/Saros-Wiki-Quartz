@@ -1,7 +1,7 @@
 ---
 title: The Quartz Cobra
-ccType: entry
-ccId: entry-the-quartz-cobra
+ccType: location
+ccId: location-the-quartz-cobra
 aliases:
 - Quartz Cobra
 tags:

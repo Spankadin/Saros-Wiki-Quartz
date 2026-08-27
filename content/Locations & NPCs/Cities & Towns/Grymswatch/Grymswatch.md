@@ -2,13 +2,14 @@
 title: Grymswatch
 ccType: region
 ccId: region-grymswatch
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Port
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "133.179"
 Government: Military Charter
 Leader: "[[Admiral Thainan]]"
@@ -72,7 +73,7 @@ There is no dependable land route between the two settlements. An overland attem
 
 #### NPCs Found Here
 
-| NPC                                                                                     | Race  | Building                                                                             | Factions                                                                    |
+| NPC                                                                                     | Race  | Location                                                                             | Factions                                                                    |
 | --------------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
 | [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Admiral Thainan.md\|Admiral Thainan]] | Human | [[Locations & NPCs/Cities & Towns/Grymswatch/Locations/Mira's Wall.md\|Mira's Wall]] | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |
 | [[Locations & NPCs/Cities & Towns/Grymswatch/NPCs/Festin Dontel.md\|Festin Dontel]]     | Human | [[Locations & NPCs/Cities & Towns/Grymswatch/Locations/Mira's Wall.md\|Mira's Wall]] | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |

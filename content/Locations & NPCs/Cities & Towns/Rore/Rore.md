@@ -2,13 +2,14 @@
 title: Rore
 ccType: region
 ccId: region-rore
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - City
 - Port
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "132.101"
 Government: "[[The Cast Lot|House Table]]"
 Leader: "[[Cassia Rook]]"
@@ -86,7 +87,7 @@ Violence that interferes with business is punished quickly. Violence between peo
 
 #### NPCs Found Here
 
-| NPC                                                                       | Race     | Building                                                                                 | Factions                                                        |
+| NPC                                                                       | Race     | Location                                                                                 | Factions                                                        |
 | ------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | [[Locations & NPCs/Cities & Towns/Rore/NPCs/Cassia Rook.md\|Cassia Rook]] | Human    | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Crowned Die.md\|The Crowned Die]]   | [[Factions & Clans/The Cast Lot/The Cast Lot.md\|The Cast Lot]] |
 | [[Locations & NPCs/Cities & Towns/Rore/NPCs/Nessa Crowe.md\|Nessa Crowe]] | Human    | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Black Ledger.md\|The Black Ledger]] |                                                                 |

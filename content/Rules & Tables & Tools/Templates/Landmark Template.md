@@ -2,7 +2,7 @@
 publish: true
 title: Landmark Template
 created: 2026-08-08T11:56:34.538Z
-modified: 2026-08-21T10:40:41.622Z
+modified: 2026-08-26T06:10:34.287Z
 tags:
   - Landmark
   - Published
@@ -18,4 +18,4 @@ Describe where it lies and how people approach or cross it.
 
 Explain what nearby people use it for or believe about it.
 
-> Landmarks intentionally use `ccType: entry` and the `Landmark` tag. They should **not** use the `Location` tag, which keeps them out of location-specific Dataview tables.
+Use `ccType: location` for a specific landmark people can visit. Use `ccType: region` instead when the note represents broad geography such as a sea, mountain range, forest, desert, or long road corridor. The ordinary `Landmark` tag remains useful in both cases.

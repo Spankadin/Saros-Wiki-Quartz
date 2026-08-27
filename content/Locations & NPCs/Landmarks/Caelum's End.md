@@ -1,14 +1,14 @@
 ---
 title: Caelum's End
-ccType: entry
-ccId: entry-caelums-end
+ccType: location
+ccId: location-caelums-end
 aliases:
 - Caelums End
 tags:
 - Landmark
 - Historical
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+Region: "[[Realm of Saros|Saros]]"
 Hex: "47.61"
 LandmarkType: Frozen Peak
 share: true

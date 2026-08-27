@@ -1,7 +1,7 @@
 ---
 title: The Stout Fool
-ccType: entry
-ccId: entry-the-stout-fool
+ccType: location
+ccId: location-the-stout-fool
 aliases:
 - The Stout Fool
 tags:

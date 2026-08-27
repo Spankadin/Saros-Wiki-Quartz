@@ -5,7 +5,7 @@ aliases:
   - The Circle
 title: The Black Circle
 created: 2024-08-22T01:20:15.624Z
-modified: 2026-08-22T06:48:20.108Z
+modified: 2026-08-25T09:16:43.926Z
 tags:
   - Faction
   - Published
@@ -84,6 +84,6 @@ Both sides can point to real examples supporting their view.
 
 #### Known NPCs
 
-| Name                                                             | Race  | Location               | Building |
-| ---------------------------------------------------------------- | ----- | ---------------------- | -------- |
-| [[Factions & Clans/The Black Circle/NPCs/Clarissa.md\|Clarissa]] | Human | [[Skaggerty]] (Region) | -       |
+| Name                                                             | Race  | Region | Location |
+| ---------------------------------------------------------------- | ----- | ------ | -------- |
+| [[Factions & Clans/The Black Circle/NPCs/Clarissa.md\|Clarissa]] | Human | -     | -       |

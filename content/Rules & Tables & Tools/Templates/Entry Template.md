@@ -2,17 +2,17 @@
 publish: true
 title: Entry Template
 created: 2026-08-08T11:56:34.528Z
-modified: 2026-08-21T10:24:26.215Z
+modified: 2026-08-26T06:10:30.108Z
 tags:
-  - Building
+  - Entry
   - Published
 ---
 
-A public description of this building, business, civic work, ship, market, shrine, or point of interest.
+A public description of a leaf record inside a Location or Region: a room, service counter, memorial, shop department, notable object, or other detail that does not need to contain further places.
 
 ## Purpose
 
-What does this place do, and why is it here?
+What does this entry do, and why is it here?
 
 ## People
 

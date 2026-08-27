@@ -1,25 +1,35 @@
 ---
+publish: true
 title: Heldoren The Wise
-ccType: npc
-ccId: npc-heldoren-the-wise
-Race: Human
-aliases: []
+created: 2024-12-24T01:34:41.114Z
+modified: 2026-08-25T14:53:08.597Z
 tags:
-- NPC
-- Sage
-- Published
-Location: "[[Skaggerty]]"
-Building: "[[Temple of Austerus]]"
-Faction: []
-ccAssociates: []
-share: true
+  - NPC
+  - Sage
+  - Published
 ---
 
 [[Heldoren The Wise]] is the high priest of [[Temple of Austerus]] in [[Skaggerty]].
 
 He is an elderly, withered human, short and bent so severely by age that his cane seems to carry almost as much of him as his legs do.
 
-## Duties
+## Appearance
+
+_Not yet established._
+
+## Personality
+
+Heldoren moves slowly and speaks carefully.
+
+He dislikes being hurried by travelers who have already spent several days creating a problem and suddenly require an answer before sunset.
+
+His title “The Wise” began half as affection and half as a joke.
+
+He has lived long enough that the distinction no longer matters.
+
+## Role
+
+### Duties
 
 Skaggerty is too small to support separate specialists for every civic need.
 
@@ -34,12 +44,14 @@ People come to him for:
 - Help reading older texts
 - Mediation when a problem is too personal for the village council
 
-## Personality
+## Reputation
 
-Heldoren moves slowly and speaks carefully.
+_Not yet established._
 
-He dislikes being hurried by travelers who have already spent several days creating a problem and suddenly require an answer before sunset.
+## Relationships
 
-His title “The Wise” began half as affection and half as a joke.
+_No additional structured relationship is currently recorded._
 
-He has lived long enough that the distinction no longer matters.
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

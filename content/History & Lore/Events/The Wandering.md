@@ -1,18 +1,18 @@
 ---
-title: The Wandering
-ccType: entry
-ccId: entry-the-wandering
+publish: true
 aliases:
-- Wandering
-- The Great Wandering
+  - Wandering
+  - The Great Wandering
+title: The Wandering
+created: 2025-02-15T10:12:06.633Z
+modified: 2026-08-26T06:26:42.697Z
 tags:
-- History
-- Dwarves
-- Published
-share: true
+  - History
+  - Dwarves
+  - Published
 ---
 
-[[The Wandering]] is the traditional name for the era when the earliest remembered dwarves, the [[Dun'gan]], spread outward to chart and settle the deeper places of [[A Brief Saros History|Saros]].
+[[The Wandering]] is the traditional name for the era when the earliest remembered dwarves, the [[Dun'eld]], spread outward to chart and settle the deeper places of [[A Brief Saros History|Saros]].
 
 ## Expansion
 
@@ -22,7 +22,7 @@ Families and expedition groups began settling near the most promising sites.
 
 Over generations, those settlements developed distinct customs, specialties, and identities.
 
-The old Dun'gan identity gradually gave way to the [[Dwarven Clans]] remembered today.
+The old Dun'eld identity gradually gave way to the [[Dwarven Clans]] remembered today.
 
 ## Delves
 

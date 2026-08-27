@@ -1,25 +1,36 @@
 ---
+publish: true
 title: Hob
-ccType: npc
-ccId: npc-hob
-Race: Elemental
-aliases: []
+created: 2025-02-06T09:22:08.559Z
+modified: 2026-08-25T14:53:08.574Z
 tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[The Toad]]"
-Faction: []
-Role: Bouncer and Cleaner
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Hob]] is an eight-foot-tall water elemental bound to [[The Toad]] in [[Goslow]].
 
 He works as cleaner, servant, and bouncer.
 
-## Work
+## Appearance
+
+_Not yet established._
+
+## Personality
+
+### Nature
+
+Hob does not appear to possess ordinary human desires or ambitions.
+
+He is a magical construct or bound elemental tied directly to the premises. If forced beyond the limits of The Toad, his form collapses into ordinary water.
+
+Regular customers have learned that arguing with Hob is useless.
+
+Arguing with Gerdga about why Hob threw someone out is only slightly more productive.
+
+## Role
+
+### Work
 
 At [[Gerdga]]'s instruction, Hob can:
 
@@ -31,12 +42,14 @@ At [[Gerdga]]'s instruction, Hob can:
 
 Despite being made of water, he leaves remarkably little moisture behind unless he intends to.
 
-## Nature
+## Reputation
 
-Hob does not appear to possess ordinary human desires or ambitions.
+_Not yet established._
 
-He is a magical construct or bound elemental tied directly to the premises. If forced beyond the limits of The Toad, his form collapses into ordinary water.
+## Relationships
 
-Regular customers have learned that arguing with Hob is useless.
+_No additional structured relationship is currently recorded._
 
-Arguing with Gerdga about why Hob threw someone out is only slightly more productive.
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

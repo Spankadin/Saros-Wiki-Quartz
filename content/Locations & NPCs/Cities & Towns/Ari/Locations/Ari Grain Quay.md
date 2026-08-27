@@ -1,7 +1,7 @@
 ---
 title: Ari Grain Quay
-ccType: entry
-ccId: entry-ari-grain-quay
+ccType: location
+ccId: location-ari-grain-quay
 aliases: []
 tags:
 - Landmark

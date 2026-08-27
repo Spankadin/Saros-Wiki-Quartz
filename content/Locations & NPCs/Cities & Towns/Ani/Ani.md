@@ -2,13 +2,14 @@
 title: Ani
 ccType: region
 ccId: region-ani
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Port
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "59.153"
 Government: March Charter
 Leader: "[[Captain Lysa Dorn]]"
@@ -71,6 +72,6 @@ Ani has strong walls for its size, layered gates, coastal patrols, and watch tow
 
 #### NPCs Found Here
 
-| NPC                                                                                  | Race  | Building                                                                            | Factions                                                                    |
+| NPC                                                                                  | Race  | Location                                                                            | Factions                                                                    |
 | ------------------------------------------------------------------------------------ | ----- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [[Locations & NPCs/Cities & Towns/Ani/NPCs/Captain Lysa Dorn.md\|Captain Lysa Dorn]] | Human | [[Locations & NPCs/Cities & Towns/Ani/Locations/Ani Watchhouse.md\|Ani Watchhouse]] | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |

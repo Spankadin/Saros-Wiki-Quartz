@@ -1,7 +1,7 @@
 ---
 title: The Last Lantern
-ccType: entry
-ccId: entry-the-last-lantern
+ccType: location
+ccId: location-the-last-lantern
 aliases: []
 tags:
 - Building

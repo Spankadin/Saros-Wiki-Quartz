@@ -1,13 +1,16 @@
 ---
-publish: true
 title: The Fourty Knights
-created: 2025-02-10T08:23:56.515Z
-modified: 2026-08-19T09:03:06.958Z
+ccType: location
+ccId: location-the-fourty-knights
+aliases: []
 tags:
-  - Building
-  - Tavern
-  - Inn
-  - Published
+- Building
+- Tavern
+- Inn
+- Published
+Region: "[[Port Quartz]]"
+Hex: "79.96"
+share: true
 ---
 
 [[The Fourty Knights]] is the largest tavern and inn in [[Port Quartz]], standing close enough to the docks that river crews can hear its busiest nights from the water.

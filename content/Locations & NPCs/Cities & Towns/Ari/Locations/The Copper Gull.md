@@ -1,7 +1,7 @@
 ---
 title: The Copper Gull
-ccType: entry
-ccId: entry-the-copper-gull
+ccType: location
+ccId: location-the-copper-gull
 aliases: []
 tags:
 - Building

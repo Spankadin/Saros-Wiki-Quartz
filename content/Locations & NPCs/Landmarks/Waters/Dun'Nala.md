@@ -1,7 +1,7 @@
 ---
 title: Dun'Nala
-ccType: entry
-ccId: entry-dun-nala
+ccType: region
+ccId: region-dun-nala
 aliases:
 - The Dun'Nala
 tags: [Landmark, Water, River, Published]

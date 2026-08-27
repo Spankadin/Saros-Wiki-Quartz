@@ -1,7 +1,7 @@
 ---
 title: The High Road
-ccType: entry
-ccId: entry-the-high-road
+ccType: region
+ccId: region-the-high-road
 aliases:
 - High Road
 tags:

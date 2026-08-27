@@ -1,7 +1,7 @@
 ---
 title: The Silver Drake
-ccType: entry
-ccId: entry-the-silver-drake
+ccType: location
+ccId: location-the-silver-drake
 aliases: []
 tags:
 - Building

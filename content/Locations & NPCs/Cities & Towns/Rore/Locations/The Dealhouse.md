@@ -1,7 +1,7 @@
 ---
 title: The Dealhouse
-ccType: entry
-ccId: entry-the-dealhouse
+ccType: location
+ccId: location-the-dealhouse
 aliases:
 - Dealhouse
 tags:

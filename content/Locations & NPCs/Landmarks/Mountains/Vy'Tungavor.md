@@ -1,14 +1,14 @@
 ---
 title: Vy'Tungavor
-ccType: entry
-ccId: entry-vytungavor
+ccType: region
+ccId: region-vytungavor
 aliases:
 - Vytungavor
 tags:
 - Landmark
 - Mountain
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "Multiple (southeastern Saros)"
 LandmarkType: Mountain Region
 share: true

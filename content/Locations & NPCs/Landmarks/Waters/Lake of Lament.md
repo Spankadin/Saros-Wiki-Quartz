@@ -1,7 +1,7 @@
 ---
 title: Lake of Lament
-ccType: entry
-ccId: entry-lake-of-lament
+ccType: region
+ccId: region-lake-of-lament
 aliases:
 - The Lake of Lament
 tags:

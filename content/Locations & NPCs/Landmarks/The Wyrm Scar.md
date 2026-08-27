@@ -1,7 +1,7 @@
 ---
 title: The Wyrm Scar
-ccType: entry
-ccId: entry-the-wyrm-scar
+ccType: region
+ccId: region-the-wyrm-scar
 aliases:
 - The Scar
 - Wyrm Scar
@@ -9,7 +9,7 @@ tags:
 - Landmark
 - Canyon
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "Multiple (central Saros)"
 LandmarkType: Canyon
 share: true

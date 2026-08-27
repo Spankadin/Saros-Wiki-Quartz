@@ -1,7 +1,7 @@
 ---
 title: Surveyors' Step
-ccType: entry
-ccId: entry-surveyors-step
+ccType: region
+ccId: region-surveyors-step
 aliases: []
 tags:
 - Landmark

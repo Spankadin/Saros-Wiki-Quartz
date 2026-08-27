@@ -2,7 +2,7 @@
 publish: true
 title: Derran Pike
 created: 2026-08-07T06:36:23.834Z
-modified: 2026-08-08T11:56:14.298Z
+modified: 2026-08-26T06:36:41.121Z
 tags:
   - NPC
   - Published
@@ -16,6 +16,28 @@ Derran values the [[The Aegis Legion|Aegis Legion]] when something dangerous com
 
 He judges most policy by one question: will it keep the camps supplied through winter?
 
-## Manner
+## Appearance
+
+_Not yet established._
+
+## Personality
+
+### Manner
 
 Derran speaks like a working harbor man even in council meetings. He values people who can explain the practical cost of a proposal and distrusts policies built entirely from maps drawn in warmer offices.
+
+## Role
+
+_Not yet established._
+
+## Reputation
+
+_Not yet established._
+
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

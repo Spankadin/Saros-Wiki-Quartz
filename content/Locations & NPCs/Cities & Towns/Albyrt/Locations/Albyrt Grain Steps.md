@@ -1,7 +1,7 @@
 ---
 title: Albyrt Grain Steps
-ccType: entry
-ccId: entry-albyrt-grain-steps
+ccType: location
+ccId: location-albyrt-grain-steps
 aliases: []
 tags:
 - Landmark

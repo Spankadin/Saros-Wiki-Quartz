@@ -1,15 +1,15 @@
 ---
-title: About Saros
-description: Creator attribution, ownership, and site-curation information for the realm of Saros.
+publish: true
 aliases:
   - Saros Attribution
   - Creator of Saros
+title: About Saros
+description: Creator attribution, ownership, and site-curation information for the realm of Saros.
+created: 2026-08-15T23:11:41.228Z
+modified: 2026-08-22T18:46:24.913Z
 tags:
   - Published
   - About
-ccType: entry
-ccId: entry-about-saros
-share: true
 ---
 
 Saros is an original fantasy campaign setting created and owned by **James McBroom**.

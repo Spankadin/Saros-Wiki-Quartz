@@ -1,34 +1,36 @@
 ---
-title: Silas Voss
-ccType: npc
-ccId: npc-silas-voss
-Race: Human
+publish: true
 aliases:
-- Silas
+  - Silas
+title: Silas Voss
+created: 2025-01-28T10:26:12.658Z
+modified: 2026-08-25T14:53:08.556Z
 tags:
-- NPC
-- Published
-Location: Unknown
-Faction:
-- "[[The Prism]]"
-ccAssociates:
-- "[[Caelum]]"
-- "[[Queen Amara]]"
-- "[[Malgrim Darkshade]]"
-share: true
+  - NPC
+  - Published
 ---
 
 [[Silas Voss]] is a human wizard tied to both the destruction that preceded [[Caelum]]'s Arrival and the modern cult called [[The Prism]]. His current fate is unknown.
 
 He was once a student of Caelum and [[Queen Amara|Amara]].
 
-## Mystara
+## Appearance
+
+_Not yet established._
+
+## Personality
+
+_Not yet established._
+
+## Role
+
+### Mystara
 
 By the time Caelum and Amara understood the scale of Silas's ambitions, he had already begun dangerous work involving the outer planes and immortality.
 
 Later Sarosian accounts blame those experiments for helping create the catastrophe from which Caelum's people fled.
 
-## Immortality
+### Immortality
 
 Silas is believed to have achieved a form of immortality at a terrible cost.
 
@@ -38,7 +40,7 @@ Stories say it severed him from ordinary joy, affection, and other positive feel
 
 Whether every detail of that description is literally true is impossible to verify.
 
-## The Prism
+### The Prism
 
 Silas is associated with the search for a Multi-Chromatic Dragon's egg.
 
@@ -46,7 +48,7 @@ The cult believes such a dragon can grant a wish to the first being it sees afte
 
 A wish powerful enough to alter an immortal curse would explain Silas's interest.
 
-## Caelum's End
+### Caelum's End
 
 Roughly eight hundred years ago, [[Caelum]] and [[Queen Amara|Amara]] made a final attempt at the northern peak now called [[Caelum's End]] to bring their former pupil back from the brink of evil.
 
@@ -59,3 +61,15 @@ Amara has never given a complete public account of what caused the fall.
 Most Sarosians believe master and pupil fought their way to the end of the world and dragged one another over the cliffs. Court histories preserve Amara's claim that the journey began as a final attempt at redemption.
 
 The Prism nevertheless continues to recognize Silas as its true leader. Its members believe the recovery of the Multi-Chromatic Dragon's egg will cause his return, remove his curse, and permit him to claim the throne. The prophecy is evidence of Prism belief, not of Silas's survival.
+
+## Reputation
+
+_Not yet established._
+
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

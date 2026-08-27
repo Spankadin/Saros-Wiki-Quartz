@@ -2,7 +2,7 @@
 publish: true
 title: Oren Bale
 created: 2026-08-07T03:53:05.613Z
-modified: 2026-08-08T11:56:14.983Z
+modified: 2026-08-26T06:36:44.345Z
 tags:
   - NPC
   - Published
@@ -12,13 +12,19 @@ tags:
 
 He is responsible for deciding when wagons, animals, passengers, and expedition parties can safely cross the main river.
 
+## Appearance
+
+_Not yet established._
+
 ## Personality
 
 Oren is patient with fear and impatient with bravado.
 
 People who admit they do not know the river receive advice. People who insist the river cannot possibly be as dangerous as everyone says receive much shorter advice.
 
-## Knowledge
+## Role
+
+### Knowledge
 
 Oren knows:
 
@@ -31,3 +37,15 @@ Oren knows:
 He has not personally traveled deep into [[The Masys Mountains]], and he does not pretend otherwise.
 
 > “Once the river is behind you, every trail is somebody’s guess.”
+
+## Reputation
+
+_Not yet established._
+
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

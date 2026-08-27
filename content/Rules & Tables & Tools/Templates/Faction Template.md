@@ -2,7 +2,7 @@
 publish: true
 title: Faction Template
 created: 2026-08-08T11:56:34.533Z
-modified: 2026-08-21T10:24:23.614Z
+modified: 2026-08-26T06:10:31.639Z
 tags:
   - Faction
   - Published
@@ -18,11 +18,7 @@ Explain leadership, membership, and internal structure.
 
 Explain how ordinary people, rivals, and the Crown tend to view the faction.
 
-<!-- foundry-ignore-start -->
-
 #### Known NPCs
 
-| Name | Race | Location | Building |
-| ---- | ---- | -------- | -------- |
-
-<!-- foundry-ignore-end -->
+| Name | Race | Region | Location |
+| ---- | ---- | ------ | -------- |

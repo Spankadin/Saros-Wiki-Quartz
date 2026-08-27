@@ -1,7 +1,7 @@
 ---
 title: Westlake Ferry Hall
-ccType: entry
-ccId: entry-westlake-ferry-hall
+ccType: location
+ccId: location-westlake-ferry-hall
 aliases: []
 tags:
 - Building

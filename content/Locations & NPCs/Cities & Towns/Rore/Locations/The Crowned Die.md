@@ -1,7 +1,7 @@
 ---
 title: The Crowned Die
-ccType: entry
-ccId: entry-the-crowned-die
+ccType: location
+ccId: location-the-crowned-die
 aliases: []
 tags:
 - Building

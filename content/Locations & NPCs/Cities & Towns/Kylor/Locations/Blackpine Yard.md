@@ -1,7 +1,7 @@
 ---
 title: Blackpine Yard
-ccType: entry
-ccId: entry-blackpine-yard
+ccType: location
+ccId: location-blackpine-yard
 aliases: []
 tags:
 - Industrial

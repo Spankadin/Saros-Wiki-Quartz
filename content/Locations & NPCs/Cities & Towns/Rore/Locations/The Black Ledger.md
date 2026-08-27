@@ -1,7 +1,7 @@
 ---
 title: The Black Ledger
-ccType: entry
-ccId: entry-the-black-ledger
+ccType: location
+ccId: location-the-black-ledger
 aliases: []
 tags:
 - Shop

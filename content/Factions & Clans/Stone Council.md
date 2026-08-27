@@ -1,10 +1,12 @@
 ---
 title: Stone Council
-ccType: faction
-ccId: faction-stone-council
+ccType: group
+ccId: group-stone-council
+ccLabel: Government
 aliases: []
 tags:
-- Faction
+- Group
+- Government
 - Published
 ccAssociates: []
 share: true

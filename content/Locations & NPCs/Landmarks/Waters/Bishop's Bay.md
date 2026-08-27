@@ -1,14 +1,14 @@
 ---
 title: Bishop's Bay
-ccType: entry
-ccId: entry-bishops-bay
+ccType: region
+ccId: region-bishops-bay
 aliases:
 - Bishop Bay
 tags:
 - Landmark
 - Water
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 LandmarkType: Bay
 Hex: "Multiple (western bay)"
 share: true

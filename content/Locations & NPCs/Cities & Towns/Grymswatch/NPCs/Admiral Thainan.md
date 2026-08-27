@@ -1,28 +1,18 @@
 ---
+publish: true
 title: Admiral Thainan
-ccType: npc
-ccId: npc-admiral-thainan
-Race: Human
-aliases: []
+created: 2025-01-28T06:03:19.380Z
+modified: 2026-08-25T14:53:08.580Z
 tags:
-- NPC
-- Published
-Location: "[[Grymswatch]]"
-Building: "[[Mira's Wall]]"
-Faction:
-- "[[The Aegis Legion]]"
-Role: Admiral
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Admiral Thainan]] is the senior naval commander based at [[Grymswatch]] and one of the most powerful officers in [[The Aegis Legion]].
 
-## Role
+## Appearance
 
-Thainan directs naval patrols and military operations concerned with the southern coast, especially the threat posed by [[Karastos]] and pirate groups such as the [[Bloodmarked]].
-
-His command controls ships, supplies, crews, and the movement of military cargo across a wide stretch of Saros.
+_Not yet established._
 
 ## Personality
 
@@ -32,14 +22,24 @@ Supporters describe him as decisive.
 
 Enemies describe him as a man who treats civilian suffering as a number that can be justified after the fact.
 
-## Relationships
+## Role
 
-[[Festin Dontel]] serves as his lieutenant and trusted second.
+Thainan directs naval patrols and military operations concerned with the southern coast, especially the threat posed by [[Karastos]] and pirate groups such as the [[Bloodmarked]].
 
-[[Mirken Stanton]] considers Thainan a sworn enemy, and that hostility is well known among sailors who know either man.
+His command controls ships, supplies, crews, and the movement of military cargo across a wide stretch of Saros.
 
 ## Reputation
 
 In Legion circles, Thainan is respected for keeping pirate pressure away from settled coasts.
 
 Outside those circles, stories about harsh seizures, aggressive patrols, and operations conducted with little explanation have made his name controversial.
+
+## Relationships
+
+[[Festin Dontel]] serves as his lieutenant and trusted second.
+
+[[Mirken Stanton]] considers Thainan a sworn enemy, and that hostility is well known among sailors who know either man.
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

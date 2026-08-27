@@ -1,18 +1,13 @@
 ---
-title: The Cast Lot
-ccType: faction
-ccId: faction-the-cast-lot
+publish: true
 aliases:
-- The Lot
+  - The Lot
+title: The Cast Lot
+created: 2025-02-06T06:45:03.106Z
+modified: 2026-08-25T09:16:43.927Z
 tags:
-- Faction
-- Published
-ccAssociates: []
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Faction
+  - Published
 ---
 
 [[The Cast Lot]], commonly called **the Lot**, regulates and profits from organized gaming across much of civilized [[A Brief Saros History|Saros]]. Its maxim is **“Once cast, the lot stands.”**
@@ -81,7 +76,7 @@ The public courts, petition desks, and civic records remain at [[The Dealhouse]]
 
 #### Known NPCs
 
-| Name                                                                                | Race     | Location                                                                    | Building                                                                                        |
+| Name                                                                                | Race     | Region                                                                      | Location                                                                                        |
 | ----------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [[Locations & NPCs/Cities & Towns/Rore/NPCs/Cassia Rook.md\|Cassia Rook]]           | Human    | [[Locations & NPCs/Cities & Towns/Rore/Rore.md\|Rore]]                      | [[Locations & NPCs/Cities & Towns/Rore/Locations/The Crowned Die.md\|The Crowned Die]]          |
 | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Lind Bergy.md\|Lind Bergy]]      | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz.md\|Port Quartz]] | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Quartz Cobra.md\|The Quartz Cobra]] |

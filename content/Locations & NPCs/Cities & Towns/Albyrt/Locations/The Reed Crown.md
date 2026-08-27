@@ -1,7 +1,7 @@
 ---
 title: The Reed Crown
-ccType: entry
-ccId: entry-the-reed-crown
+ccType: location
+ccId: location-the-reed-crown
 aliases: []
 tags:
 - Building

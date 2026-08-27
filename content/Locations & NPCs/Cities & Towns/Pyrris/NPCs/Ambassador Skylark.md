@@ -2,7 +2,7 @@
 publish: true
 title: Ambassador Skylark
 created: 2024-12-24T09:01:20.671Z
-modified: 2026-08-08T11:56:14.860Z
+modified: 2026-08-25T14:53:08.592Z
 tags:
   - NPC
   - Published
@@ -18,13 +18,17 @@ Leonora has golden hair, a bright smile, and the carefully welcoming appearance 
 
 Her formal clothing favors diplomatic symbols and rich but restrained fabrics.
 
-## Manner
+## Personality
+
+### Manner
 
 Skylark is warm, articulate, and extremely difficult to surprise in public.
 
 She has a talent for making hostile conversations feel civilized without actually surrendering anything important.
 
-## Responsibility
+## Role
+
+### Responsibility
 
 Her office handles:
 
@@ -36,3 +40,15 @@ Her office handles:
 - Management of the Crown's image
 
 Since [[Queen Amara]] disappeared, Skylark has had the impossible task of reassuring the realm without being able to produce the Queen herself.
+
+## Reputation
+
+_Not yet established._
+
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

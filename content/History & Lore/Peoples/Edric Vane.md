@@ -1,18 +1,13 @@
 ---
+publish: true
 title: Edric Vane
-ccType: npc
-ccId: npc-edric-vane
-Race: Human
-aliases: []
+created: 2026-08-06T22:24:02.741Z
+modified: 2026-08-25T14:53:08.557Z
 tags:
-- NPC
-- History
-- Explorer
-- Published
-Location: "[[Port Quartz]]"
-Faction: []
-ccAssociates: []
-share: true
+  - NPC
+  - History
+  - Explorer
+  - Published
 ---
 
 [[Edric Vane]] led one of the best-known expeditions from [[Port Quartz]] toward [[The Masys Mountains]] centuries ago.
@@ -23,7 +18,17 @@ Edric departed with approximately sixty people.
 
 Seven returned.
 
-## The Expedition
+## Appearance
+
+_Not yet established._
+
+## Personality
+
+_Not yet established._
+
+## Role
+
+### The Expedition
 
 The expedition charted:
 
@@ -38,8 +43,18 @@ Several journal pages are missing, but nothing in the surviving record describes
 
 Those legends would not arise for centuries.
 
-## Legacy
+## Reputation
+
+### Legacy
 
 Edric’s records remain useful because the geography has changed less than the stories.
 
 His descendant [[Hesta Vane]] protects the surviving documents in the [[Vane Archive]] and dislikes anyone who treats the expedition’s losses as romantic scenery.
+
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

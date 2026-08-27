@@ -1,7 +1,7 @@
 ---
 title: Eastwater Hall
-ccType: entry
-ccId: entry-eastwater-hall
+ccType: location
+ccId: location-eastwater-hall
 aliases: []
 tags:
 - Building

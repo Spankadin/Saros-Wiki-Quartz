@@ -2,12 +2,13 @@
 title: Skaggerty
 ccType: region
 ccId: region-skaggerty
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Government: Village Council
 Leader: "[[Mara Sedge]]"
 Population: 1200
@@ -65,7 +66,7 @@ A modest palisade, local militia, and the occasional Legion patrol provide ordin
 
 #### NPCs Found Here
 
-| NPC                                                                                        | Race  | Building                                                                                                        | Factions                                                  |
+| NPC                                                                                        | Race  | Location                                                                                                        | Factions                                                  |
 | ------------------------------------------------------------------------------------------ | ----- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Heldoren The Wise.md\|Heldoren The Wise]] | Human | [[Locations & NPCs/Cities & Towns/Skaggerty/Locations/Temple of Austerus.md\|Temple of Austerus]]               |                                                           |
 | [[Locations & NPCs/Cities & Towns/Skaggerty/NPCs/Mara Sedge.md\|Mara Sedge]]               | Human | [[Locations & NPCs/Cities & Towns/Skaggerty/Locations/The Crossroads Weighhouse.md\|The Crossroads Weighhouse]] |                                                           |

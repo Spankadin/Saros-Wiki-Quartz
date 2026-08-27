@@ -1,7 +1,7 @@
 ---
 title: Great Fall
-ccType: entry
-ccId: entry-great-fall
+ccType: location
+ccId: location-great-fall
 aliases:
 - The Great Fall
 tags: [Landmark, Waterfall, Published]

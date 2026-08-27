@@ -1,7 +1,7 @@
 ---
 title: Breakwater Fingers
-ccType: entry
-ccId: entry-breakwater-fingers
+ccType: location
+ccId: location-breakwater-fingers
 aliases:
 - The Breakwater Fingers
 tags: [Landmark, Coast, Navigation, Published]

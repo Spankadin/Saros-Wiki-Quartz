@@ -1,7 +1,7 @@
 ---
 title: Temple of Torm
-ccType: entry
-ccId: entry-temple-of-torm
+ccType: location
+ccId: location-temple-of-torm
 aliases: []
 tags:
 - Building

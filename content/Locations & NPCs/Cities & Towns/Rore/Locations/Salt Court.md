@@ -1,7 +1,7 @@
 ---
 title: Salt Court
-ccType: entry
-ccId: entry-salt-court
+ccType: location
+ccId: location-salt-court
 aliases: []
 tags:
 - Building

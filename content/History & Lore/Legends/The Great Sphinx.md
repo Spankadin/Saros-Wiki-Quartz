@@ -1,35 +1,31 @@
 ---
-title: The Great Sphinx
-ccType: npc
-ccId: npc-the-great-sphinx
-Race: Sphinx
+publish: true
 aliases:
-- Great Sphinx
+  - Great Sphinx
+title: The Great Sphinx
+created: 2024-12-11T07:48:24.714Z
+modified: 2026-08-25T14:53:08.556Z
 tags:
-- NPC
-- Legend
-- Published
-Location: "[[The Glimmering Expanse]]"
-Faction: []
-ccAssociates: []
-share: true
+  - NPC
+  - Legend
+  - Published
 ---
 
 [[The Great Sphinx]] is one of the enduring legends of [[The Glimmering Expanse]].
 
 The creature is said to dwell somewhere deep within the glass desert, far beyond routes most travelers can survive.
 
-## The Wish
+## Appearance
 
-Stories claim the Sphinx can grant a wish.
+_Not yet established._
 
-Unlike the legends surrounding a multi-chromatic dragon, the Sphinx supposedly chooses according to character rather than opportunity.
+## Personality
 
-Only someone it judges **pure of heart** is allowed to receive the gift.
+_Not yet established._
 
-What the Sphinx considers pure is never explained consistently.
+## Role
 
-## The Voices
+### The Voices
 
 The strangest repeated detail is its speech.
 
@@ -46,8 +42,18 @@ Witnesses in old stories describe hearing:
 
 Whether the effect is illusion, prophecy, mind-reading, or storytelling embellishment is unknown.
 
-## Proof
+## Reputation
+
+### Proof
 
 No widely accepted expedition record confirms the Sphinx exists.
 
 That has never stopped people from searching.
+
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

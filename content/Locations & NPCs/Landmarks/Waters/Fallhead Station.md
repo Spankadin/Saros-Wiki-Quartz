@@ -1,7 +1,7 @@
 ---
 title: Fallhead Station
-ccType: entry
-ccId: entry-fallhead-station
+ccType: location
+ccId: location-fallhead-station
 aliases:
 - Fall-Cask Outpost
 tags: [Landmark, Outpost, Trade, Published]

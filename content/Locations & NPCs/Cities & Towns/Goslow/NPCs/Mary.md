@@ -1,25 +1,28 @@
 ---
+publish: true
 title: Mary
-ccType: npc
-ccId: npc-mary
-Race: Human
-aliases: []
+created: 2025-02-11T05:01:12.093Z
+modified: 2026-08-25T14:53:08.577Z
 tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[Bedford's Forge]]"
-Faction: []
-Role: Co-owner's Wife and Host
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Mary]] is the wife of [[Bedford]] and a familiar presence around [[Bedford's Forge]] in [[Goslow]].
 
 She has a small-town warmth that feels strangely out of place beside one of the busiest and hottest smithies in the city.
 
-## Daily Life
+## Appearance
+
+_Not yet established._
+
+## Personality
+
+_Not yet established._
+
+## Role
+
+### Daily Life
 
 Mary enjoys:
 
@@ -32,8 +35,14 @@ Mary enjoys:
 
 She is not a smith, but she knows the Forge's clients, schedules, and personalities well enough to notice problems before many apprentices do.
 
-## Ambition
+## Reputation
 
-Mary has an enduring fascination with legendary magical decks and openly dreams of one day drawing from a **Deck of Many Things**.
+_Not yet established._
 
-Bedford considers this one of the few topics on which his wife has completely lost her good sense.
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

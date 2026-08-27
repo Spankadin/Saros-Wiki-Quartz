@@ -2,13 +2,14 @@
 title: Karastos
 ccType: region
 ccId: region-karastos
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Port
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "133.170"
 Government: Pirate Captains and Local Powers
 Leader: ''
@@ -63,5 +64,5 @@ The city's greatest external threat is [[Grymswatch]] and the [[The Aegis Legion
 
 #### NPCs Found Here
 
-| NPC | Race | Building | Factions |
+| NPC | Race | Location | Factions |
 | --- | ---- | -------- | -------- |

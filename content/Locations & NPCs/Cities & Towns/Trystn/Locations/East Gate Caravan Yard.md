@@ -1,7 +1,7 @@
 ---
 title: East Gate Caravan Yard
-ccType: entry
-ccId: entry-east-gate-caravan-yard
+ccType: location
+ccId: location-east-gate-caravan-yard
 aliases: []
 tags:
 - Commercial

@@ -1,23 +1,13 @@
 ---
+publish: true
 title: Goslow
-ccType: region
-ccId: region-goslow
-aliases: []
+created: 2025-01-28T08:58:45.124Z
+modified: 2026-08-26T06:29:26.143Z
 tags:
-- Region
-- Town
-- Port
-- Published
-Region: "[[A Brief Saros History|Saros]]"
-Government: Royal Charter Council
-Leader: ''
-Population: 14000
-Hex: "67.103"
-share: true
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+  - Region
+  - Town
+  - Port
+  - Published
 ---
 
 [[Goslow]] is the largest concentration of permanent residents in known [[A Brief Saros History|Saros]] and the realm's dominant commercial port. It sits on the inner coast of [[Bishop's Bay]], where the sheltered water, nearby farmland, fishing grounds, and roads converging on the bay have made trade more dependable than almost anywhere else in the north.
@@ -115,7 +105,7 @@ The city's size makes it safer than most Sarosian settlements, but no one mistak
 
 #### NPCs Found Here
 
-| NPC                                                                                       | Race      | Building                                                                                               | Factions                                                                    |
+| NPC                                                                                       | Race      | Location                                                                                               | Factions                                                                    |
 | ----------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Bedford.md\|Bedford]]                       | Human     | [[Locations & NPCs/Cities & Towns/Goslow/Locations/Bedford's Forge.md\|Bedford's Forge]]               | [[Factions & Clans/The Scales/The Scales.md\|The Scales]]                   |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Breelyn.md\|Breelyn]]                       | Human     | [[Locations & NPCs/Cities & Towns/Goslow/Locations/The Storm Runner.md\|The Storm Runner]]             |                                                                             |

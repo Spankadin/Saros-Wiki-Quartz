@@ -1,37 +1,29 @@
 ---
-title: Caelum
-ccType: npc
-ccId: npc-caelum
-Race: Human
+publish: true
 aliases:
-- King Caelum
+  - King Caelum
+title: Caelum
+created: 2025-01-28T10:13:02.556Z
+modified: 2026-08-25T14:53:08.557Z
 tags:
-- NPC
-- Legend
-- Published
-Location: Deceased
-Faction: []
-ccAssociates:
-- "[[Queen Amara]]"
-- "[[Silas Voss]]"
-share: true
+  - NPC
+  - Legend
+  - Published
 ---
 
 [[Caelum]] was a powerful human wizard from Mystara and the figure whose desperate wish began the modern history of [[A Brief Saros History|Saros]].
 
-## The Wish
+## Appearance
 
-Facing the destruction of his people, Caelum sought aid beyond anything ordinary magic could provide.
+_Not yet established._
 
-Tradition says he used **Contact Higher Plane** and reached a power identified in later accounts as Bahamut.
+## Personality
 
-Caelum asked for his remaining people to be carried somewhere they could survive.
+_Not yet established._
 
-Nearly one thousand beings were transported to Saros.
+## Role
 
-Different traditions disagree about the exact price of the wish. One enduring account claims Caelum surrendered an unnatural immortality or the means of preserving it in exchange for his people's safety.
-
-## King Caelum
+### King Caelum
 
 Caelum became the central political figure of the newly arrived people.
 
@@ -46,7 +38,7 @@ His reputation combines:
 
 He lived for centuries after the Arrival, an extraordinary lifespan even by magical standards.
 
-## Caelum's End
+### Caelum's End
 
 Roughly eight hundred years ago, Caelum and [[Queen Amara]] brought [[Silas Voss]] to the northernmost foot-navigable point of Saros for one final attempt to turn their former pupil away from evil.
 
@@ -59,3 +51,15 @@ Amara returned alone to [[Pyrris]], where she assumed her husband's throne.
 The place became known as [[Caelum's End]].
 
 What caused the fall, what Caelum intended, and what Amara saw remain among the great unanswered questions of Sarosian history.
+
+## Reputation
+
+_Not yet established._
+
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

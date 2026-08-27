@@ -2,7 +2,7 @@
 publish: true
 title: Garran Flint
 created: 2026-08-07T06:36:23.858Z
-modified: 2026-08-08T11:56:15.852Z
+modified: 2026-08-25T14:53:08.585Z
 tags:
   - NPC
   - Published
@@ -14,6 +14,28 @@ He is one of the few dwarves in town willing to discuss old workings beneath [[T
 
 Garran has noticed old stonework vibrating faintly at night and has quietly barred several lower passages from ordinary miners.
 
-## Manner
+## Appearance
+
+_Not yet established._
+
+## Personality
+
+### Manner
 
 Garran trusts stone more readily than rumors. If he closes a passage, he expects miners to stay out until he personally changes the order. His willingness to admit that some older dwarven work exceeds his understanding earns him more respect than false certainty would.
+
+## Role
+
+_Not yet established._
+
+## Reputation
+
+_Not yet established._
+
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

@@ -1,7 +1,7 @@
 ---
 title: Aucien Shipyard
-ccType: entry
-ccId: entry-aucien-shipyard
+ccType: location
+ccId: location-aucien-shipyard
 aliases: []
 tags:
 - Building

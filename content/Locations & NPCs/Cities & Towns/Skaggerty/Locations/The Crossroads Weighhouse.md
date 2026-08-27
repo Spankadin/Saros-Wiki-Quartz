@@ -1,7 +1,7 @@
 ---
 title: The Crossroads Weighhouse
-ccType: entry
-ccId: entry-the-crossroads-weighhouse
+ccType: location
+ccId: location-the-crossroads-weighhouse
 aliases:
 - Weighhouse
 tags:

@@ -1,14 +1,14 @@
 ---
 title: Lake Runa
-ccType: entry
-ccId: entry-lake-runa
+ccType: region
+ccId: region-lake-runa
 aliases:
 - Runa
 tags:
 - Landmark
 - Water
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "Multiple (southern interior)"
 LandmarkType: Lake
 share: true

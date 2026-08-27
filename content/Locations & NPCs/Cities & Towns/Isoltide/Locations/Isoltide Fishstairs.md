@@ -1,7 +1,7 @@
 ---
 title: Isoltide Fishstairs
-ccType: entry
-ccId: entry-isoltide-fishstairs
+ccType: location
+ccId: location-isoltide-fishstairs
 aliases: []
 tags:
 - Landmark

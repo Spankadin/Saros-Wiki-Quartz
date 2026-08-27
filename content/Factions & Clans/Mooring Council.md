@@ -1,10 +1,12 @@
 ---
 title: Mooring Council
-ccType: faction
-ccId: faction-mooring-council
+ccType: group
+ccId: group-mooring-council
+ccLabel: Government
 aliases: []
 tags:
-- Faction
+- Group
+- Government
 - Published
 ccAssociates: []
 share: true

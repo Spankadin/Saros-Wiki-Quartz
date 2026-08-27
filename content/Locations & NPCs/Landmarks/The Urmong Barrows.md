@@ -1,7 +1,7 @@
 ---
 title: The Urmong Barrows
-ccType: entry
-ccId: entry-the-urmong-barrows
+ccType: region
+ccId: region-the-urmong-barrows
 aliases:
 - Urmong Barrows
 - Urmong
@@ -11,7 +11,7 @@ tags:
 - Landmark
 - Ruins
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "Multiple (southern Saros)"
 LandmarkType: Burial Mounds
 share: true

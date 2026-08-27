@@ -2,12 +2,13 @@
 title: Brynk
 ccType: region
 ccId: region-brynk
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "58.180"
 Government: Closed Customary Council
 Leader: "[[Vessa Keln]]"
@@ -65,6 +66,6 @@ The mountain itself provides much of Brynk's defense. Narrow approaches, watch p
 
 #### NPCs Found Here
 
-| NPC                                                                      | Race  | Building                                                                                    | Factions |
+| NPC                                                                      | Race  | Location                                                                                    | Factions |
 | ------------------------------------------------------------------------ | ----- | ------------------------------------------------------------------------------------------- | -------- |
 | [[Locations & NPCs/Cities & Towns/Brynk/NPCs/Vessa Keln.md\|Vessa Keln]] | Human | [[Locations & NPCs/Cities & Towns/Brynk/Locations/House of Measures.md\|House of Measures]] |          |

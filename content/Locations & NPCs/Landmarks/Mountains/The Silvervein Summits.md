@@ -1,7 +1,7 @@
 ---
 title: The Silvervein Summits
-ccType: entry
-ccId: entry-the-silvervein-summits
+ccType: region
+ccId: region-the-silvervein-summits
 aliases:
 - Silvervein
 - Silvervein Mountains
@@ -9,7 +9,7 @@ tags:
 - Landmark
 - Mountain
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "Multiple (eastern Saros)"
 LandmarkType: Mountain Range
 share: true

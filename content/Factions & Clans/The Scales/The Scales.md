@@ -60,7 +60,7 @@ When tariffs, military seizures, or local corruption threaten commerce, powerful
 
 #### Known NPCs
 
-| Name                                                                                   | Race     | Location                                                                                   | Building                                                                                               |
+| Name                                                                                   | Race     | Region                                                                                     | Location                                                                                               |
 | -------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | [[Locations & NPCs/Cities & Towns/Goslow/NPCs/Bedford.md\|Bedford]]                    | Human    | [[Locations & NPCs/Cities & Towns/Goslow/Goslow.md\|Goslow]]                               | [[Locations & NPCs/Cities & Towns/Goslow/Locations/Bedford's Forge.md\|Bedford's Forge]]               |
 | [[Locations & NPCs/Cities & Towns/Soryn's Crossing/NPCs/Dalen Soryn.md\|Dalen Soryn]]  | Human    | [[Locations & NPCs/Cities & Towns/Soryn's Crossing/Soryn's Crossing.md\|Soryn's Crossing]] | [[Locations & NPCs/Cities & Towns/Soryn's Crossing/Locations/Soryn Hall.md\|Soryn Hall]]               |

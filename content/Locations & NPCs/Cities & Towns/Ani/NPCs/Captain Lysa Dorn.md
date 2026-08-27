@@ -1,19 +1,11 @@
 ---
+publish: true
 title: Captain Lysa Dorn
-ccType: npc
-ccId: npc-captain-lysa-dorn
-Race: Human
-aliases: []
+created: 2026-08-08T11:56:33.070Z
+modified: 2026-08-25T14:53:08.564Z
 tags:
-- NPC
-- Published
-Location: "[[Ani]]"
-Building: "[[Ani Watchhouse]]"
-Faction:
-- "[[The Aegis Legion]]"
-Role: March Warden
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Captain Lysa Dorn]] is the March Warden of [[Ani]], coordinating the town militia, coastal watch, and defensive preparations facing [[The Urmong Barrows]].
@@ -22,6 +14,28 @@ She is not easily impressed by adventurers heading toward the Barrows. Ani sees 
 
 Lysa works closely with the [[The Aegis Legion|Aegis Legion]] but considers Ani's local watch traditions indispensable.
 
-## Manner
+## Appearance
+
+_Not yet established._
+
+## Personality
+
+### Manner
 
 Lysa is not humorless, but most strangers meet her while discussing the Barrows, missing people, or defensive readiness. She has learned to ask adventurers about retreat plans before admiring their equipment.
+
+## Role
+
+Captain Lysa Dorn serves as **March Warden**.
+
+## Reputation
+
+_Not yet established._
+
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

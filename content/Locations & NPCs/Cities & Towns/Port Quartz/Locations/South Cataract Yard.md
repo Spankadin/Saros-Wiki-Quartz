@@ -1,7 +1,7 @@
 ---
 title: South Cataract Yard
-ccType: entry
-ccId: entry-south-cataract-yard
+ccType: location
+ccId: location-south-cataract-yard
 aliases: []
 tags: [Landmark, Industrial, Salvage, Published]
 Region: "[[Port Quartz]]"

@@ -1,7 +1,7 @@
 ---
 title: The Bulkhead
-ccType: entry
-ccId: entry-the-bulkhead
+ccType: location
+ccId: location-the-bulkhead
 aliases: []
 tags:
 - Building

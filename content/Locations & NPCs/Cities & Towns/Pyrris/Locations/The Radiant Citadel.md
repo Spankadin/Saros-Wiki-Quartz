@@ -1,13 +1,16 @@
 ---
-publish: true
 title: The Radiant Citadel
-created: 2025-01-27T08:18:43.007Z
-modified: 2026-08-21T09:05:20.126Z
+ccType: location
+ccId: location-the-radiant-citadel
+aliases: []
 tags:
-  - Building
-  - Palace
-  - Fortification
-  - Published
+- Building
+- Palace
+- Fortification
+- Published
+Region: "[[Pyrris]]"
+Hex: "71.109"
+share: true
 ---
 
 [[The Radiant Citadel]] is the royal seat of [[A Brief Saros History|Saros]] and the dominant structure of [[Pyrris]].

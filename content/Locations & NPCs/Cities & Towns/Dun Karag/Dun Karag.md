@@ -2,6 +2,7 @@
 title: Dun Karag
 ccType: region
 ccId: region-dun-karag
+ccLabel: Towns
 aliases:
 - The Northern Gate
 - Karag Gate

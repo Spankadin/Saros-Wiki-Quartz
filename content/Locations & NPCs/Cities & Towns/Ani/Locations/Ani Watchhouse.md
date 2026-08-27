@@ -1,7 +1,7 @@
 ---
 title: Ani Watchhouse
-ccType: entry
-ccId: entry-ani-watchhouse
+ccType: location
+ccId: location-ani-watchhouse
 aliases: []
 tags:
 - Building

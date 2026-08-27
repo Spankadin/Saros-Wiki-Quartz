@@ -1,7 +1,7 @@
 ---
 title: The Closed Gate
-ccType: entry
-ccId: entry-the-closed-gate
+ccType: location
+ccId: location-the-closed-gate
 aliases: []
 tags:
 - Landmark

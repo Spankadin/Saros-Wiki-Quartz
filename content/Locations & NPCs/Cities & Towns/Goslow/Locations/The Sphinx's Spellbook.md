@@ -1,7 +1,7 @@
 ---
 title: The Sphinx's Spellbook
-ccType: entry
-ccId: entry-the-sphinx-s-spellbook
+ccType: location
+ccId: location-the-sphinx-s-spellbook
 aliases: []
 tags:
 - Building

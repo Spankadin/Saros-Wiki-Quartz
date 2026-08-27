@@ -63,7 +63,7 @@ The cult continues to recognize Silas as its true leader and reveres him with an
 
 #### Known NPCs
 
-| Name                                                                        | Race  | Location | Building |
-| --------------------------------------------------------------------------- | ----- | -------- | -------- |
-| [[Factions & Clans/The Prism/NPCs/Malgrim Darkshade.md\|Malgrim Darkshade]] | Elf   | Unknown  | -       |
-| [[Factions & Clans/The Prism/NPCs/Silas Voss.md\|Silas Voss]]               | Human | Unknown  | -       |
+| Name                                                                        | Race  | Region | Location |
+| --------------------------------------------------------------------------- | ----- | ------ | -------- |
+| [[Factions & Clans/The Prism/NPCs/Malgrim Darkshade.md\|Malgrim Darkshade]] | Elf   | -     | -       |
+| [[Factions & Clans/The Prism/NPCs/Silas Voss.md\|Silas Voss]]               | Human | -     | -       |

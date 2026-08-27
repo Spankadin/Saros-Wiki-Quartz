@@ -2,12 +2,13 @@
 title: Trystn
 ccType: region
 ccId: region-trystn
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "102.99"
 Government: "[[Crossroads Council]]"
 Leader: "[[Elian Thorne]]"
@@ -87,8 +88,8 @@ The walls are less imposing than Lilya's, but the constant presence of armed tra
 
 #### NPCs Found Here
 
-| NPC                                                                           | Race     | Building                                                                                               | Factions                                                       |
-| ----------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
-| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Elian Thorne.md\|Elian Thorne]] | Human    | [[Locations & NPCs/Cities & Towns/Trystn/Locations/Tollhouse Commons.md\|Tollhouse Commons]]           | [[Factions & Clans/Crossroads Council.md\|Crossroads Council]] |
-| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Jessa Marr.md\|Jessa Marr]]     | Halfling | [[Locations & NPCs/Cities & Towns/Trystn/Locations/The Axle and Bell.md\|The Axle and Bell]]           | [[Factions & Clans/The Scales/The Scales.md\|The Scales]]      |
-| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Torv Hallick.md\|Torv Hallick]] | Human    | [[Locations & NPCs/Cities & Towns/Trystn/Locations/East Gate Caravan Yard.md\|East Gate Caravan Yard]] | [[Factions & Clans/The Scales/The Scales.md\|The Scales]]      |
+| NPC                                                                           | Race     | Location                                                                                               | Factions                                                  |
+| ----------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Elian Thorne.md\|Elian Thorne]] | Human    | [[Locations & NPCs/Cities & Towns/Trystn/Locations/Tollhouse Commons.md\|Tollhouse Commons]]           |                                                           |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Jessa Marr.md\|Jessa Marr]]     | Halfling | [[Locations & NPCs/Cities & Towns/Trystn/Locations/The Axle and Bell.md\|The Axle and Bell]]           | [[Factions & Clans/The Scales/The Scales.md\|The Scales]] |
+| [[Locations & NPCs/Cities & Towns/Trystn/NPCs/Torv Hallick.md\|Torv Hallick]] | Human    | [[Locations & NPCs/Cities & Towns/Trystn/Locations/East Gate Caravan Yard.md\|East Gate Caravan Yard]] | [[Factions & Clans/The Scales/The Scales.md\|The Scales]] |

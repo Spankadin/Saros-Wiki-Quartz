@@ -1,21 +1,21 @@
 ---
-title: Ages of Saros
-ccType: entry
-ccId: entry-ages-of-saros
+publish: true
 aliases:
-- Age
-- Age of Saros
-- First Age
-- Second Age
-- Third Age
-- 1st Age
-- 2nd Age
-- 3rd Age
+  - Age
+  - Age of Saros
+  - First Age
+  - Second Age
+  - Third Age
+  - 1st Age
+  - 2nd Age
+  - 3rd Age
+title: Ages of Saros
+created: 2025-03-02T18:09:21.097Z
+modified: 2026-08-26T06:25:59.820Z
 tags:
-- Lore
-- History
-- Published
-share: true
+  - Lore
+  - History
+  - Published
 ---
 
 Sarosian historians divide the world's past into three broad Ages. The boundaries are partly historical and partly cultural; the farther back an Age lies, the less confidently anyone can separate record from legend.
@@ -54,7 +54,7 @@ By the end of the Age, organized human civilization had largely collapsed. Dwarv
 
 ## 3rd Age — Caelum's Arrival
 
-Just over **1,400 years ago**, [[Caelum]]'s wish brought nearly one thousand refugees from Mystara to Saros.
+About **425 years ago**, [[Caelum]]'s wish brought nearly one thousand refugees from Mystara to Saros.
 
 Their arrival did not create civilization from nothing, but it transformed the scattered world they found.
 
@@ -72,17 +72,17 @@ They encountered surviving Sarosians living in isolated settlements, hidden comm
 
 ### The Years of Gathering
 
-The first generations established defended settlements, cleared roads, recovered farmland, and made contact with surviving peoples.
+The first generations established defended settlements, reopened old roads, recovered Second Age farmland, and made contact with surviving peoples.
 
-The communities that would eventually become places such as [[Goslow]] and [[Port Quartz]] began to take recognizable form.
+The older communities and sites that would become modern [[Goslow]] and [[Port Quartz]] began to take their recognizable Third Age form.
 
 ### The Chartering Centuries
 
-Settlements expanded into towns. Trade routes stabilized. Guilds and civic charters appeared. The Crown's influence spread along roads, rivers, and ports rather than across every mile of wilderness.
+Reclaimed settlements expanded into towns. Trade routes stabilized. Guilds and civic charters appeared. The Crown's influence spread along roads, rivers, and ports rather than across every mile of wilderness.
 
 ### Caelum's End
 
-Roughly eight centuries ago, Caelum and [[Queen Amara|Amara]] took their former pupil [[Silas Voss]] to the frozen northern peak now called [[Caelum's End]] in one final attempt to turn him away from evil.
+Around **240 CA**, roughly 185 years before the present, Caelum and [[Queen Amara|Amara]] took their former pupil [[Silas Voss]] to the frozen northern peak now called [[Caelum's End]] in one final attempt to turn him away from evil.
 
 Only Amara witnessed what followed. Caelum and Silas both went over the edge into the sea. Neither has been reliably seen since.
 
@@ -94,9 +94,9 @@ For a detailed population and settlement chronology of the Third Age, see [[Saro
 
 ### The Amaran Reign
 
-Amara's eight-century reign brought long periods of comparative stability.
+Amara's long reign brought extended periods of comparative stability.
 
-The settlements expanded, the [[The Aegis Legion|Aegis Legion]] became the principal military institution of the realm, civic charters matured, and trade became routine enough for ordinary people to build lives rather than merely survive.
+The connected settlement network expanded, the [[The Aegis Legion|Aegis Legion]] became the principal military institution of the realm, civic charters matured, and trade became routine enough for ordinary people to build lives rather than merely survive.
 
 The realm never fully conquered the wilderness.
 

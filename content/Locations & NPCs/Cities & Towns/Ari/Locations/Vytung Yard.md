@@ -1,7 +1,7 @@
 ---
 title: Vytung Yard
-ccType: entry
-ccId: entry-vytung-yard
+ccType: location
+ccId: location-vytung-yard
 aliases: []
 tags:
 - Landmark

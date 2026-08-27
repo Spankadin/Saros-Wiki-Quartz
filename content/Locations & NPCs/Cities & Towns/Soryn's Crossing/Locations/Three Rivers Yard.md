@@ -1,7 +1,7 @@
 ---
 title: Three Rivers Yard
-ccType: entry
-ccId: entry-three-rivers-yard
+ccType: location
+ccId: location-three-rivers-yard
 aliases: []
 tags:
 - Building

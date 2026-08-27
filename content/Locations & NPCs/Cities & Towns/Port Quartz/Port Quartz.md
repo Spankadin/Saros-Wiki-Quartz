@@ -2,13 +2,14 @@
 title: Port Quartz
 ccType: region
 ccId: region-port-quartz
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Port
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Government: "[[Mooring Council]]"
 Leader: "[[Hesta Vane]]"
 Population: 5250
@@ -129,14 +130,13 @@ The river decides working hours, prices, law, and funerals. No government has ev
 
 #### NPCs Found Here
 
-| NPC                                                                                            | Race     | Building                                                                                            | Factions                                                                    |
+| NPC                                                                                            | Race     | Location                                                                                            | Factions                                                                    |
 | ---------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Caldus Renn.md\|Caldus Renn]]               | Human    | -                                                                                                  |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Captain Serin Holt.md\|Captain Serin Holt]] | Human    | -                                                                                                  | [[Factions & Clans/The Aegis Legion/The Aegis Legion.md\|The Aegis Legion]] |
-| [[History & Lore/Peoples/Edric Vane.md\|Edric Vane]]                                           | Human    | -                                                                                                  |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Gileon.md\|Gileon]]                         | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Gileon's Vault.md\|Gileon's Vault]]         |                                                                             |
-| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Hesta Vane.md\|Hesta Vane]]                 | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Hall of Moorings.md\|Hall of Moorings]]     | [[Factions & Clans/Mooring Council.md\|Mooring Council]]                    |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Hesta Vane.md\|Hesta Vane]]                 | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Hall of Moorings.md\|Hall of Moorings]]     |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Lind Bergy.md\|Lind Bergy]]                 | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Quartz Cobra.md\|The Quartz Cobra]]     | [[Factions & Clans/The Cast Lot/The Cast Lot.md\|The Cast Lot]]             |
-| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Nelra Vossin.md\|Nelra Vossin]]             | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Vane Archive.md\|Vane Archive]]             | [[Factions & Clans/Mooring Council.md\|Mooring Council]]                    |
-| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Oren Bale.md\|Oren Bale]]                   | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Westwater Ferry.md\|Westwater Ferry]]       | [[Factions & Clans/Mooring Council.md\|Mooring Council]]                    |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Nelra Vossin.md\|Nelra Vossin]]             | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Vane Archive.md\|Vane Archive]]             |                                                                             |
+| [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Oren Bale.md\|Oren Bale]]                   | Human    | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/Westwater Ferry.md\|Westwater Ferry]]       |                                                                             |
 | [[Locations & NPCs/Cities & Towns/Port Quartz/NPCs/Prance Mondrel.md\|Prance Mondrel]]         | Half-Elf | [[Locations & NPCs/Cities & Towns/Port Quartz/Locations/The Fourty Knights.md\|The Fourty Knights]] | [[Factions & Clans/The Scales/The Scales.md\|The Scales]]                   |

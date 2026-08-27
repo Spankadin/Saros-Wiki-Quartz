@@ -2,13 +2,14 @@
 title: Soryn's Crossing
 ccType: region
 ccId: region-soryn-s-crossing
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Port
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "78.171"
 Government: Crossing Charter Council
 Leader: "[[Dalen Soryn]]"
@@ -76,6 +77,6 @@ The town maintains a professional watch and hires additional guards during major
 
 #### NPCs Found Here
 
-| NPC                                                                                   | Race  | Building                                                                                 | Factions                                                  |
+| NPC                                                                                   | Race  | Location                                                                                 | Factions                                                  |
 | ------------------------------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | [[Locations & NPCs/Cities & Towns/Soryn's Crossing/NPCs/Dalen Soryn.md\|Dalen Soryn]] | Human | [[Locations & NPCs/Cities & Towns/Soryn's Crossing/Locations/Soryn Hall.md\|Soryn Hall]] | [[Factions & Clans/The Scales/The Scales.md\|The Scales]] |

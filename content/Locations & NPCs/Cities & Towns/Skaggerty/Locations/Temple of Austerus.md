@@ -1,7 +1,7 @@
 ---
 title: Temple of Austerus
-ccType: entry
-ccId: entry-temple-of-austerus
+ccType: location
+ccId: location-temple-of-austerus
 aliases:
 - Austerus
 tags:

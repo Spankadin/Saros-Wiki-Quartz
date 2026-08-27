@@ -1,7 +1,7 @@
 ---
 title: The Axle and Bell
-ccType: entry
-ccId: entry-the-axle-and-bell
+ccType: location
+ccId: location-the-axle-and-bell
 aliases: []
 tags:
 - Inn

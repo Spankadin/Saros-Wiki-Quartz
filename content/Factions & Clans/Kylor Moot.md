@@ -1,9 +1,10 @@
 ---
 title: Kylor Moot
-ccType: faction
-ccId: faction-kylor-moot
+ccType: group
+ccId: group-kylor-moot
+ccLabel: Government
 tags:
-- Faction
+- Group
 - Government
 - Published
 share: true

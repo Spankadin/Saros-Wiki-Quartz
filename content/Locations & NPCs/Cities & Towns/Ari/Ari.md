@@ -2,13 +2,14 @@
 title: Ari
 ccType: region
 ccId: region-ari
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Port
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "128.109"
 Government: Coastal Charter Council
 Leader: "[[Harlan Vey]]"
@@ -69,6 +70,6 @@ Ari is fortified enough to resist raiders but cannot protect every mining camp i
 
 #### NPCs Found Here
 
-| NPC                                                                    | Race  | Building                                                                            | Factions |
+| NPC                                                                    | Race  | Location                                                                            | Factions |
 | ---------------------------------------------------------------------- | ----- | ----------------------------------------------------------------------------------- | -------- |
 | [[Locations & NPCs/Cities & Towns/Ari/NPCs/Harlan Vey.md\|Harlan Vey]] | Human | [[Locations & NPCs/Cities & Towns/Ari/Locations/Ari Grain Quay.md\|Ari Grain Quay]] |          |

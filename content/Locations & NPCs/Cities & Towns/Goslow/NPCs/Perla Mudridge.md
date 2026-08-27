@@ -1,20 +1,14 @@
 ---
-title: Perla Mudridge
-ccType: npc
-ccId: npc-perla-mudridge
-Race: Halfling
+publish: true
 aliases:
-- Mudridge
-- Perla
+  - Mudridge
+  - Perla
+title: Perla Mudridge
+created: 2024-08-22T01:25:25.161Z
+modified: 2026-08-25T14:53:08.579Z
 tags:
-- NPC
-- Published
-Location: "[[Goslow]]"
-Building: "[[The Toad]]"
-Faction: []
-Role: Owner and Innkeeper
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Perla Mudridge]] owns [[The Toad]], the largest and busiest inn in [[Goslow]].
@@ -22,6 +16,10 @@ share: true
 She is a tall halfling and former adventurer whose career ended after a dragon maimed her and cost her the lower part of her left leg.
 
 Her replacement leg is made from [[Fey-stone]].
+
+## Appearance
+
+_Not yet established._
 
 ## Personality
 
@@ -31,7 +29,9 @@ She commissioned [[Steev'rix the Explorer]] to draw the continental chart now kn
 
 She can often be found with her prosthetic leg propped comfortably on a chair or table while sharing a drink with travelers.
 
-## The Toad
+## Role
+
+### The Toad
 
 Perla rescued and restored the ruined mansion that became The Toad.
 
@@ -46,3 +46,11 @@ Perla also watches over her nephew [[Munchies Muldridge|Munchies]], whose plans 
 Adventurers like Perla because she knows when a ridiculous story is still worth hearing.
 
 She likes adventurers because they keep bringing her new ones.
+
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

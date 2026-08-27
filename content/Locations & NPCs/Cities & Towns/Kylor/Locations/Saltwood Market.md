@@ -1,7 +1,7 @@
 ---
 title: Saltwood Market
-ccType: entry
-ccId: entry-saltwood-market
+ccType: location
+ccId: location-saltwood-market
 aliases: []
 tags:
 - Landmark

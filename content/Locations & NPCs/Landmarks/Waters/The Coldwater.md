@@ -1,7 +1,7 @@
 ---
 title: The Coldwater
-ccType: entry
-ccId: entry-the-coldwater
+ccType: region
+ccId: region-the-coldwater
 aliases:
 - Coldwater
 tags: [Landmark, Water, River, Published]

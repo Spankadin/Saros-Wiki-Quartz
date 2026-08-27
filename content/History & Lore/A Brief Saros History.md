@@ -1,28 +1,30 @@
 ---
-title: A Brief Saros History
-ccType: entry
-ccId: entry-a-brief-saros-history
+publish: true
 aliases:
-- Saros
-- Sarosian
-- Daron
-- Aiy-Vana
-- The Realm
-- Realm
+  - Saros
+  - Sarosian
+  - Daron
+  - Aiy-Vana
+  - The Realm
+  - Realm
+title: A Brief Saros History
+created: 2024-08-22T00:34:36.587Z
+modified: 2026-08-26T06:25:58.922Z
 tags:
-- Lore
-- History
-- Published
-share: true
+  - Lore
+  - History
+  - Published
 ---
 
-Just over **fourteen centuries ago**, the wizard [[Caelum]] made a desperate wish to save the remnants of his people from catastrophe in their former world of Mystara.
+About **425 years ago**, the wizard [[Caelum]] made a desperate wish to save the remnants of his people from catastrophe in their former world of Mystara.
 
 Nearly one thousand beings were carried to [[A Brief Saros History|Saros]].
 
 They did not find a thriving human kingdom waiting for them. The old civilizations of Saros had already shattered. Ruins, abandoned roads, sealed delves, haunted battlefields, and isolated surviving communities covered a land that was beautiful, magical, and profoundly dangerous.
 
-The newcomers possessed agricultural methods, military organization, crafts, and habits of settlement that differed greatly from those of the scattered Sarosian peoples they encountered. Over the following centuries, their communities absorbed, allied with, displaced, and intermarried with surviving inhabitants. The settlements familiar to modern travelers grew from that long period of consolidation.
+The newcomers possessed agricultural methods, military organization, crafts, and habits of settlement that differed greatly from those of the scattered Sarosian peoples they encountered. They did not create civilization in an empty land. They reopened old roads, reclaimed Second Age farms and fortifications, absorbed and allied with surviving communities, and connected places that had been isolated for generations.
+
+The settlements familiar to modern travelers are usually modern occupations of much older sites. A town may have an ancient origin, a later abandonment, a Third Age reclamation, and a separate Crown charter date.
 
 ## The Realm Today
 
@@ -30,7 +32,7 @@ The inhabited portions of Saros are concentrated around fortified towns, ports, 
 
 [[Goslow]] is the largest city and commercial center of the realm. The capital, [[Pyrris]], is much smaller: a fortified royal settlement built around [[The Radiant Citadel]] high above [[Bishop's Bay]].
 
-The realm is formally ruled by the elven [[Queen Amara]], widow of Caelum. Amara has held the throne for roughly **eight hundred years**, since Caelum and [[Silas Voss]] both went over the frozen edge at [[Caelum's End]] during their last confrontation.
+The realm is formally ruled by the elven [[Queen Amara]], widow of Caelum. Amara has held the throne for roughly **185 years**, since Caelum and [[Silas Voss]] both went over the frozen edge at [[Caelum's End]] during their last confrontation circa **240 CA**.
 
 For much of her reign she was regarded as benevolent, unusually forgiving, and personally distant from the everyday machinery of government. [[The Queen's Council]] handled much of that machinery, and it has long been an open secret that the five councillors exercise enormous practical power.
 

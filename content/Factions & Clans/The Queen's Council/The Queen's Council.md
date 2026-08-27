@@ -63,10 +63,10 @@ The longer Amara remains missing, the harder it becomes for the Council to rely 
 
 #### Known Members
 
-| Name                                                                                            | Role                                     | Race  | Location                                                     |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------- | ----- | ------------------------------------------------------------ |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Ambassador Skylark.md\|Ambassador Skylark]]       | Envoy of Public Relations — Queen's Hand | Elf   | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]] |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Archmage Starweaver.md\|Archmage Starweaver]]     | Minister of Arcane Affairs               | Elf   | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]] |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/General Ironclad.md\|General Ironclad]]           | Supreme Commander of the Military        | Human | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]] |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Lord Goldhaven.md\|Lord Goldhaven]]               | Treasurer and Keeper of Wealth           | Human | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]] |
-| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Spymaster Shadowcloak.md\|Spymaster Shadowcloak]] | Minister of Espionage and Intelligence   | Drow  | [[Locations & NPCs/Cities & Towns/Pyrris/Pyrris.md\|Pyrris]] |
+| Name                                                                                            | Role                                     | Race  | Location                                                                                         |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------- | ----- | ------------------------------------------------------------------------------------------------ |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Ambassador Skylark.md\|Ambassador Skylark]]       | Envoy of Public Relations — Queen's Hand | Elf   | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Archmage Starweaver.md\|Archmage Starweaver]]     | Minister of Arcane Affairs               | Elf   | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/General Ironclad.md\|General Ironclad]]           | Supreme Commander of the Military        | Human | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/Stonepeak.md\|Stonepeak]]                     |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Lord Goldhaven.md\|Lord Goldhaven]]               | Treasurer and Keeper of Wealth           | Human | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] |
+| [[Locations & NPCs/Cities & Towns/Pyrris/NPCs/Spymaster Shadowcloak.md\|Spymaster Shadowcloak]] | Minister of Espionage and Intelligence   | Drow  | [[Locations & NPCs/Cities & Towns/Pyrris/Locations/The Radiant Citadel.md\|The Radiant Citadel]] |

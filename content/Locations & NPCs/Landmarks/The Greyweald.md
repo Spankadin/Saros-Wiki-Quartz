@@ -1,7 +1,7 @@
 ---
 title: The Greyweald
-ccType: entry
-ccId: entry-the-greyweald
+ccType: region
+ccId: region-the-greyweald
 aliases:
 - Greyweald
 - The Grey Wood
@@ -11,7 +11,7 @@ tags:
 - Fey
 - Haunted
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 LandmarkType: Forest
 Hex: "Multiple (north of Lake of Lament)"
 share: true

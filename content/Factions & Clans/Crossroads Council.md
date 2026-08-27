@@ -1,9 +1,10 @@
 ---
 title: Crossroads Council
-ccType: faction
-ccId: faction-crossroads-council
+ccType: group
+ccId: group-crossroads-council
+ccLabel: Government
 tags:
-- Faction
+- Group
 - Government
 - Published
 share: true

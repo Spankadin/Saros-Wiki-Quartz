@@ -1,7 +1,7 @@
 ---
 title: The Golden Goose
-ccType: entry
-ccId: entry-the-golden-goose
+ccType: location
+ccId: location-the-golden-goose
 aliases:
 - Golden Goose
 tags:

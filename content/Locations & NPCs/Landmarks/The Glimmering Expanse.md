@@ -1,7 +1,7 @@
 ---
 title: The Glimmering Expanse
-ccType: entry
-ccId: entry-the-glimmering-expanse
+ccType: region
+ccId: region-the-glimmering-expanse
 aliases:
 - The Expanse
 - Glimmering Expanse
@@ -9,7 +9,7 @@ tags:
 - Landmark
 - Desert
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "Multiple (central Saros)"
 LandmarkType: Desert
 share: true

@@ -1,7 +1,7 @@
 ---
 title: Tollhouse Commons
-ccType: entry
-ccId: entry-tollhouse-commons
+ccType: location
+ccId: location-tollhouse-commons
 aliases: []
 tags:
 - Building

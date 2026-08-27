@@ -22,7 +22,7 @@ In Sarosian Dwarvish, **Dun** (pronounced “dune”) means **dwarves** or **the
 
 ## The Split
 
-[[The Great Betrayal]] began as a dispute among allied Dun'armok houses over the finest gem their traditions had inherited from the older [[Dun'gan]]. Later outsiders treated two sides of the civil war as separate clans and called one of them Khaz'dar.
+[[The Great Betrayal]] began as a dispute among allied Dun'armok houses over the finest gem their traditions had inherited from the older [[Dun'eld]]. Later outsiders treated two sides of the civil war as separate clans and called one of them Khaz'dar.
 
 The feud shattered the old holds. During [[The Scattering]], survivors moved into or through the Glimmering Expanse in search of safety and territory beyond their rivals.
 

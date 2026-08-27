@@ -1,24 +1,22 @@
 ---
-title: Fall Casks
-ccType: entry
-ccId: entry-fall-casks
+publish: true
 aliases:
-- Fall Cask
-- Cataract Casks
+  - Fall Cask
+  - Cataract Casks
+title: Fall Casks
+created: 2026-08-08T11:56:32.941Z
+modified: 2026-08-22T18:42:46.274Z
 tags:
-- Lore
-- Trade
-- Published
-Region: "[[Port Quartz]]"
-Hex: "89.84 to 81.95/82.94"
-share: true
+  - Lore
+  - Trade
+  - Published
 ---
 
 **Fall casks** are heavily reinforced cargo barrels used to send durable goods from the high basin around [[Lake of Lament]] down the otherwise unnavigable waterfall feeding the river toward [[Port Quartz]].
 
-No ship can climb the cataract. A properly built cask can survive going over it.
+No ship can climb the cataract, but a properly built cask can survive going over it.
 
-The practice is dangerous and expensive, but Lilya's long road and recurring closures make it an essential alternative for small quantities of dense or valuable cargo.
+The practice is dangerous and expensive, but [[Lilya]]'s long road and recurring closures make it an essential alternative for small quantities of dense or valuable cargo.
 
 Broad-beamed lake boats carry sealed casks roughly **85 miles** from [[Lilya]] to the fallhead. A staging station at hex **89.83** sorts them above [[Great Fall]] at **89.84**. Booms, guide cables, capstans, and shore crews move casks into controlled release lanes; no crewed boat approaches the brink.
 

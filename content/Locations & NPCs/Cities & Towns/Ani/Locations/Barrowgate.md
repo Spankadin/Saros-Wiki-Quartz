@@ -1,7 +1,7 @@
 ---
 title: Barrowgate
-ccType: entry
-ccId: entry-barrowgate
+ccType: location
+ccId: location-barrowgate
 aliases: []
 tags:
 - Landmark

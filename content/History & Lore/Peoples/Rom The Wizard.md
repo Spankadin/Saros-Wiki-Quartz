@@ -1,18 +1,14 @@
 ---
-title: Rom The Wizard
-ccType: npc
-ccId: npc-rom-the-wizard
-Race: Elf
+publish: true
 aliases:
-- Rom, Old Rom
+  - Rom, Old Rom
+title: Rom The Wizard
+created: 2024-12-29T05:29:53.920Z
+modified: 2026-08-26T06:28:45.501Z
 tags:
-- NPC
-- Legend
-- Published
-Location: "[[The Masys Mountains]]"
-Faction: []
-ccAssociates: []
-share: true
+  - NPC
+  - Legend
+  - Published
 ---
 
 Legends tell of an old and exceedingly strange wizard called [[Rom The Wizard|Rom]] who has lived somewhere near the southern reaches of [[The Masys Mountains]] for roughly **eighty years**.
@@ -21,15 +17,17 @@ The stories are unusually inconsistent even by Sarosian standards. Rom is descri
 
 One detail appears in several versions of the tale: Rom's home does not remain in one place. Some travelers call it a moving hill; others insist the hill bears gardens and lanterns.
 
-## The Age of the Legend
+## Appearance
 
-There are **no centuries-old accounts** of Rom or a moving hill in the Masys region.
+_Not yet established._
 
-Old expedition journals such as those of [[Edric Vane]] describe the terrain, rivers, mountain approaches, and dangers of the northwest but contain nothing resembling a giant snail or moving hill.
+## Personality
 
-The first credible Rom stories begin only within the last eight decades.
+_Not yet established._
 
-## Port Quartz Stories
+## Role
+
+### Port Quartz Stories
 
 In [[Port Quartz]], Rom remains a frontier legend. Most people have never met anyone who can honestly claim to have seen him.
 
@@ -44,4 +42,20 @@ None of those signs appear near Port Quartz itself.
 
 ## Reputation
 
+### The Age of the Legend
+
+There are **no centuries-old accounts** of Rom or a moving hill in the Masys region.
+
+Old expedition journals such as those of [[Edric Vane]] describe the terrain, rivers, mountain approaches, and dangers of the northwest but contain nothing resembling a giant snail or moving hill.
+
+The first credible Rom stories begin only within the last eight decades.
+
 Those who believe in Rom generally agree on one thing: if the magic of northern Saros is truly failing, he may be one of the few people strange enough to understand why.
+
+## Relationships
+
+Rom travels the southern country of [[The Masys Mountains]] with his home carried upon [[Mossback]].
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

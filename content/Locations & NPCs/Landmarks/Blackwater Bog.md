@@ -1,7 +1,7 @@
 ---
 title: Blackwater Bog
-ccType: entry
-ccId: entry-blackwater-bog
+ccType: region
+ccId: region-blackwater-bog
 aliases:
 - The Bog
 - Blackwater
@@ -9,7 +9,7 @@ tags:
 - Landmark
 - Wetland
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "Multiple (southwestern Saros)"
 LandmarkType: Bog
 share: true

@@ -1,7 +1,7 @@
 ---
 title: The Green Lantern
-ccType: entry
-ccId: entry-the-green-lantern
+ccType: location
+ccId: location-the-green-lantern
 aliases: []
 tags:
 - Building

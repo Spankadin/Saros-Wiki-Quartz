@@ -1,7 +1,7 @@
 ---
 title: Mira's Wall
-ccType: entry
-ccId: entry-mira-s-wall
+ccType: location
+ccId: location-mira-s-wall
 aliases: []
 tags:
 - Building

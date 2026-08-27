@@ -1,7 +1,7 @@
 ---
 title: The Toad
-ccType: entry
-ccId: entry-the-toad
+ccType: location
+ccId: location-the-toad
 aliases:
 - Toad, The Toad
 tags:

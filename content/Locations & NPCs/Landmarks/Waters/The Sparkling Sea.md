@@ -1,13 +1,13 @@
 ---
 title: The Sparkling Sea
-ccType: entry
-ccId: entry-the-sparkling-sea
+ccType: region
+ccId: region-the-sparkling-sea
 aliases: []
 tags:
 - Landmark
 - Water
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "Multiple (western coast)"
 LandmarkType: Sea
 share: true

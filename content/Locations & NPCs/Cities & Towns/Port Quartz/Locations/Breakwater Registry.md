@@ -1,12 +1,15 @@
 ---
-publish: true
 title: Breakwater Registry
-created: 2026-08-07T03:53:05.575Z
-modified: 2026-08-17T11:47:40.070Z
+ccType: location
+ccId: location-breakwater-registry
+aliases: []
 tags:
-  - Building
-  - Registry
-  - Published
+- Building
+- Registry
+- Published
+Region: "[[Port Quartz]]"
+Hex: "79.96"
+share: true
 ---
 
 The [[Breakwater Registry]] licenses and records specialized travel connected to [[Port Quartz]].

@@ -1,7 +1,7 @@
 ---
 title: House of Measures
-ccType: entry
-ccId: entry-house-of-measures
+ccType: location
+ccId: location-house-of-measures
 aliases: []
 tags:
 - Building

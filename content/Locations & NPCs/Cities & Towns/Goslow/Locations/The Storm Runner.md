@@ -1,7 +1,7 @@
 ---
 title: The Storm Runner
-ccType: entry
-ccId: entry-the-storm-runner
+ccType: location
+ccId: location-the-storm-runner
 aliases: []
 tags:
 - Ship

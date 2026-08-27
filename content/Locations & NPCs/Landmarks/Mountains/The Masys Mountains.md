@@ -1,7 +1,7 @@
 ---
 title: The Masys Mountains
-ccType: entry
-ccId: entry-the-masys-mountains
+ccType: region
+ccId: region-the-masys-mountains
 aliases:
 - Masys
 - Masys Mountains
@@ -9,7 +9,7 @@ tags:
 - Landmark
 - Mountain
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "Multiple (northern Saros)"
 LandmarkType: Mountain Range
 share: true

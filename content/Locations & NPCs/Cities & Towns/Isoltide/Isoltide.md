@@ -2,13 +2,14 @@
 title: Isoltide
 ccType: region
 ccId: region-isoltide
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Port
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "86.150"
 Government: Twin-Lake Charter Council
 Leader: "[[Teren Moss]]"
@@ -71,6 +72,6 @@ Isoltide is modestly fortified and maintains armed watch boats. The forest edge 
 
 #### NPCs Found Here
 
-| NPC                                                                         | Race     | Building                                                                                 | Factions |
+| NPC                                                                         | Race     | Location                                                                                 | Factions |
 | --------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------- | -------- |
 | [[Locations & NPCs/Cities & Towns/Isoltide/NPCs/Teren Moss.md\|Teren Moss]] | Half-Elf | [[Locations & NPCs/Cities & Towns/Isoltide/Locations/Eastwater Hall.md\|Eastwater Hall]] |          |

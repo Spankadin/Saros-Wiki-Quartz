@@ -1,7 +1,7 @@
 ---
 title: The Drowning Mermaid
-ccType: entry
-ccId: entry-the-drowning-mermaid
+ccType: location
+ccId: location-the-drowning-mermaid
 aliases: []
 tags:
 - Tavern

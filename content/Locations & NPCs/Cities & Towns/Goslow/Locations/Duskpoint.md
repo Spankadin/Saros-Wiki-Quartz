@@ -1,7 +1,7 @@
 ---
 title: Duskpoint
-ccType: entry
-ccId: entry-duskpoint
+ccType: location
+ccId: location-duskpoint
 aliases: []
 tags:
 - Building

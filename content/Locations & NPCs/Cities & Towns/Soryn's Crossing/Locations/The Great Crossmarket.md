@@ -1,7 +1,7 @@
 ---
 title: The Great Crossmarket
-ccType: entry
-ccId: entry-the-great-crossmarket
+ccType: location
+ccId: location-the-great-crossmarket
 aliases: []
 tags:
 - Landmark

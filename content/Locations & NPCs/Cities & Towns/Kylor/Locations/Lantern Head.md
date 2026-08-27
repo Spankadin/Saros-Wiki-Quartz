@@ -1,7 +1,7 @@
 ---
 title: Lantern Head
-ccType: entry
-ccId: entry-lantern-head
+ccType: location
+ccId: location-lantern-head
 aliases: []
 tags:
 - Landmark

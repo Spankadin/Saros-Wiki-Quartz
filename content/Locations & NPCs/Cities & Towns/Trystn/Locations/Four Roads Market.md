@@ -1,7 +1,7 @@
 ---
 title: Four Roads Market
-ccType: entry
-ccId: entry-four-roads-market
+ccType: location
+ccId: location-four-roads-market
 aliases: []
 tags:
 - Landmark

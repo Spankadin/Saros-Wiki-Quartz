@@ -1,15 +1,20 @@
 ---
-title: Saros - Distances, Travel, Trade, and Population
-ccType: entry
-ccId: entry-saros-distances-travel-trade-and-population
+publish: true
 aliases:
-- Saros Travel Times
-- Saros Distances
-- Saros Population
-- Travel in Saros
-- Trade in Saros
-tags: [Lore, Geography, Travel, Trade, Published]
-share: true
+  - Saros Travel Times
+  - Saros Distances
+  - Saros Population
+  - Travel in Saros
+  - Trade in Saros
+title: Saros - Distances, Travel, Trade, and Population
+created: 2026-08-17T10:55:57.838Z
+modified: 2026-08-22T18:44:41.557Z
+tags:
+  - Lore
+  - Geography
+  - Travel
+  - Trade
+  - Published
 ---
 
 This note is the canonical working source for travel, trade routes, settlement spacing, and population in [[A Brief Saros History|Saros]]. Route estimates should be revised here first and then reflected in the relevant settlement notes.

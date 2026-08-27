@@ -2,12 +2,13 @@
 title: Mysha
 ccType: region
 ccId: region-mysha
+ccLabel: Towns
 aliases: []
 tags:
 - Region
 - Town
 - Published
-Region: "[[A Brief Saros History|Saros]]"
+ccParent: "[[Realm of Saros]]"
 Hex: "92.167"
 Government: Woodward Council
 Leader: "[[Pellin Root]]"
@@ -71,6 +72,6 @@ The town relies on local wardens, organized work crews, and a militia accustomed
 
 #### NPCs Found Here
 
-| NPC                                                                        | Race     | Building                                                                      | Factions |
+| NPC                                                                        | Race     | Location                                                                      | Factions |
 | -------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------- | -------- |
 | [[Locations & NPCs/Cities & Towns/Mysha/NPCs/Pellin Root.md\|Pellin Root]] | Halfling | [[Locations & NPCs/Cities & Towns/Mysha/Locations/Runa House.md\|Runa House]] |          |

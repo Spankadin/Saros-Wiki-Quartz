@@ -1,24 +1,32 @@
 ---
-title: Mara Sedge
-ccType: npc
-ccId: npc-mara-sedge
-Race: Human
+publish: true
 aliases:
-- Council Speaker Sedge
+  - Council Speaker Sedge
+title: Mara Sedge
+created: 2026-08-10T09:41:58.880Z
+modified: 2026-08-25T14:53:08.598Z
 tags:
-- NPC
-- Published
-Location: "[[Skaggerty]]"
-Building: "[[The Crossroads Weighhouse]]"
-Faction: []
-Role: Council Speaker and Grain Assessor
-ccAssociates: []
-share: true
+  - NPC
+  - Published
 ---
 
 [[Mara Sedge]] is the Council Speaker and official grain assessor of [[Skaggerty]]. She chairs the village council from [[The Crossroads Weighhouse]], settles routine disputes, certifies wagon weights, and keeps the stores that matter when a harvest fails.
 
-## Work
+## Appearance
+
+_Not yet established._
+
+## Personality
+
+### Manner
+
+Mara is practical, attentive, and slow to accept a comforting answer merely because everyone wants it to be true. She asks visitors what they know, what they inferred, and what they intend to do next.
+
+She protects Skaggerty's independence without pretending the village can solve every danger alone. A person who brings evidence and a workable plan earns her support quickly; a person who brings panic gets a chair, water, and several exact questions.
+
+## Role
+
+### Work
 
 Mara's ordinary responsibilities include:
 
@@ -31,8 +39,14 @@ Mara's ordinary responsibilities include:
 
 Her title carries more duty than grandeur. She still inspects scales herself and is often found with flour on one sleeve.
 
-## Manner
+## Reputation
 
-Mara is practical, attentive, and slow to accept a comforting answer merely because everyone wants it to be true. She asks visitors what they know, what they inferred, and what they intend to do next.
+_Not yet established._
 
-She protects Skaggerty's independence without pretending the village can solve every danger alone. A person who brings evidence and a workable plan earns her support quickly; a person who brings panic gets a chair, water, and several exact questions.
+## Relationships
+
+_No additional structured relationship is currently recorded._
+
+<!-- foundry-ignore-start -->
+
+<!-- foundry-ignore-end -->

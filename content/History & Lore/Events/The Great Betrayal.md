@@ -17,7 +17,7 @@ share: true
 
 ## The Gem
 
-After [[The Wandering]], the leading Dun'armok houses were closely allied and their elders were remembered as personal friends. Some traditions claim the houses had inherited custody of a discovery first made by the older [[Dun'gan]].
+After [[The Wandering]], the leading Dun'armok houses were closely allied and their elders were remembered as personal friends. Some traditions claim the houses had inherited custody of a discovery first made by the older [[Dun'eld]].
 
 That relationship ended over what later stories call the finest gem ever found in [[A Brief Saros History|Saros]]. Fragmentary accounts call it the **Deep Jewel**, but do not agree whether it was a portable stone, an exposed crystal face, an entire chamber, or a name for something less easily described.
 

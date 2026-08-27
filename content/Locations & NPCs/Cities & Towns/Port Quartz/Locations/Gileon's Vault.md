@@ -1,12 +1,15 @@
 ---
-publish: true
 title: Gileon's Vault
-created: 2026-08-18T07:23:17.643Z
-modified: 2026-08-18T07:23:17.643Z
+ccType: location
+ccId: location-gileons-vault
+aliases: []
 tags:
-  - Shop
-  - Arcane
-  - Published
+- Shop
+- Arcane
+- Published
+Region: "[[Port Quartz]]"
+Hex: "79.96"
+share: true
 ---
 
 [[Gileon's Vault]] is an arcane shop in a quarter of [[Port Quartz]] known for its ancient scrying pools. The shop occupies a shabby three-storey building whose tall, elf-wrought wooden beams make the entryway look grander than anything beyond it.

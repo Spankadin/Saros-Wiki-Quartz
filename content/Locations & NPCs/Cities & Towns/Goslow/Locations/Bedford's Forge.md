@@ -1,7 +1,7 @@
 ---
 title: Bedford's Forge
-ccType: entry
-ccId: entry-bedford-s-forge
+ccType: location
+ccId: location-bedford-s-forge
 aliases: []
 tags:
 - Building
